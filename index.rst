@@ -3,17 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to RUNALYZE - User documentation's documentation!
+Welcome to RUNALYZE - User documentation!
 =========================================================
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: General
 
    faq
    support
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Starting guide
+
+   starting-guide/import
 
 
 
