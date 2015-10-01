@@ -21,6 +21,8 @@ Contents:
    :maxdepth: 2
    :caption: Starting guide
 
+   starting-guide/fast-start
+   starting-guide/configure-sport
    starting-guide/import
 
 

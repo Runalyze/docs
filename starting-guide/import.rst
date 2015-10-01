@@ -54,6 +54,11 @@ Polar
 
 TomTom
 ------
+Mac OS:
+Data seems just be generated, when the Mac is online::
+
+    OS (C:) / user / <name of user> / Tom Tom MySports / <name of clock >
+There you should find a folder for every day with *.ttbin files.
 
 Suunto
 ------
@@ -63,6 +68,10 @@ Apps & Webservices
 .. note::
           In the future we will have an API to implement a continuing import of other webservices.
           Yes, we want to add our service to tapiriik.
+
+Endomondo
+---------
+| \- Does not encode pauses [#encodepauses]_
 
 Strava
 ---------
@@ -85,6 +94,9 @@ iRunner
 --------
 |  \- Does not encode pauses [#encodepauses]_
 
+Run.GPS
+--------
+| \+ high precision data
 
 
 Different file types
@@ -103,14 +115,18 @@ TCX
 
 GPX
 ---
- + Pauses can exists
+| \+ May contain pauses & laps
+| \+ Heartrate and other data can be available through gpx extensions
 
 ttbin
 -----
 
+
 logbook & logbook3
 ------------------
-
+| \+ Contains general activity information like distance, time
+| \+ Support laps
+| \- GPS, Heartrate and other track information can not be imported by us
 slf
 ---
 
