@@ -28,6 +28,8 @@ source_parsers = {
 }
 
 source_suffix = ['.rst', '.md']
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = True     # optional.
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the

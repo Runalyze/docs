@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - User documentation 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-02 20:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../faq.rst:3
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#: ../../faq.rst:6
+msgid "Feature requests"
+msgstr ""
+
+#: ../../faq.rst:9
+msgid "The file type *.XYZ is not supported"
+msgstr ""
+
+#: ../../faq.rst:10
+msgid "Send us an mail. We will have a look at this."
+msgstr ""
+
+#: ../../faq.rst:13
+msgid "Will there be an app for smartphones?"
+msgstr ""
+
+#: ../../faq.rst:14
+msgid ""
+"Sometime and somehow there will be an app for smartphones. But this has no "
+"high priority, because we're just in the beginning for the API. The first "
+"step will be to connect RUNALYZE with already existing apps."
+msgstr ""
+
+#: ../../faq.rst:18
+msgid "Will there be an synchronisation between other plattforms?"
+msgstr ""
+
+#: ../../faq.rst:19
+msgid ""
+"We will try to make a synchronisation possible between other platforms. For "
+"the beginning we may support tapiriik to have a fast sync possibility "
+"between other platforms."
+msgstr ""
+
+#: ../../faq.rst:22
+msgid "When will RUNALYZE support international units of measure?"
+msgstr ""
+
+#: ../../faq.rst:23
+msgid "The support will hopefully come in the release after version 2.2"
+msgstr ""
+
+#: ../../faq.rst:26
+msgid "When will RUNALYZE support timezones?"
+msgstr ""
+
+#: ../../faq.rst:27 ../../faq.rst:31
+msgid "We have no date for this, but it has a high priority for us!"
+msgstr ""
+
+#: ../../faq.rst:30
+msgid "When will RUNALYZE recognize double activities?"
+msgstr ""
