@@ -18,12 +18,14 @@ Contents:
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Starting guide
 
    starting-guide/fast-start
-   starting-guide/configure-sport
    starting-guide/import
+   starting-guide/configure-sport
+   starting-guide/configure-types
+
 
 
 

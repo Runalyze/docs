@@ -5,6 +5,8 @@ Import (old) activities
 We know that you have a bunch of activities you would like to import to RUNALYZE. To make it quite simple we support a lot of different file types.
 Some of them are sometimes a bit tricky.
 
+.. note::
+          We always import all data we can read from any device/file. 
 
 Devices
 *******

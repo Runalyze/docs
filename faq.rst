@@ -11,7 +11,7 @@ Send us an mail. We will have a look at this.
 
 Will there be an app for smartphones?
 -------------------------------------
-Sometime and somehow there will be an app for smartphones. But this has no high priority, because we're just in the beginning for the API.
+Sometime and somehow there will be an app for smartphones. But this has no high priority, because we're just in the beginning of the API (planning and working on the RUNALYZE core).
 The first step will be to connect RUNALYZE with already existing apps.
 
 Will there be an synchronisation between other plattforms?
