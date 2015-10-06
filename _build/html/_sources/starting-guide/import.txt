@@ -5,8 +5,6 @@ Import (old) activities
 We know that you have a bunch of activities you would like to import to RUNALYZE. To make it quite simple we support a lot of different file types.
 Some of them are sometimes a bit tricky.
 
-.. note::
-          We always import all data we can read from any device/file.
 
 Devices
 *******
@@ -84,34 +82,6 @@ Runtastic
 |  \- Resampled file [#resampleddata]_
 |  \- Does not encode pauses [#encodepauses]_
 
-
-
-**How to export activities out of runtastic**
-
-Normally runtastic only provides a single export (tcx or gpx) of activities. If you have a lot of activities it can take a long time to export it.
-But with a little trick you can download all activites at once with a script, which has to be executed in the browser console.
-
-Open the activity overview on the runtastic homepage
-
-.. image:: images/runtastic-import-1.png
-
-Now open the browser web console
-( `Firefox <https://developer.mozilla.org/en-US/docs/Tools/Web_Console>`_) ( `Chrome <https://developers.google.com/web/tools/javascript/console/console-ui>`_)
-
-and execute this tiny script (Thanks to `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-activities-from-runtastic-as-tcx>`_) ::
-
-    $.each(index_data,function(){
-    $('<iframe/>', {
-    src: 'https://'+app_config.domain+user.run_sessions_path+this[0]+'.tcx'
-    }).appendTo('body');
-    });
-
-Hit enter and it should look like this. The download of all activities should begin.
-
-.. image:: images/runtastic-import-2.png
-
-
-
 Nike+
 -------
 |  \- Does not encode pauses [#encodepauses]_
@@ -157,7 +127,6 @@ logbook & logbook3
 | \+ Contains general activity information like distance, time
 | \+ Support laps
 | \- GPS, Heartrate and other track information can not be imported by us
-
 slf
 ---
 

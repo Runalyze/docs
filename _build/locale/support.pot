@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Hannes Christiansen, Michael Pohl
+# This file is distributed under the same license as the RUNALYZE - User documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - User documentation 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-02 20:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../support.rst:2
+msgid "Support"
+msgstr ""
+
+#: ../../support.rst:4
+msgid "Getting support for RUNALYZE is not hard. If you have problems or general questions about the usage of RUNALYZE you can contact us/the community by the following ways"
+msgstr ""
+
+#: ../../support.rst:6
+msgid "`Board <http://forum.runalyze.de/>`_ :You can post your problems there in english or german. This is the best place to put your issues."
+msgstr ""
+
+#: ../../support.rst:7
+#: ../../support.rst:14
+msgid "`Github <https://github.com/Runalyze/Runalyze/issues/new>`_ :Create a new issue at github."
+msgstr ""
+
+#: ../../support.rst:8
+msgid "`Google+ <https://plus.google.com/communities/116260192529858591171>`_ :Post your problem in the google+ community"
+msgstr ""
+
+#: ../../support.rst:9
+msgid "`Facebook <https://www.facebook.com/Runalyze>`_ :Post on your question/problem on the RUNALYZE wall or write us a private message"
+msgstr ""
+
+#: ../../support.rst:13
+msgid "Report a bug"
+msgstr ""
+
+#: ../../support.rst:15
+msgid "By Mail: mail@runalyze.com - It's okay to write a mail to us, but if it's a general question that could be interesting for other users too: Please use the the board, google+ or facebook"
+msgstr ""
+
