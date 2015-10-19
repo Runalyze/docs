@@ -110,6 +110,8 @@ Hit enter and it should look like this. The download of all activities should be
 
 .. image:: images/runtastic-import-2.png
 
+Garmin Connect
+--------------
 
 
 Nike+
