@@ -169,13 +169,10 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {'**': ['test.html']}
-html_sidebars = {
-    '**': 'piwik.html',
-}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
-html_additional_pages = {'test': 'test.html'}
+#html_additional_pages = {'test': 'test.html'}
 
 # If false, no module index is generated.
 #html_domain_indices = True
