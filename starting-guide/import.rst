@@ -86,7 +86,7 @@ Runtastic
 
 
 
-**How to export activities out of runtastic**
+**How to export all activities out of runtastic**
 
 Normally runtastic only provides a single export (tcx or gpx) of activities. If you have a lot of activities it can take a long time to export it.
 But with a little trick you can download all activites at once with a script, which has to be executed in the browser console.
@@ -112,7 +112,15 @@ Hit enter and it should look like this. The download of all activities should be
 
 Garmin Connect
 --------------
+**How to download all activites out of Garmin connect (modern)**
 
+You need to be a bit technique affin for this. Python and the python package `mechanize` must be installed on your system.
+Now you need to `download this script <https://github.com/mipapo/garmin/archive/master.zip>`_.
+Execute the `download.py` script::
+
+    python download.py -u <Username at garmin connect>
+
+You will be asked for your password. Type in your password. After a few seconds the download of all activites should start.
 
 Nike+
 -------

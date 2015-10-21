@@ -6,14 +6,13 @@
 Welcome to RUNALYZE - User documentation!
 =========================================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 1
    :caption: General
 
    faq
    support
+   knowledge-base
 
 
 
@@ -26,7 +25,11 @@ Contents:
    starting-guide/configure-sport
    starting-guide/configure-types
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Calculations
 
+   calculations/vdot
 
 
 Indices and tables
