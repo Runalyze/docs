@@ -122,6 +122,28 @@ Execute the `download.py` script::
 
 You will be asked for your password. Type in your password. After a few seconds the download of all activites should start.
 
+Trainingstagebuch.org
+----------------------
+**How to export all activities out of trainingstagebuch.org as *.gpx files**
+Open the `activity list page <http://trainingstagebuch.org/workouts/list?rows=320`_ at trainingstagebuch.org.
+
+Now open the browser web console
+( `Firefox <https://developer.mozilla.org/en-US/docs/Tools/Web_Console>`_) ( `Chrome <https://developers.google.com/web/tools/javascript/console/console-ui>`_)
+
+Execute for every activitylist page the following code::
+
+    for(var i=0; i<l.length; i++) {
+      if( l[i].href.indexOf('http://trainingstagebuch.org/workouts/show/') >= 0){
+         var newFrame = document.createElement('iframe');
+        document.body.appendChild(newFrame);
+        newFrame.style = 'width: 1px; height: 1px;';
+        link = 'http://trainingstagebuch.org/map/export/'+l[i].href.replace('http://trainingstagebuch.org/workouts/show/','')+'?view=gpx';
+       console.log(link);
+           newFrame.src = link;
+        }
+    }
+
+
 Nike+
 -------
 |  \- Does not encode pauses [#encodepauses]_
