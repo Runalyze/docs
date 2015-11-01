@@ -89,26 +89,22 @@ Runtastic
 **How to export all activities out of runtastic**
 
 Normally runtastic only provides a single export (tcx or gpx) of activities. If you have a lot of activities it can take a long time to export it.
-But with a little trick you can download all activites at once with a script, which has to be executed in the browser console.
+But with a little trick you can download all activites at once with a script.
+
+Drag the following link to your favorite toolbar/bookmark bar
+
+.. raw:: html
+
+     <a href="javascript:(function(){$.each(index_data,function(){$('<iframe/>', {src: 'https://'+app_config.domain+user.run_sessions_path+this[0]+'.tcx'}).appendTo('body');});})();" title="Download activities from runtastic">Download runtastic</a>
+
 
 Open the activity overview on the runtastic homepage
 
 .. image:: images/runtastic-import-1.png
 
-Now open the browser web console
-( `Firefox <https://developer.mozilla.org/en-US/docs/Tools/Web_Console>`_) ( `Chrome <https://developers.google.com/web/tools/javascript/console/console-ui>`_)
+and click on the bookmark.
 
-and execute this tiny script (Thanks to `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-activities-from-runtastic-as-tcx>`_) ::
-
-    $.each(index_data,function(){
-    $('<iframe/>', {
-    src: 'https://'+app_config.domain+user.run_sessions_path+this[0]+'.tcx'
-    }).appendTo('body');
-    });
-
-Hit enter and it should look like this. The download of all activities should begin.
-
-.. image:: images/runtastic-import-2.png
+(Thanks to `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-activities-from-runtastic-as-tcx>`_)
 
 Garmin Connect
 --------------
@@ -124,24 +120,16 @@ You will be asked for your password. Type in your password. After a few seconds 
 
 Trainingstagebuch.org
 ----------------------
-**How to export all activities out of trainingstagebuch.org as *.gpx files**
-Open the `activity list page <http://trainingstagebuch.org/workouts/list?rows=320`_ at trainingstagebuch.org.
+**How to export all activities out of trainingstagebuch.org as .gpx files**
 
-Now open the browser web console
-( `Firefox <https://developer.mozilla.org/en-US/docs/Tools/Web_Console>`_) ( `Chrome <https://developers.google.com/web/tools/javascript/console/console-ui>`_)
+Drag the following link to your favorite toolbar/bookmark bar
 
-Execute for every activitylist page the following code::
+.. raw:: html
 
-    for(var i=0; i<l.length; i++) {
-      if( l[i].href.indexOf('http://trainingstagebuch.org/workouts/show/') >= 0){
-         var newFrame = document.createElement('iframe');
-        document.body.appendChild(newFrame);
-        newFrame.style = 'width: 1px; height: 1px;';
-        link = 'http://trainingstagebuch.org/map/export/'+l[i].href.replace('http://trainingstagebuch.org/workouts/show/','')+'?view=gpx';
-       console.log(link);
-           newFrame.src = link;
-        }
-    }
+     <a href="javascript:(function(){var arr = [], l = document.links;for(var i=0; i<l.length; i++) { if( l[i].href.indexOf('http://trainingstagebuch.org/workouts/show/') >= 0){ var newFrame = document.createElement('iframe'); document.body.appendChild(newFrame);  newFrame.style = 'width: 1px; height: 1px;'; link = 'http://trainingstagebuch.org/map/export/'+l[i].href.replace('http://trainingstagebuch.org/workouts/show/','')+'?view=gpx';  console.log(link);newFrame.src = link; }}})();" title="Download trainingstagebuch.org">Download trainingstagebuch.org</a>
+
+
+Open the `activity list page <http://trainingstagebuch.org/workouts/list?rows=320>`_ at trainingstagebuch.org and click on the bookmark. The download of the acitivies will begin. Repeat this step for every activity list page.
 
 
 Nike+
