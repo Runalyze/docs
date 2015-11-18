@@ -11,7 +11,10 @@ Enable R-R recording on Garmin 910XT
 Turn on your Garmin 910XT. Press `Menu`. Now press UP and DOWN 10 times.
 You will get into the "diagnostic menu". Select and change HRV to enable HRV data recording.
 
+Works on Forerunner 620 too!
+
 We assume no responsibility for possible damages or functionality!
+
 
 Enable R-R recording on Garmin 920XT/Fenix 3
 --------------------------------------------
