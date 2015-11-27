@@ -54,13 +54,17 @@ That tool should work with any compliant ANT-FS device in theory, but is definit
 Polar
 -----
 
-TomTom
+TomTom Runner/Multisport Cardio
 ------
 Mac OS:
 Data seems just be generated, when the Mac is online::
 
     OS (C:) / user / <name of user> / Tom Tom MySports / <name of clock >
 There you should find a folder for every day with *.ttbin files.
+
+If you're using the iPhone App have a look at this article at `dcrainmaker.com <http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_
+
+If you're using a MAC/Linux system you can get the files `via usb <https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth <https://github.com/dlenski/ttblue>`_ from your watch.
 
 Suunto
 ------
