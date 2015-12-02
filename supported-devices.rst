@@ -2,7 +2,7 @@
 Supported devices
 ==================
 
-In general we support almost all possible devices in various ways (expect some very exotic ones).
+In general we support almost all possible devices in various ways (except some very exotic ones).
 If your watch/device is not in this table does not mean we don't support it.
 
 Just send us a message with information about your device and in which way you can upload the data to RUNALYZE.
