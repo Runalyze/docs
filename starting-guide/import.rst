@@ -54,6 +54,9 @@ That tool should work with any compliant ANT-FS device in theory, but is definit
 Polar
 -----
 
+There is a software called `bipolar <https://github.com/pcolby/bipolar>`_ which can download the activites from Polar FlowSync, PolarV800 or Polar Loop. 
+There is a software called `V800 Downloader <https://github.com/profanum429/v800_downloader>`_ on Github, whic does nearly the same.
+
 TomTom Runner/Multisport Cardio
 ------
 Mac OS:
