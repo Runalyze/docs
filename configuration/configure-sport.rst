@@ -4,12 +4,8 @@ Sports
 
 With this tutorial we want to show you how to add and edit a new sport.
 
-Adding is as easily as editing a existing sport.
-Just fill out the greyed-out row and click the save button.
-
-.. note::
-          We always import all data we can read from any device/file.
-
+Creating a new sports type is as easily as editing an existing one:
+Just fill out the last, greyed-out row and click 'Save'.
 
 We are now going to explain every configuration setting:
 
@@ -17,61 +13,63 @@ We are now going to explain every configuration setting:
 Icon
 ^^^^
 
-You can set here the icon for your (new) sport.
+Pick an icon for your sport type.
 
 ^^^^
 Name
 ^^^^
 
-Should speak for itself. Type in the name of the sport
+Type in the name of the sport
 
 ^^^^^^
 kcal/h
 ^^^^^^
-How many calories are burned in an hour?
-Attention! If you import activites from an sport watch, which already contains the value of the burned calories, that value will be used.
+
+How many calories are consumed during one hour?
+Attention! If you import activites from a device which contains a value for calories, that value will be used.
 If the value is not present the calories will be calculated based on this configuration value.
 
 ^^^^
 Ø HR
 ^^^^
 
-You can set here the value for the average heart rate. This value is used for the TRIMP calculation.
+You can set a default average heart rate as fallback. This value is used for TRIMP calculation.
 
 ^^
 km
 ^^
 
-If the sport has a distance value you have to check this box. If not uncheck this box.
+Set a checkmark if the sport has a distance (true for e.g. running/cycling/swimming, but false for e.g. gymnastics).
 
 ^^^^
 Unit
 ^^^^
 
-Here you can set the speed unit. This unit is shown everywhere in connection with the distance.
+Choose a unit for displaying your speed/pace.
 
 ^^^^^
 Types
 ^^^^^
 
-If you checked the box here, you will be able to add different sport types to this sport.
+Set a checkmark if you want to add different activity types to this sport.
 
 ^^^^^
 Power
 ^^^^^
 
-Check this box if the power (watt) is recorded or manually calculated. If it's unchecked the data won't be shown.
+Set a checkmark if the power (watt) is recorded or should be calculated by RUNALYZE.
 
 ^^^^^^^
 Outside
 ^^^^^^^
 
+Set a checkmark if this sport can be performed outside.
 This checkbox activates the fields routes and weather in the form.
 
 ^^^^^^^^^^^^^
 Calendar view
 ^^^^^^^^^^^^^
 
-You can choose here the type of presentation of an activity in the databrowser/calendar.
-“Complete row” means that you see the complete dataset (as configured in the dataset configuration)
- “Only icon” means that only the icons of the sport shows up in the databrowser/calendar.
+You can choose the type of presentation of an activity in the databrowser/calendar.
+'*Complete row*' means that you see the complete dataset (as configured in the dataset configuration)
+'*Only icon*' means that only the icons of the sport shows up in the databrowser/calendar.

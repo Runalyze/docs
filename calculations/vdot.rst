@@ -4,35 +4,39 @@ VDOT
 
 VDOT in RUNALYZE
 *****************
-According to the originally definition the VDOT can only be calculated from race results. This means you can get a prognosis for a half marathon after a 10k race. You can only use the VDOT in this case if you had a race result under perfect conditions.
+VDOT is - according to the originally definition - calculated from a race result.
+Having a personal best for 10k, you can use the VDOT of that result to get a prognosis for a half marathon.
+This works pretty well, but it requires a current (and "good") race result.
 
-But in general you want to know your current training pace in your preparation and a prognose for the next race.
+In general, that's not sufficient. Runners want to know about their shape (i.e. optimal training paces and a prognosis for the upcoming race) while training for some event, not right after it.
 
-Therefore RUNALYZE estimates your current VDOT form based on your activities. (It's an estimation - No exact calculation).
-This estimation is based on your heartfrequency and training pace where by Jack Daniels has a VDOT-table in his book, which we use as a rough basis.
+Therefore, RUNALYZE estimates your current VDOT based on your activities. (Again: it's an estimation - not an exact calculation!)
+This estimation is based on your hear rate and your running pace. Tables by Jack Daniels give a rough basis for these calculations.
+Your current VDOT shape is based on your average VDOT of the last 30 days.
 
-This VDOT estimation is not that easy. The maximal heartrate must be known and the heartrate in your activity should not go haywire due to a defect heart rate strap or other influences.
-As mentioned before Jack Daniels table or rather the derived formula is just a rough basis.
+Still, this estimation is not that easy all the time. The maximal heart rate must be known and the heart rate graph of your activity must not go haywire due to a defect heart rate strap or other influences.
+RUNALYZE gives you the option to ignore an activity for your VDOT estimation (e.g. for activities with long pauses) to solve this problem.
 
-Therefore you have the option to exclude an activity from the VDOT calculation. (e.g. for activities with long pauses)
-You can also add a manual correction factor (Configuration -> General settings -> VDOT) to match your heart rate behaviour.
+In addition, everybody's heart rate may behave differently but Daniels' tables are only a rule of thumb to match most people.
+RUNALYZE uses an additional *correction factor* which is just multiplied with the calculated value.
+This factor is calculated based on your *best* race and its heart rate.
+If this factor does not fit four you, just pick a manual factor (Configuration -> General settings -> VDOT).
+
+.. note::
+    In general, we suggest a correction factor between 0.85 and 0.95.
 
 
 General
 ********
 
-VDOT is the shortform of V-dot-O2Max, the maximum rate of oxygen flow.	This value is a good measurement for the possible performance of a runner.	Due to some additional factors, one talks about a pseudo V-dot-O2Max, which is equal for all runners at the same level.
+Speaking of *VDOT*, it's a shortened version of V-dot-O2max, the maximal oxygen uptake rate.
+The VDOT itself, defined and invented by Jack Daniels, equals V-dot-O2max plus some additional factors to take the runner's economy/efficiency into consideration.
+That's why some people call it a *pseudo V-dot-O2max*.
 
-Jack Daniels' famous Running formula serves some tables estimating the VDOT value. These formulas are used to estimate your VDOT and predict your race performances.
+Jack Daniels' famous *Running formula* contains tables for estimating this VDOT. These formulas are used to estimate your VDOT and to predict your race performances.
+Your personal VDOT value is estimated based on the ratio of heart rate and pace for each of your runs. The average over a given period is considered as your current shape.
 
-Your personal VDOT value is estimated based on the ratio of heart rate and pace in every of your runs.	The average over a given period is considered as your current shape.
-
-Each VDOT value of an activity in RUNALYZE is marked with an arrow, to show if this value is (much) higher than your current shape, equal to it or (much) lower.
-
-.. note::
-    Of course, pauses, walking and other factors can heavily influence the ratio of heart rate and pace.	Activities with known influences or strange results can be ignored for the calculation of your shape.
-
-In RUNALYZE you have the option to change the VDOT calculation, so that it is adapted to your requierements.
+Each VDOT value of an activity in RUNALYZE is marked with an arrow to show if this value is (much) higher than your current shape, equal to it or (much) lower.
 
 VDOT settings
 **************

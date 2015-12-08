@@ -2,20 +2,24 @@
 Import activities
 ==================
 
-We know that you have a bunch of activities you would like to import to RUNALYZE. To make it quite simple we support a lot of different file types.
-Some of them are sometimes a bit tricky.
+We know that you have a whole bunch of activities you would like to import.
+RUNALYZE supports a wide range of file types and tries to fit all your needs.
+Still, some file types can be tricky.
 
 .. note::
-          We always import all data we can read from any device/file.
+          We always import all data that we can read from your file.
 
 Devices
 *******
 Garmin
 ------
-There was a time when the Garmin Communicator was great to easily import activities from the different devices. But sadly they (had to) discontinued this tool due to the support of the browser manufactures.
-Garmin stores the activities in the *.FIT format, which can be read by RUNALYZE since version 2.0.
+Some years ago, it was easy to sync your Garmin device via the so called *Garmin communicator*.
+We did not remove this option so far but the browser plugin itself is officially discontinued.
 
-When you are using Garmin Express or the old ANT-Agent from Garmin you can upload the files from your Windows, MacOS or Linux system.
+Newer Garmin devices can be used as ordinary usb mass storage. Just pick your \*.fit file from a directory called *ACTIVITIES* or similar.
+If your device synchronizes with Garmin Connect automatically you can download your activity as zipped \*.fit file from the activity's page (look for the "*original format*").
+
+If you are using Garmin Express or the old ANT-Agent you can upload the files from your Windows, MacOS or Linux system. Just look for the files in the following directories.
 
 ^^^^^^^^^^^^^^^
 Garmin Express
@@ -39,7 +43,7 @@ Windows:
 Open in the windows file explorer the following path::
 
     %appdata%\Garmin\Devices
-Then you have to open the folder with a several different numbers. Then you should find the folder *Activities*
+Then you have to open the folder with your device ID as name and find the folder *Activities*.
 
 Mac OS X::
 
@@ -48,25 +52,23 @@ Mac OS X::
 ^^^^^
 Linux
 ^^^^^
-There is a tool called "antf-cli" which you can find on github (https://github.com/Tigge/antfs-cli)
-That tool should work with any compliant ANT-FS device in theory, but is definitly working with the Garmin Forerunner (60, 405CX, 310XT, 610, 910XT), Garmin FR70, Garmin Swim
+There is a tool called `antf-cli <https://github.com/Tigge/antfs-cli>`_.
+That tool should work with any compliant ANT-FS device in theory and it certainly does for Garmin Forerunner (60, 70, 405CX, 310XT, 610, 910XT) and Garmin Swim.
 
 Polar
 -----
 
-There is a software called `bipolar <https://github.com/pcolby/bipolar>`_ which can download the activites from Polar FlowSync, PolarV800 or Polar Loop.
-
-There is another software called `V800 Downloader <https://github.com/profanum429/v800_downloader>`_ on Github, which does nearly the same.
+There is a software called `bipolar <https://github.com/pcolby/bipolar>`_ which can download the activites from Polar FlowSync, PolarV800 or Polar Loop
+and there is another software called `V800 Downloader <https://github.com/profanum429/v800_downloader>`_ on Github which does nearly the same.
 
 TomTom Runner/Multisport Cardio
 --------------------------------
-Mac OS:
-Data seems just be generated, when the Mac is online::
+It seems that all files will be stored on your computer as soon as you connect your device::
 
     OS (C:) / user / <name of user> / Tom Tom MySports / <name of clock >
-There you should find a folder for every day with *.ttbin files.
+There you'll find a folder for every day with \*.ttbin files.
 
-If you're using the iPhone App have a look at this article at `dcrainmaker.com <http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_
+Have a look at the following article at `dcrainmaker.com <http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_ if you're using the iPhone App.
 
 If you're using a MAC/Linux system you can get the files `via usb <https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth <https://github.com/dlenski/ttblue>`_ from your watch.
 
@@ -76,8 +78,7 @@ Suunto
 Apps & Webservices
 ******************
 .. note::
-          In the future we will have an API to implement a continuing import of other webservices.
-          Yes, we want to add our service to tapiriik.
+          Yes: We'll add an API to enable synchronization with other plattforms, e.g. via tapiriik, some day.
 
 Endomondo
 ---------
@@ -94,12 +95,12 @@ Runtastic
 
 
 
-**How to export all activities out of runtastic**
+**How to export all activities**
 
-Normally runtastic only provides a single export (tcx or gpx) of activities. If you have a lot of activities it can take a long time to export it.
-But with a little trick you can download all activites at once with a script.
+By default, Runtastic does only provide a way to export single activities.
+With a little trick you can download all activites at once:
 
-Drag the following link to your favorite toolbar/bookmark bar
+Drag the following link to your toolbar/bookmars
 
 .. raw:: html
 
@@ -116,7 +117,7 @@ and click on the bookmark.
 
 Garmin Connect
 --------------
-**How to download all activites out of Garmin connect (modern)**
+**How to download all activites**
 
 You need to be a bit technique affin for this. Python and the python package `mechanize` must be installed on your system.
 Now you need to `download this script <https://github.com/mipapo/garmin/archive/master.zip>`_.
@@ -128,9 +129,9 @@ You will be asked for your password. Type in your password. After a few seconds 
 
 Trainingstagebuch.org
 ----------------------
-**How to export all activities out of trainingstagebuch.org as .gpx files**
+**How to export all activities as .gpx files**
 
-Drag the following link to your favorite toolbar/bookmark bar
+Drag the following link to your toolbar/bookmarks
 
 .. raw:: html
 
@@ -159,10 +160,10 @@ Run.GPS
 
 Different file types
 ********************
-We get a lot of questions regarding the file types. Which one is better and which one contain more data.
-To clear up these questions we have created this table which shows up what we can import from which type of file. The requirement is that this piece of information is available in the file.
+We get a lot of questions regarding file types: Which one is better and which one contains more data?
+To answer these questions we have created a table to show what we can import from each file type (as long as your device logged this data).
 
-Please send us a example file if you think we are missing some data during the import.
+Please send us an example file if you think we are missing some data during the import.
 
   * Y = Yes
   * N = No
@@ -183,7 +184,7 @@ Please send us a example file if you think we are missing some data during the i
 +---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
 | Name                            |        |           |         |         |            |          | Y            |         |         |         | N       |             |            |      |
 +---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
-| Notizen                         |        |           |         |         |            |          | Y            |         |         |         | Y       |             |            |      |
+| Notes                           |        |           |         |         |            |          | Y            |         |         |         | Y       |             |            |      |
 +---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
 | Heartrate                       | Y      | Y         | Y       | Y       | Y          | Y        | Y            | Y       | Y       | Y       | Y       |             | Y          | Y    |
 +---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
