@@ -45,5 +45,5 @@ If you want to add a new equipment object you have to fill out the last, greyed-
   * Choose an end date if you're not using the object anymore
   * Leave some notes if you want (e.g. where you bought the equipment)
 
-  .. note:!
+  .. note::
             Attention: If you delete an equipment object all relations between your activities and this object will be deleted.

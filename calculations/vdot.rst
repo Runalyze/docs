@@ -11,7 +11,7 @@ This works pretty well, but it requires a current (and "good") race result.
 In general, that's not sufficient. Runners want to know about their shape (i.e. optimal training paces and a prognosis for the upcoming race) while training for some event, not right after it.
 
 Therefore, RUNALYZE estimates your current VDOT based on your activities. (Again: it's an estimation - not an exact calculation!)
-This estimation is based on your hear rate and your running pace. Tables by Jack Daniels give a rough basis for these calculations.
+This estimation is based on your heart rate and your running pace. Tables by Jack Daniels give a rough basis for these calculations.
 Your current VDOT shape is based on your average VDOT of the last 30 days.
 
 Still, this estimation is not that easy all the time. The maximal heart rate must be known and the heart rate graph of your activity must not go haywire due to a defect heart rate strap or other influences.
