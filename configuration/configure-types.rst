@@ -1,6 +1,6 @@
-===============================
-Configuration of activity types
-===============================
+===============
+Activity types
+===============
 
 If you have activated the “Types” checkbox in the sport configuration of a sport, you can define different activity types
 

@@ -59,7 +59,7 @@ There is a software called `bipolar <https://github.com/pcolby/bipolar>`_ which 
 There is another software called `V800 Downloader <https://github.com/profanum429/v800_downloader>`_ on Github, which does nearly the same.
 
 TomTom Runner/Multisport Cardio
-------
+--------------------------------
 Mac OS:
 Data seems just be generated, when the Mac is online::
 

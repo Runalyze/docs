@@ -15,15 +15,20 @@ Missing something in this documentation? Then contribute to this documentation a
    supported-devices
 
 
-
 .. toctree::
    :maxdepth: 1
    :caption: Starting guide
 
    starting-guide/fast-start
    starting-guide/import
-   starting-guide/configure-sport
-   starting-guide/configure-types
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Configuration
+  
+  configuration/configure-sport
+  configuration/configure-types
+  configuration/configure-equipment
 
 .. toctree::
    :maxdepth: 1
