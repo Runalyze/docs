@@ -127,6 +127,11 @@ Execute the `download.py` script::
 
 You will be asked for your password. Type in your password. After a few seconds the download of all activites should start.
 
+sports-tracker.com
+-------------------
+
+Try to download all activities with the tool `by Olivian Daniel Tofan <http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_
+
 Trainingstagebuch.org
 ----------------------
 **How to export all activities as .gpx files**
