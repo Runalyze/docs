@@ -25,3 +25,7 @@ Enable R-R recording on Garmin 920XT/Fenix 3
 --------------------------------------------
 Have a look at `the5krunner.com <http://the5krunner.com/2014/12/11/garmin-920xt-turn-on-hrv/>`_.
 You'll have to download a \*.fit file and save it on your device.
+
+Get the garmin communicator running in Firefox >=Version 43
+------------------------------------------------------------
+Have a look at `blog.runalyze.com <http://blog.runalyze.com/allgemein/garmin-communicator-in-firefox-43/>`_.
