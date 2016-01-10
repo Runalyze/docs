@@ -120,12 +120,14 @@ Garmin Connect
 **How to download all activites**
 
 You need to be a bit technique affin for this. Python and the python package `mechanize` must be installed on your system.
-Now you need to `download this script <https://github.com/mipapo/garmin/archive/master.zip>`_.
+Now you need to `download the script at <https://github.com/kjkjava/garmin-connect-export>`_.
 Execute the `download.py` script::
 
-    python download.py -u <Username at garmin connect>
+    python gcexport.py -d activities -c all -f original -u --username <Username> --password <Password>
+    
+Or if you just want to download the last 3 activitivies
 
-You will be asked for your password. Type in your password. After a few seconds the download of all activites should start.
+    python gcexport.py -d activities -c 3 -f original -u --username <Username> --password <Password>
 
 sports-tracker.com
 -------------------
