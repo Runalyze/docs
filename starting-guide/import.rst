@@ -117,7 +117,21 @@ and click on the bookmark.
 
 Garmin Connect
 --------------
-**How to download all activites**
+
+**How to download multiple activites via browser**
+
+Drag the following link to your toolbar/bookmars
+
+.. raw:: html
+
+     <a href="javascript:(function(){var boxes = document.getElementsByClassName('activityNameLink'), i = boxes.length; while(i--) { var newFrame = document.createElement('iframe');document.body.appendChild(newFrame); newFrame.style = 'width: 1px; height: 1px;'; link = 'https://connect.garmin.com/proxy/download-service/files/activity/'+boxes[i].href.replace('https://connect.garmin.com/activity/', ''); newFrame.src = link;}})();" title="Download garmin connect">Download garmin connect</a>
+
+Log in into `Garmin Connect <https://connect.garmin.com>`_ and open afterwards this site: `Activity overview <https://connect.garmin.com/minactivities>`_
+
+Click on the bookmark - All activities you see on the page will be downloaded. Go to the next page (2 ...3 ...4) and click again on the bookmark.
+
+
+**How to download all activites via script**
 
 You need to be a bit technique affin for this. Python and the python package `mechanize` must be installed on your system.
 Now you need to `download the script at <https://github.com/kjkjava/garmin-connect-export>`_.
