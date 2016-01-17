@@ -27,19 +27,19 @@ Some day, probably. So far, this is not a high priority as there are many other 
 Will there be a synchronisation with other platforms?
 *****************************************************
 Some day, probably. Our first concern is providing an API to work with `tapiriik <https://tapiriik.com/>`_.
-Still, there are months of work waiting for us until this is realizable.
+Still, there are months of work waiting for us until this is realizable. With every new release we are getting closer to this feature.
 
 ----
 
 When will RUNALYZE support timezones?
 *************************************
-We can't announce any dates but we have this in mind.
+We can't announce any dates but we have this in mind. We're already working on it and will add it probably in version 2.5.
 
 ----
 
 When will RUNALYZE recognize double activities?
 ***********************************************
-We can't announce any dates but we have this in mind.
+We will support this starting from version 2.4
 
 ----
 
