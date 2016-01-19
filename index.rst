@@ -35,6 +35,7 @@ Missing something in this documentation? Then contribute to this documentation a
    :caption: Calculations
 
    calculations/vdot
+   calculations/hrv
 
 
 Indices and tables
