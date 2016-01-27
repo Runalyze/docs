@@ -1,0 +1,370 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Hannes Christiansen, Michael Pohl
+# This file is distributed under the same license as the RUNALYZE - User documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../supported-devices.rst:3
+msgid "Supported devices"
+msgstr ""
+
+#: ../../supported-devices.rst:5
+msgid "In general we support almost all possible devices in various ways (except some very exotic ones). If your watch/device is not in this table does not mean we don't support it."
+msgstr ""
+
+#: ../../supported-devices.rst:8
+msgid "Just send us a message with information about your device and in which way you can upload the data to RUNALYZE."
+msgstr ""
+
+#: ../../supported-devices.rst:10
+msgid "Or you can directly contribute or create an issue for this page on `github <https://github.com/Runalyze/docs/issues>`_."
+msgstr ""
+
+#: ../../supported-devices.rst:12
+msgid "Abbreviations:"
+msgstr ""
+
+#: ../../supported-devices.rst:14
+msgid "Get the file via usb mass storage"
+msgstr ""
+
+#: ../../supported-devices.rst:15
+msgid "Export original file via `Garmin Connect <https://connect.garmin.com/de-DE/>`_"
+msgstr ""
+
+#: ../../supported-devices.rst:16
+msgid "Export the tcx file via `Polar flow <https://flow.polar.com/>`_"
+msgstr ""
+
+#: ../../supported-devices.rst:17
+msgid "Export the original file via `TomTom MySports <https://mysports.tomtom.com/>`_"
+msgstr ""
+
+#: ../../supported-devices.rst:20
+msgid "This site contains affiliate links to support the development and infrastructure of RUNALYZE. They are marked with an *"
+msgstr ""
+
+#: ../../supported-devices.rst:23
+msgid "Producer"
+msgstr ""
+
+#: ../../supported-devices.rst:23
+msgid "Model"
+msgstr ""
+
+#: ../../supported-devices.rst:23
+msgid "Orig. File Format"
+msgstr ""
+
+#: ../../supported-devices.rst:23
+msgid "Access to files"
+msgstr ""
+
+#: ../../supported-devices.rst:25
+msgid "Garmin"
+msgstr ""
+
+#: ../../supported-devices.rst:25
+msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:25
+msgid "*.fit"
+msgstr ""
+
+#: ../../supported-devices.rst:25
+#: ../../supported-devices.rst:27
+#: ../../supported-devices.rst:31
+#: ../../supported-devices.rst:33
+#: ../../supported-devices.rst:51
+#: ../../supported-devices.rst:53
+#: ../../supported-devices.rst:57
+#: ../../supported-devices.rst:61
+#: ../../supported-devices.rst:63
+#: ../../supported-devices.rst:65
+#: ../../supported-devices.rst:67
+#: ../../supported-devices.rst:69
+#: ../../supported-devices.rst:71
+#: ../../supported-devices.rst:73
+msgid "[UM]_ , [GC]_"
+msgstr ""
+
+#: ../../supported-devices.rst:27
+msgid "GPS Forerunner 920XT `(Buy*) <http://amzn.to/1Q0EBCz>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:29
+msgid "GPS Forerunner 910XT `(Buy*) <http://amzn.to/1No4C8l>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:29
+#: ../../supported-devices.rst:35
+#: ../../supported-devices.rst:37
+#: ../../supported-devices.rst:39
+#: ../../supported-devices.rst:41
+#: ../../supported-devices.rst:43
+#: ../../supported-devices.rst:45
+#: ../../supported-devices.rst:47
+#: ../../supported-devices.rst:49
+#: ../../supported-devices.rst:55
+#: ../../supported-devices.rst:59
+msgid "[GC]_"
+msgstr ""
+
+#: ../../supported-devices.rst:31
+msgid "GPS Forerunner 630 `(Buy*) <http://amzn.to/1Q0F9sm>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:33
+msgid "GPS Forerunner 620 `(Buy*) <http://amzn.to/1No53zx>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:35
+msgid "GPS Forerunner 610 `(Buy*) <http://amzn.to/1Q0FV8t>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:37
+msgid "GPS Forerunner 410"
+msgstr ""
+
+#: ../../supported-devices.rst:39
+msgid "GPS Forerunner 405"
+msgstr ""
+
+#: ../../supported-devices.rst:41
+msgid "GPS Forerunner 310XT"
+msgstr ""
+
+#: ../../supported-devices.rst:43
+msgid "GPS Forerunner 305"
+msgstr ""
+
+#: ../../supported-devices.rst:45
+msgid "GPS Forerunner 235"
+msgstr ""
+
+#: ../../supported-devices.rst:47
+msgid "GPS Forerunner 230"
+msgstr ""
+
+#: ../../supported-devices.rst:49
+msgid "GPS Forerunner 225"
+msgstr ""
+
+#: ../../supported-devices.rst:51
+msgid "GPS Forerunner 220"
+msgstr ""
+
+#: ../../supported-devices.rst:53
+msgid "GPS Forerunner 210 `(Buy*) <http://amzn.to/1Q0FYRQ>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:55
+msgid "GPS Forerunner 205"
+msgstr ""
+
+#: ../../supported-devices.rst:57
+msgid "GPS Forerunner 110 `(Buy*) <http://amzn.to/1Q0G0cz>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:59
+msgid "GPS Forerunner 70  `(Buy*) <http://amzn.to/1No7a6j>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:61
+msgid "GPS Forerunner 15 `(Buy*) <http://amzn.to/1Q0FRWk>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:63
+msgid "GPS Forerunner 10 `(Buy*) <http://amzn.to/1Q0FPOg>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:65
+msgid "Edge 810"
+msgstr ""
+
+#: ../../supported-devices.rst:67
+msgid "Edge 800"
+msgstr ""
+
+#: ../../supported-devices.rst:69
+msgid "Edge 705"
+msgstr ""
+
+#: ../../supported-devices.rst:71
+msgid "Edge 500"
+msgstr ""
+
+#: ../../supported-devices.rst:73
+msgid "vivoactive"
+msgstr ""
+
+#: ../../supported-devices.rst:75
+msgid "Polar"
+msgstr ""
+
+#: ../../supported-devices.rst:75
+msgid "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:75
+#: ../../supported-devices.rst:77
+#: ../../supported-devices.rst:79
+#: ../../supported-devices.rst:81
+#: ../../supported-devices.rst:83
+msgid "[PF]_, ?"
+msgstr ""
+
+#: ../../supported-devices.rst:77
+msgid "M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:79
+msgid "RS300X"
+msgstr ""
+
+#: ../../supported-devices.rst:81
+msgid "RS800CX"
+msgstr ""
+
+#: ../../supported-devices.rst:83
+msgid "RC3 GPS"
+msgstr ""
+
+#: ../../supported-devices.rst:85
+msgid "TomTom"
+msgstr ""
+
+#: ../../supported-devices.rst:85
+msgid "TomTom Runner (Cardio, Spark)  `(Buy*) <http://amzn.to/1Q0FueC>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:85
+msgid "*.ttbin"
+msgstr ""
+
+#: ../../supported-devices.rst:85
+#: ../../supported-devices.rst:87
+msgid "[TT]_"
+msgstr ""
+
+#: ../../supported-devices.rst:87
+msgid "TomTom Runner 2  `(Buy*) <http://amzn.to/1No5tG7>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:89
+msgid "Twonav"
+msgstr ""
+
+#: ../../supported-devices.rst:89
+msgid "Ultra"
+msgstr ""
+
+#: ../../supported-devices.rst:89
+#: ../../supported-devices.rst:95
+msgid "*.trk"
+msgstr ""
+
+#: ../../supported-devices.rst:89
+#: ../../supported-devices.rst:91
+#: ../../supported-devices.rst:93
+#: ../../supported-devices.rst:95
+#: ../../supported-devices.rst:97
+#: ../../supported-devices.rst:99
+#: ../../supported-devices.rst:101
+#: ../../supported-devices.rst:103
+#: ../../supported-devices.rst:105
+#: ../../supported-devices.rst:107
+#: ../../supported-devices.rst:109
+#: ../../supported-devices.rst:109
+msgid "?"
+msgstr ""
+
+#: ../../supported-devices.rst:91
+msgid "Adventura"
+msgstr ""
+
+#: ../../supported-devices.rst:93
+msgid "Sportiva2"
+msgstr ""
+
+#: ../../supported-devices.rst:95
+msgid "o-synce"
+msgstr ""
+
+#: ../../supported-devices.rst:95
+msgid "navi2coach"
+msgstr ""
+
+#: ../../supported-devices.rst:97
+msgid "navi2move"
+msgstr ""
+
+#: ../../supported-devices.rst:99
+msgid "Brython"
+msgstr ""
+
+#: ../../supported-devices.rst:99
+msgid "Cardio 40"
+msgstr ""
+
+#: ../../supported-devices.rst:99
+msgid "*.tcx"
+msgstr ""
+
+#: ../../supported-devices.rst:101
+msgid "a-rival"
+msgstr ""
+
+#: ../../supported-devices.rst:101
+msgid "SpoQ 100 `(Buy*) <http://amzn.to/1Q0FLhv>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:101
+msgid "*.gpx, *.tcx"
+msgstr ""
+
+#: ../../supported-devices.rst:103
+msgid "Suunto"
+msgstr ""
+
+#: ../../supported-devices.rst:103
+msgid "Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:103
+msgid "*.sml"
+msgstr ""
+
+#: ../../supported-devices.rst:105
+msgid "Ambit 2R"
+msgstr ""
+
+#: ../../supported-devices.rst:107
+msgid "Timex"
+msgstr ""
+
+#: ../../supported-devices.rst:107
+msgid "Run Trainer 2.0"
+msgstr ""
+
+#: ../../supported-devices.rst:107
+msgid "*.fit (*.pwx)"
+msgstr ""
+
+#: ../../supported-devices.rst:109
+msgid "Sigma"
+msgstr ""
+

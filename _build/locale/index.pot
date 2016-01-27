@@ -1,38 +1,31 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, Hannes Christiansen, Michael Pohl
-# This file is distributed under the same license as the RUNALYZE - User
-# documentation package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# This file is distributed under the same license as the RUNALYZE - User documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.1\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.2.0\n"
 
 #: ../../index.rst:2
 msgid "Welcome to RUNALYZE - User documentation!"
 msgstr ""
 
 #: ../../index.rst:4
-msgid ""
-"This site contains affiliate links to support the development and "
-"infrastructure of RUNALYZE. They are marked with an *"
+msgid "This site contains affiliate links to support the development and infrastructure of RUNALYZE. They are marked with an *"
 msgstr ""
 
 #: ../../index.rst:6
-msgid ""
-"Missing something in this documentation? Then contribute to this "
-"documentation at `Github <https://github.com/Runalyze/docs>`_ or `tell us"
-" what you're missing here "
-"<https://github.com/Runalyze/docs/issues/new>`_."
+msgid "Missing something in this documentation? Then contribute to this documentation at `Github <https://github.com/Runalyze/docs>`_ or `tell us what you're missing here <https://github.com/Runalyze/docs/issues/new>`_."
 msgstr ""
 
 #: ../../index.rst:42
@@ -50,7 +43,4 @@ msgstr ""
 #: ../../index.rst:46
 msgid ":ref:`search`"
 msgstr ""
-
-#~ msgid "Contents:"
-#~ msgstr ""
 

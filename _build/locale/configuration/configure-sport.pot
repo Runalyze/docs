@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Hannes Christiansen, Michael Pohl
+# This file is distributed under the same license as the RUNALYZE - User documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../configuration/configure-sport.rst:3
+msgid "Sports"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:5
+msgid "With this tutorial we want to show you how to add and edit a new sport."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:7
+msgid "Creating a new sports type is as easily as editing an existing one: Just fill out the last, greyed-out row and click 'Save'."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:10
+msgid "We are now going to explain every configuration setting:"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:14
+msgid "Icon"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:16
+msgid "Pick an icon for your sport type."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:20
+msgid "Name"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:22
+msgid "Type in the name of the sport"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:26
+msgid "kcal/h"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:28
+msgid "How many calories are consumed during one hour? Attention! If you import activites from a device which contains a value for calories, that value will be used. If the value is not present the calories will be calculated based on this configuration value."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:34
+msgid "Ø HR"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:36
+msgid "You can set a default average heart rate as fallback. This value is used for TRIMP calculation."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:40
+msgid "km"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:42
+msgid "Set a checkmark if the sport has a distance (true for e.g. running/cycling/swimming, but false for e.g. gymnastics)."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:46
+msgid "Unit"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:48
+msgid "Choose a unit for displaying your speed/pace."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:52
+msgid "Types"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:54
+msgid "Set a checkmark if you want to add different activity types to this sport."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:58
+msgid "Power"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:60
+msgid "Set a checkmark if the power (watt) is recorded or should be calculated by RUNALYZE."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:64
+msgid "Outside"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:66
+msgid "Set a checkmark if this sport can be performed outside. This checkbox activates the fields routes and weather in the form."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:71
+msgid "Calendar view"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:73
+msgid "You can choose the type of presentation of an activity in the databrowser/calendar. '*Complete row*' means that you see the complete dataset (as configured in the dataset configuration) '*Only icon*' means that only the icons of the sport shows up in the databrowser/calendar."
+msgstr ""
+
