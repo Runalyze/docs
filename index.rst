@@ -13,6 +13,7 @@ Missing something in this documentation? Then contribute to this documentation a
    support
    knowledge-base
    supported-devices
+   runalyze-testers
 
 
 .. toctree::
@@ -25,7 +26,7 @@ Missing something in this documentation? Then contribute to this documentation a
 .. toctree::
   :maxdepth: 1
   :caption: Configuration
-  
+
   configuration/configure-sport
   configuration/configure-types
   configuration/configure-equipment
