@@ -58,7 +58,7 @@ What are calculations and prognoses?
 ************************************
 RUNALYZE is more than just a logbook to track all your activities.
 In addition to well known basic features RUNALYZE offers you statistics like VDOT and prognoses for your upcoming races.
-We are using some formulas derived by `Jack Daniel's famous Running Formula* <http://amzn.to/1GnAv43>`_ to estimate your current shape based on the ratio of heart rate and pace.
+We are using some formulas derived by `Jack Daniels' famous Running Formula* <http://amzn.to/1GnAv43>`_ to estimate your current shape based on the ratio of heart rate and pace.
 Still, these estimates must be handled with great caution. Don't rely on them and listen to your body.
 
 ----
@@ -67,3 +67,16 @@ The file import seems buggy? Incorrect values?
 **********************************************
 Send us an email with your sample file and a detailed description of what your expected results.
 We'll have a look at your issue and will try to fix it.
+
+----
+
+Runalyze shows an incorrect total duration
+******************************************
+Most file types do not contain information about pauses. Especially tcx- and gpx-files provide no information if and when you stopped your device, e.g. at traffic lights or if you're using 'auto pause' on your device.
+Runalyze offers the ability to detect such breaks automatically and can remove them without further notice.
+Still, it's difficult or even impossible to exactly match your device's total duration.
+
+You can enable/disable our automatic detection of pauses in your configuration.
+In addition, we have an `open ticket <https://github.com/Runalyze/Runalyze/issues/913>`_ for a more flexible solution such that a specific threshold can be defined for each file separately.
+Feel free to leave a '+1' at GitHub.
+
