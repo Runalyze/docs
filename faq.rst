@@ -33,13 +33,7 @@ Still, there are months of work waiting for us until this is realizable. With ev
 
 When will RUNALYZE support timezones?
 *************************************
-We can't announce any dates but we have this in mind. We're already working on it and will add it probably in version 2.5.
-
-----
-
-When will RUNALYZE recognize double activities?
-***********************************************
-We will support this starting from version 2.4
+We will support this starting from version 2.5
 
 ----
 
@@ -80,3 +74,9 @@ You can enable/disable our automatic detection of pauses in your configuration.
 In addition, we have an `open ticket <https://github.com/Runalyze/Runalyze/issues/913>`_ for a more flexible solution such that a specific threshold can be defined for each file separately.
 Feel free to leave a '+1' at GitHub.
 
+
+----
+
+Runalyze says that there are not enough results for good predictions
+*********************************************************************
+To get good predictions you need to have at least one race.
