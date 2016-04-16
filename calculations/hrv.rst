@@ -53,6 +53,8 @@ pNN20
 Especially *RMSSD* (and its equivalent *lnRMSSD*) and *pNN50* are said to be strong indicators for parasympathetic activity [#hrvlexikon]_
 and thus large values indicate a better recovery status.
 
+From v2.6 on, RUNALYZE does use only R-R intervals that differ from the preceding or following interval by less than 75 % (as suggested in [#ediss1118]_, 2.4.2.1).
+
 
 Further readings
 ****************
@@ -73,3 +75,4 @@ References
 .. [#baddevices] http://www.marcoaltini.com/blog/heart-rate-variability
 .. [#camerahrv] http://www.marcoaltini.com/blog/heart-rate-variability-using-the-phones-camera
 .. [#hrvlexikon] http://www.hrv24.de/HRV-Lexikon.htm
+.. [#ediss1118] http://www.zhb.uni-luebeck.de/epubs/ediss1118.pdf
