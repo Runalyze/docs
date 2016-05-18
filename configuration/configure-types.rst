@@ -40,15 +40,6 @@ Quality?
 
 Set a checkmark if the activity type is a qualitiy session (e.g. interval workouts).
 
-^^^^
-Race
-^^^^
-
-Set a checkmark if the activity type is the 'Race' type.
-
-.. note::
-          Currently you can set a 'Race' typ for running only. We will change this in the future.
-
 ^^^^^^^^^^^^^
 Calendar view
 ^^^^^^^^^^^^^
