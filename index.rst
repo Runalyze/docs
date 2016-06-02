@@ -37,6 +37,7 @@ Missing something in this documentation? Then contribute to this documentation a
 
    calculations/vdot
    calculations/hrv
+   calculations/elevation
 
 
 Indices and tables

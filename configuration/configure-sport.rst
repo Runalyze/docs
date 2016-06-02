@@ -66,15 +66,15 @@ Outside
 Set a checkmark if this sport can be performed outside.
 This checkbox activates the fields routes and weather in the form.
 
-^^^^^^^
+^^^^^^^^^^^^^^
 Main equipment
-^^^^^^^
+^^^^^^^^^^^^^^
 
 Choose a main equipment category which will be used in the databrowser view if you have activated the "Main Equipment" value to show up.
 
-^^^^^^^
+^^^^^^^^^^^^^^^^^^
 Default sport type
-^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
 Choose a default sport type which shows up if you change the sport of an activity in the form. In a later version we will use this type for automatic uploaded activities.
 
