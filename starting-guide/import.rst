@@ -243,6 +243,8 @@ Please send us an example file if you think we are missing some data during the 
 +---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
 | HRV                             | ✓      | N         | N       | N       | N          | N        | N            | N       | N       | ✓       | N       | ✓           | N          | ✓    |
 +---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
+| FIT details [#fitdetails]_      | ✓      | N         | N       | N       | N          | N        | N            | N       | N       | N       | N       | N           | N          | N    |
++---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
 
 
 
@@ -250,6 +252,8 @@ Please send us an example file if you think we are missing some data during the 
 .. [#resampleddata] The idea of resampling data is to reduce the size of files and/or to simplify the process of generating the map for an activity. When you import such data it is nearly impossible to calculate the length of the activity. Sometimes the pace graph will show useless lines.
 
 .. [#encodepauses] Pauses can be encoded in TCX/GPX files with closed tracks/tracks segements. If they are not encoded RUNALYZE has to guess where pauses took place. If you have problems you can disable the detection of pauses in (General settings -> Activity form -> Detect pause)
+
+.. [#fitdetails] FIT files contain some Garmin-only values like recovery time, performance condition, hrv score and V02max estimate.
 
 .. note::
           This site may contain affiliate links to support the development and infrastructure of RUNALYZE
