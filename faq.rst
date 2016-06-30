@@ -29,11 +29,6 @@ Will there be a synchronisation with other platforms?
 Some day, probably. Our first concern is providing an API to work with `tapiriik <https://tapiriik.com/>`_.
 Still, there are months of work waiting for us until this is realizable. With every new release we are getting closer to this feature.
 
-----
-
-When will RUNALYZE support timezones?
-*************************************
-We will support this starting from version 2.5
 
 ----
 
