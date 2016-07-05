@@ -21,7 +21,6 @@ Missing something in this documentation? Then contribute to this documentation a
    :caption: Starting guide
 
    starting-guide/getting-started
-   starting-guide/fast-start
    starting-guide/import
 
 .. toctree::
