@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Hannes Christiansen, Michael Pohl
+# This file is distributed under the same license as the RUNALYZE - User documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-05 21:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../starting-guide/getting-started.rst:3
+msgid "Getting started"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:5
+msgid "We are very happy that you joined RUNALYZE! We are a small team (`Hannes <https://blog.runalyze.com/team/hannes/>`_, `Michael <https://blog.runalyze.com/team/michael/>`_, `Neele <https://blog.runalyze.com/team/neele/>`_) , working on RUNALYZE only during leisure time. We still try to improve RUNALYZE as much as possible and adapt it to your needs every day."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:8
+msgid "You may have logged in for the first time in RUNALYZE and you may be overwhelmed by all the information so far. We can assure that this will change after a couple of days getting comfortable with RUNALYZE!"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:11
+msgid "There are three sections"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:16
+msgid "Calendar view / databrowser"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:17
+msgid "Here you find a short overview of all your activities within any chosen period. You can navigate through all weeks/months/years (using the arrow icons) or select any time period (calendar icon). The set of values shown in this table is configurable. Go to \"Configuration -> Dataset\" and select the data you're most interested in."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:22
+msgid "Statistics"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:23
+msgid "The main focus of RUNALYZE is on statistics about your activities. We provide several \"staticstic plugins\" where you can find a lot of different evaluations of your activities. Be it your route map, your race results, activity records or a month wise retrospect - it's all there (and if not, just ask us to add it)."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:25
+msgid "As always: You can decide which statistics should appear and order the active statistics according to your desires (\"Configuration -> Plugins\")."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:28
+msgid "Panels"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:29
+msgid "The panels give a quick overview of the most important numbers. You can have a look at your shape or keep an eye on your equipment and training progress ."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:32
+msgid "Import/Create an activity"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:33
+msgid "We provide `a guide in our documentation <import.html>`_ how to import your (old) activities from several devices and portals."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:37
+msgid "We plan to provide a synchronization with other apps and platforms, such that you don't need to manually upload your activities, but this work is still in progress."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:39
+msgid "And, however, we think there's a clear benefit in creating/importing your activities manually. By this means you'll think about the training again and add some more details instead of hoping that the synchronization tool does all the magic for you."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:42
+msgid "What can I expect from RUNALYZE in the future?"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:43
+msgid "A new (clear, responsible) Design (the current one is 'slightly' outdated)"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:44
+msgid "Automatic synchronization with other apps / vendors"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:45
+msgid "Easier & clearer configuration"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:46
+msgid "Better documentation of the various parameters and statistics"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:47
+msgid "Optional community functions"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:48
+msgid "Better support for swimming and cycling"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:51
+msgid "\"I have an idea / a question / a problem\""
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:52
+msgid "We are pleased to help! To ensure that all users benefit from your request we ask you to use `our forum <https://forum.runalyze.com/>`_. (english & german). Make sure first whether your question has been answered already or is part of our documentation."
+msgstr ""
+

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"POT-Creation-Date: 2016-07-05 21:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -124,43 +124,51 @@ msgstr ""
 msgid "Especially *RMSSD* (and its equivalent *lnRMSSD*) and *pNN50* are said to be strong indicators for parasympathetic activity [#hrvlexikon]_ and thus large values indicate a better recovery status."
 msgstr ""
 
-#: ../../calculations/hrv.rst:58
+#: ../../calculations/hrv.rst:56
+msgid "From v2.6 on, RUNALYZE does use only R-R intervals that differ from the preceding or following interval by less than 75 % (as suggested in [#ediss1118]_, 2.4.2.1)."
+msgstr ""
+
+#: ../../calculations/hrv.rst:60
 msgid "Further readings"
 msgstr ""
 
-#: ../../calculations/hrv.rst:61
+#: ../../calculations/hrv.rst:63
 msgid "A look at a few months of hrv data"
 msgstr ""
 
-#: ../../calculations/hrv.rst:62
+#: ../../calculations/hrv.rst:64
 msgid "Marco Altini, a data scientist and creator of multiple hrv based apps, measured his hrv every morning for a few months and `presents the results on his blog <http://www.marcoaltini.com/blog/a-look-at-a-few-months-of-hr-and-hrv-measurements>`_."
 msgstr ""
 
-#: ../../calculations/hrv.rst:66
+#: ../../calculations/hrv.rst:68
 msgid "Heart rate variability explained"
 msgstr ""
 
-#: ../../calculations/hrv.rst:67
+#: ../../calculations/hrv.rst:69
 msgid "Andrew Flatt, who did a lot of research on HRV, `explains HRV <http://hrvtraining.com/2012/01/16/heart-rate-variability-explained-part-1/>`_"
 msgstr ""
 
-#: ../../calculations/hrv.rst:70
+#: ../../calculations/hrv.rst:72
 msgid "References"
 msgstr ""
 
-#: ../../calculations/hrv.rst:72
+#: ../../calculations/hrv.rst:74
 msgid "http://www.polar.com/us-en/support/Heart_Rate_Variability__HRV_"
 msgstr ""
 
-#: ../../calculations/hrv.rst:73
+#: ../../calculations/hrv.rst:75
 msgid "http://www.marcoaltini.com/blog/heart-rate-variability"
 msgstr ""
 
-#: ../../calculations/hrv.rst:74
+#: ../../calculations/hrv.rst:76
 msgid "http://www.marcoaltini.com/blog/heart-rate-variability-using-the-phones-camera"
 msgstr ""
 
-#: ../../calculations/hrv.rst:75
+#: ../../calculations/hrv.rst:77
 msgid "http://www.hrv24.de/HRV-Lexikon.htm"
+msgstr ""
+
+#: ../../calculations/hrv.rst:78
+msgid "http://www.zhb.uni-luebeck.de/epubs/ediss1118.pdf"
 msgstr ""
 

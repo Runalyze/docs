@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"POT-Creation-Date: 2016-07-05 21:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,7 +41,7 @@ msgid "Still, this estimation is not that easy all the time. The maximal heart r
 msgstr ""
 
 #: ../../calculations/vdot.rst:20
-msgid "In addition, everybody's heart rate may behave differently but Daniels' tables are only a rule of thumb to match most people. RUNALYZE uses an additional *correction factor* which is just multiplied with the calculated value. This factor is calculated based on your *best* race and its heart rate. If this factor does not fit four you, just pick a manual factor (Configuration -> General settings -> VDOT)."
+msgid "In addition, everybody's heart rate may behave differently but Daniels' tables are only a rule of thumb to match most people. RUNALYZE uses an additional *correction factor* which is just multiplied with the calculated value. This factor is calculated based on your *best* race and its heart rate. If this factor does not fit for you, just pick a manual factor (Configuration -> General settings -> VDOT)."
 msgstr ""
 
 #: ../../calculations/vdot.rst:26
@@ -57,7 +57,7 @@ msgid "Speaking of *VDOT*, it's a shortened version of V-dot-O2max, the maximal 
 msgstr ""
 
 #: ../../calculations/vdot.rst:36
-msgid "Jack Daniels' famous *Running formula* contains tables for estimating this VDOT. These formulas are used to estimate your VDOT and to predict your race performances. Your personal VDOT value is estimated based on the ratio of heart rate and pace for each of your runs. The average over a given period is considered as your current shape."
+msgid "Jack Daniels' famous `Running Formula* <http://amzn.to/1GnAv43>`_ contains tables for estimating this VDOT. These formulas are used to estimate your VDOT and to predict your race performances. Your personal VDOT value is estimated based on the ratio of heart rate and pace for each of your runs. The average over a given period is considered as your current shape."
 msgstr ""
 
 #: ../../calculations/vdot.rst:39
@@ -82,5 +82,33 @@ msgstr ""
 
 #: ../../calculations/vdot.rst:50
 msgid "If you make many vertical meters in your actitivies the VDOT may have a negative influence to your form. You can enable the adaption for elevation in the VDOT settings. You can set the correction per positive and negative elevation."
+msgstr ""
+
+#: ../../calculations/vdot.rst:54
+msgid "Further readings and tools"
+msgstr ""
+
+#: ../../calculations/vdot.rst:56
+msgid "`VDOT calculator (german) <http://www.polar.com/us-en/support/Heart_Rate_Variability__HRV_>`_"
+msgstr ""
+
+#: ../../calculations/vdot.rst:57
+msgid "`Threshold Training: Finding Your VDOT <http://www.runnersworld.com/workouts/threshold-training-finding-your-vdot>`_"
+msgstr ""
+
+#: ../../calculations/vdot.rst:58
+msgid "`VDOT - A 12 Point Guide <https://www.globe-runners.com/?q=node/181>`_"
+msgstr ""
+
+#: ../../calculations/vdot.rst:59
+msgid "`The Math Behind The Daniels/Gilbert Formula <http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
+msgstr ""
+
+#: ../../calculations/vdot.rst:60
+msgid "`Wikipedia about Daniels' VDOT <https://en.wikipedia.org/wiki/Jack_Daniels_%28coach%29#VDOT>`_"
+msgstr ""
+
+#: ../../calculations/vdot.rst:61
+msgid "`Fellrnr about VDOT <http://fellrnr.com/wiki/VDOT>`_"
 msgstr ""
 

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"POT-Creation-Date: 2016-07-05 21:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,26 +77,14 @@ msgid "Set a checkmark if the activity type is a qualitiy session (e.g. interval
 msgstr ""
 
 #: ../../configuration/configure-types.rst:45
-msgid "Race"
-msgstr ""
-
-#: ../../configuration/configure-types.rst:47
-msgid "Set a checkmark if the activity type is the 'Race' type."
-msgstr ""
-
-#: ../../configuration/configure-types.rst:50
-msgid "Currently you can set a 'Race' typ for running only. We will change this in the future."
-msgstr ""
-
-#: ../../configuration/configure-types.rst:54
 msgid "Calendar view"
 msgstr ""
 
-#: ../../configuration/configure-types.rst:56
+#: ../../configuration/configure-types.rst:47
 msgid "You can choose the typ of presentation of an activity in the databrowser/calendar. '*Complete row*' means that you see the complete dataset (as configured in the dataset configuration) '*Only icon*' means that only the icons of the sport shows up in the databrowser/calendar. This overrides the sport configuration setting."
 msgstr ""
 
-#: ../../configuration/configure-types.rst:62
+#: ../../configuration/configure-types.rst:53
 msgid "Activity types can only be deleted if no references to activities exists."
 msgstr ""
 

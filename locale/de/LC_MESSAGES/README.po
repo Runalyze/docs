@@ -18,11 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.2.0\n"
 
-#: ../../README.md
-msgid "RUNALYZE docs for users"
-msgstr ""
+#~ msgid "RUNALYZE docs for users"
+#~ msgstr ""
 
-#: ../../README.md:2
-msgid "Repository for help.runalyze.com, feel free to contribute."
-msgstr ""
-
+#~ msgid "Repository for help.runalyze.com, feel free to contribute."
+#~ msgstr ""

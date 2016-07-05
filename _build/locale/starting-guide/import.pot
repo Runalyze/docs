@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"POT-Creation-Date: 2016-07-05 21:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -474,6 +474,7 @@ msgstr ""
 #: ../../starting-guide/import.rst:244
 #: ../../starting-guide/import.rst:244
 #: ../../starting-guide/import.rst:244
+#: ../../starting-guide/import.rst:246
 msgid "✓"
 msgstr ""
 
@@ -605,6 +606,19 @@ msgstr ""
 #: ../../starting-guide/import.rst:244
 #: ../../starting-guide/import.rst:244
 #: ../../starting-guide/import.rst:244
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:246
 msgid "N"
 msgstr ""
 
@@ -715,15 +729,23 @@ msgstr ""
 msgid "HRV"
 msgstr ""
 
-#: ../../starting-guide/import.rst:250
-msgid "The idea of resampling data is to reduce the size of files and/or to simplify the process of generating the map for an activity. When you import such data it is nearly impossible to calculate the length of the activity. Sometimes the pace graph will show useless lines."
+#: ../../starting-guide/import.rst:246
+msgid "FIT details [#fitdetails]_"
 msgstr ""
 
 #: ../../starting-guide/import.rst:252
+msgid "The idea of resampling data is to reduce the size of files and/or to simplify the process of generating the map for an activity. When you import such data it is nearly impossible to calculate the length of the activity. Sometimes the pace graph will show useless lines."
+msgstr ""
+
+#: ../../starting-guide/import.rst:254
 msgid "Pauses can be encoded in TCX/GPX files with closed tracks/tracks segements. If they are not encoded RUNALYZE has to guess where pauses took place. If you have problems you can disable the detection of pauses in (General settings -> Activity form -> Detect pause)"
 msgstr ""
 
-#: ../../starting-guide/import.rst:255
+#: ../../starting-guide/import.rst:256
+msgid "FIT files contain some Garmin-only values like recovery time, performance condition, hrv score and V02max estimate."
+msgstr ""
+
+#: ../../starting-guide/import.rst:259
 msgid "This site may contain affiliate links to support the development and infrastructure of RUNALYZE"
 msgstr ""
 

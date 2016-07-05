@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"POT-Creation-Date: 2016-07-05 21:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,47 +56,51 @@ msgstr ""
 msgid "Some day, probably. Our first concern is providing an API to work with `tapiriik <https://tapiriik.com/>`_. Still, there are months of work waiting for us until this is realizable. With every new release we are getting closer to this feature."
 msgstr ""
 
-#: ../../faq.rst:35
-msgid "When will RUNALYZE support timezones?"
-msgstr ""
-
 #: ../../faq.rst:36
-msgid "We can't announce any dates but we have this in mind. We're already working on it and will add it probably in version 2.5."
-msgstr ""
-
-#: ../../faq.rst:41
-msgid "When will RUNALYZE recognize double activities?"
-msgstr ""
-
-#: ../../faq.rst:42
-msgid "We will support this starting from version 2.4"
-msgstr ""
-
-#: ../../faq.rst:47
 msgid "Can I publish my running diary?"
 msgstr ""
 
-#: ../../faq.rst:48
+#: ../../faq.rst:37
 msgid "Fundamentally, RUNALYZE is not designed to be a new athletes community. Our main focus lies on analyzing your training."
 msgstr ""
 
-#: ../../faq.rst:51
+#: ../../faq.rst:40
 msgid "Anyway, you can mark single activities as public and share them by publishing a public url, or publish your entire list of activities. Have a look at your privacy configuration for detailed information. Furthermore, you can export any activity as html snippet or iframe and share them on twitter/facebook/google+."
 msgstr ""
 
-#: ../../faq.rst:58
+#: ../../faq.rst:47
 msgid "What are calculations and prognoses?"
 msgstr ""
 
-#: ../../faq.rst:59
-msgid "RUNALYZE is more than just a logbook to track all your activities. In addition to well known basic features RUNALYZE offers you statistics like VDOT and prognoses for your upcoming races. We are using some formulas derived by `Jack Daniel's famous Running Formula* <http://amzn.to/1GnAv43>`_ to estimate your current shape based on the ratio of heart rate and pace. Still, these estimates must be handled with great caution. Don't rely on them and listen to your body."
+#: ../../faq.rst:48
+msgid "RUNALYZE is more than just a logbook to track all your activities. In addition to well known basic features RUNALYZE offers you statistics like VDOT and prognoses for your upcoming races. We are using some formulas derived by `Jack Daniels' famous Running Formula* <http://amzn.to/1GnAv43>`_ to estimate your current shape based on the ratio of heart rate and pace. Still, these estimates must be handled with great caution. Don't rely on them and listen to your body."
 msgstr ""
 
-#: ../../faq.rst:67
+#: ../../faq.rst:56
 msgid "The file import seems buggy? Incorrect values?"
 msgstr ""
 
-#: ../../faq.rst:68
+#: ../../faq.rst:57
 msgid "Send us an email with your sample file and a detailed description of what your expected results. We'll have a look at your issue and will try to fix it."
+msgstr ""
+
+#: ../../faq.rst:63
+msgid "Runalyze shows an incorrect total duration"
+msgstr ""
+
+#: ../../faq.rst:64
+msgid "Most file types do not contain information about pauses. Especially tcx- and gpx-files provide no information if and when you stopped your device, e.g. at traffic lights or if you're using 'auto pause' on your device. Runalyze offers the ability to detect such breaks automatically and can remove them without further notice. Still, it's difficult or even impossible to exactly match your device's total duration."
+msgstr ""
+
+#: ../../faq.rst:68
+msgid "You can enable/disable our automatic detection of pauses in your configuration. In addition, we have an `open ticket <https://github.com/Runalyze/Runalyze/issues/913>`_ for a more flexible solution such that a specific threshold can be defined for each file separately. Feel free to leave a '+1' at GitHub."
+msgstr ""
+
+#: ../../faq.rst:76
+msgid "Runalyze says that there are not enough results for good predictions"
+msgstr ""
+
+#: ../../faq.rst:77
+msgid "To get good predictions you need to have at least one race."
 msgstr ""
 

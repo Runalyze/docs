@@ -30,27 +30,25 @@ msgstr ""
 #: ../../index.rst:6
 msgid ""
 "Missing something in this documentation? Then contribute to this "
-"documentation at `Github <https://github.com/Runalyze/docs>`_ or `tell us"
-" what you're missing here "
-"<https://github.com/Runalyze/docs/issues/new>`_."
-msgstr ""
-
-#: ../../index.rst:42
-msgid "Indices and tables"
+"documentation at `Github <https://github.com/Runalyze/docs>`_ or `tell us "
+"what you're missing here <https://github.com/Runalyze/docs/issues/new>`_."
 msgstr ""
 
 #: ../../index.rst:44
-msgid ":ref:`genindex`"
-msgstr ""
-
-#: ../../index.rst:45
-msgid ":ref:`modindex`"
+msgid "Indices and tables"
 msgstr ""
 
 #: ../../index.rst:46
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:47
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:48
 msgid ":ref:`search`"
 msgstr ""
 
 #~ msgid "Contents:"
 #~ msgstr ""
-

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.3\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"POT-Creation-Date: 2016-07-05 21:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -105,10 +105,26 @@ msgid "Set a checkmark if this sport can be performed outside. This checkbox act
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:71
-msgid "Calendar view"
+msgid "Main equipment"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:73
+msgid "Choose a main equipment category which will be used in the databrowser view if you have activated the \"Main Equipment\" value to show up."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:77
+msgid "Default sport type"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:79
+msgid "Choose a default sport type which shows up if you change the sport of an activity in the form. In a later version we will use this type for automatic uploaded activities."
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:83
+msgid "Calendar view"
+msgstr ""
+
+#: ../../configuration/configure-sport.rst:85
 msgid "You can choose the type of presentation of an activity in the databrowser/calendar. '*Complete row*' means that you see the complete dataset (as configured in the dataset configuration) '*Only icon*' means that only the icons of the sport shows up in the databrowser/calendar."
 msgstr ""
 
