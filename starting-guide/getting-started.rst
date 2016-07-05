@@ -5,7 +5,7 @@ Getting started
 We are very happy that you joined RUNALYZE!
 We are a small team (`Hannes <https://blog.runalyze.com/team/hannes/>`_, `Michael <https://blog.runalyze.com/team/michael/>`_, `Neele <https://blog.runalyze.com/team/neele/>`_) , working on RUNALYZE only during leisure time. We still try to improve RUNALYZE as much as possible and adapt it to your needs every day.
 
-You may have logged in for the first time in RUNALYZE and you may be overwhelmed by all the information so far. We can assure that this will change after a couple of days getting comfortable with RUNALYZE!
+You may have logged in for the first time in RUNALYZE and you may be overwhelmed by all the information so far. We can assure that you will getting comfortable after a couple of days with RUNALYZE!
 
 There are three sections
 *************************
