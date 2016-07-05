@@ -20,6 +20,7 @@ Missing something in this documentation? Then contribute to this documentation a
    :maxdepth: 1
    :caption: Starting guide
 
+   starting-guide/getting-started
    starting-guide/fast-start
    starting-guide/import
 
