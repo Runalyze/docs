@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 14:15+0000\n"
+"PO-Revision-Date: 2016-07-06 16:32+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/support/de/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../support.rst:2
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: ../../support.rst:4
 msgid ""
@@ -38,6 +38,9 @@ msgid ""
 "English or German. That's the best place to reach someone who can help "
 "you."
 msgstr ""
+"`Forum <https://forum.runalyze.com/>`_: Hier kannst du deine Fragen in "
+"Deutsch oder Englisch stellen. Dies ist der beste Platz für deine Fragen, "
+"Probleme und Anregungen, da das Forum für jeden einsichtbar ist."
 
 #: ../../support.rst:7
 msgid ""
@@ -64,6 +67,8 @@ msgid ""
 "`Github <https://github.com/Runalyze/Runalyze/issues/new>`_: Create a new"
 " issue at GitHub if think you discovered a bug."
 msgstr ""
+"`Github <https://github.com/Runalyze/Runalyze/issues/new>`_: Erstelle ein "
+"neues Ticket, wenn du denkst, dass du einen Bug entdeckt hast."
 
 #: ../../support.rst:14
 msgid ""
