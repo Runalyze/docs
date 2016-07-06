@@ -4,18 +4,21 @@
 # documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-06 14:11+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
+"/supported-devices/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../supported-devices.rst:3
@@ -89,7 +92,7 @@ msgstr ""
 
 #: ../../supported-devices.rst:25
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 
 #: ../../supported-devices.rst:25
 msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
@@ -217,7 +220,7 @@ msgstr ""
 
 #: ../../supported-devices.rst:79
 msgid "Polar"
-msgstr ""
+msgstr "Polar"
 
 #: ../../supported-devices.rst:79
 msgid "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
@@ -331,7 +334,7 @@ msgstr ""
 
 #: ../../supported-devices.rst:111
 msgid "Suunto"
-msgstr ""
+msgstr "Suunto"
 
 #: ../../supported-devices.rst:111
 msgid "Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__"
