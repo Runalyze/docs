@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-02 20:26+0200\n"
-"PO-Revision-Date: 2016-07-06 14:12+0000\n"
+"PO-Revision-Date: 2016-07-06 16:40+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/starting-guide/de/>\n"
@@ -96,7 +96,7 @@ msgstr "ANT-Agent"
 
 #: ../../starting-guide/import.rst:36
 msgid "Windows: Open in the windows file explorer the following path::"
-msgstr ""
+msgstr "Windows: Öffne im Windows Explorer den folgenden Pfad::"
 
 #: ../../starting-guide/import.rst:40
 msgid ""
@@ -190,7 +190,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:103
 msgid "Different file types"
-msgstr ""
+msgstr "Verschiedene Dateitypen"
 
 #: ../../starting-guide/import.rst:104
 msgid ""
