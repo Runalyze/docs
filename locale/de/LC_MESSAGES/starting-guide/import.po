@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 16:41+0000\n"
+"PO-Revision-Date: 2016-07-06 19:18+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/import/de/>\n"
@@ -112,6 +112,8 @@ msgid ""
 "Then you have to open the folder with your device ID as name and find the "
 "folder *Activities*."
 msgstr ""
+"Nun öffne den Ordner mit deiner Geräte ID als Namen (kryptische "
+"Zahlen/Buchstabenreihenfolge) und suche den Ordner *Activities*."
 
 #: ../../starting-guide/import.rst:54
 msgid "Linux"
@@ -124,6 +126,10 @@ msgid ""
 "certainly does for Garmin Forerunner (60, 70, 405CX, 310XT, 610, 910XT) and "
 "Garmin Swim."
 msgstr ""
+"Es gibt ein Tool namens `antf-cli <https://github.com/Tigge/antfs-cli>`_. "
+"Dieses Gerät sollte theoretisch mit jedem konformen ANT-FS Gerät in der "
+"Theorie funktionieren. Erfolgreich getestet wurde es mit der Garmin "
+"Forerunner (60, 70, 405CX, 310XT, 610, 910XT)  und der Garmin Swim."
 
 #: ../../starting-guide/import.rst:59
 msgid "Polar"
@@ -137,6 +143,10 @@ msgid ""
 "<https://github.com/profanum429/v800_downloader>`_ on Github which does "
 "nearly the same."
 msgstr ""
+"Die Software `bipolar <https://github.com/pcolby/bipolar>`_ can Aktivitäten "
+"von Polar FlowSync, PolarV800 oder Polar Loop herunterladen. Eine andere "
+"Software  `V800 Downloader <https://github.com/profanum429/v800_downloader>`"
+"_ , die es auf Github gibt tut fast das Gleiche."
 
 #: ../../starting-guide/import.rst:65
 msgid "TomTom Runner/Multisport Cardio"
@@ -150,7 +160,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:69
 msgid "There you'll find a folder for every day with \\*.ttbin files."
-msgstr ""
+msgstr "In nach Datum benannten Ordnern findest du die \\*.ttbin Dateien."
 
 #: ../../starting-guide/import.rst:71
 msgid ""
@@ -158,6 +168,9 @@ msgid ""
 "<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_ if"
 " you're using the iPhone App."
 msgstr ""
+"Siehe dir den folgenden Artikel auf `dcrainmaker.com "
+"<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_ "
+"an, wenn du die iPhone App nutzt."
 
 #: ../../starting-guide/import.rst:73
 msgid ""
@@ -165,6 +178,9 @@ msgid ""
 "<https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth "
 "<https://github.com/dlenski/ttblue>`_ from your watch."
 msgstr ""
+"Wenn du ein MAC oder Linux System nutzt kannst du  `via USB "
+"<https://github.com/ryanbinns/ttwatch>`_ oder `via Bluetooth "
+"<https://github.com/dlenski/ttblue>`_ an die Daten der Uhr rankommen."
 
 #: ../../starting-guide/import.rst:76
 msgid "Suunto"
@@ -172,63 +188,73 @@ msgstr "Suunto"
 
 #: ../../starting-guide/import.rst:79
 msgid "Apps & Webservices"
-msgstr ""
+msgstr "Apps & Webportale"
 
 #: ../../starting-guide/import.rst:81
 msgid ""
 "Yes: We'll add an API to enable synchronization with other plattforms, e.g. "
 "via tapiriik, some day."
 msgstr ""
+"Ja: Wir werden eine Schnittstelle hinzufügen, damit wir in Zukunft mit "
+"anderen Plattformen, wie zum Beispiel tapiriik oder auch direkt über die "
+"Portale der Hersteller an die Trainingsdaten herankommen können."
 
 #: ../../starting-guide/import.rst:84
+#, fuzzy
 msgid "Endomondo"
-msgstr ""
+msgstr "Endomondo"
 
 #: ../../starting-guide/import.rst:85 ../../starting-guide/import.rst:89
 #: ../../starting-guide/import.rst:94 ../../starting-guide/import.rst:167
 #: ../../starting-guide/import.rst:171 ../../starting-guide/import.rst:175
 msgid "\\- Does not encode pauses [#encodepauses]_"
-msgstr ""
+msgstr "\\- Pausen sind nicht kodiert [#encodepauses]_"
 
 #: ../../starting-guide/import.rst:88
+#, fuzzy
 msgid "Strava"
-msgstr ""
+msgstr "Strava"
 
 #: ../../starting-guide/import.rst:92
+#, fuzzy
 msgid "Runtastic"
-msgstr ""
+msgstr "Runtastic"
 
 #: ../../starting-guide/import.rst:93
 msgid "\\- Resampled file [#resampleddata]_"
-msgstr ""
+msgstr "\\- resampelte Datei [#resampleddata]_"
 
 #: ../../starting-guide/import.rst:98
 msgid "**How to export all activities**"
-msgstr ""
+msgstr "**Wie exportiere ich alle Aktivitäten?**"
 
 #: ../../starting-guide/import.rst:100
 msgid ""
 "By default, Runtastic does only provide a way to export single activities. "
 "With a little trick you can download all activites at once:"
 msgstr ""
+"Standardmäßig erlaubt es Runtastic nur einzelne Aktivitäten zu exportieren. "
+"Mit einem kleinen Trick kann man alle Aktivitäten auf einmal herunterladen:"
 
 #: ../../starting-guide/import.rst:103 ../../starting-guide/import.rst:123
 msgid "Drag the following link to your toolbar/bookmars"
-msgstr ""
+msgstr "Ziehe den folgenden Link in deine Lesezeichenleiste"
 
 #: ../../starting-guide/import.rst:110
 msgid "Open the activity overview on the runtastic homepage"
-msgstr ""
+msgstr "Öffne die Aktivitätsübersicht der Runtastic Webseite"
 
 #: ../../starting-guide/import.rst:114
 msgid "and click on the bookmark."
-msgstr ""
+msgstr "und klicke auf das Lesezeichen in der Lesezeichen/Favoritenliste."
 
 #: ../../starting-guide/import.rst:116
 msgid ""
 "(Thanks to `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-"
 "activities-from-runtastic-as-tcx>`_)"
 msgstr ""
+"(Danke an `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-"
+"activities-from-runtastic-as-tcx>`_)"
 
 #: ../../starting-guide/import.rst:119
 msgid "Garmin Connect"
@@ -236,7 +262,7 @@ msgstr "Garmin Connect"
 
 #: ../../starting-guide/import.rst:121
 msgid "**How to download multiple activites via browser**"
-msgstr ""
+msgstr "**Wie lade ich mehrere Aktivitäten über den Browser herunter?**"
 
 #: ../../starting-guide/import.rst:129
 msgid ""
@@ -244,6 +270,9 @@ msgid ""
 "afterwards this site: `Activity overview "
 "<https://connect.garmin.com/minactivities>`_"
 msgstr ""
+"Logge dich bei  `Garmin Connect <https://connect.garmin.com>`_ ein und öffne "
+"danach folgende Seite: `Aktivitätsübersicht "
+"<https://connect.garmin.com/minactivities>`_"
 
 #: ../../starting-guide/import.rst:131
 msgid ""
@@ -251,10 +280,13 @@ msgid ""
 "downloaded. Go to the next page (2 ...3 ...4) and click again on the "
 "bookmark."
 msgstr ""
+"Klicke auf das Lesezeichen - Alle Aktivitäten die du aktuell auf der Seite "
+"siehst werden heruntergeladen. Gehe auf die nächsten Seiten (2...3...4) und "
+"klicke erneut auf das Lesezeichen."
 
 #: ../../starting-guide/import.rst:134
 msgid "**How to download all activites via script**"
-msgstr ""
+msgstr "**Wie lade ich alle Aktivitäten über ein Skript herunter?**"
 
 #: ../../starting-guide/import.rst:136
 msgid ""
@@ -269,10 +301,13 @@ msgid "Or if you just want to download the last 3 activitivies"
 msgstr ""
 
 #: ../../starting-guide/import.rst:144
+#, fuzzy
 msgid ""
 "python gcexport.py -d activities -c 3 -f original -u --username <Username> "
 "--password <Password>"
 msgstr ""
+"python gcexport.py -d activities -c 3 -f original -u --username <Username> --"
+"password <Password>"
 
 #: ../../starting-guide/import.rst:147
 msgid "sports-tracker.com"
@@ -285,16 +320,17 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/import.rst:152
+#, fuzzy
 msgid "Trainingstagebuch.org"
-msgstr ""
+msgstr "Trainingstagebuch.org"
 
 #: ../../starting-guide/import.rst:153
 msgid "**How to export all activities as .gpx files**"
-msgstr ""
+msgstr "**Wie lade ich alle Aktivitäten als .gpx Datei herunter?**"
 
 #: ../../starting-guide/import.rst:155
 msgid "Drag the following link to your toolbar/bookmarks"
-msgstr ""
+msgstr "Ziehe den folgenden Link als Lesezeichen in deine Browserleiste"
 
 #: ../../starting-guide/import.rst:162
 msgid ""
@@ -305,20 +341,24 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/import.rst:166
+#, fuzzy
 msgid "Nike+"
-msgstr ""
+msgstr "Nike+"
 
 #: ../../starting-guide/import.rst:170
+#, fuzzy
 msgid "MapMyRun"
-msgstr ""
+msgstr "MapMyRun"
 
 #: ../../starting-guide/import.rst:174
+#, fuzzy
 msgid "iRunner"
-msgstr ""
+msgstr "iRunner"
 
 #: ../../starting-guide/import.rst:178
+#, fuzzy
 msgid "Run.GPS"
-msgstr ""
+msgstr "Run.GPS"
 
 #: ../../starting-guide/import.rst:179
 msgid "\\+ high precision data"
@@ -341,6 +381,8 @@ msgid ""
 "Please send us an example file if you think we are missing some data during "
 "the import."
 msgstr ""
+"Bitte sende uns eine Beispieldatei, wenn du denkst, dass einige Daten nicht "
+"von uns importiert werden."
 
 #: ../../starting-guide/import.rst:189
 msgid "N = No"
@@ -352,11 +394,11 @@ msgstr "M = Vielleicht"
 
 #: ../../starting-guide/import.rst:191
 msgid "C = Will be calculated if not present"
-msgstr ""
+msgstr "C = Wird berechnet, wenn nicht vorhanden"
 
 #: ../../starting-guide/import.rst:192
 msgid "CC = Will be calculated when a condition is given"
-msgstr ""
+msgstr "CC = Wird berechnet, wenn eine bestimmte Bedingung erfüllt ist"
 
 #: ../../starting-guide/import.rst:195
 msgid ""
@@ -370,39 +412,47 @@ msgstr "Typ"
 
 #: ../../starting-guide/import.rst:198
 msgid "FIT"
-msgstr ""
+msgstr "FIT"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "TCX/TTBIN"
-msgstr ""
+msgstr "TCX/TTBIN"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "GPX"
-msgstr ""
+msgstr "GPX"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "PWX"
-msgstr ""
+msgstr "PWX"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "hrm & gpx"
-msgstr ""
+msgstr "hrm & gpx"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "Fitlog"
-msgstr ""
+msgstr "Fitlog"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "Logbook (3)"
-msgstr ""
+msgstr "Logbook (3)"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "kml/kmz"
-msgstr ""
+msgstr "kml/kmz"
 
 #: ../../starting-guide/import.rst:198
+#, fuzzy
 msgid "TRK"
-msgstr ""
+msgstr "TRK"
 
 #: ../../starting-guide/import.rst:198
 msgid "sml"
@@ -593,14 +643,16 @@ msgstr "Kalorien"
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
+#, fuzzy
 msgid "✓/C"
-msgstr ""
+msgstr "✓/C"
 
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:230
+#, fuzzy
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: ../../starting-guide/import.rst:216
 msgid "GPS"
@@ -628,7 +680,7 @@ msgstr "?"
 
 #: ../../starting-guide/import.rst:226
 msgid "Cadence (spm/rpm)"
-msgstr ""
+msgstr "Kadenz (spm/rpm)"
 
 #: ../../starting-guide/import.rst:228
 msgid "Power"
@@ -636,7 +688,7 @@ msgstr "Power"
 
 #: ../../starting-guide/import.rst:230
 msgid "Stride length"
-msgstr ""
+msgstr "Schrittlänge"
 
 #: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
 #: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
@@ -647,7 +699,7 @@ msgstr "CC"
 
 #: ../../starting-guide/import.rst:232
 msgid "Ground Contact Time"
-msgstr ""
+msgstr "Bodenkontaktzeit"
 
 #: ../../starting-guide/import.rst:234
 msgid "Ground Contact Balance"
