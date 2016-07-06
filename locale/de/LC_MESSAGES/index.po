@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 14:10+0000\n"
+"PO-Revision-Date: 2016-07-06 19:23+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/index/de/>\n"
@@ -23,13 +23,15 @@ msgstr ""
 
 #: ../../index.rst:2
 msgid "Welcome to RUNALYZE - User documentation!"
-msgstr ""
+msgstr "Willkommen - Dies ist die RUNALYZE Nutzerdokumentation!"
 
 #: ../../index.rst:4
 msgid ""
 "This site contains affiliate links to support the development and "
 "infrastructure of RUNALYZE. They are marked with an *"
 msgstr ""
+"Die Dokumentation enthält Affiliate-Links um die Entwicklung und die "
+"Infrastruktur zu unterstützen. Sie sind mit einem * gekennzeichnet"
 
 #: ../../index.rst:6
 msgid ""
@@ -44,7 +46,7 @@ msgstr ""
 
 #: ../../index.rst:44
 msgid "Indices and tables"
-msgstr ""
+msgstr "Index und Tabellen"
 
 #: ../../index.rst:46
 msgid ":ref:`genindex`"
@@ -56,7 +58,7 @@ msgstr ":ref:`modindex`"
 
 #: ../../index.rst:48
 msgid ":ref:`search`"
-msgstr ""
+msgstr ":ref:`search`"
 
 #~ msgid "Contents:"
 #~ msgstr ""
