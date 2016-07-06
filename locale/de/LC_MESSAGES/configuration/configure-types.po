@@ -4,18 +4,21 @@
 # documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-06 14:13+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
+"/configure-types/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../configuration/configure-types.rst:3
@@ -46,7 +49,7 @@ msgstr ""
 
 #: ../../configuration/configure-types.rst:15
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ../../configuration/configure-types.rst:17
 msgid "Should speak for itself. Type in the “long” name of the activity type."
