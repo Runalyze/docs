@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 14:11+0000\n"
+"PO-Revision-Date: 2016-07-06 18:12+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/supported-devices/de/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../supported-devices.rst:3
 msgid "Supported devices"
-msgstr ""
+msgstr "Unterstützte Geräte"
 
 #: ../../supported-devices.rst:5
 msgid ""
@@ -46,27 +46,31 @@ msgstr ""
 
 #: ../../supported-devices.rst:12
 msgid "Abbreviations:"
-msgstr ""
+msgstr "Abkürzungen:"
 
 #: ../../supported-devices.rst:14
 msgid "Get the file via usb mass storage"
-msgstr ""
+msgstr "Hole dir die Datei über die USB Massenspeicherfunktion"
 
 #: ../../supported-devices.rst:15
 msgid ""
 "Export original file via `Garmin Connect <https://connect.garmin.com/de-"
 "DE/>`_"
 msgstr ""
+"Exportiere die originale Datei von `Garmin Connect "
+"<https://connect.garmin.com/de-DE/>`_"
 
 #: ../../supported-devices.rst:16
 msgid "Export the tcx file via `Polar flow <https://flow.polar.com/>`_"
-msgstr ""
+msgstr "Exportiere die TCX Datei von `Polar flow <https://flow.polar.com/>`_"
 
 #: ../../supported-devices.rst:17
 msgid ""
 "Export the original file via `TomTom MySports "
 "<https://mysports.tomtom.com/>`_"
 msgstr ""
+"Export die originale Datei via `TomTom MySports "
+"<https://mysports.tomtom.com/>`_"
 
 #: ../../supported-devices.rst:20
 msgid ""
@@ -76,15 +80,15 @@ msgstr ""
 
 #: ../../supported-devices.rst:23
 msgid "Producer"
-msgstr ""
+msgstr "Hersteller"
 
 #: ../../supported-devices.rst:23
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 #: ../../supported-devices.rst:23
 msgid "Orig. File Format"
-msgstr ""
+msgstr "Orig. Dateiformat"
 
 #: ../../supported-devices.rst:23
 msgid "Access to files"
@@ -286,7 +290,7 @@ msgstr ""
 #: ../../supported-devices.rst:119 ../../supported-devices.rst:121
 #: ../../supported-devices.rst:123 ../../supported-devices.rst:125
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: ../../supported-devices.rst:99
 msgid "Adventura"
