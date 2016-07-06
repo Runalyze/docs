@@ -4,27 +4,30 @@
 # documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-06 18:10+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
+"/knowledge-base/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../knowledge-base.rst:3
 msgid "Knowledge Base"
-msgstr ""
+msgstr "Knowledge Base"
 
 #: ../../knowledge-base.rst:6
 msgid "How can I delete my account?"
-msgstr ""
+msgstr "Wie kann ich meinen Account löschen?"
 
 #: ../../knowledge-base.rst:7
 msgid ""
@@ -34,16 +37,22 @@ msgid ""
 "confirm the deletion of your account. All your data will be deleted "
 "immediately from our database."
 msgstr ""
+"Wenn du deinen Account löschen möchtest, dann wechsel unter Konfiguration "
+"auf den Reiter *Account* und klicke den Link zum Löschen deines Accounts. Du "
+"wirst eine Bestätigungsmail zur finalen Löschung deines Accounts erhalten. "
+"Alle Daten werden sofort aus unserer Datenbank gelöscht."
 
 #: ../../knowledge-base.rst:11
 msgid ""
 "The data will be available in our database for maximal 30 days after your"
 " deletion. We cannot restore individual accounts."
 msgstr ""
+"Die Daten werden in unserem Backup maximal 30 Tage nach der Löschung "
+"rausaltern. Wir können keine einzelnen Accounts wiederherstellen."
 
 #: ../../knowledge-base.rst:14
 msgid "Enable R-R recording on Garmin 910XT"
-msgstr ""
+msgstr "Aktiviere die R-R Aufnahme bei der Garmin 910XT"
 
 #: ../../knowledge-base.rst:15
 msgid ""
@@ -54,7 +63,7 @@ msgstr ""
 
 #: ../../knowledge-base.rst:18
 msgid "This does work for Garmin FR 620 as well."
-msgstr ""
+msgstr "Dies funktioniert auch bei der Garmin Forerunner 620."
 
 #: ../../knowledge-base.rst:20
 msgid ""
@@ -65,7 +74,7 @@ msgstr ""
 
 #: ../../knowledge-base.rst:25
 msgid "Enable R-R recording on Garmin 920XT/Fenix 3"
-msgstr ""
+msgstr "Aktivierung der R-R Aufnahme bei der Garmin 920XT/Fenix 3"
 
 #: ../../knowledge-base.rst:26
 msgid ""
@@ -73,6 +82,9 @@ msgid ""
 "/garmin-920xt-turn-on-hrv/>`_. You'll have to download a \\*.fit file and"
 " save it on your device."
 msgstr ""
+"Siehe `the5krunner.com <http://the5krunner.com/2014/12/11/garmin-920xt-turn-"
+"on-hrv/>`_. Du musst dir dort die \\*.fit Datei herunterladen und auf deiner "
+"Uhr abspeichern."
 
 #: ../../knowledge-base.rst:30
 msgid "Get the garmin communicator running in Firefox >=Version 43"
@@ -83,4 +95,5 @@ msgid ""
 "Have a look at `blog.runalyze.com <http://blog.runalyze.com/allgemein"
 "/garmin-communicator-in-firefox-43/>`_."
 msgstr ""
-
+"Schaue auf unserem Blog vorbei <http://blog.runalyze.com/allgemein/garmin-"
+"communicator-in-firefox-43/>`_."
