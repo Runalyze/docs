@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 18:21+0000\n"
+"PO-Revision-Date: 2016-07-06 19:45+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/configure-equipment/de/>\n"
@@ -30,6 +30,8 @@ msgid ""
 "We will improve the form/design for adding new equipment (objects or "
 "categories) when we have a new design."
 msgstr ""
+"Wir werden die Eingabe von neuem Equipment (Ausrüstungsobjekte und "
+"Kategorien) in einem zukünftigen neuen Design überarbeiten."
 
 #: ../../configuration/configure-equipment.rst:8
 msgid ""
@@ -55,12 +57,16 @@ msgstr "Hinzufügen einer Ausrüstungskategorie"
 #: ../../configuration/configure-equipment.rst:18
 msgid "Go to Configuration -> Equipment to add a new equipment object/category."
 msgstr ""
+"Gehe zu Konfiguration -> Equipment um ein neues Ausrüstungs-objekt/-"
+"kategorie hinzuzufügen."
 
 #: ../../configuration/configure-equipment.rst:22
 msgid ""
 "If you want to add a new equipment category you have to fill out the "
 "last, greyed-out row."
 msgstr ""
+"Wenn du eine neue Ausrüstungskategorie hinzuzufügen möchtest musst du die "
+"letzte ausgegraute Zeile ausfüllen."
 
 #: ../../configuration/configure-equipment.rst:24
 msgid "Add the name of the equipment category"
@@ -101,6 +107,8 @@ msgid ""
 "If you want to add a new equipment object you have to fill out the last, "
 "greyed-out row."
 msgstr ""
+"Wenn du eine neue Ausrüstungsobjekt hinzuzufügen möchtest musst du die "
+"letzte ausgegraute Zeile ausfüllen."
 
 #: ../../configuration/configure-equipment.rst:41
 msgid "Add the name of your new object"
