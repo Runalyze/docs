@@ -4,16 +4,20 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-05 21:14+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-06 18:06+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"help/elevation/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 
 #: ../../calculations/elevation.rst:3
 msgid "Elevation"
-msgstr ""
+msgstr "Höhenmeter"
 
 #: ../../calculations/elevation.rst:5
 msgid ""
@@ -25,17 +29,20 @@ msgstr ""
 
 #: ../../calculations/elevation.rst:8
 msgid "Elevation data and elevation correction"
-msgstr ""
+msgstr "Höhendaten und Höhenkorrektur"
 
 #: ../../calculations/elevation.rst:11
 msgid "Recording of activities"
-msgstr ""
+msgstr "Aufzeichnung des Trainings"
 
 #: ../../calculations/elevation.rst:12
 msgid ""
 "Let's start with the recording of an activity. Not only the position in "
 "terms of latitude/longitude but also the elevation is determined via GPS."
 msgstr ""
+"Fangen wir mit der Aufzeichnung des Trainings an. Dabei wird durch das GPS-"
+"Signal nicht nur die Position auf der Karte in Form von Koordinaten sondern "
+"auch die Höhe ermittelt."
 
 #: ../../calculations/elevation.rst:14
 msgid ""
@@ -44,12 +51,19 @@ msgid ""
 "variations are negligible. It doesn't matter if you're running 10 meters to "
 "the left or right of the way."
 msgstr ""
+"Das klingt zwar gut, ist es aber nicht: Wie aber jeder Läufer mit GPS-Uhr "
+"weiß, schwankt die Qualität des GPS-Signals mitunter stark. Oft kann das in "
+"Bezug auf die Gesamtdistanz vernachlässigt werden. Ob man gerade 10 Meter "
+"weiter links oder rechts des Weges läuft, macht keinen großen Unterschied."
 
 #: ../../calculations/elevation.rst:16
 msgid ""
 "But the same variations apply for the recorded elevation – and for elevation"
 " it's a significant difference if you are running 10 meters higher or lower."
 msgstr ""
+"Die gleichen Schwankungen gelten aber auch für die Höhe – und ob man 10 "
+"Meter weiter oben oder unten läuft, macht im Höhenprofil durchaus einen "
+"deutlichen Unterschied."
 
 #: ../../calculations/elevation.rst:18
 msgid ""
@@ -57,16 +71,21 @@ msgid ""
 "correction is used by default. This applies to any platform like Garmin "
 "Connect, Polar Flow as well."
 msgstr ""
+"Deshalb sind GPS-Höhendaten unbrauchbar und bei uns die Höhenkorrektur "
+"standardmäßig eingeschaltet. Die wird ebenso bei Garmin Connect oder "
+"SportTracks oder nahezu jedem beliebigen Anbieter durchgeführt."
 
 #: ../../calculations/elevation.rst:20
 msgid ""
 "Elevation data from a device should only be used if the device has a "
 "barometric altimeter included."
 msgstr ""
+"Die Höhendaten der Geräte sollten nur dann genutzt werden, wenn die GPS-Uhr "
+"einen Barometer besitzt."
 
 #: ../../calculations/elevation.rst:23
 msgid "Elevation correction via satellite data"
-msgstr ""
+msgstr "Höhenkorrektur über Satellitendaten"
 
 #: ../../calculations/elevation.rst:24
 msgid ""
@@ -74,6 +93,8 @@ msgid ""
 "altitude of every pair of coordinates is determined from some digital "
 "elevation model, in general an elevation profile of the global surface."
 msgstr ""
+"Das Prinzip der Höhenkorrektur ist recht einfach. Aus Datensätzen werden für "
+"alle Koordinaten der Strecke die jeweiligen Höhenangaben ermittelt."
 
 #: ../../calculations/elevation.rst:26
 msgid ""
@@ -82,6 +103,11 @@ msgid ""
 "resolution is not perfect and these datasets are noisy, but they are usually"
 " the best fit if there are no barometric measurements."
 msgstr ""
+"Ein solcher Datensatz sind zum Beispiel die SRTM-Daten, die im Jahr 2000 aus "
+"dem Weltraum aufgezeichnet wurden (Shuttle Radar Topography Mission). Diese "
+"Daten sind in einem Raster von 90x90m frei verfügbar. Die Auflösung ist zwar "
+"nicht perfekt und auch diese Daten sind teilweise etwas verrauscht, aber sie "
+"sind in der Regel die besten Daten, die man verwenden kann."
 
 #: ../../calculations/elevation.rst:28
 msgid ""
@@ -89,6 +115,10 @@ msgid ""
 "but the number of requests is limited. At RUNALYZE we're hosting our own "
 "SRTM files nowadays to get an accurate elevation profile for your activity."
 msgstr ""
+"Auch die öffentlichen Schnittstellen von Geonames.org und GoogleMap bieten "
+"diese Daten an, aber die Anzahl der Abfragen ist limitiert. Bei RUNALYZE.com "
+"hosten wir alle SRTM Dateien für die ganze Welt, damit du ein genaues "
+"Höhenprofil für deine Aktivität erhältst."
 
 #: ../../calculations/elevation.rst:30
 msgid ""
@@ -99,26 +129,31 @@ msgid ""
 "(based on satellite data). This does not yield a single, \"true\" elevation "
 "value for your activity."
 msgstr ""
+"**Fazit:** Das beste Höhenprofil bekommst du mit einem barometrischen "
+"Höhenmesser. Nutzer ohne Barometer **sollten immer die Höhenkorrektur "
+"aktivieren**. Aber vergiss nicht: Höhenkorrektur heißt nur, dass wir das "
+"Höhenprofil (auf Basis der GPS Daten) korrigieren. Dies ergibt noch längst "
+"nicht den \"richtigen\" Höhenwert."
 
 #: ../../calculations/elevation.rst:33
 msgid "`<https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission>`_"
-msgstr ""
+msgstr "`<https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission>`_"
 
 #: ../../calculations/elevation.rst:34
 msgid "`<http://srtm.csi.cgiar.org/>`_"
-msgstr ""
+msgstr "`<http://srtm.csi.cgiar.org/>`_"
 
 #: ../../calculations/elevation.rst:35
 msgid "`<http://dwtkns.com/srtm/>`_"
-msgstr ""
+msgstr "`<http://dwtkns.com/srtm/>`_"
 
 #: ../../calculations/elevation.rst:38
 msgid "The calculation of the elevation value (total ascent/descent)"
-msgstr ""
+msgstr "Die Berechnung der Höhenmeter (Summe Bergauf/Bergab)"
 
 #: ../../calculations/elevation.rst:40
 msgid "The problem"
-msgstr ""
+msgstr "Die Problematik"
 
 #: ../../calculations/elevation.rst:41
 msgid ""
@@ -126,6 +161,9 @@ msgid ""
 "interested in their total elevation gain (sometimes just called "
 "\"elevation\" of an activity)."
 msgstr ""
+"Die meisten Läufer wollen nicht nur ein schönes Höhenprofil sehen. Sie "
+"wollen auch den den genauen Wert der Höhenmeter wissen. (Wie viel bin ich "
+"bergauf/bergab gelaufen?)."
 
 #: ../../calculations/elevation.rst:43
 msgid ""
@@ -152,27 +190,31 @@ msgstr ""
 
 #: ../../calculations/elevation.rst:51
 msgid "The solution: smoothing algorithms"
-msgstr ""
+msgstr "Die Lösung: Glättungsalgorithmen"
 
 #: ../../calculations/elevation.rst:52
 msgid ""
 "Our workaround is to \"smooth\" the elevation profile (only for calculating "
 "total elevation). RUNALYZE currently supports three methods:"
 msgstr ""
+"Um das Problem zu umgehen, können die Höhendaten für die Berechnung "
+"„geglättet“ werden. Dabei unterstützt Runalyze derzeit drei Methoden:"
 
 #: ../../calculations/elevation.rst:54
 msgid "No smoothing"
-msgstr ""
+msgstr "keine Glättung"
 
 #: ../../calculations/elevation.rst:55
 msgid "Threshold method"
-msgstr ""
+msgstr "Schwellenwert-Methode"
 
 #: ../../calculations/elevation.rst:56
 msgid ""
 "`Douglas-Peucker-Algorithm "
 "<https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm>`_"
 msgstr ""
+"`Douglas-Peucker-Algorithmus <https://en.wikipedia.org/wiki/Ramer%E2%80%93Dou"
+"glas%E2%80%93Peucker_algorithm>`_"
 
 #: ../../calculations/elevation.rst:58
 msgid ""
@@ -183,6 +225,11 @@ msgid ""
 "VDOT values\")). You will notice that without smoothing far too high values "
 "will appear."
 msgstr ""
+"**Keine Glättung** entspricht dem naiven Ansatz, jedes Auf und Ab zu "
+"summieren. Ihr könnt die Einstellungen beliebig umstellen, im Anschluss "
+"jeweils über Tools -> Datenbank-Cleanup -> „Höhenmeter neu berechnen und "
+"VDOT anpassen“ die Glättung ausprobieren. Ihr werdet merken, dass ohne "
+"Glättung viel zu hohe Werte entstehen."
 
 #: ../../calculations/elevation.rst:62
 msgid ""
@@ -191,6 +238,11 @@ msgid ""
 "good results with a threshold of 3 meters. Therefore any difference of only "
 "one or two meters is ignored."
 msgstr ""
+"Bei der **Schwellenwert-Methode** werden geringe Höhenunterschiede "
+"ignoriert. Der Schwellenwert hierfür kann in der Konfiguration angepasst "
+"werden. Normalerweise liefert ein Schwellenwert von 3m vernünftige "
+"Ergebnisse. Dabei wird also jeder Höhenunterschied von nur ein oder zwei "
+"Metern ignoriert."
 
 #: ../../calculations/elevation.rst:64
 msgid ""
@@ -199,6 +251,10 @@ msgid ""
 "consecutive data points that are smaller than the threshold will be ignored."
 " That's where the Douglas-Peucker-algorithm comes into play."
 msgstr ""
+"Problematisch ist das natürlich, wenn man kontinuierlich ganz langsam "
+"bergauf läuft. Wenn die einzelnen Höhenunterschiede zwischen den "
+"Datenpunkten zu gering sind, wird ein viel zu geringer Wert berechnet. "
+"Abhilfe schafft hierbei der Douglas-Peucker-Algorithmus."
 
 #: ../../calculations/elevation.rst:66
 msgid ""
@@ -206,10 +262,13 @@ msgid ""
 " a certain algorithm) and tries to consider only significant \"ups and "
 "downs\"."
 msgstr ""
+"Dieser ignoriert einige der Zwischenwerte (nach bestimmten Algorithmus) und "
+"beachtet daher nur deutliche „Höhen und Tiefen“, nicht aber kleine Wellen im "
+"Profil."
 
 #: ../../calculations/elevation.rst:69
 msgid "Conclusion"
-msgstr ""
+msgstr "Fazit"
 
 #: ../../calculations/elevation.rst:70
 msgid ""
@@ -219,12 +278,19 @@ msgid ""
 " that you are satisfied with your calculated values. They won't match your "
 "devices values exactly, but that shouldn't be the point."
 msgstr ""
+"In der Summe klingt das sicherlich nicht ganz einfach und wir können euch "
+"keine Einstellungen vorgeben, mit denen ihr die „wahren“ Werte erhaltet, "
+"denn die kennt niemand. Ihr könnt die Einstellungen aber so an eure "
+"Bedürfnisse anpassen, damit ihr mit euren berechneten Werten zufrieden seid."
 
 #: ../../calculations/elevation.rst:73
 msgid ""
 "The information window about the elevation data, which you can open for "
 "every activity, can help finding the correct settings."
 msgstr ""
+"Eine Hilfe kann dabei das Infofenster über Höhenmeter sein, dass ihr für "
+"jedes Training mit dem kleinen Info-Icon in der Zeile der Höhenmeter "
+"aufrufen könnt:"
 
 #: ../../calculations/elevation.rst:77
 msgid ""
@@ -232,3 +298,6 @@ msgid ""
 "algorithms. There's a table for the different algorithms and thresholds as "
 "well."
 msgstr ""
+"Dort werden im Diagramm die Originaldaten mit den korrigierten Daten "
+"verglichen und auch die unterschiedlichen Algorithmen dargestellt und "
+"tabellarisch nach verschiedenen Schwellenwerten verglichen."
