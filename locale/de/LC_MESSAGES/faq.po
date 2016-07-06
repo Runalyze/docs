@@ -9,12 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-06 14:08+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"help/faq/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../faq.rst:3
@@ -43,7 +47,7 @@ msgstr ""
 
 #: ../../faq.rst:16
 msgid "The file type \\*.XYZ is not supported"
-msgstr ""
+msgstr "Der Dateityp \\*.XYZ wird nicht unterstützt."
 
 #: ../../faq.rst:17
 msgid ""
@@ -52,17 +56,19 @@ msgstr ""
 
 #: ../../faq.rst:22
 msgid "Will there be an app for smartphones?"
-msgstr ""
+msgstr "Wird es eine App für Smartphones geben?"
 
 #: ../../faq.rst:23
 msgid ""
 "Some day, probably. So far, this is not a high priority as there are many "
 "other areas requiring our full attention."
 msgstr ""
+"Irgendwann, vielleicht. Bisher hat dies für uns keine hohe Priorität, da "
+"andere Bereiche eine höhere Aufmerksamkeit benötigen."
 
 #: ../../faq.rst:28
 msgid "Will there be a synchronisation with other platforms?"
-msgstr ""
+msgstr "Wird es eine Synchronisationsmöglichkeit mit anderen Plattformen geben?"
 
 #: ../../faq.rst:29
 msgid ""
@@ -74,13 +80,16 @@ msgstr ""
 
 #: ../../faq.rst:36
 msgid "Can I publish my running diary?"
-msgstr ""
+msgstr "Kann ich mein Trainingstagebuch veröffentlichen?"
 
 #: ../../faq.rst:37
 msgid ""
 "Fundamentally, RUNALYZE is not designed to be a new athletes community. Our "
 "main focus lies on analyzing your training."
 msgstr ""
+"RUNALYZE ist bisher nicht für eine Communityfunktion ausgelegt. Wir machen "
+"uns aber trotzdem schon Gedanken über eine solche Funktion. Unser Hauptfokus "
+"liegt auf der Analyse von Trainingseinheiten."
 
 #: ../../faq.rst:40
 msgid ""
@@ -98,6 +107,8 @@ msgstr ""
 #: ../../faq.rst:56
 msgid "The file import seems buggy? Incorrect values?"
 msgstr ""
+"Die hochgeladene Trainingsdatei scheint defekt zu sein? Es werden falsche "
+"Werte ausgegeben?"
 
 #: ../../faq.rst:57
 msgid ""
@@ -105,6 +116,9 @@ msgid ""
 "your expected results. We'll have a look at your issue and will try to fix "
 "it."
 msgstr ""
+"Sende uns eine Mail mit der Beispieldatei und einer detaillierten "
+"Beschreibung der Probleme und der eigentlichen erwarteten Werte. Wir werden "
+"uns dein Problem ansehen und versuchen eine Lösung dafür zu finden."
 
 #: ../../faq.rst:48
 msgid ""
@@ -119,7 +133,7 @@ msgstr ""
 
 #: ../../faq.rst:63
 msgid "Runalyze shows an incorrect total duration"
-msgstr ""
+msgstr "RUNALYZE zeigt eine falsche Gesamtzeit an"
 
 #: ../../faq.rst:64
 msgid ""
@@ -143,6 +157,8 @@ msgstr ""
 #: ../../faq.rst:76
 msgid "Runalyze says that there are not enough results for good predictions"
 msgstr ""
+"RUNALYZE sagt, dass es bisher nicht genügend Ergebnisse für gute Prognosen "
+"gibt"
 
 #: ../../faq.rst:77
 msgid "To get good predictions you need to have at least one race."
