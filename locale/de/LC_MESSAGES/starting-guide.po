@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-02 20:26+0200\n"
-"PO-Revision-Date: 2016-07-06 16:40+0000\n"
+"PO-Revision-Date: 2016-07-06 19:31+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/starting-guide/de/>\n"
@@ -23,6 +23,8 @@ msgstr ""
 msgid ""
 "With this tutorial we want to show you how to add and edit a new sport."
 msgstr ""
+"In diesem Tutorial zeigen wir dir wie du eine neue Sportart hinzufügen und "
+"editieren kannst."
 
 #: ../../starting-guide/fast-start.rst:3
 msgid "Fast start"
@@ -138,7 +140,7 @@ msgstr "Suunto"
 
 #: ../../starting-guide/import.rst:67
 msgid "Apps & Webservices"
-msgstr ""
+msgstr "Apps & Webportale"
 
 #: ../../starting-guide/import.rst:69
 msgid ""
@@ -147,42 +149,49 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/import.rst:73
+#, fuzzy
 msgid "Endomondo"
-msgstr ""
+msgstr "Endomondo"
 
 #: ../../starting-guide/import.rst:74 ../../starting-guide/import.rst:78
 #: ../../starting-guide/import.rst:83 ../../starting-guide/import.rst:87
 #: ../../starting-guide/import.rst:91 ../../starting-guide/import.rst:95
 msgid "\\- Does not encode pauses [#encodepauses]_"
-msgstr ""
+msgstr "\\- Pausen sind nicht kodiert [#encodepauses]_"
 
 #: ../../starting-guide/import.rst:77
+#, fuzzy
 msgid "Strava"
-msgstr ""
+msgstr "Strava"
 
 #: ../../starting-guide/import.rst:81
+#, fuzzy
 msgid "Runtastic"
-msgstr ""
+msgstr "Runtastic"
 
 #: ../../starting-guide/import.rst:82
 msgid "\\- Resampled file [#resampleddata]_"
-msgstr ""
+msgstr "\\- resampelte Datei [#resampleddata]_"
 
 #: ../../starting-guide/import.rst:86
+#, fuzzy
 msgid "Nike+"
-msgstr ""
+msgstr "Nike+"
 
 #: ../../starting-guide/import.rst:90
+#, fuzzy
 msgid "MapMyRun"
-msgstr ""
+msgstr "MapMyRun"
 
 #: ../../starting-guide/import.rst:94
+#, fuzzy
 msgid "iRunner"
-msgstr ""
+msgstr "iRunner"
 
 #: ../../starting-guide/import.rst:98
+#, fuzzy
 msgid "Run.GPS"
-msgstr ""
+msgstr "Run.GPS"
 
 #: ../../starting-guide/import.rst:99
 msgid "\\+ high precision data"
@@ -201,7 +210,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:108
 msgid "FIT"
-msgstr ""
+msgstr "FIT"
 
 #: ../../starting-guide/import.rst:109
 msgid "\\+ Contains data like cadence, swimtype (strokecount ...)"
@@ -223,8 +232,9 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/import.rst:117
+#, fuzzy
 msgid "GPX"
-msgstr ""
+msgstr "GPX"
 
 #: ../../starting-guide/import.rst:118
 msgid "\\+ May contain pauses & laps"
