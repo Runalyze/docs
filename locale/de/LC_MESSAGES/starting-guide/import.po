@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 14:14+0000\n"
+"PO-Revision-Date: 2016-07-06 16:41+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/import/de/>\n"
@@ -31,10 +31,13 @@ msgid ""
 "RUNALYZE supports a wide range of file types and tries to fit all your "
 "needs. Still, some file types can be tricky."
 msgstr ""
+"Wir wissen, dass ich eine Vielzahl an Aktivitäten in RUNALYZE importieren "
+"wollt. RUNALYZE unterstützt eine Vielzahl an Dateitypen. Einige Dateitypen "
+"können manchmal etwas trickreich sein."
 
 #: ../../starting-guide/import.rst:10
 msgid "We always import all data that we can read from your file."
-msgstr ""
+msgstr "Wir importieren immer alle Daten, die wir aus einer Datei lesen können."
 
 #: ../../starting-guide/import.rst:13
 msgid "Devices"
@@ -50,6 +53,10 @@ msgid ""
 "*Garmin communicator*. We did not remove this option so far but the browser "
 "plugin itself is officially discontinued."
 msgstr ""
+"Vor einigen Jahren war es sehr einfach von Garmin Geräten mit Hilfe des *"
+"Garmin communicator* Trainingsdaten zu uns zu überspielen. Wir haben diese "
+"Option noch nicht entfernt, aber das Garmin Browser Plugin wird nicht mehr "
+"weiterentwickelt."
 
 #: ../../starting-guide/import.rst:19
 msgid ""
@@ -59,6 +66,12 @@ msgid ""
 "activity as zipped \\*.fit file from the activity's page (look for the "
 "\"*original format*\")."
 msgstr ""
+"Neuere Garmin Geräte können als USB Massenspeichermedium angeschlossen "
+"werden. Wähle einfach die \\*fit Datei aus dem Ordner *ACTIVITIES* (kann "
+"auch anders heißen) aus. Wenn dein Gerät sich mit Garmin Connect "
+"synchronisiert, dann kannst du darüber die Aktivität als gezippte \\.fit "
+"Datei von der Aktivitätsseite herunterladen (schaue nach \"*original "
+"exportieren*\")."
 
 #: ../../starting-guide/import.rst:22
 msgid ""
@@ -66,6 +79,9 @@ msgid ""
 "files from your Windows, MacOS or Linux system. Just look for the files in "
 "the following directories."
 msgstr ""
+"Wenn du Garmin Express oder den alten ANT-Agent nutzt, kannst du die Dateien "
+"vom Windows, MacOS oder Linux System zu uns hochladen. Halte nach den "
+"Dateien in den folgenden Verzeichnissen ausschau."
 
 #: ../../starting-guide/import.rst:26
 msgid "Garmin Express"
@@ -89,7 +105,7 @@ msgstr "ANT-Agent"
 
 #: ../../starting-guide/import.rst:42
 msgid "Windows: Open in the windows file explorer the following path::"
-msgstr ""
+msgstr "Windows: Öffne im Windows Explorer den folgenden Pfad::"
 
 #: ../../starting-guide/import.rst:46
 msgid ""
@@ -310,7 +326,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:183
 msgid "Different file types"
-msgstr ""
+msgstr "Verschiedene Dateitypen"
 
 #: ../../starting-guide/import.rst:184
 msgid ""
@@ -410,7 +426,7 @@ msgstr "hrm"
 
 #: ../../starting-guide/import.rst:200
 msgid "Distance"
-msgstr ""
+msgstr "Distanz"
 
 #: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
 #: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
@@ -481,15 +497,15 @@ msgstr "✓"
 
 #: ../../starting-guide/import.rst:202
 msgid "Startdate/time"
-msgstr ""
+msgstr "Startdatum"
 
 #: ../../starting-guide/import.rst:204
 msgid "Duration"
-msgstr ""
+msgstr "Dauer"
 
 #: ../../starting-guide/import.rst:206
 msgid "Sporttype"
-msgstr ""
+msgstr "Sporttyp"
 
 #: ../../starting-guide/import.rst:208
 msgid "Name"
@@ -559,19 +575,19 @@ msgstr "Name"
 #: ../../starting-guide/import.rst:246 ../../starting-guide/import.rst:246
 #: ../../starting-guide/import.rst:246
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../../starting-guide/import.rst:210
 msgid "Notes"
-msgstr ""
+msgstr "Notizen"
 
 #: ../../starting-guide/import.rst:212
 msgid "Heartrate"
-msgstr ""
+msgstr "Herzfrequenz"
 
 #: ../../starting-guide/import.rst:214
 msgid "Calories"
-msgstr ""
+msgstr "Kalorien"
 
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
@@ -592,7 +608,7 @@ msgstr "GPS"
 
 #: ../../starting-guide/import.rst:218
 msgid "Altitude"
-msgstr ""
+msgstr "Höhendaten"
 
 #: ../../starting-guide/import.rst:220
 msgid "Temperature"
@@ -608,7 +624,7 @@ msgstr "Pausen"
 
 #: ../../starting-guide/import.rst:224
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: ../../starting-guide/import.rst:226
 msgid "Cadence (spm/rpm)"
@@ -616,7 +632,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:228
 msgid "Power"
-msgstr ""
+msgstr "Power"
 
 #: ../../starting-guide/import.rst:230
 msgid "Stride length"
@@ -635,7 +651,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:234
 msgid "Ground Contact Balance"
-msgstr ""
+msgstr "Bodenkontaktzeit"
 
 #: ../../starting-guide/import.rst:236
 msgid "Vertical oscillation"
