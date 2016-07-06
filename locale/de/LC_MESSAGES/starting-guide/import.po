@@ -4,23 +4,26 @@
 # documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-06 14:14+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"help/import/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../starting-guide/import.rst:3
 msgid "Import activities"
-msgstr ""
+msgstr "Aktivitäten importieren"
 
 #: ../../starting-guide/import.rst:5
 msgid ""
@@ -35,11 +38,11 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:13
 msgid "Devices"
-msgstr ""
+msgstr "Geräte"
 
 #: ../../starting-guide/import.rst:15
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 
 #: ../../starting-guide/import.rst:16
 msgid ""
@@ -66,23 +69,23 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:26
 msgid "Garmin Express"
-msgstr ""
+msgstr "Garmin Express"
 
 #: ../../starting-guide/import.rst:27
 msgid "Windows 8::"
-msgstr ""
+msgstr "Windows 8::"
 
 #: ../../starting-guide/import.rst:31
 msgid "Windows 7::"
-msgstr ""
+msgstr "Windows 7::"
 
 #: ../../starting-guide/import.rst:35 ../../starting-guide/import.rst:48
 msgid "Mac OS X::"
-msgstr ""
+msgstr "Mac OS X::"
 
 #: ../../starting-guide/import.rst:41
 msgid "ANT-Agent"
-msgstr ""
+msgstr "ANT-Agent"
 
 #: ../../starting-guide/import.rst:42
 msgid "Windows: Open in the windows file explorer the following path::"
@@ -96,7 +99,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:54
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../starting-guide/import.rst:55
 msgid ""
@@ -108,7 +111,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:59
 msgid "Polar"
-msgstr ""
+msgstr "Polar"
 
 #: ../../starting-guide/import.rst:61
 msgid ""
@@ -121,7 +124,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:65
 msgid "TomTom Runner/Multisport Cardio"
-msgstr ""
+msgstr "TomTom Runner/Multisport Cardio"
 
 #: ../../starting-guide/import.rst:66
 msgid ""
@@ -149,7 +152,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:76
 msgid "Suunto"
-msgstr ""
+msgstr "Suunto"
 
 #: ../../starting-guide/import.rst:79
 msgid "Apps & Webservices"
@@ -213,7 +216,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:119
 msgid "Garmin Connect"
-msgstr ""
+msgstr "Garmin Connect"
 
 #: ../../starting-guide/import.rst:121
 msgid "**How to download multiple activites via browser**"
@@ -257,7 +260,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:147
 msgid "sports-tracker.com"
-msgstr ""
+msgstr "sports-tracker.com"
 
 #: ../../starting-guide/import.rst:149
 msgid ""
@@ -325,11 +328,11 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:189
 msgid "N = No"
-msgstr ""
+msgstr "N = Nein"
 
 #: ../../starting-guide/import.rst:190
 msgid "M = Maybe"
-msgstr ""
+msgstr "M = Vielleicht"
 
 #: ../../starting-guide/import.rst:191
 msgid "C = Will be calculated if not present"
@@ -347,7 +350,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:198
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: ../../starting-guide/import.rst:198
 msgid "FIT"
@@ -387,23 +390,23 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:198
 msgid "sml"
-msgstr ""
+msgstr "sml"
 
 #: ../../starting-guide/import.rst:198
 msgid "slf"
-msgstr ""
+msgstr "slf"
 
 #: ../../starting-guide/import.rst:198
 msgid "xml(Suunto)"
-msgstr ""
+msgstr "xml(Suunto)"
 
 #: ../../starting-guide/import.rst:198
 msgid "csv(Epson)"
-msgstr ""
+msgstr "csv(Epson)"
 
 #: ../../starting-guide/import.rst:198
 msgid "hrm"
-msgstr ""
+msgstr "hrm"
 
 #: ../../starting-guide/import.rst:200
 msgid "Distance"
@@ -474,7 +477,7 @@ msgstr ""
 #: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:244
 #: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:246
 msgid "✓"
-msgstr ""
+msgstr "✓"
 
 #: ../../starting-guide/import.rst:202
 msgid "Startdate/time"
@@ -490,7 +493,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:208
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ../../starting-guide/import.rst:208 ../../starting-guide/import.rst:216
 #: ../../starting-guide/import.rst:218 ../../starting-guide/import.rst:218
@@ -585,7 +588,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:216
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: ../../starting-guide/import.rst:218
 msgid "Altitude"
@@ -593,15 +596,15 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:220
 msgid "Temperature"
-msgstr ""
+msgstr "Temperaturen"
 
 #: ../../starting-guide/import.rst:222
 msgid "Laps/Rounds"
-msgstr ""
+msgstr "Runden"
 
 #: ../../starting-guide/import.rst:224
 msgid "Pauses"
-msgstr ""
+msgstr "Pausen"
 
 #: ../../starting-guide/import.rst:224
 msgid "?"
@@ -624,7 +627,7 @@ msgstr ""
 #: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
 #: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:238
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
 #: ../../starting-guide/import.rst:232
 msgid "Ground Contact Time"
@@ -652,7 +655,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:244
 msgid "HRV"
-msgstr ""
+msgstr "HRV"
 
 #: ../../starting-guide/import.rst:252
 msgid ""
