@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 14:08+0000\n"
+"PO-Revision-Date: 2016-07-06 19:43+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/faq/de/>\n"
@@ -38,6 +38,8 @@ msgid ""
 "Please keep in mind that RUNALYZE is an open source project, at present "
 "based mainly on two developers offering their free time for this tool."
 msgstr ""
+"Bitte vergiss nicht, dass RUNALYZE ein Open Source Projekt ist, welches "
+"hauptsächlich von zwei Entwicklern in ihrer Freizeit entwickelt wird."
 
 #: ../../faq.rst:10
 msgid ""
@@ -53,6 +55,8 @@ msgstr "Der Dateityp \\*.XYZ wird nicht unterstützt."
 msgid ""
 "Just send us an email with some sample files and we'll have a look at this."
 msgstr ""
+"Sende uns einfach eine Mail mit Beispieldateien zu und wir werden uns sie "
+"anschauen."
 
 #: ../../faq.rst:22
 msgid "Will there be an app for smartphones?"
@@ -77,6 +81,10 @@ msgid ""
 " for us until this is realizable. With every new release we are getting "
 "closer to this feature."
 msgstr ""
+"Irgendwann. Für den Anfang wollen wir eine API bereitstellen, damit wie mit "
+"Portalen wie `tapiriik <https://tapiriik.com/>`_ zusammenarbeiten können. "
+"Dies wird leider noch einige Monate dauern bis wird dies umgesetzt haben. "
+"Mit jeder weiteren Version kommen wir aber einen kleinen Schritt näher."
 
 #: ../../faq.rst:36
 msgid "Can I publish my running diary?"
@@ -102,7 +110,7 @@ msgstr ""
 
 #: ../../faq.rst:47
 msgid "What are calculations and prognoses?"
-msgstr ""
+msgstr "Was sind Berechnungen und Prognosen?"
 
 #: ../../faq.rst:56
 msgid "The file import seems buggy? Incorrect values?"
@@ -163,6 +171,8 @@ msgstr ""
 #: ../../faq.rst:77
 msgid "To get good predictions you need to have at least one race."
 msgstr ""
+"Um gute Prognosen zu bekommen musst du mindestens ein Wettkampf bestritten "
+"haben."
 
 #~ msgid "When will RUNALYZE support timezones?"
 #~ msgstr ""
