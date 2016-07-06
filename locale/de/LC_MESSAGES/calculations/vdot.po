@@ -4,18 +4,21 @@
 # documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-06 18:16+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"help/vdot/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../calculations/vdot.rst:3
@@ -61,11 +64,11 @@ msgstr ""
 
 #: ../../calculations/vdot.rst:26
 msgid "In general, we suggest a correction factor between 0.85 and 0.95."
-msgstr ""
+msgstr "Generell empfehlen wir einen Korrekturfaktor zwischen 0.85 und 0.95"
 
 #: ../../calculations/vdot.rst:30
 msgid "General"
-msgstr ""
+msgstr "Allgemein"
 
 #: ../../calculations/vdot.rst:32
 msgid ""
@@ -85,11 +88,11 @@ msgstr ""
 
 #: ../../calculations/vdot.rst:42
 msgid "VDOT settings"
-msgstr ""
+msgstr "VDOT Einstellungen"
 
 #: ../../calculations/vdot.rst:45
 msgid "Manual correction factor"
-msgstr ""
+msgstr "Manueller Korrekturfaktor"
 
 #: ../../calculations/vdot.rst:46
 msgid ""
@@ -131,13 +134,15 @@ msgstr ""
 
 #: ../../calculations/vdot.rst:54
 msgid "Further readings and tools"
-msgstr ""
+msgstr "Weitere Literatur und Tools"
 
 #: ../../calculations/vdot.rst:56
 msgid ""
 "`VDOT calculator (german) <http://www.polar.com/us-"
 "en/support/Heart_Rate_Variability__HRV_>`_"
 msgstr ""
+"`VDOT Rechner (german) <http://www.polar.com/us-"
+"en/support/Heart_Rate_Variability__HRV_>`_"
 
 #: ../../calculations/vdot.rst:57
 msgid ""
@@ -154,16 +159,20 @@ msgid ""
 "`The Math Behind The Daniels/Gilbert Formula "
 "<http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
 msgstr ""
+"`Die Mathematik hinter Der Daniels/Gilbert Formel "
+"<http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
 
 #: ../../calculations/vdot.rst:60
 msgid ""
 "`Wikipedia about Daniels' VDOT "
 "<https://en.wikipedia.org/wiki/Jack_Daniels_%28coach%29#VDOT>`_"
 msgstr ""
+"`Wikipedia über Daniels' VDOT "
+"<https://en.wikipedia.org/wiki/Jack_Daniels_%28coach%29#VDOT>`_"
 
 #: ../../calculations/vdot.rst:61
 msgid "`Fellrnr about VDOT <http://fellrnr.com/wiki/VDOT>`_"
-msgstr ""
+msgstr "`Fellrnr über VDOT <http://fellrnr.com/wiki/VDOT>`_"
 
 #~ msgid ""
 #~ "In addition, everybody's heart rate may behave differently but Daniels' "
