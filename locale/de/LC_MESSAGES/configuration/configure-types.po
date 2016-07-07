@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 17:55+0000\n"
+"PO-Revision-Date: 2016-07-07 10:26+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/configure-types/de/>\n"
@@ -52,6 +52,8 @@ msgstr ""
 #: ../../configuration/configure-types.rst:11
 msgid "We are now going to explain every activity type configuration setting:"
 msgstr ""
+"Wir erklären dir nun jede einzelne Konfigurationsmöglichkeit von "
+"Trainingstypen:"
 
 #: ../../configuration/configure-types.rst:15
 msgid "Name"
@@ -72,7 +74,7 @@ msgid ""
 "long."
 msgstr ""
 "Diese Abkürzung wird im Databrowser und überall genutzt, wo der Name zu lang "
-"ist.l"
+"ist."
 
 #: ../../configuration/configure-types.rst:27
 msgid "Sport"
@@ -105,8 +107,8 @@ msgid ""
 "Set a checkmark if the activity type is a qualitiy session (e.g. interval "
 "workouts)."
 msgstr ""
-"Setze hier den Haken, wenn der Trainingstyp eine Qualitätseinheit darstellt. "
-"(bspw. Intervalltraining)"
+"Setze hier den Haken, wenn der Trainingstyp eine Qualitätseinheit darstellt ("
+"bspw. Intervalltraining)."
 
 #: ../../configuration/configure-types.rst:45
 msgid "Calendar view"
