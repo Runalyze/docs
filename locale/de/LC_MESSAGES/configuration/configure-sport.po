@@ -102,7 +102,7 @@ msgid ""
 msgstr ""
 "Setze hier den Haken, wenn die Sportart eine Distanz hat (bspw. für das "
 "Laufen, Rennrad fahren, Schwimmen - Bei Gymnastik würde man kein Haken "
-"setzen)"
+"setzen)."
 
 #: ../../configuration/configure-sport.rst:46
 msgid "Unit"
@@ -110,7 +110,7 @@ msgstr "Einheit"
 
 #: ../../configuration/configure-sport.rst:48
 msgid "Choose a unit for displaying your speed/pace."
-msgstr "Wähle eine Einheit für die Darstellung der Geschwindigkeit/der Pace"
+msgstr "Wähle die Einheit für die Darstellung der Geschwindigkeit/der Pace aus."
 
 #: ../../configuration/configure-sport.rst:52
 msgid "Types"
