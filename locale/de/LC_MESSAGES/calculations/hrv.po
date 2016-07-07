@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-07 11:27+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"PO-Revision-Date: 2016-07-07 12:43+0000\n"
+"Last-Translator: Hannes <mail@laufhannes.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/hrv/de/>\n"
 "Language: de\n"
@@ -37,6 +37,12 @@ msgid ""
 "the body's interdependent regulatory systems and can be a powerful measure "
 "for an athlete's recovery status."
 msgstr ""
+"Herzfrequenzvariabilität (HRV) beschreibt das physiologische Phänomen der "
+"Variation des zeitlichen Abstands zweier Herzschläge und wird als Varianz "
+"der beat-to-beat-Intervalle gemessen. Es ist bekannt, dass die "
+"Herzfrequenzvariabilität im Zusammenhang mit den Regulationssystemen des "
+"Körpers steht und ein mächtiges Maß für den Erholungsstatus eines Athleten "
+"darstellt."
 
 #: ../../calculations/hrv.rst:11
 msgid "HRV during exercise"
@@ -50,12 +56,19 @@ msgid ""
 "go out for a run or a ride and measure your heart rate (and its variability)"
 " during exercise."
 msgstr ""
+"Die Herzfrequenzvariabilität wird in der Regel täglich im Ruhezustand, zum "
+"Beispiel am Morgen nach dem Aufwachen im Bett, gemessen. Die Informationen "
+"in den Daten, die du zu RUNALYZE hochlädst, ist stattdessen die "
+"Herzfrequenzvariabilität während einer Aktivität enthalten."
 
 #: ../../calculations/hrv.rst:17
 msgid ""
 "HRV analysis can be done for HRV during exercise as well but values are less"
 " reliable and vary alot between different intensities."
 msgstr ""
+"Die HRV-Auswertung kann auch für HRV-Messungen von Aktivitäten vorgenommen "
+"werden, die Werte sind aber weniger zuverlässig und schwanken sehr zwischen "
+"unterschiedlichen Intensitäten."
 
 #: ../../calculations/hrv.rst:20
 msgid "Please be cautious while interpreting your values."
@@ -72,6 +85,10 @@ msgid ""
 "\\*.fit files from Garmin (if respectively configured), \\*.hrm files from "
 "Polar [#polar]_ and \\*.xml/\\*.sml files from Suunto."
 msgstr ""
+"Runalyze bietet die HRV-Analyse für alle Dateien, die exakte RR-Intervalle ("
+"also die exakten Abstände zwischen den Herzschlägen) enthalten. Dies gilt "
+"für \\*.fit-Dateien von Garmin (falls entsprechend konfiguriert), \\*.hrm-"
+"Dateien von Polar [#polar]_ und \\*.xml-/\\*.sml-Dateien von Suunto."
 
 #: ../../calculations/hrv.rst:29
 msgid ""
@@ -79,10 +96,13 @@ msgid ""
 "accurate enough (e.g. Mio Alpha, see [#baddevices]_), but there are ways to "
 "achieve good accuracy with opical measurements, see [#camerahrv]_."
 msgstr ""
+"Die meisten Geräte mit optischen Herzfrequenzsensoren (z.B. Mio Alpha, siehe "
+"[#baddevices]_) sind nicht genau genug, aber es gibt Möglichkeiten, auch mit "
+"optischen Sensoren genaue Ergebnisse zu erreichen, siehe [#camerahrv]_."
 
 #: ../../calculations/hrv.rst:34
 msgid "Time-domain methods"
-msgstr ""
+msgstr "Zeitbereich-Methoden"
 
 #: ../../calculations/hrv.rst:36
 msgid ""
@@ -90,6 +110,8 @@ msgid ""
 "<https://en.wikipedia.org/wiki/Heart_rate_variability#Time-domain_methods>`_"
 " from v2.2 on:"
 msgstr ""
+"Runalyze verwendet seit v2.2 `Zeitbereich-Methoden "
+"<https://en.wikipedia.org/wiki/Heart_rate_variability#Time-domain_methods>`_:"
 
 #: ../../calculations/hrv.rst:38
 msgid "avg. R-R interval"
@@ -97,7 +119,7 @@ msgstr "durchschn. R-R Intervall"
 
 #: ../../calculations/hrv.rst:39
 msgid "average R-R interval, directly related to average heart rate"
-msgstr ""
+msgstr "mittleres R-R Intervall, direkt von der mittleren Herzfrequenz abhängig"
 
 #: ../../calculations/hrv.rst:40
 msgid "RMSSD"
@@ -106,6 +128,7 @@ msgstr "RMSSD"
 #: ../../calculations/hrv.rst:41
 msgid "root mean square of successive differences"
 msgstr ""
+"quadratisches Mittel der Differenzen zwischen benachbarten NN-Intervallen"
 
 #: ../../calculations/hrv.rst:42
 msgid "lnRMSSD"
@@ -113,7 +136,7 @@ msgstr "lnRMSSD"
 
 #: ../../calculations/hrv.rst:43
 msgid "natural logarithm of *RMSSD*"
-msgstr ""
+msgstr "natürlicher Logarithmus von *RMSSD*"
 
 #: ../../calculations/hrv.rst:44
 msgid "SDNN"
@@ -131,6 +154,8 @@ msgstr "5 min-SDANN"
 msgid ""
 "standard deviation of the average R-R intervals calculated over 5 minutes"
 msgstr ""
+"Standardabweichung des Mittelwertes der RR-Intervalle für Fünf-Minuten-"
+"Abschnitte"
 
 #: ../../calculations/hrv.rst:48
 msgid "pNN50"
@@ -139,6 +164,8 @@ msgstr "pNN50"
 #: ../../calculations/hrv.rst:49
 msgid "proportion of successive R-R intervals that differ by more than 50 ms"
 msgstr ""
+"Prozentsatz der Intervalle mit mindestens 50 ms Abweichung vom "
+"vorausgehenden Intervall"
 
 #: ../../calculations/hrv.rst:51
 msgid "pNN20"
@@ -147,6 +174,8 @@ msgstr "pNN20"
 #: ../../calculations/hrv.rst:51
 msgid "proportion of successive R-R intervals that differ by more than 20 ms"
 msgstr ""
+"Prozentsatz der Intervalle mit mindestens 20 ms Abweichung vom "
+"vorausgehenden Intervall"
 
 #: ../../calculations/hrv.rst:53
 msgid ""
@@ -154,6 +183,9 @@ msgid ""
 " strong indicators for parasympathetic activity [#hrvlexikon]_ and thus "
 "large values indicate a better recovery status."
 msgstr ""
+"Vorallem *RMSSD* (sowie das Äquivalent *lnRMSSD*) und *pNN50* gelten als "
+"starke Indikatoren für parasympathische Aktivität [#hrvlexikon]_ (d.h. "
+"größere Werte deuten auf einen besseren Erholungsstatus)."
 
 #: ../../calculations/hrv.rst:60
 msgid "Further readings"
@@ -170,11 +202,10 @@ msgid ""
 " his blog <http://www.marcoaltini.com/blog/a-look-at-a-few-months-of-hr-and-"
 "hrv-measurements>`_."
 msgstr ""
-"Marco Altini, ein Datenwissenschaftler und a data scientist and "
-"Programmierer einiger HRV basierten Apps hat mehre Monate lang jeden Morgen "
-"seinen HRV Wert gemessen `und seine Resultate auf seinem Blog veröffentlicht "
-"<http://www.marcoaltini.com/blog/a-look-at-a-few-months-of-hr-and-hrv-"
-"measurements>`_."
+"Marco Altini, ein Datenwissenschaftler und Programmierer einiger HRV-Apps, "
+"hat mehrere Monate lang jeden Morgen seinen HRV Wert gemessen `und seine "
+"Resultate auf seinem Blog veröffentlicht <http://www.marcoaltini.com/blog/a"
+"-look-at-a-few-months-of-hr-and-hrv-measurements>`_."
 
 #: ../../calculations/hrv.rst:68
 msgid "Heart rate variability explained"
@@ -220,6 +251,9 @@ msgid ""
 "preceding or following interval by less than 75 % (as suggested in "
 "[#ediss1118]_, 2.4.2.1)."
 msgstr ""
+"Ab v2.6 verwendet RUNALYZE nur RR Intervalle, die höchstens 75 % vom "
+"vorherigen oder nachfolgenden Wert abweichen (wie in [#ediss1118]_, 2.4.2.1 "
+"empfohlen)."
 
 #: ../../calculations/hrv.rst:78
 msgid "http://www.zhb.uni-luebeck.de/epubs/ediss1118.pdf"
