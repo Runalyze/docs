@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-07 10:35+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"PO-Revision-Date: 2016-07-07 11:46+0000\n"
+"Last-Translator: Hannes <mail@laufhannes.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/configure-equipment/de/>\n"
 "Language: de\n"
@@ -48,7 +48,7 @@ msgstr "Was kann ich als Ausrüstung hinzufügen?"
 #: ../../configuration/configure-equipment.rst:13
 msgid "Anything you want. You can add bike gear, shoes, ski gear. Just anything."
 msgstr ""
-"Alles was du möchtest. Sei es Fahrradteile, Schuhe, Skier. Einfach alles."
+"Alles was du möchtest. Seien es Fahrradteile, Schuhe, Skier. Einfach alles."
 
 #: ../../configuration/configure-equipment.rst:16
 msgid "Adding an equipment category"
@@ -57,7 +57,7 @@ msgstr "Hinzufügen einer Ausrüstungskategorie"
 #: ../../configuration/configure-equipment.rst:18
 msgid "Go to Configuration -> Equipment to add a new equipment object/category."
 msgstr ""
-"Gehe zu Konfiguration -> Equipment um ein neues Ausrüstungs-objekt/-"
+"Gehe zu Konfiguration -> Equipment, um ein neues Ausrüstungs-objekt/-"
 "kategorie hinzuzufügen."
 
 #: ../../configuration/configure-equipment.rst:22
@@ -98,8 +98,8 @@ msgid ""
 "(Windows) or `cmd` (MacOS) to select multiple sports types."
 msgstr ""
 "Du kannst zu einer Ausrüstungskategorie mehrere Sportarten hinzufügen. Halte "
-"die Taste `strg` (Windows) oder `cmd` (MacOS), um mehrere Sportarten "
-"auszuwählen."
+"die Taste `strg` (Windows) oder `cmd` (MacOS) gedrückt, um mehrere "
+"Sportarten auszuwählen."
 
 #: ../../configuration/configure-equipment.rst:32
 msgid ""
@@ -136,12 +136,13 @@ msgid ""
 " can add these kilometers as previous distance."
 msgstr ""
 "Solltest du bereits vor der Nutzung von RUNALYZE eine Distanz mit deiner "
-"Ausrüstung zurückgelegt haben kannst du diese bei \"bish. Leistung\" angeben."
+"Ausrüstung zurückgelegt haben, kannst du diese bei \"bish. Leistung\" "
+"angeben."
 
 #: ../../configuration/configure-equipment.rst:44
 msgid "Add the date when you bought or added the object to RUNALYZE"
 msgstr ""
-"Füge hier das Datum ein wann du den Ausrüstungsgegenstand gekauft oder in "
+"Füge hier das Datum ein, wann du den Ausrüstungsgegenstand gekauft oder in "
 "RUNALYZE hinzugefügt hast"
 
 #: ../../configuration/configure-equipment.rst:45
@@ -158,5 +159,5 @@ msgid ""
 "Attention: If you delete an equipment object all relations between your "
 "activities and this object will be deleted."
 msgstr ""
-"Achtung: Wenn du ein Ausrüstungsobjekt löschst werden alle Verknüpfungen "
+"Achtung: Wenn du ein Ausrüstungsobjekt löschst, werden alle Verknüpfungen "
 "zwischen diesem Objekt und Aktivitäten gelöscht."
