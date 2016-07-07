@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 19:18+0000\n"
+"PO-Revision-Date: 2016-07-07 09:26+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/import/de/>\n"
@@ -157,6 +157,8 @@ msgid ""
 "It seems that all files will be stored on your computer as soon as you "
 "connect your device::"
 msgstr ""
+"Es scheint, dass alle Dateien auf deinem PC gespeichert werden, sobald du "
+"deine Uhr anschließt::"
 
 #: ../../starting-guide/import.rst:69
 msgid "There you'll find a folder for every day with \\*.ttbin files."
@@ -200,7 +202,6 @@ msgstr ""
 "Portale der Hersteller an die Trainingsdaten herankommen können."
 
 #: ../../starting-guide/import.rst:84
-#, fuzzy
 msgid "Endomondo"
 msgstr "Endomondo"
 
@@ -211,12 +212,10 @@ msgid "\\- Does not encode pauses [#encodepauses]_"
 msgstr "\\- Pausen sind nicht kodiert [#encodepauses]_"
 
 #: ../../starting-guide/import.rst:88
-#, fuzzy
 msgid "Strava"
 msgstr "Strava"
 
 #: ../../starting-guide/import.rst:92
-#, fuzzy
 msgid "Runtastic"
 msgstr "Runtastic"
 
@@ -295,13 +294,16 @@ msgid ""
 " script at <https://github.com/kjkjava/garmin-connect-export>`_. Execute the"
 " `download.py` script::"
 msgstr ""
+"Dafür musst du ein bisschen Technikaffin sein. Python und das Python Paket "
+"`mechanize` muss auf deinem System installiert sein. Anschließend `lädst du "
+"dieses Skript herunter <https://github.com/kjkjava/garmin-connect-export>`_ "
+"und führst das `download.py`Skript aus::"
 
 #: ../../starting-guide/import.rst:142
 msgid "Or if you just want to download the last 3 activitivies"
-msgstr ""
+msgstr "Oder wenn du nur die letzten drei Aktivitäten herunterladen möchtest"
 
 #: ../../starting-guide/import.rst:144
-#, fuzzy
 msgid ""
 "python gcexport.py -d activities -c 3 -f original -u --username <Username> "
 "--password <Password>"
@@ -318,9 +320,11 @@ msgid ""
 "Try to download all activities with the tool `by Olivian Daniel Tofan "
 "<http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_"
 msgstr ""
+"Versuche alle Aktivitäten mit dem Tool `von Olivian Daniel Tofan "
+"<http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_ "
+"herunterzuladen"
 
 #: ../../starting-guide/import.rst:152
-#, fuzzy
 msgid "Trainingstagebuch.org"
 msgstr "Trainingstagebuch.org"
 
@@ -339,30 +343,31 @@ msgid ""
 "trainingstagebuch.org and click on the bookmark. The download of the "
 "acitivies will begin. Repeat this step for every activity list page."
 msgstr ""
+"Öffne die `Aktivitätsübersicht "
+"<http://trainingstagebuch.org/workouts/list?rows=320>`_ auf "
+"trainingstagebuch.org und klicke auf das Lesezeichen. Der Download aller "
+"Aktivitäten sollte beginnen. Wiederhole diesen Schritt für alle Seiten der "
+"Aktivitätsliste."
 
 #: ../../starting-guide/import.rst:166
-#, fuzzy
 msgid "Nike+"
 msgstr "Nike+"
 
 #: ../../starting-guide/import.rst:170
-#, fuzzy
 msgid "MapMyRun"
 msgstr "MapMyRun"
 
 #: ../../starting-guide/import.rst:174
-#, fuzzy
 msgid "iRunner"
 msgstr "iRunner"
 
 #: ../../starting-guide/import.rst:178
-#, fuzzy
 msgid "Run.GPS"
 msgstr "Run.GPS"
 
 #: ../../starting-guide/import.rst:179
 msgid "\\+ high precision data"
-msgstr ""
+msgstr "\\+ sehr gute Daten"
 
 #: ../../starting-guide/import.rst:183
 msgid "Different file types"
@@ -375,6 +380,10 @@ msgid ""
 "table to show what we can import from each file type (as long as your device"
 " logged this data)."
 msgstr ""
+"Wir bekommen häufig Fragen zu Trainingsdateien: Welche ist besser und welche "
+"enthält mehr Daten? Um euch diese Frage zu beantworten haben wir eine "
+"Tabelle erstellt, die zeigt, was wir von den verschiedenen Dateitypen lesen "
+"können (wenn dein Gerät diese Daten dann aufzeichnet)."
 
 #: ../../starting-guide/import.rst:187
 msgid ""
@@ -405,6 +414,8 @@ msgid ""
 "Distances may be recalculated in some cases, when there are no distance "
 "information for gps datapoints."
 msgstr ""
+"Die Distanz wird unter Umständen von uns berechnet, wenn keine "
+"Distanzinformationen zu den GPS Punkten vorhanden sind."
 
 #: ../../starting-guide/import.rst:198
 msgid "Type"
@@ -415,42 +426,34 @@ msgid "FIT"
 msgstr "FIT"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "TCX/TTBIN"
 msgstr "TCX/TTBIN"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "GPX"
 msgstr "GPX"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "PWX"
 msgstr "PWX"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "hrm & gpx"
 msgstr "hrm & gpx"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "Fitlog"
 msgstr "Fitlog"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "Logbook (3)"
 msgstr "Logbook (3)"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "kml/kmz"
 msgstr "kml/kmz"
 
 #: ../../starting-guide/import.rst:198
-#, fuzzy
 msgid "TRK"
 msgstr "TRK"
 
@@ -643,14 +646,12 @@ msgstr "Kalorien"
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
-#, fuzzy
 msgid "✓/C"
 msgstr "✓/C"
 
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
 #: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:230
-#, fuzzy
 msgid "C"
 msgstr "C"
 
@@ -707,19 +708,19 @@ msgstr "Bodenkontaktzeit"
 
 #: ../../starting-guide/import.rst:236
 msgid "Vertical oscillation"
-msgstr ""
+msgstr "Vertikale Bewegung"
 
 #: ../../starting-guide/import.rst:238
 msgid "Vertical ratio"
-msgstr ""
+msgstr "Vertikales Verhältnis"
 
 #: ../../starting-guide/import.rst:240
 msgid "Swim Strokes"
-msgstr ""
+msgstr "Schwimmzüge"
 
 #: ../../starting-guide/import.rst:242
 msgid "Swim Stroke type"
-msgstr ""
+msgstr "Schwimmzug Stil"
 
 #: ../../starting-guide/import.rst:244
 msgid "HRV"
@@ -732,6 +733,11 @@ msgid ""
 "such data it is nearly impossible to calculate the length of the activity. "
 "Sometimes the pace graph will show useless lines."
 msgstr ""
+"Die Idee hinter dem resampelte von Daten ist die Größe der Dateien/einen "
+"Prozess (bspw. die Anzeige eine Karte) zu vereinfachen. Wenn du eine solche "
+"resampelte Datei importierst ist es für uns fast unmöglich die korrekte "
+"Länge der Aktivität zu berechnen. Manchmal wird das Pacediagramm sinnlose "
+"Linien anzeigen."
 
 #: ../../starting-guide/import.rst:254
 msgid ""
@@ -740,19 +746,28 @@ msgid ""
 "you have problems you can disable the detection of pauses in (General "
 "settings -> Activity form -> Detect pause)"
 msgstr ""
+"Pausen können in TCX/GPX Dateien mit schließenden tracks/track Segmenten "
+"gekennzeichnet werden. Wenn dies nicht der Fall ist muss RUNALYZE die Pausen "
+"versuchen zu erraten. Solltest du Probleme mit der Pausenerkennung haben "
+"kannst du diese unter (Konfiguration -> Allgemeine Einstellungen -> "
+"Eingabeformular -> Pausen erkennen) abschalten."
 
 #: ../../starting-guide/import.rst:259
 msgid ""
 "This site may contain affiliate links to support the development and "
 "infrastructure of RUNALYZE"
 msgstr ""
+"Diese Seite enthält Affiliate Links um die Entwicklung und Infrastruktur von "
+"RUNALYZE zu unterstützen"
 
 #: ../../starting-guide/import.rst:246
 msgid "FIT details [#fitdetails]_"
-msgstr ""
+msgstr "FIT Details [#fitdetails]_"
 
 #: ../../starting-guide/import.rst:256
 msgid ""
 "FIT files contain some Garmin-only values like recovery time, performance "
 "condition, hrv score and V02max estimate."
 msgstr ""
+"FIT Dateien enthalten einige Garmin-spezifische Werte wie Erholungszeit, \""
+"performance condition\", HRV Wert und eine V02max Schätzung."
