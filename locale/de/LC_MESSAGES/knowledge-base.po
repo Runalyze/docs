@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: 2016-07-07 11:54+0000\n"
+"PO-Revision-Date: 2017-03-01 09:52+0000\n"
 "Last-Translator: Hannes <mail@laufhannes.de>\n"
-"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
-"help/knowledge-base/de/>\n"
+"Language-Team: German <https://translate.runalyze.com/projects/runalyze-help"
+"/knowledge-base/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.11\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../knowledge-base.rst:3
@@ -53,15 +56,14 @@ msgid "Enable R-R recording on Garmin 910XT"
 msgstr "Aktiviere die R-R Aufnahme bei der Garmin 910XT"
 
 #: ../../knowledge-base.rst:15
-#, fuzzy
 msgid ""
 "Turn on your device and enter the *Menu*. Now press UP and DOWN for 10 "
 "times. You will enter the so-called *diagnostic menu*. Select and change "
 "HRV to enable HRV data recording."
 msgstr ""
-"Schalte deine Uhr ein und drücke `Menü`. Nun drücke 10 Mal Hoch und "
-"Runter. Du wirst in ein sogenanntes *Diagnostik Menü* geleitet. Wähle und"
-" ändere dort die Option HRV, um die HRV Aufnahme zu aktivieren."
+"Schalte deine Uhr ein und drücke `Menü`. Nun drücke 10 Mal Hoch und Runter. "
+"Du wirst in ein sogenanntes *Diagnostik Menü* geleitet. Wähle und ändere "
+"dort die Option HRV, um die HRV Aufnahme zu aktivieren."
 
 #: ../../knowledge-base.rst:18
 msgid "This does work for Garmin FR 620 as well."
@@ -102,4 +104,3 @@ msgid ""
 msgstr ""
 "Schaue auf unserem Blog vorbei <http://blog.runalyze.com/allgemein"
 "/garmin-communicator-in-firefox-43/>`_."
-
