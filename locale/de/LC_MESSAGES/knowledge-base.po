@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-06 18:10+0000\n"
+"PO-Revision-Date: 2016-07-07 08:01+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/knowledge-base/de/>\n"
@@ -60,6 +60,9 @@ msgid ""
 "times. You will enter the so-called *diagnostic menu*. Select and change "
 "HRV to enable HRV data recording."
 msgstr ""
+"Schalte deine Uhr ein und drücke `Menü`. Nun drücke 10 Mal Hoch und Runter. "
+"Du wirst in ein sogenanntes *Diagnostik Menü* geleitet. Wähle und ändere "
+"dort die Option HRV, um die HRV Aufnahme zu aktivieren."
 
 #: ../../knowledge-base.rst:18
 msgid "This does work for Garmin FR 620 as well."
@@ -71,6 +74,9 @@ msgid ""
 "own risk. (Anyway, we enabled HRV on our devices as well and did not "
 "experience any issues so far.)"
 msgstr ""
+"Wir übernehmen keine Garantie für mögliche Probleme! Du tust dies auf eigene "
+"Gefahr. (Wir haben die HRV Aufzeichnung auf unseren eigenen Uhren aktiviert "
+"und bisher keine Probleme festgestellt.)"
 
 #: ../../knowledge-base.rst:25
 msgid "Enable R-R recording on Garmin 920XT/Fenix 3"
@@ -88,7 +94,7 @@ msgstr ""
 
 #: ../../knowledge-base.rst:30
 msgid "Get the garmin communicator running in Firefox >=Version 43"
-msgstr ""
+msgstr "Hole dir den Garmin Communicator für Firefox Version >=43"
 
 #: ../../knowledge-base.rst:31
 msgid ""
