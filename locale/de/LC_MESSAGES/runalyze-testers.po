@@ -4,20 +4,24 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-05 21:14+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-07 10:36+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
+"/runalyze-testers/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 
 #: ../../runalyze-testers.rst:3
 msgid "For RUNALYZE testers"
-msgstr ""
+msgstr "Für RUNALYZE Tester"
 
 #: ../../runalyze-testers.rst:6
 msgid "How to become a tester"
-msgstr ""
+msgstr "Wie werde ich ein Tester"
 
 #: ../../runalyze-testers.rst:8
 msgid ""
@@ -25,6 +29,10 @@ msgid ""
 "self-hosted version of RUNALYZE and want to become a tester just drop us a "
 "mail. The next time we start a test phase you'll receive a mail."
 msgstr ""
+"Wir suchen immer nach neuen Tester für kommende Versionen. Solltest du eine "
+"Eigeninstallation von RUNALYZE betreiben und Tester werden, dann schreibe "
+"uns einfach eine Mail. Du wirst bei der nächsten Testphase eine Mail "
+"erhalten."
 
 #: ../../runalyze-testers.rst:11
 msgid ""
@@ -32,10 +40,13 @@ msgid ""
 " a mail with your username. You will get further information as soon as we "
 "are starting the next test phase."
 msgstr ""
+"Solltest du einen Account auf unseren offiziellen Plattform RUNALYZE.com "
+"besitzten, dann schicke uns eine Mail mit deinem Nutzernamen. Bei der "
+"nächsten Testphase wirst du weitere Informationen von uns bekommen."
 
 #: ../../runalyze-testers.rst:14
 msgid "Introduction for testers of self-hosted RUNALYZE installations"
-msgstr ""
+msgstr "Anleitung für Tester einer Eigeninstallation von RUNALYZE"
 
 #: ../../runalyze-testers.rst:16
 msgid ""
@@ -43,28 +54,33 @@ msgid ""
 " a link to a current build of the upcoming release. In addition we will "
 "provide a list of all important changes."
 msgstr ""
+"Wenn wir in eine neue Testphase starten wirst du eine Mail mit einer Liste "
+"aller Änderungen, sowie einem Link zum Download der zukünftigen Version, "
+"bekommen."
 
 #: ../../runalyze-testers.rst:18
 msgid ""
 "Your most important task is to test the update procedure itself. We will "
 "provide an update documentation for each release."
 msgstr ""
+"Die wichtigste Aufgabe besteht darin, dass du den Updateprozess testest. Wir "
+"stellen für jede Version eine Dokumentation bereit."
 
 #: ../../runalyze-testers.rst:20 ../../runalyze-testers.rst:43
 msgid "Please leave us a mail, if ..."
-msgstr ""
+msgstr "Bitte sende uns eine Mail, wenn ..."
 
 #: ../../runalyze-testers.rst:22
 msgid "something is not understandable during the update process."
-msgstr ""
+msgstr "etwas während des Updateprozesses nicht verständlich ist."
 
 #: ../../runalyze-testers.rst:23
 msgid "the update documentation is wrong."
-msgstr ""
+msgstr "die Update Dokumentation falsch ist."
 
 #: ../../runalyze-testers.rst:24
 msgid "you have an error during the update process."
-msgstr ""
+msgstr "du Probleme während des Updateprozesses hast."
 
 #: ../../runalyze-testers.rst:26
 msgid ""
@@ -74,6 +90,11 @@ msgid ""
 "show up directly. In addition, please tell us which database system you're "
 "using (mySQL, mariaDB ...)."
 msgstr ""
+"Sollten bei dir irgendwelche Fehler auftauchen (leere Seiten, etwas wird "
+"nicht angezeigt, Internal Server Error, ...) ist es immer wichtig erst in "
+"die \"error.log\" Datei deines Webservers (nginx, apache...) zu schauen, "
+"wenn die Fehlermeldungen nicht direkt auftauchen. Bitte teile uns auch mit, "
+"welchen Datenbankserver (mySQL, mariaDB...) du nutzt."
 
 #: ../../runalyze-testers.rst:28
 msgid ""
@@ -82,16 +103,23 @@ msgid ""
 "The more feedback we're receiving the less we have to answer support "
 "questions and can concentrate on programming new features for RUNALYZE."
 msgstr ""
+"Bitte sende uns auch eine Mail zu, wenn beim Updateprozess alles glatt lief. "
+"Es ist für uns sehr wichtig, dass wir wissen, dass das Update reibungslos "
+"klappt. Je mehr Feedback wir bekommen, desto weniger Supportanfragen werden "
+"wir im Nachhinein haben und somit können wir uns auf die Programmierung "
+"neuer Funktionen für RUNALYZE konzentrieren."
 
 #: ../../runalyze-testers.rst:30 ../../runalyze-testers.rst:54
 msgid ""
 "We are happy that you help us to improve the quality of RUNALYZE. Feedback "
 "is always appreciated!"
 msgstr ""
+"Wir sind froh, dass du uns hilfst die Qualität von RUNALYZE zu steigern. "
+"Feedback ist immer willkommen!"
 
 #: ../../runalyze-testers.rst:33
 msgid "Introduction for testers of our official RUNALYZE installation"
-msgstr ""
+msgstr "Anleitung für die Tester der offiziellen RUNALYZE Version"
 
 #: ../../runalyze-testers.rst:35
 msgid ""
@@ -100,6 +128,11 @@ msgid ""
 "vn.runalyze.com. We’ll provide a list of all changes and things you "
 "definetly should test. You can simply login with your official account."
 msgstr ""
+"Wenn du dich bei uns als Tester gemeldet hast dann kopieren wir die Daten "
+"deines Accounts von RUNALYZE.com in eine temporäre Installation auf "
+"svn.runalyze.com. Wir werden dir eine Liste aller Änderungen und Funktionen, "
+"die auf jeden Fall getestet werden sollten, zu senden. Du kannst dich "
+"einfach mit deinem offiziellen Account dann einloggen."
 
 #: ../../runalyze-testers.rst:37
 msgid ""
@@ -107,6 +140,8 @@ msgid ""
 "svn.runalyze.com won't work. We are just updating the version during the "
 "test phase."
 msgstr ""
+"Außerhalb der Testphase wird die Version unter svn.runalyze.com nicht "
+"funktioneren. Wir aktualisieren die Version nur währen der Testphasen."
 
 #: ../../runalyze-testers.rst:39
 msgid ""
@@ -116,6 +151,12 @@ msgid ""
 "runalyze.com. Before each test phase, we’ll just import your ‘real’ data "
 "from runalyze.com again."
 msgstr ""
+"Bitte vergiss nicht, dass wir alle Daten der Testversion unter "
+"svn.runalyze.com manchmal während und auf jeden Fall nach der Testphase "
+"löschen. Nutze diese Version nur zu Testzwecken - es wird keine "
+"Synchronisation zwischen der offiziellen Version auf runalyze.com geben. Vor "
+"jeder Testphase importieren wir wieder die \"realen\" Daten von "
+"runalyze.com, sodass du die Möglichkeit hast alles zu vergleichen."
 
 #: ../../runalyze-testers.rst:41
 msgid ""
@@ -124,27 +165,31 @@ msgid ""
 "always happen that we make mistakes which are not covered by automatic "
 "tests."
 msgstr ""
+"Die meisten Funktionen, die wir in RUNALYZE hinzufügen sind bereits von "
+"einigen Leuten getestet worden und werden durch automatisierte Tests "
+"abgedeckt. Es kann aber immer mal passieren, dass einige Fehler nicht durch "
+"automatisierte Tests abgedeckt sind. Deshalb brauchen wir euch!"
 
 #: ../../runalyze-testers.rst:45
 msgid "something seems strange to you."
-msgstr ""
+msgstr "dir etwas komisch vorkommt."
 
 #: ../../runalyze-testers.rst:46
 msgid "something is not working the way you are expecting."
-msgstr ""
+msgstr "etwas nicht funktioniert, wie du es erwartest."
 
 #: ../../runalyze-testers.rst:47
 msgid "or you just want to say something about a new feature."
-msgstr ""
+msgstr "oder du uns nur etwas über eine neue Funktion sagen möchtest."
 
 #: ../../runalyze-testers.rst:49
 msgid "In case of an error ..."
-msgstr ""
+msgstr "Sollten Fehler auftauchen ..."
 
 #: ../../runalyze-testers.rst:51
 msgid "tell us what you tried to do."
-msgstr ""
+msgstr "sag uns was du zu dem Zeitpunkt versucht hast zu tun."
 
 #: ../../runalyze-testers.rst:52
 msgid "tell us at which time you tried it (we will look into our log files)."
-msgstr ""
+msgstr "sag uns, wann der Fehler auftrat (wir schauen in unseren Logs nach)."
