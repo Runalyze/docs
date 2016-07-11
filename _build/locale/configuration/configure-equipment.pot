@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2015, Hannes Christiansen, Michael Pohl
+# Copyright (C) 2016, Hannes Christiansen, Michael Pohl
 # This file is distributed under the same license as the RUNALYZE - User documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.5\n"
+"Project-Id-Version: RUNALYZE - User documentation 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-05 21:14+0200\n"
+"POT-Creation-Date: 2016-07-11 10:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
