@@ -127,14 +127,14 @@ todo_include_todos = False
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = 'RUNALYZE'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = 'images/runalyze-logo.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -229,7 +229,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'RUNALYZE-Userdocumentation.tex', u'RUNALYZE - User documentation Documentation',
+  (master_doc, 'RUNALYZE-Userdocumentation.tex', u'RUNALYZE - User documentation',
    u'Hannes Christiansen, Michael Pohl', 'manual'),
 ]
 
@@ -259,7 +259,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'runalyze-userdocumentation', u'RUNALYZE - User documentation Documentation',
+    (master_doc, 'runalyze-userdocumentation', u'RUNALYZE - User documentation',
      [author], 1)
 ]
 
@@ -273,7 +273,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'RUNALYZE-Userdocumentation', u'RUNALYZE - User documentation Documentation',
+  (master_doc, 'RUNALYZE-Userdocumentation', u'RUNALYZE - User documentation',
    author, 'RUNALYZE-Userdocumentation', 'One line description of project.',
    'Miscellaneous'),
 ]
