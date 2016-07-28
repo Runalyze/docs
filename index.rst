@@ -1,9 +1,9 @@
 Welcome to RUNALYZE - User documentation!
 =========================================================
 
-.. note:: This site contains affiliate links to support the development and infrastructure of RUNALYZE. They are marked with an *
-
-Missing something in this documentation? Then contribute to this documentation at `Github <https://github.com/Runalyze/docs>`_ or `tell us what you're missing here <https://github.com/Runalyze/docs/issues/new>`_.
+Missing something in this help? Contribute at
+`Github <https://github.com/Runalyze/docs>`_ or
+`open an issue about what’s missing <https://github.com/Runalyze/docs/issues/new>`_.
 
 .. toctree::
    :maxdepth: 1
@@ -22,6 +22,7 @@ Missing something in this documentation? Then contribute to this documentation a
 
    starting-guide/getting-started
    starting-guide/import
+   starting-guide/races
 
 .. toctree::
   :maxdepth: 1
@@ -38,11 +39,9 @@ Missing something in this documentation? Then contribute to this documentation a
    calculations/vdot
    calculations/hrv
    calculations/elevation
+   calculations/calories
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. note::
+   This site contains affiliate links to support the development and growing
+   server costs of RUNALYZE. All affiliate links are marked with an asterisk (*).
