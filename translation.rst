@@ -1,17 +1,23 @@
-Translation
+============
+Translations
 ============
 
-RUNALYZE is multilanguage and as we are not speaking every language we need your help to translate RUNALYZE into the different languages.
+RUNALYZE is multilingual and comes with a small set of supported languages.
+Translations are mainted by our users - and this includes *you*.
 
-You can easily translate RUNALYZE into your language at `translate.runalyze.com <http://translate.runalyze.com>`_. Before you can start translating, you have to register there. Everyone can help us to translate Runalyze. It is easy!
+By registering at `translate.runalyze.com <http://translate.runalyze.com/>`_ you
+can translate RUNALYZE into any missing language or help to improve existing
+translations.
 
-*Some translations may be very difficult to understand without context.*
+If you have problems to understand the original string without context you have
+two options:
 
-But you have to options:
-
-* You can comment under each translation string if you have questions. We will answer them.
-* Have a look at http://live.translate.runalyze.com/ where you find a live updated (every two minutes) version of the translations.
-
+* Leave a comment for the respective string
+* Take a look at the *Source string location* (mentioned on the right side)
+* Take a look at `live.translate.runalyze.com <http://live.translate.runalyze.com/>`_.
+  This version is updated every two minutes with current translations.
 
 .. note::
-          We are updating the translation of our official hosted version (runalyze.com) at irregular intervals. We are adding a language offically to RUNALYZE if the translation hits the "magic" 90%.
+    Translations are merged into our development branch and updated in our
+    official online version at irregular intervals. New languages will be added
+    there as soon as they reach the *magic* limit of 90 %.
