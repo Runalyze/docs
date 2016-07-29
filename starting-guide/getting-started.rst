@@ -28,6 +28,20 @@ Panels
 ------
 The panels give a quick overview of the most important numbers. You can have a look at your shape or keep an eye on your equipment and training progress .
 
+Setting up RUNALYZE
+********************
+
+Different countries, different units of lengths and temperatures. You can change them!
+Just have a look at your configuration settings and adapt it to your needs.
+
+We already have setup for you all other settings with some standard values. If you move the mouse above the settings you get more precise information what this setting is all about.
+
+For most RUNALYZE users the default settings should be ok.
+
+.. note::
+          If you have misconfigured something and can't remember the old values you can reset the configuration in your account configuration.
+
+
 Import/Create an activity
 **************************
 We provide `a guide in our documentation <import.html>`_ how to import your (old) activities from several devices and portals.

@@ -11,6 +11,7 @@ Missing something in this help? Contribute at
 
    faq
    support
+   translation
    knowledge-base
    supported-devices
    runalyze-testers
