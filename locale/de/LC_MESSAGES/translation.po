@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-30 13:38+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-07-30 12:55+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"help/translation/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.8-dev\n"
 "Generated-By: Babel 1.3\n"
 
 #: ../../translation.rst:3
 msgid "Translations"
-msgstr ""
+msgstr "Übersetzung"
 
 #: ../../translation.rst:5
 msgid ""
@@ -28,6 +31,9 @@ msgid ""
 "languages. Translations are mainted by our users - and this includes "
 "*you*."
 msgstr ""
+"RUNALYZE ist mehrsprachig und besitzt bisher nur eine kleine Anzahl an "
+"unterstützten Sprachen. Die Übersetzungen werden von unseren Nutzern betreut "
+"- dies schließt *dich* mit ein."
 
 #: ../../translation.rst:8
 msgid ""
@@ -35,20 +41,27 @@ msgid ""
 "<http://translate.runalyze.com/>`_ you can translate RUNALYZE into any "
 "missing language or help to improve existing translations."
 msgstr ""
+"Nachdem du dich auf `translate.runalyze.com <http://translate.runalyze.com/>`"
+"_  registriert hast kannst du RUNALYZE in jede Sprache übersetzen und "
+"bestehende Übersetzungen verbessern."
 
 #: ../../translation.rst:12
 msgid ""
 "If you have problems to understand the original string without context "
 "you have two options:"
 msgstr ""
+"Wenn du Probleme hast die originalen Texte ohne den Kontext zu verstehen "
+"gibt es dafür zwei Optionen:"
 
 #: ../../translation.rst:15
 msgid "Leave a comment for the respective string"
-msgstr ""
+msgstr "Hinterlasse einen Kommentar bei dem entsprechenden Text"
 
 #: ../../translation.rst:16
 msgid "Take a look at the *Source string location* (mentioned on the right side)"
 msgstr ""
+"Siehe dafür unter *Source string location* nah (wird auf der rechten Seite "
+"erwähnt)"
 
 #: ../../translation.rst:17
 msgid ""
@@ -56,6 +69,9 @@ msgid ""
 "<http://live.translate.runalyze.com/>`_. This version is updated every "
 "two minutes with current translations."
 msgstr ""
+"Schaue auf `live.translate.runalyze.com "
+"<http://live.translate.runalyze.com/>`_. Diese Version wird alle zwei Minute "
+"mit den aktuellen Übersetzungen aktualisiert."
 
 #: ../../translation.rst:21
 msgid ""
@@ -63,4 +79,6 @@ msgid ""
 "official online version at irregular intervals. New languages will be "
 "added there as soon as they reach the *magic* limit of 90 %."
 msgstr ""
-
+"Übersetzungen werden in unseren Entwicklungszweig und in unsere offizielle "
+"Version in unregelmäßigen Intervallen aktualisiert. Neue Sprachen werden "
+"hinzugefügt, wenn sie die *magische* 90% Grenze erreichen."
