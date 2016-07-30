@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-02 20:26+0200\n"
-"PO-Revision-Date: 2016-07-06 19:31+0000\n"
+"PO-Revision-Date: 2016-07-30 12:33+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/starting-guide/de/>\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.7-dev\n"
+"X-Generator: Weblate 2.8-dev\n"
 
 #: ../../starting-guide/configure-sport.rst:3
 msgid "Configuration of sports"
-msgstr ""
+msgstr "Konfiguration der Sportarten"
 
 #: ../../starting-guide/configure-sport.rst:4
 msgid ""
@@ -28,23 +28,27 @@ msgstr ""
 
 #: ../../starting-guide/fast-start.rst:3
 msgid "Fast start"
-msgstr ""
+msgstr "Schnellstart"
 
 #: ../../starting-guide/fast-start.rst:4
 msgid ""
 "In this fast start guide we just want to show you how to add your first "
 "activity to RUNALYZE."
 msgstr ""
+"In dieser Schnellstart-Anleitung wollen wir euch zeigen, wie ihr eure erste "
+"Aktivität zu RUNALYZE hinzufügt."
 
 #: ../../starting-guide/fast-start.rst:7
 msgid ""
 "The plus button opens a dialog window where you can manually add or upload "
 "an activity."
 msgstr ""
+"Der Plus-Button öffnet ein Dialogfenster, indem man entweder manuell oder "
+"via Dateiupload eine Aktivität hinzufügen kann."
 
 #: ../../starting-guide/import.rst:3
 msgid "Import (old) activities"
-msgstr ""
+msgstr "Importiere (alte) Aktivitäten"
 
 #: ../../starting-guide/import.rst:5
 msgid ""
@@ -52,6 +56,10 @@ msgid ""
 "RUNALYZE. To make it quite simple we support a lot of different file types. "
 "Some of them are sometimes a bit tricky."
 msgstr ""
+"Wir wissen, dass ihr sicherlich schon einige Aktivitäten hinter euch habt "
+"die ihr nun zu RUNALYZE importieren wollt. Damit dies für euch so einfach "
+"wie möglich wird unterstützen wir eine Vielzahl von Dateiformaten. Einige "
+"von den Formaten sind etwas kompliziert."
 
 #: ../../starting-guide/import.rst:10
 msgid "Devices"
@@ -75,6 +83,9 @@ msgid ""
 "When you are using Garmin Express or the old ANT-Agent from Garmin you can "
 "upload the files from your Windows, MacOS or Linux system."
 msgstr ""
+"When du den Garmin Express oder den alten ANT-Agent von Garmin nutzt kannst "
+"du die Dateien direkt aus dem Dateisystem heraus von Windows, MacOS oder "
+"Linux hochladen."
 
 #: ../../starting-guide/import.rst:20
 msgid "Garmin Express"
@@ -105,6 +116,8 @@ msgid ""
 "Then you have to open the folder with a several different numbers. Then you "
 "should find the folder *Activities*"
 msgstr ""
+"Öffne nun den Ordner, dessen Name aus einigen Zahlen besteht. Dort solltest "
+"du den Ordner \"Activities\" finden"
 
 #: ../../starting-guide/import.rst:48
 msgid "Linux"
@@ -124,7 +137,7 @@ msgstr "Polar"
 
 #: ../../starting-guide/import.rst:56
 msgid "TomTom"
-msgstr ""
+msgstr "TomTom"
 
 #: ../../starting-guide/import.rst:57
 msgid "Mac OS: Data seems just be generated, when the Mac is online::"
@@ -149,7 +162,6 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/import.rst:73
-#, fuzzy
 msgid "Endomondo"
 msgstr "Endomondo"
 
@@ -160,12 +172,10 @@ msgid "\\- Does not encode pauses [#encodepauses]_"
 msgstr "\\- Pausen sind nicht kodiert [#encodepauses]_"
 
 #: ../../starting-guide/import.rst:77
-#, fuzzy
 msgid "Strava"
 msgstr "Strava"
 
 #: ../../starting-guide/import.rst:81
-#, fuzzy
 msgid "Runtastic"
 msgstr "Runtastic"
 
@@ -195,7 +205,7 @@ msgstr "Run.GPS"
 
 #: ../../starting-guide/import.rst:99
 msgid "\\+ high precision data"
-msgstr ""
+msgstr "\\+ sehr gute Daten"
 
 #: ../../starting-guide/import.rst:103
 msgid "Different file types"
