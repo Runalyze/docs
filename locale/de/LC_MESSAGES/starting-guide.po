@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-02 20:26+0200\n"
-"PO-Revision-Date: 2016-07-30 12:33+0000\n"
+"PO-Revision-Date: 2016-07-30 13:02+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/starting-guide/de/>\n"
@@ -184,22 +184,18 @@ msgid "\\- Resampled file [#resampleddata]_"
 msgstr "\\- resampelte Datei [#resampleddata]_"
 
 #: ../../starting-guide/import.rst:86
-#, fuzzy
 msgid "Nike+"
 msgstr "Nike+"
 
 #: ../../starting-guide/import.rst:90
-#, fuzzy
 msgid "MapMyRun"
 msgstr "MapMyRun"
 
 #: ../../starting-guide/import.rst:94
-#, fuzzy
 msgid "iRunner"
 msgstr "iRunner"
 
 #: ../../starting-guide/import.rst:98
-#, fuzzy
 msgid "Run.GPS"
 msgstr "Run.GPS"
 
@@ -242,7 +238,6 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/import.rst:117
-#, fuzzy
 msgid "GPX"
 msgstr "GPX"
 
@@ -268,11 +263,13 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:128
 msgid "\\+ Support laps"
-msgstr ""
+msgstr "\\+ Unterstützt Runden"
 
 #: ../../starting-guide/import.rst:129
 msgid "\\- GPS, Heartrate and other track information can not be imported by us"
 msgstr ""
+"\\- GPS, Herzfrequenz und andere Streckeninformationen können von uns nicht "
+"importiert werden"
 
 #: ../../starting-guide/import.rst:131
 msgid "slf"
@@ -280,11 +277,11 @@ msgstr "slf"
 
 #: ../../starting-guide/import.rst:134
 msgid "pwx"
-msgstr ""
+msgstr "pwx"
 
 #: ../../starting-guide/import.rst:137
 msgid "hrm/gpx (combined)"
-msgstr ""
+msgstr "hrm/gpx (kombiniert)"
 
 #: ../../starting-guide/import.rst:141
 msgid ""
@@ -293,6 +290,11 @@ msgid ""
 "such data it is nearly impossible to calculate the length of the activity. "
 "Sometimes the pace graph will show useless lines."
 msgstr ""
+"Die Idee hinter dem Resampling von Daten ist, die Größe der Dateien/einen "
+"Prozess (bspw. die Anzeige eine Karte) zu vereinfachen. Wenn du eine solche "
+"Datei importierst, ist es für uns fast unmöglich, die korrekte Länge der "
+"Aktivität zu berechnen. Manchmal wird das Pacediagramm sinnlose Linien "
+"anzeigen."
 
 #: ../../starting-guide/import.rst:143
 msgid ""
@@ -301,9 +303,16 @@ msgid ""
 "you have problems you can disable the detection of pauses in (General "
 "settings -> Activity form -> Detect pause)"
 msgstr ""
+"Pausen können in TCX/GPX Dateien mit schließenden tracks/track-Segmenten "
+"gekennzeichnet werden. Wenn dies nicht der Fall ist, muss RUNALYZE versuchen "
+"die Pausen zu erraten. Solltest du Probleme mit der Pausenerkennung haben, "
+"kannst du diese unter (Konfiguration -> Allgemeine Einstellungen -> "
+"Eingabeformular -> Pausen erkennen) abschalten."
 
 #: ../../starting-guide/import.rst:146
 msgid ""
 "This site may contain affiliate links to support the development and "
 "infrastructure of RUNALYZE"
 msgstr ""
+"Diese Seite enthält Affiliate Links um die Entwicklung und Infrastruktur von "
+"RUNALYZE zu unterstützen"
