@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, Hannes Christiansen, Michael Pohl
-# This file is distributed under the same license as the RUNALYZE - User documentation package.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RUNALYZE - User documentation 2.6\n"
+"Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-11 10:31+0200\n"
+"POT-Creation-Date: 2016-07-30 13:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,26 +21,10 @@ msgid "Welcome to RUNALYZE - User documentation!"
 msgstr ""
 
 #: ../../index.rst:4
-msgid "This site contains affiliate links to support the development and infrastructure of RUNALYZE. They are marked with an *"
-msgstr ""
-
-#: ../../index.rst:6
-msgid "Missing something in this documentation? Then contribute to this documentation at `Github <https://github.com/Runalyze/docs>`_ or `tell us what you're missing here <https://github.com/Runalyze/docs/issues/new>`_."
-msgstr ""
-
-#: ../../index.rst:44
-msgid "Indices and tables"
-msgstr ""
-
-#: ../../index.rst:46
-msgid ":ref:`genindex`"
+msgid "Missing something in this help? Contribute at `Github <https://github.com/Runalyze/docs>`_ or `open an issue about what’s missing <https://github.com/Runalyze/docs/issues/new>`_."
 msgstr ""
 
 #: ../../index.rst:47
-msgid ":ref:`modindex`"
-msgstr ""
-
-#: ../../index.rst:48
-msgid ":ref:`search`"
+msgid "This site contains affiliate links to support the development and growing server costs of RUNALYZE. All affiliate links are marked with an asterisk (*)."
 msgstr ""
 
