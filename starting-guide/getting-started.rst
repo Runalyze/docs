@@ -70,6 +70,10 @@ activities manually. By this means you'll think about the training again and add
 some more details instead of hoping that the synchronization tool does all the
 magic for you.
 
+Understanding the calculations
+*******************************
+After importing some activities you may have a look at the calculations on the right side. Just hover over the label to see the meaning of these calculations. If you want to know how they are calculated have a look at the magic wand and the info icon.
+
 What can I expect from RUNALYZE in the future?
 ***********************************************
  * A new (clear, responsible) Design (the current one is 'slightly' outdated)
