@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-30 13:38+0200\n"
-"PO-Revision-Date: 2016-07-30 12:59+0000\n"
+"PO-Revision-Date: 2016-08-01 06:15+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help"
 "/getting-started/de/>\n"
@@ -21,7 +21,6 @@ msgid "Getting started"
 msgstr "Erste Schritte"
 
 #: ../../starting-guide/getting-started.rst:5
-#, fuzzy
 msgid ""
 "We are very happy that you joined RUNALYZE! We are a small team (`Hannes "
 "<https://blog.runalyze.com/team/hannes/>`_, `Michael "
@@ -30,24 +29,23 @@ msgid ""
 "during leisure time. We still try to improve RUNALYZE as much as possible"
 " and adapt it to your needs every day."
 msgstr ""
-"Wir freuen uns, dich bei RUNALYZE begrüßen zu dürfen! Wir sind ein "
-"kleines Team (`Hannes <https://blog.runalyze.com/team/hannes/>`_, "
-"`Michael <https://blog.runalyze.com/team/michael/>`_, `Neele "
+"Wir freuen uns, dich bei RUNALYZE begrüßen zu dürfen! Wir sind ein kleines "
+"Team (`Hannes <https://blog.runalyze.com/team/hannes/>`_, `Michael "
+"<https://blog.runalyze.com/team/michael/>`_, `Neele "
 "<https://blog.runalyze.com/team/neele/>`_), die in ihrer Freizeit an "
-"RUNALYZE arbeiten. Wir versuchen immer RUNALYZE weiterzuentwickeln und es"
-" an eure Bedürfnisse anzupassen."
+"RUNALYZE arbeiten. Wir versuchen immer RUNALYZE weiterzuentwickeln und es an "
+"eure Bedürfnisse anzupassen."
 
 #: ../../starting-guide/getting-started.rst:12
-#, fuzzy
 msgid ""
 "You may have logged in for the first time and you may be overwhelmed by "
 "all the information so far. We can assure that you will getting "
 "comfortable after a couple of days with RUNALYZE!"
 msgstr ""
-"Du hast dich vielleicht das erste Mal eingeloggt und bist etwas "
-"erschlagen von den ganzen Informationen und Daten, die du auf einen Blick"
-" siehst? Wir können dir versichern, dass sich das nach wenigen Tagen "
-"legen und du deinen Spaß mit RUNALYZE haben wirst!"
+"Du hast dich vielleicht das erste Mal eingeloggt und bist etwas erschlagen "
+"von den ganzen Informationen und Daten, die du auf einen Blick siehst? Wir "
+"können dir versichern, dass sich das nach wenigen Tagen legen und du deinen "
+"Spaß mit RUNALYZE haben wirst!"
 
 #: ../../starting-guide/getting-started.rst:17
 msgid "There are three sections"
@@ -58,7 +56,6 @@ msgid "Calendar view / databrowser"
 msgstr "Kalenderansicht / Databrowser"
 
 #: ../../starting-guide/getting-started.rst:23
-#, fuzzy
 msgid ""
 "Here you find a short overview of all your activities within any chosen "
 "period. You can navigate through all weeks/months/years (using the arrow "
@@ -66,20 +63,18 @@ msgid ""
 " in this table is configurable. Go to \"*Configuration -> Dataset*\" and "
 "select the data you're most interested in."
 msgstr ""
-"Hier findest du alle deine eingetragenen Trainingseinheiten. Du kannst "
-"hier durch die Wochen, Monate oder Jahre navigieren (über die Pfeile oder"
-" auf Monat/Jahr/Woche klicken) oder einen beliebigen Zeitraum auswählen "
-"(Kalendersymbol). Welche Daten in dieser Übersicht angezeigt werden, "
-"kannst du selbst entscheiden. Unter „Konfiguration -> Dataset“ kannst du "
-"festlegen, welche Daten in dieser Übersicht für jede Trainingseinheit "
-"erscheinen sollen."
+"Hier findest du alle deine eingetragenen Trainingseinheiten. Du kannst hier "
+"durch die Wochen, Monate oder Jahre navigieren (über die Pfeile oder auf "
+"Monat/Jahr/Woche klicken) oder einen beliebigen Zeitraum auswählen "
+"(Kalendersymbol). Welche Daten in dieser Übersicht angezeigt werden, kannst "
+"du selbst entscheiden. Unter „Konfiguration -> Dataset“ kannst du festlegen, "
+"welche Daten in dieser Übersicht für jede Trainingseinheit erscheinen sollen."
 
 #: ../../starting-guide/getting-started.rst:32
 msgid "Statistics"
 msgstr "Statistiken"
 
 #: ../../starting-guide/getting-started.rst:33
-#, fuzzy
 msgid ""
 "The main focus of RUNALYZE is on statistics about your activities. We "
 "provide several \"staticstic plugins\" where you can find a lot of "
@@ -89,35 +84,33 @@ msgid ""
 msgstr ""
 "Das Hauptaugenmerk von RUNALYZE liegt auf den Statistiken. In Form der "
 "sogenannten „Statistik-Plugins“ werden hier verschiedenste Auswertungen "
-"deiner Sportarten und Trainingseinheiten angezeigt. Sei es das "
-"Streckennetz, deine bisherigen Wettkampfergebnisse, Trainingsrekorde oder"
-" ein monatsweiser Rückblick. (Dir fehlt etwas? Dann teile uns das mit!)"
+"deiner Sportarten und Trainingseinheiten angezeigt. Sei es das Streckennetz, "
+"deine bisherigen Wettkampfergebnisse, Trainingsrekorde oder ein monatsweiser "
+"Rückblick. (Dir fehlt etwas? Dann teile uns das mit!)"
 
 #: ../../starting-guide/getting-started.rst:38
-#, fuzzy
 msgid ""
 "As always: You can decide which statistics should appear and order the "
 "active ones according to your desires (\"*Configuration -> Plugins*\")."
 msgstr ""
 "Auch hierfür kannst du unter „Konfiguration -> Plugins“ festlegen, in "
-"welcher Reihenfolge die Statistiken erscheinen und welche unter "
-"„Sonstiges“ gruppiert werden."
+"welcher Reihenfolge die Statistiken erscheinen und welche unter „Sonstiges“ "
+"gruppiert werden."
 
 #: ../../starting-guide/getting-started.rst:42
 msgid "Panels"
 msgstr "Panels"
 
 #: ../../starting-guide/getting-started.rst:43
-#, fuzzy
 msgid ""
 "The panels give a quick overview of the most important data. You can have"
 " a look at your shape or keep an eye on your equipment and training "
 "progress."
 msgstr ""
-"Die Panels dienen dem schnellen Überblick deiner wichtigsten Statistiken:"
-" So kannst du deine Form, dein Equipment und deine aktuellen "
-"Trainingsumfänge bestens im Blick behalten. Auch hier gilt: Die Auswahl "
-"der Panels bestimmst du selbst."
+"Die Panels dienen dem schnellen Überblick deiner wichtigsten Statistiken: So "
+"kannst du deine Form, dein Equipment und deine aktuellen Trainingsumfänge "
+"bestens im Blick behalten. Auch hier gilt: Die Auswahl der Panels bestimmst "
+"du selbst."
 
 #: ../../starting-guide/getting-started.rst:47
 msgid "Configure your account"
@@ -152,7 +145,6 @@ msgid "Import/Create an activity"
 msgstr "Importieren/Erstellen einer Aktivität"
 
 #: ../../starting-guide/getting-started.rst:60
-#, fuzzy
 msgid ""
 "We provide `a guide <import.html>`_ how to import your (old) activities "
 "from several devices and platforms."
@@ -162,7 +154,6 @@ msgstr ""
 "hochladen kannst."
 
 #: ../../starting-guide/getting-started.rst:65
-#, fuzzy
 msgid ""
 "We plan to provide a synchronization with other apps such that you don't "
 "need to manually upload your activities, but this work is still in "
@@ -220,7 +211,6 @@ msgid "\"I have an idea / a question / a problem\""
 msgstr "„Ich habe eine Idee, Frage oder ein Problem“"
 
 #: ../../starting-guide/getting-started.rst:84
-#, fuzzy
 msgid ""
 "We are pleased to help! To ensure that all users benefit from your "
 "request we ask you to use `our forum <https://forum.runalyze.com/>`_ "
@@ -230,5 +220,5 @@ msgstr ""
 "Wir helfen dir gerne. Damit alle Nutzer von deiner Frage bzw. der "
 "Beantwortung etwas haben, bitten wir dich, unser `Forum "
 "<https://forum.runalyze.com/>`_ zu nutzen. Vergewissere dich vorher, ob "
-"deine Frage vielleicht bereits dort oder in unser Dokumentation "
-"beantwortet wurde."
+"deine Frage vielleicht bereits dort oder in unser Dokumentation beantwortet "
+"wurde."
