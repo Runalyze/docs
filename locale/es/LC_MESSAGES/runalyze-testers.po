@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-30 13:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: ../../runalyze-testers.rst:3
+msgid "For RUNALYZE testers"
+msgstr ""
+
+#: ../../runalyze-testers.rst:6
+msgid "How to become a tester"
+msgstr ""
+
+#: ../../runalyze-testers.rst:8
+msgid ""
+"We're always looking for new tester for upcoming releases. If you own a "
+"self-hosted version of RUNALYZE and want to become a tester just drop us "
+"a mail. The next time we start a test phase you'll receive a mail."
+msgstr ""
+
+#: ../../runalyze-testers.rst:11
+msgid ""
+"If you have an account in our official version at runalyze.com just leave"
+" us a mail with your username. You will get further information as soon "
+"as we are starting the next test phase."
+msgstr ""
+
+#: ../../runalyze-testers.rst:14
+msgid "Introduction for testers of self-hosted RUNALYZE installations"
+msgstr ""
+
+#: ../../runalyze-testers.rst:16
+msgid ""
+"When it's time for us to start a new test phase you will receive a mail "
+"with a link to a current build of the upcoming release. In addition we "
+"will provide a list of all important changes."
+msgstr ""
+
+#: ../../runalyze-testers.rst:18
+msgid ""
+"Your most important task is to test the update procedure itself. We will "
+"provide an update documentation for each release."
+msgstr ""
+
+#: ../../runalyze-testers.rst:20 ../../runalyze-testers.rst:43
+msgid "Please leave us a mail, if ..."
+msgstr ""
+
+#: ../../runalyze-testers.rst:22
+msgid "something is not understandable during the update process."
+msgstr ""
+
+#: ../../runalyze-testers.rst:23
+msgid "the update documentation is wrong."
+msgstr ""
+
+#: ../../runalyze-testers.rst:24
+msgid "you have an error during the update process."
+msgstr ""
+
+#: ../../runalyze-testers.rst:26
+msgid ""
+"If there are any errors (empty pages, something does not show up, "
+"internal server error, …) it’s always important that you have a look into"
+" the „error.log“ of your webserver (nginx, apache ...) if error messages "
+"do not show up directly. In addition, please tell us which database "
+"system you're using (mySQL, mariaDB ...)."
+msgstr ""
+
+#: ../../runalyze-testers.rst:28
+msgid ""
+"Please leave a mail as well if you think everything is fine during the "
+"update process. It's important for us to know that the update is working."
+" The more feedback we're receiving the less we have to answer support "
+"questions and can concentrate on programming new features for RUNALYZE."
+msgstr ""
+
+#: ../../runalyze-testers.rst:30 ../../runalyze-testers.rst:54
+msgid ""
+"We are happy that you help us to improve the quality of RUNALYZE. "
+"Feedback is always appreciated!"
+msgstr ""
+
+#: ../../runalyze-testers.rst:33
+msgid "Introduction for testers of our official RUNALYZE installation"
+msgstr ""
+
+#: ../../runalyze-testers.rst:35
+msgid ""
+"If you're a tester of the upcoming RUNALYZE version we will copy your "
+"data of your account at runalyze.com to a temporary installation ats "
+"vn.runalyze.com. We’ll provide a list of all changes and things you "
+"definetly should test. You can simply login with your official account."
+msgstr ""
+
+#: ../../runalyze-testers.rst:37
+msgid ""
+"Outside of the test phase it will happen that the version at "
+"svn.runalyze.com won't work. We are just updating the version during the "
+"test phase."
+msgstr ""
+
+#: ../../runalyze-testers.rst:39
+msgid ""
+"Don't forget that we have to delete all data of svn.runalyze.com "
+"sometimes during and after the test phase. Just use it for this exact "
+"testing purpose - there won’t be any synchronization back to the official"
+" version at runalyze.com. Before each test phase, we’ll just import your "
+"‘real’ data from runalyze.com again."
+msgstr ""
+
+#: ../../runalyze-testers.rst:41
+msgid ""
+"Most of the features we are adding in upcoming releases to RUNALYZE are "
+"already tested by some candidates and by our automatic tests, but it can "
+"always happen that we make mistakes which are not covered by automatic "
+"tests."
+msgstr ""
+
+#: ../../runalyze-testers.rst:45
+msgid "something seems strange to you."
+msgstr ""
+
+#: ../../runalyze-testers.rst:46
+msgid "something is not working the way you are expecting."
+msgstr ""
+
+#: ../../runalyze-testers.rst:47
+msgid "or you just want to say something about a new feature."
+msgstr ""
+
+#: ../../runalyze-testers.rst:49
+msgid "In case of an error ..."
+msgstr ""
+
+#: ../../runalyze-testers.rst:51
+msgid "tell us what you tried to do."
+msgstr ""
+
+#: ../../runalyze-testers.rst:52
+msgid "tell us at which time you tried it (we will look into our log files)."
+msgstr ""
+

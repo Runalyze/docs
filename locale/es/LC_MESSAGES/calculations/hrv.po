@@ -1,0 +1,213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-30 13:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: ../../calculations/hrv.rst:3
+msgid "HRV"
+msgstr ""
+
+#: ../../calculations/hrv.rst:6
+msgid "Heart rate variability"
+msgstr ""
+
+#: ../../calculations/hrv.rst:7
+msgid ""
+"Heart rate variability (HRV) is the physiological phenomenon of variation"
+" in the time interval between heartbeats and is measured by the variation"
+" in the beat-to-beat interval. It is well known that HRV is directly "
+"related to the body's interdependent regulatory systems and can be a "
+"powerful measure for an athlete's recovery status."
+msgstr ""
+
+#: ../../calculations/hrv.rst:11
+msgid "HRV during exercise"
+msgstr ""
+
+#: ../../calculations/hrv.rst:13
+msgid ""
+"It is best practice to measure you heart rate variability on a daily "
+"basis e.g. each morning after waking up while still in bed. "
+"Unfortunately, that's not what is contained in all that data you upload "
+"to Runalyze. Instead, you go out for a run or a ride and measure your "
+"heart rate (and its variability) during exercise."
+msgstr ""
+
+#: ../../calculations/hrv.rst:17
+msgid ""
+"HRV analysis can be done for HRV during exercise as well but values are "
+"less reliable and vary alot between different intensities."
+msgstr ""
+
+#: ../../calculations/hrv.rst:20
+msgid "Please be cautious while interpreting your values."
+msgstr ""
+
+#: ../../calculations/hrv.rst:23
+msgid "HRV in Runalyze"
+msgstr ""
+
+#: ../../calculations/hrv.rst:25
+msgid ""
+"Runalyze offers HRV analysis for all files that contain exact R-R "
+"intervals, i.e. the exact times between all heartbeats. This can be the "
+"case for \\*.fit files from Garmin (if respectively configured), \\*.hrm "
+"files from Polar [#polar]_ and \\*.xml/\\*.sml files from Suunto."
+msgstr ""
+
+#: ../../calculations/hrv.rst:29
+msgid ""
+"Most devices using an optical sensor for measuring heart rate are not "
+"accurate enough (e.g. Mio Alpha, see [#baddevices]_), but there are ways "
+"to achieve good accuracy with opical measurements, see [#camerahrv]_."
+msgstr ""
+
+#: ../../calculations/hrv.rst:34
+msgid "Time-domain methods"
+msgstr ""
+
+#: ../../calculations/hrv.rst:36
+msgid ""
+"Runalyze uses `time-domain methods "
+"<https://en.wikipedia.org/wiki/Heart_rate_variability#Time-"
+"domain_methods>`_ from v2.2 on:"
+msgstr ""
+
+#: ../../calculations/hrv.rst:38
+msgid "avg. R-R interval"
+msgstr ""
+
+#: ../../calculations/hrv.rst:39
+msgid "average R-R interval, directly related to average heart rate"
+msgstr ""
+
+#: ../../calculations/hrv.rst:40
+msgid "RMSSD"
+msgstr ""
+
+#: ../../calculations/hrv.rst:41
+msgid "root mean square of successive differences"
+msgstr ""
+
+#: ../../calculations/hrv.rst:42
+msgid "lnRMSSD"
+msgstr ""
+
+#: ../../calculations/hrv.rst:43
+msgid "natural logarithm of *RMSSD*"
+msgstr ""
+
+#: ../../calculations/hrv.rst:44
+msgid "SDNN"
+msgstr ""
+
+#: ../../calculations/hrv.rst:45
+msgid "standard deviation of R-R intervals"
+msgstr ""
+
+#: ../../calculations/hrv.rst:46
+msgid "5 min-SDANN"
+msgstr ""
+
+#: ../../calculations/hrv.rst:47
+msgid "standard deviation of the average R-R intervals calculated over 5 minutes"
+msgstr ""
+
+#: ../../calculations/hrv.rst:48
+msgid "pNN50"
+msgstr ""
+
+#: ../../calculations/hrv.rst:49
+msgid "proportion of successive R-R intervals that differ by more than 50 ms"
+msgstr ""
+
+#: ../../calculations/hrv.rst:51
+msgid "pNN20"
+msgstr ""
+
+#: ../../calculations/hrv.rst:51
+msgid "proportion of successive R-R intervals that differ by more than 20 ms"
+msgstr ""
+
+#: ../../calculations/hrv.rst:53
+msgid ""
+"Especially *RMSSD* (and its equivalent *lnRMSSD*) and *pNN50* are said to"
+" be strong indicators for parasympathetic activity [#hrvlexikon]_ and "
+"thus large values indicate a better recovery status."
+msgstr ""
+
+#: ../../calculations/hrv.rst:56
+msgid ""
+"From v2.6 on, RUNALYZE does use only R-R intervals that differ from the "
+"preceding or following interval by less than 75 % (as suggested in "
+"[#ediss1118]_, 2.4.2.1)."
+msgstr ""
+
+#: ../../calculations/hrv.rst:60
+msgid "Further readings"
+msgstr ""
+
+#: ../../calculations/hrv.rst:63
+msgid "A look at a few months of hrv data"
+msgstr ""
+
+#: ../../calculations/hrv.rst:64
+msgid ""
+"Marco Altini, a data scientist and creator of multiple hrv based apps, "
+"measured his hrv every morning for a few months and `presents the results"
+" on his blog <http://www.marcoaltini.com/blog/a-look-at-a-few-months-of-"
+"hr-and-hrv-measurements>`_."
+msgstr ""
+
+#: ../../calculations/hrv.rst:68
+msgid "Heart rate variability explained"
+msgstr ""
+
+#: ../../calculations/hrv.rst:69
+msgid ""
+"Andrew Flatt, who did a lot of research on HRV, `explains HRV "
+"<http://hrvtraining.com/2012/01/16/heart-rate-variability-explained-"
+"part-1/>`_"
+msgstr ""
+
+#: ../../calculations/hrv.rst:72
+msgid "References"
+msgstr ""
+
+#: ../../calculations/hrv.rst:74
+msgid "http://www.polar.com/us-en/support/Heart_Rate_Variability__HRV_"
+msgstr ""
+
+#: ../../calculations/hrv.rst:75
+msgid "http://www.marcoaltini.com/blog/heart-rate-variability"
+msgstr ""
+
+#: ../../calculations/hrv.rst:76
+msgid ""
+"http://www.marcoaltini.com/blog/heart-rate-variability-using-the-phones-"
+"camera"
+msgstr ""
+
+#: ../../calculations/hrv.rst:77
+msgid "http://www.hrv24.de/HRV-Lexikon.htm"
+msgstr ""
+
+#: ../../calculations/hrv.rst:78
+msgid "http://www.zhb.uni-luebeck.de/epubs/ediss1118.pdf"
+msgstr ""
+
