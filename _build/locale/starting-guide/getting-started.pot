@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-30 13:38+0200\n"
+"POT-Creation-Date: 2016-08-18 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,38 +89,46 @@ msgid "And, however, we think there's a clear benefit in creating/importing your
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:74
-msgid "What can I expect from RUNALYZE in the future?"
+msgid "Understanding the calculations"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:75
-msgid "A new (clear, responsible) Design (the current one is 'slightly' outdated)"
-msgstr ""
-
-#: ../../starting-guide/getting-started.rst:76
-msgid "Automatic synchronization with other apps / vendors"
-msgstr ""
-
-#: ../../starting-guide/getting-started.rst:77
-msgid "Easier & clearer configuration"
+msgid "After importing some activities you may have a look at the calculations on the right side. Just hover over the label to see the meaning of these calculations. If you want to know how they are calculated have a look at the magic wand and the info icon."
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:78
-msgid "Better documentation of the various parameters and statistics"
+msgid "What can I expect from RUNALYZE in the future?"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:79
-msgid "Optional community functions"
+msgid "A new (clear, responsible) Design (the current one is 'slightly' outdated)"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:80
-msgid "Better support for swimming and cycling"
+msgid "Automatic synchronization with other apps / vendors"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:81
+msgid "Easier & clearer configuration"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:82
+msgid "Better documentation of the various parameters and statistics"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:83
-msgid "\"I have an idea / a question / a problem\""
+msgid "Optional community functions"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:84
+msgid "Better support for swimming and cycling"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:87
+msgid "\"I have an idea / a question / a problem\""
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:88
 msgid "We are pleased to help! To ensure that all users benefit from your request we ask you to use `our forum <https://forum.runalyze.com/>`_ (english & german). Make sure first whether your question has been answered already or is part of our documentation."
 msgstr ""
 
