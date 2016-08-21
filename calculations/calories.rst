@@ -16,7 +16,3 @@ the activity's duration by your sports setting *kilocalories per hour*.
     There's an `open issue <https://github.com/Runalyze/Runalyze/issues/1090>`_
     for using a better formula for calculating burned calories. Feel free to
     leave a +1 or contribute.
-
-.. note::
-    RUNALYZE uses the metric unit *kilocalorie* so far although it's superseded
-    by *kilojoule*. You want to have the choice? Leave a +1 `at GitHub <https://github.com/Runalyze/Runalyze/issues/1837>`_.
