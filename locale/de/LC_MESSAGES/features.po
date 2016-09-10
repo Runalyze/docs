@@ -4,27 +4,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-10 18:57+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-09-10 17:30+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"help/features/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.8-dev\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../features.rst:2
 msgid "Features"
-msgstr ""
+msgstr "Features"
 
 #: ../../features.rst:8
 msgid "**Privacy**"
-msgstr ""
+msgstr "**Privatsphäre**"
 
 #: ../../features.rst:9
 msgid "By default all your data is private and belongs to you."
@@ -38,11 +41,11 @@ msgstr ""
 
 #: ../../features.rst:14
 msgid "Analysis"
-msgstr ""
+msgstr "Analysen"
 
 #: ../../features.rst:20
 msgid "**TRIMP principle**"
-msgstr ""
+msgstr "**TRIMP Prinzip**"
 
 #: ../../features.rst:21
 msgid ""
@@ -52,7 +55,7 @@ msgstr ""
 
 #: ../../features.rst:28
 msgid "**VDOT estimation**"
-msgstr ""
+msgstr "**VDOT Schätzung**"
 
 #: ../../features.rst:29
 msgid ""
@@ -60,16 +63,22 @@ msgid ""
 "formula” <http://amzn.to/2cgSo9v>`_ to compare race results of different "
 "distances with each other."
 msgstr ""
+"Der VDOT-Wert wurde von Jack Daniels in seinem Buch `„Die Laufformel“  "
+"<http://amzn.to/2cgSo9v>`_ ins Leben gerufen. Mit ihm lassen sich "
+"Wettkampfergebnisse über unterschiedliche Distanzen vergleichen."
 
 #: ../../features.rst:30
 msgid ""
 "Runalyze goes one step ahead: We estimate your current vdot shape based "
 "on your heart rate and pace of every activity."
 msgstr ""
+"In Runalyze gehen wir einen Schritt weiter: Aus dem Verhältnis von "
+"Herzfrequenz zur Pace wird aus den Trainingsleistungen der aktuelle VDOT-"
+"Wert geschätzt."
 
 #: ../../features.rst:37
 msgid "**Prediction**"
-msgstr ""
+msgstr "**Prognose**"
 
 #: ../../features.rst:38
 msgid ""
@@ -77,10 +86,13 @@ msgid ""
 "Robert Bock, a simple method by Herbert Steffny, calculations by David "
 "Cameron or our VDOT method based on Jack Daniels' formulas."
 msgstr ""
+"Bei uns kannst du selbst wählen, welches du nutzen möchtest: Ob das CPP-"
+"Modell von Robert Bock, die simple Methode von Herbert Steffny, die "
+"Umrechnungen von David Cameron oder das VDOT-Modell von Jack Daniels."
 
 #: ../../features.rst:45
 msgid "**Prediction based on your shape**"
-msgstr ""
+msgstr "**Prognose basierend auf deiner Form**"
 
 #: ../../features.rst:46
 msgid ""
@@ -88,10 +100,14 @@ msgid ""
 " different distances, but that does not always fit your current shape. "
 "Our vdot estimations can be used to give much more accurate predictions."
 msgstr ""
+"Wie gut bist du jetzt gerade in Form? – Während die üblichen Prognosemodelle "
+"auf früheren Wettkampfergebnissen basieren, lässt sich aus dem geschätzten "
+"VDOT-Wert eine aktuelle Prognose unabhängig von bisherigen Ergebnissen "
+"aufstellen."
 
 #: ../../features.rst:53
 msgid "**Monotony, training strain, stress balance**"
-msgstr ""
+msgstr "**Monotonie, Trainingsbelastung, Stress Balance**"
 
 #: ../../features.rst:54
 msgid ""
@@ -101,15 +117,15 @@ msgstr ""
 
 #: ../../features.rst:58
 msgid "Logging data"
-msgstr ""
+msgstr "Daten erfassen"
 
 #: ../../features.rst:64
 msgid "**Upload | Import**"
-msgstr ""
+msgstr "**Hochladen | Importieren **"
 
 #: ../../features.rst:65
 msgid "You can upload your activities in all common formats"
-msgstr ""
+msgstr "Du kannst deine Aktivitäten in allen üblichen Formaten hochladen"
 
 #: ../../features.rst:66
 msgid ""
@@ -119,11 +135,11 @@ msgstr ""
 
 #: ../../features.rst:67
 msgid "The binary \\*.fit format is highly recommended."
-msgstr ""
+msgstr "Das binäre \\*.fit Format ist sehr empfehlenswert."
 
 #: ../../features.rst:74
 msgid "**FIT file specific data**"
-msgstr ""
+msgstr "**FIT Datei spezifische Daten**"
 
 #: ../../features.rst:75
 msgid "Importing HRV data, running dynamics, recovery time and more."
@@ -134,10 +150,12 @@ msgid ""
 "In the future: Supporting sensor data from BSXInsight, Moxy, cosinuss° "
 "One and others."
 msgstr ""
+"In der Zukunft: Unterstützung von Sensordaten wie BSXInsight, Moxy, cosinuss°"
+" One und andere."
 
 #: ../../features.rst:83
 msgid "**Export**"
-msgstr ""
+msgstr "**Exportieren**"
 
 #: ../../features.rst:84
 msgid "Export single activities as \\*.tcx, \\*.gpx, \\*.kml or \\*.fitlog file."
@@ -145,29 +163,32 @@ msgstr ""
 
 #: ../../features.rst:91
 msgid "**Import via Garmin communicator**"
-msgstr ""
+msgstr "**Import via Garmin Communicator**"
 
 #: ../../features.rst:92
 msgid "Direct import from (*some*) garmin devices via garmin communicator."
 msgstr ""
+"Direkter Import von (*einigen*) Garmin Geräten über den Garmin Communicator."
 
 #: ../../features.rst:99
 msgid "**Log your...**"
-msgstr ""
+msgstr "**Protokollierung von...*"
 
 #: ../../features.rst:100
 msgid ""
 "weight, resting heart rate, body fat, body water, body muscle, sleep "
 "duration, ..."
 msgstr ""
+"Gewicht, Ruhepuls, Körperfett, Körperwasseranteil, Körpermuskelanteil, "
+"Schlafdauer..."
 
 #: ../../features.rst:104
 msgid "Activities"
-msgstr ""
+msgstr "Aktivitäten"
 
 #: ../../features.rst:110
 msgid "**Heart rate variability (HRV)**"
-msgstr ""
+msgstr "**Herzfrequenzvariabilität (HRV)**"
 
 #: ../../features.rst:111
 msgid ""
@@ -177,7 +198,7 @@ msgstr ""
 
 #: ../../features.rst:118
 msgid "**Equipment**"
-msgstr ""
+msgstr "**Ausrüstung**"
 
 #: ../../features.rst:119
 msgid "Record your equipment for any type of sport, e.g. running shoes or bikes."
@@ -185,41 +206,43 @@ msgstr ""
 
 #: ../../features.rst:126
 msgid "**Race results**"
-msgstr ""
+msgstr "**Wettkampfergebnisse*"
 
 #: ../../features.rst:127
 msgid ""
 "You can document your placement at races (in addition to time and "
 "distance of course)."
 msgstr ""
+"Dokumentiere deine Platzierungen von Wettkämpfen (zusätzlich zur Zeit & "
+"Distanz der Strecke)."
 
 #: ../../features.rst:134
 msgid "**Tagging**"
-msgstr ""
+msgstr "**Taggen**"
 
 #: ../../features.rst:135
 msgid "Tag your activities to easily find them again."
-msgstr ""
+msgstr "Tagge deine Aktivitäten, um sie schneller wiederzufinden."
 
 #: ../../features.rst:142
 msgid "**Search**"
-msgstr ""
+msgstr "**Suchen**"
 
 #: ../../features.rst:143
 msgid "You can search any activity based on various parameters."
-msgstr ""
+msgstr "Trainings können nach beliebig vielen Parametern gesucht werden."
 
 #: ../../features.rst:150
 msgid "**Elevation correction**"
-msgstr ""
+msgstr "**Höhenkorrektur**"
 
 #: ../../features.rst:151
 msgid "GPS-based elevation data can be corrected via satellite data."
-msgstr ""
+msgstr "GPS-Höhendaten können über Satellitendaten korrigiert werden."
 
 #: ../../features.rst:158
 msgid "**Elevation calculation**"
-msgstr ""
+msgstr "**Höhenmeterberechnung**"
 
 #: ../../features.rst:159
 msgid ""
@@ -229,19 +252,19 @@ msgstr ""
 
 #: ../../features.rst:164
 msgid "Configuration"
-msgstr ""
+msgstr "Konfiguration"
 
 #: ../../features.rst:170
 msgid "**Own sport/activity types**"
-msgstr ""
+msgstr "**Eigene Sportarten/Trainingstypen**"
 
 #: ../../features.rst:171
 msgid "Define your own sport and activity types."
-msgstr ""
+msgstr "Verwende eigene Sportarten und Trainingstypen."
 
 #: ../../features.rst:178 ../../features.rst:190
 msgid "**Activity overview**"
-msgstr ""
+msgstr "**Aktivitätsübersicht**"
 
 #: ../../features.rst:179
 msgid "You can specify which values show up in the overview of your activities."
@@ -249,15 +272,15 @@ msgstr ""
 
 #: ../../features.rst:180
 msgid "(*Configuration -> Dataset*)"
-msgstr ""
+msgstr "(*Konfiguration -> Dataset*)"
 
 #: ../../features.rst:184
 msgid "Community"
-msgstr ""
+msgstr "Community"
 
 #: ../../features.rst:191
 msgid "You can publish your activities – if you want to."
-msgstr ""
+msgstr "Du kannst deine Aktivitäten veröffentlichen - wenn du willst"
 
 #: ../../features.rst:192
 msgid ""
@@ -267,7 +290,7 @@ msgstr ""
 
 #: ../../features.rst:199
 msgid "**More will come in the future**"
-msgstr ""
+msgstr "**Mehr folgt in der Zukunft**"
 
 #: ../../features.rst:200
 msgid ""
@@ -280,4 +303,5 @@ msgid ""
 "Excited about the features? Register at `RUNALYZE "
 "<https://runalyze.com>`_ and start analyzing your training!"
 msgstr ""
-
+"Die Funktionen begeistern dich? Dann registriere dich auf `RUNALYZE "
+"<https://runalyze.com>`_ und beginne dein Training zu analysieren."
