@@ -10,6 +10,7 @@ Missing something in this help? Contribute at
    :caption: General
 
    faq
+   features
    support
    translation
    knowledge-base
