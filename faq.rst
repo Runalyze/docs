@@ -75,3 +75,9 @@ Feel free to leave a '+1' at GitHub.
 Runalyze says that there are not enough results for good predictions
 *********************************************************************
 To get good predictions you need to have at least one race.
+
+----
+
+Where can I change my maximum heart rate?
+******************************************
+You can edit your maximum heart rate in the "Body values" panel. You may need to activate that panel (Configuration -> Panels)
