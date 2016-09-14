@@ -44,7 +44,8 @@ Each VDOT value of an activity in RUNALYZE is marked with an arrow to show if th
 VDOT settings
 **************
 
-.. image:: images/vdot-settings.png
+.. figure:: images/vdot-settings.png
+   :alt: VDOT configuration settings in RUNALYZE
 
 Manual correction factor
 -------------------------
