@@ -159,6 +159,14 @@ Activities
 | You can choose algorithm and settings for how your elevation value is calculate based on the elevation profile (as there is no truth, really).
 |
 
+.. raw:: html
+
+   <i class="fa fa-weather fa-2x fa-pull-right" aria-hidden="true"></i>
+
+| **Weather data**
+| Weather data (temperature, wind speed, wind direction, humdiity & pressure) can be (automatically) recorded for every outdoor activity.
+|
+
 
 Configuration
 --------------

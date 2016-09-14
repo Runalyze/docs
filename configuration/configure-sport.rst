@@ -2,6 +2,9 @@
 Sports
 =======
 
+.. figure:: images/sports-configuration.png
+   :alt: Sport configuration settings in RUNALYZE
+
 With this tutorial we want to show you how to add and edit a new sport.
 
 Creating a new sports type is as easily as editing an existing one:

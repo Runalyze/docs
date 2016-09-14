@@ -22,6 +22,8 @@ HRV analysis can be done for HRV during exercise as well but values are less rel
 HRV in Runalyze
 ***************
 
+.. image:: images/hrv.png
+
 Runalyze offers HRV analysis for all files that contain exact R-R intervals, i.e. the exact times between all heartbeats.
 This can be the case for \*.fit files from Garmin (if respectively configured), \*.hrm files from Polar [#polar]_ and \*.xml/\*.sml files from Suunto.
 

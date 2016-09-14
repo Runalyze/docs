@@ -4,6 +4,9 @@ VDOT
 
 VDOT in RUNALYZE
 *****************
+
+.. image:: images/vdot.png
+
 VDOT is - according to the originally definition - calculated from a race result.
 Having a personal best for 10k, you can use the VDOT of that result to get a prognosis for a half marathon.
 This works pretty well, but it requires a current (and "good") race result.
@@ -40,6 +43,8 @@ Each VDOT value of an activity in RUNALYZE is marked with an arrow to show if th
 
 VDOT settings
 **************
+
+.. image:: images/vdot-settings.png
 
 Manual correction factor
 -------------------------

@@ -2,6 +2,9 @@
 Activity types
 ===============
 
+.. figure:: images/activity-types-configuration.png
+   :alt: Activity type configuration settings in RUNALYZE
+
 If you have activated the “Types” checkbox in the sport configuration of a sport, you can define different activity types.
 
 For running we already added some types to make the start with RUNALYZE easy.

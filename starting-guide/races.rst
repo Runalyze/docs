@@ -8,6 +8,9 @@ respective checkbox. Activities marked as race will generate a new entry as
 the official distance and duration (which may differ from what you have stopped
 on your device) and your placements in the event.
 
+.. figure:: images/form-race.png
+   :alt: Mark an activity as race in form
+
 Please make sure that you enter common distances exactly. The result will be
 treated as 10k race if and only if the official distance is entered as
 *10.00 km*. This applies in particular for half-marathons (*21.10 km*) and
