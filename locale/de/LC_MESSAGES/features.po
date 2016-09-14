@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-10 18:57+0200\n"
-"PO-Revision-Date: 2016-09-10 17:30+0000\n"
+"PO-Revision-Date: 2016-09-14 08:59+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/features/de/>\n"
@@ -31,13 +31,15 @@ msgstr "**Privatsphäre**"
 
 #: ../../features.rst:9
 msgid "By default all your data is private and belongs to you."
-msgstr ""
+msgstr "Standardmäßig sind alle deine Daten nicht öffentlich und gehören dir."
 
 #: ../../features.rst:10
 msgid ""
 "But, if you want to, you can share single activities or an overview of "
 "all your activities."
 msgstr ""
+"Aber wenn du willst, kannst du auch einzelne Aktivitäten oder einen "
+"Überblick aller deiner Aktivitäten teilen."
 
 #: ../../features.rst:14
 msgid "Analysis"
@@ -52,6 +54,10 @@ msgid ""
 "TRIMP is short for *Training Impulse* and gives you the opportunity to "
 "compare activities of different intensity levels based on this value."
 msgstr ""
+"TRIMP steht für *Training Impulse* und bietet eine Möglichkeit, die "
+"Belastung verschiedener Trainings miteinander zu vergleichen. Die "
+"Belastungswerte über einen längeren Zeitraum lassen darauf schließen, wie "
+"fit man gerade ist."
 
 #: ../../features.rst:28
 msgid "**VDOT estimation**"
@@ -114,6 +120,8 @@ msgid ""
 "Additional statistics (based on TRIMP) that warn you of monotonous or too"
 " intensive training."
 msgstr ""
+"Weitere Werte (basierend auf TRIMP), die dich vor zu monotonem oder "
+"intensiven Training warnen."
 
 #: ../../features.rst:58
 msgid "Logging data"
@@ -132,6 +140,8 @@ msgid ""
 "(\\*.fit, \\*.fitlog, \\*.gpx, \\*.hrm, \\*.kml, \\*.logbook, \\*.pwx, "
 "\\*.slf, \\*.sml, \\*.tcx, \\*.trk, \\*.ttbin, \\*.xml)."
 msgstr ""
+"(\\*.fit, \\*.fitlog, \\*.gpx, \\*.hrm, \\*.kml, \\*.logbook, \\*.pwx, \\*"
+".slf, \\*.sml, \\*.tcx, \\*.trk, \\*.ttbin, \\*.xml)."
 
 #: ../../features.rst:67
 msgid "The binary \\*.fit format is highly recommended."
@@ -143,7 +153,7 @@ msgstr "**FIT Datei spezifische Daten**"
 
 #: ../../features.rst:75
 msgid "Importing HRV data, running dynamics, recovery time and more."
-msgstr ""
+msgstr "Importiere HRV Daten, Laufwerte, Erholungszeit und mehr."
 
 #: ../../features.rst:76
 msgid ""
@@ -160,6 +170,8 @@ msgstr "**Exportieren**"
 #: ../../features.rst:84
 msgid "Export single activities as \\*.tcx, \\*.gpx, \\*.kml or \\*.fitlog file."
 msgstr ""
+"Exportiere einzelne Einheiten als \\*.tcx, \\*.gpx, \\*.kml oder \\*.fitlog "
+"Datei."
 
 #: ../../features.rst:91
 msgid "**Import via Garmin communicator**"
@@ -195,6 +207,8 @@ msgid ""
 "Several values and plots are shown for your heart rate variability (as "
 "long as it's available in your files)."
 msgstr ""
+"Diverse  Werte und Diagramme für deine Herzfrequenzvariabilität (wenn sie "
+"aufgezeichnet wird)."
 
 #: ../../features.rst:118
 msgid "**Equipment**"
@@ -203,6 +217,8 @@ msgstr "**Ausrüstung**"
 #: ../../features.rst:119
 msgid "Record your equipment for any type of sport, e.g. running shoes or bikes."
 msgstr ""
+"Zeichne auf, wie viele Kilometer/Zeit dein Equipment (egal bei welcher "
+"Sportart) schon hinter sich hat."
 
 #: ../../features.rst:126
 msgid "**Race results**"
@@ -249,6 +265,8 @@ msgid ""
 "You can choose algorithm and settings for how your elevation value is "
 "calculate based on the elevation profile (as there is no truth, really)."
 msgstr ""
+"Der Algorithmus und die Parameter zur Berechnung der Höhenmeter können "
+"selbst festgelegt werden."
 
 #: ../../features.rst:164
 msgid "Configuration"
@@ -268,7 +286,7 @@ msgstr "**Aktivitätsübersicht**"
 
 #: ../../features.rst:179
 msgid "You can specify which values show up in the overview of your activities."
-msgstr ""
+msgstr "Du kannst festlegen, welche Werte in der Trainingsübersicht erscheinen."
 
 #: ../../features.rst:180
 msgid "(*Configuration -> Dataset*)"
@@ -287,6 +305,8 @@ msgid ""
 "(*Click on the chain symbol in the databrowser to open your public "
 "profile - if enabled.*)"
 msgstr ""
+"(*Klicke auf das Kettensymbol im Databrowser, um den Link zu deinem "
+"öffentlichen Profil zu finden - wenn aktiviert.*)"
 
 #: ../../features.rst:199
 msgid "**More will come in the future**"
@@ -297,6 +317,9 @@ msgid ""
 "For now we concentrate on improving the analysis and simplifying the "
 "import of activities, but there's a long list for future features."
 msgstr ""
+"Wir konzentrieren uns im Augenblick darauf die Analysen zu erweitern/zu "
+"verbessern, sowie einen einfacheren Import von Trainingsdateien zu "
+"ermöglichen. Es gibt aber eine lange Liste für zukünftige Funktionen."
 
 #: ../../features.rst:203
 msgid ""
