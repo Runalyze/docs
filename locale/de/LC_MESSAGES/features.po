@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-10 18:57+0200\n"
-"PO-Revision-Date: 2016-09-14 09:00+0000\n"
+"PO-Revision-Date: 2016-09-14 13:37+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/features/de/>\n"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: ../../features.rst:99
 msgid "**Log your...**"
-msgstr "**Protokollierung von...*"
+msgstr "**Protokollierung von...**"
 
 #: ../../features.rst:100
 msgid ""
