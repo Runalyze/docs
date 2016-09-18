@@ -70,7 +70,9 @@ There you'll find a folder for every day with \*.ttbin files.
 
 Have a look at the following article at `dcrainmaker.com <http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_ if you're using the iPhone App.
 
-If you're using a MAC/Linux system you can get the files `via usb <https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth <https://github.com/dlenski/ttblue>`_ from your watch.
+If you're using a MAC/Linux system you can get the files `via usb <https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth <https://github.com/dlenski/ttblue>`_ from your watch
+
+If you're using a Windows PC you can get the files via usb `with this open source software <https://github.com/altera2015/ttwatcher/releases>`_.
 
 Suunto
 ------
@@ -138,7 +140,7 @@ Now you need to `download the script at <https://github.com/kjkjava/garmin-conne
 Execute the `download.py` script::
 
     python gcexport.py -d activities -c all -f original -u --username <Username> --password <Password>
-    
+
 Or if you just want to download the last 3 activitivies
 
     python gcexport.py -d activities -c 3 -f original -u --username <Username> --password <Password>
