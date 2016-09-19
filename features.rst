@@ -1,6 +1,8 @@
 Features
 =========
 
+.. note:: Click on the green icons to see a screenshot of that feature
+
 .. raw:: html
 
    <i class="fa fa-lock fa-2x fa-pull-right" aria-hidden="true"></i>
@@ -23,7 +25,7 @@ Analysis
 
 .. raw:: html
 
-   <i class="fa fa-expand fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-vdotestimate.png" class="image-popup"><i class="fa fa-expand fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **VDOT estimation**
 | VDOT is a virtual value invented by `Jack Daniels in his “Running formula” <http://amzn.to/2cgSo9v>`_ to compare race results of different distances with each other.
@@ -32,7 +34,7 @@ Analysis
 
 .. raw:: html
 
-   <i class="fa fa-line-chart fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-prognosiscalc.png" class="image-popup"><i class="fa fa-line-chart fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Prediction**
 | You can choose your favorite model to predict your upcoming race: CPP by Robert Bock, a simple method by Herbert Steffny, calculations by David Cameron or our VDOT method based on Jack Daniels' formulas.
@@ -40,7 +42,7 @@ Analysis
 
 .. raw:: html
 
-   <i class="fa fa-area-chart fa-2x fa-pull-right" aria-hidden="true"></i>
+    <a href="_static/features-shape.png" class="image-popup"><i class="fa fa-area-chart fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Prediction based on your shape**
 | Most models predict your race performance based on your personal bests on different distances, but that does not always fit your current shape. Our vdot estimations can be used to give much more accurate predictions.
@@ -48,7 +50,7 @@ Analysis
 
 .. raw:: html
 
-   <i class="fa fa-bar-chart fa-2x fa-pull-right" aria-hidden="true"></i>
+  <a href="_static/features-calculations.png" class="image-popup"><i class="fa fa-bar-chart fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Monotony, training strain, stress balance**
 | Additional statistics (based on TRIMP) that warn you of monotonous or too intensive training.
@@ -105,15 +107,15 @@ Activities
 
 .. raw:: html
 
-   <i class="fa fa-heartbeat fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-hrv.png" class="image-popup"><i class="fa fa-heartbeat fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Heart rate variability (HRV)**
-| Several values and plots are shown for your heart rate variability (as long as it's available in your files).
+| Several values and plots are shown for your :doc:`heart rate variability </calculations/hrv>` (as long as it's available in your files).
 |
 
 .. raw:: html
 
-   <i class="fa fa-cubes fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-equipment.png" class="image-popup"><i class="fa fa-cubes fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Equipment**
 | Record your equipment for any type of sport, e.g. running shoes or bikes.
@@ -121,7 +123,7 @@ Activities
 
 .. raw:: html
 
-   <i class="fa fa-trophy fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-races.png" class="image-popup"><i class="fa fa-trophy fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Race results**
 | You can document your placement at races (in addition to time and distance of course).
@@ -137,7 +139,7 @@ Activities
 
 .. raw:: html
 
-   <i class="fa fa-search fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-search.png" class="image-popup"><i class="fa fa-search fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Search**
 | You can search any activity based on various parameters.
@@ -145,7 +147,7 @@ Activities
 
 .. raw:: html
 
-   <i class="fa fa-location-arrow fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-elevationcorrection.png" class="image-popup"><i class="fa fa-location-arrow fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Elevation correction**
 | GPS-based elevation data can be corrected via satellite data.
@@ -173,7 +175,7 @@ Configuration
 
 .. raw:: html
 
-   <i class="fa fa-cogs fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-sportset.png" class="image-popup"><i class="fa fa-cogs fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Own sport/activity types**
 | Define your own sport and activity types.
@@ -181,7 +183,7 @@ Configuration
 
 .. raw:: html
 
-   <i class="fa fa-table fa-2x fa-pull-right" aria-hidden="true"></i>
+   <a href="_static/features-dataset.png" class="image-popup"><i class="fa fa-table fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Activity overview**
 | You can specify which values show up in the overview of your activities.
