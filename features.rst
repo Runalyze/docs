@@ -28,7 +28,7 @@ Analysis
    <a href="_static/features-vdotestimate.png" class="image-popup"><i class="fa fa-expand fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **VDOT estimation**
-| VDOT is a virtual value invented by `Jack Daniels in his “Running formula” <http://amzn.to/2cgSo9v>`_ to compare race results of different distances with each other.
+| :doc:`calculations/vdot` is a virtual value invented by `Jack Daniels in his “Running formula” <http://amzn.to/2cgSo9v>`_ to compare race results of different distances with each other.
 | Runalyze goes one step ahead: We estimate your current vdot shape based on your heart rate and pace of every activity.
 |
 
@@ -37,7 +37,7 @@ Analysis
    <a href="_static/features-prognosiscalc.png" class="image-popup"><i class="fa fa-line-chart fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Prediction**
-| You can choose your favorite model to predict your upcoming race: CPP by Robert Bock, a simple method by Herbert Steffny, calculations by David Cameron or our VDOT method based on Jack Daniels' formulas.
+| You can choose your favorite model to predict your upcoming race: CPP by Robert Bock, a simple method by Herbert Steffny, calculations by David Cameron or our :doc:`calculations/vdot` method based on Jack Daniels' formulas.
 |
 
 .. raw:: html
@@ -45,7 +45,7 @@ Analysis
     <a href="_static/features-shape.png" class="image-popup"><i class="fa fa-area-chart fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Prediction based on your shape**
-| Most models predict your race performance based on your personal bests on different distances, but that does not always fit your current shape. Our vdot estimations can be used to give much more accurate predictions.
+| Most models predict your race performance based on your personal bests on different distances, but that does not always fit your current shape. Our :doc:`calculations/vdot` estimations can be used to give much more accurate predictions.
 |
 
 .. raw:: html
@@ -158,7 +158,7 @@ Activities
    <br><i class="fa fa-level-up fa-2x fa-pull-right" aria-hidden="true"></i>
 
 | **Elevation calculation**
-| You can choose algorithm and settings for how your elevation value is calculate based on the elevation profile (as there is no truth, really).
+| You can choose :doc:`algorithm and settings for how your elevation value is calculated</calculations/elevation>` based on the elevation profile (as there is no truth, really).
 |
 
 .. raw:: html
