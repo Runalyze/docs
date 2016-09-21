@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-21 19:37+0200\n"
-"PO-Revision-Date: 2016-07-06 19:21+0000\n"
+"PO-Revision-Date: 2016-09-21 18:08+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/support/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.9-dev\n"
 "Generated-By: Babel 1.3\n"
 
 #: ../../support.rst:2
@@ -33,15 +36,14 @@ msgstr ""
 "Community über die folgenden Wege kontaktieren:"
 
 #: ../../support.rst:6
-#, fuzzy
 msgid ""
 "`Forum <https://forum.runalyze.com/>`_: You can post your question in "
 "English or German. That's the best place to reach someone who can help "
 "you."
 msgstr ""
-"`Forum <https://forum.runalyze.com/>`_: Hier kannst du deine Fragen in "
-"Deutsch oder Englisch stellen. Dies ist der beste Platz für deine Fragen,"
-" Probleme und Anregungen, da das Forum für jeden einsichtbar ist."
+"`Forum <https://forum.runalyze.com/>`_: Hier kannst du deine Fragen auf "
+"Deutsch oder Englisch stellen. Dies ist der beste Platz für deine Fragen, "
+"Probleme und Anregungen, da das Forum für jeden einsichtbar ist."
 
 #: ../../support.rst:7
 msgid ""
@@ -61,7 +63,7 @@ msgstr ""
 
 #: ../../support.rst:12
 msgid "How to report a problem"
-msgstr ""
+msgstr "Wie melde ich ein Problem"
 
 #: ../../support.rst:14
 msgid ""
@@ -69,62 +71,76 @@ msgid ""
 " a problem. Inaccurate and unprecise support requests waste a lot of our "
 "time - time, that we'd love to put in the development instead."
 msgstr ""
+"Bitte überprüfe zweimal, ob du alle benötigten Informationen dem Report "
+"hinzugefügt hast. Ungenaue und unvollständige Supportanfragen kosten viel "
+"Zeit - Zeit, die wir lieber in die Entwicklung stecken würden."
 
 #: ../../support.rst:19
 msgid "**Before you report a problem**"
-msgstr ""
+msgstr "**Bevor du ein Problem meldest**"
 
 #: ../../support.rst:18
 msgid ""
 "Make sure that you've checked our `help page "
 "<https://help.runalyze.com>`_!"
 msgstr ""
+"Prüfe, ob dein Problem nicht schon auf der `Hilfeseite "
+"<https://help.runalyze.com>`_ beantwortet wurde!"
 
 #: ../../support.rst:19
 msgid ""
 "Make sure that you've checked our `forum <https://forum.runalyze.com>`_ "
 "and googled before asking!"
 msgstr ""
+"Prüfe, ob deine Frage nicht schon im `Forum <https://forum.runalyze.com>`_ "
+"beantwortet wurde. Google ist zudem auch immer dein Freund und Helfer!"
 
 #: ../../support.rst:31
 msgid "**Provide all possible information**"
-msgstr ""
+msgstr "**Liefere möglichst alle Informationen**"
 
 #: ../../support.rst:22
 msgid ""
 "Do you use our official hosted version or a self-hosted one? In the "
 "latter case: which version?"
 msgstr ""
+"Nutzt du unsere offiziel gehostete oder eine selbst gehostete Version? Bei "
+"Letzterem: Welche Version?"
 
 #: ../../support.rst:23
 msgid ""
 "Please describe your problem as detailed as possible (everything needed "
 "to reproduce your problem)"
 msgstr ""
+"Bitte beschreibe dein Problem so genau wie möglich (alles was uns hilft dein "
+"Problem zu reproduzieren)"
 
 #: ../../support.rst:24
 msgid "Tell us when the problem happend"
-msgstr ""
+msgstr "Sag uns, wann das Problem auftrat"
 
 #: ../../support.rst:25
 msgid "Add a screenshot if you think it might help us"
-msgstr ""
+msgstr "Füge Screenshots hinzu, wenn sie hilfreich sein könnten"
 
 #: ../../support.rst:26
 msgid "In case of problems with an activity file: Add that file to your report!"
 msgstr ""
+"Wenn es ein Problem mit einer Trainingsdatei ist: Füge die Datei dem Report "
+"hinzu!"
 
 #: ../../support.rst:27
 msgid "Tell us which device or app you are using"
-msgstr ""
+msgstr "Sag uns, welche Uhr oder App du nutzt"
 
 #: ../../support.rst:28
 msgid "Tell us your device's firmware if known"
-msgstr ""
+msgstr "Sag uns (wenn bekannt), welche Firmware auf deiner Uhr läuft"
 
 #: ../../support.rst:31
 msgid "Use the `forum <https://forum.runalyze.com>`_ to report your problem!"
 msgstr ""
+"Nutze das `forum <https://forum.runalyze.com>`_, um ein Problem zu melden!"
 
 #: ../../support.rst:34
 msgid "Report a bug"
@@ -135,6 +151,8 @@ msgid ""
 "`Forum <https://forum.runalyze.com>`_: Questions are public to everyone, "
 "so that everyone can see the answer"
 msgstr ""
+"`Forum <https://forum.runalyze.com>`_: Fragen sind für alle öffentlich "
+"einsehbar, sodass auch jeder die Antworten sehen kann"
 
 #: ../../support.rst:36
 msgid ""
@@ -145,16 +163,16 @@ msgstr ""
 " neues Ticket, wenn du denkst, dass du einen Bug entdeckt hast."
 
 #: ../../support.rst:37
-#, fuzzy
 msgid ""
 "`mail@runalyze.com <mailto:mail@runalyze.com>`_: We use a ticket system "
 "with automatic integration to our Slack channel - just send an email if "
 "you want to share something with us privately."
 msgstr ""
-"`mail@runalyze.com <mailto:mail@runalyze.com>`_ - Wir nutzen ein "
-"Ticketsystem, welches für uns den Support deutlich erleichtert - sende "
-"uns bitte nur eine Mail, wenn du etwas privat mitteilen möchtest."
+"`mail@runalyze.com <mailto:mail@runalyze.com>`_ : Wir nutzen ein "
+"Ticketsystem, welches für uns den Support deutlich erleichtert - sende uns "
+"bitte nur eine Mail, wenn du etwas privat mitteilen möchtest."
 
 #~ msgid ""
+#~ "_: \n"
+#~ ""
 #~ msgstr ""
-
