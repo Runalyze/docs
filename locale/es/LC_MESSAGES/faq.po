@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-30 13:38+0200\n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -150,5 +150,15 @@ msgstr ""
 
 #: ../../faq.rst:77
 msgid "To get good predictions you need to have at least one race."
+msgstr ""
+
+#: ../../faq.rst:82
+msgid "Where can I change my maximum heart rate?"
+msgstr ""
+
+#: ../../faq.rst:83
+msgid ""
+"You can edit your maximum heart rate in the \"Body values\" panel. You "
+"may need to activate that panel (Configuration -> Panels)"
 msgstr ""
 

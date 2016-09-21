@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../supported-sensors.rst:3
+msgid "Supported sensors"
+msgstr ""
+
+#: ../../supported-sensors.rst:5
+msgid "Since Garmin has extended their FIT file format a lot of new data can be written by external sensors."
+msgstr ""
+
+#: ../../supported-sensors.rst:7
+msgid "We are trying to add all supported sensors to this list. Tell us if you know that we support further external sensors."
+msgstr ""
+
+#: ../../supported-sensors.rst:10
+msgid "We will add further data fields to RUNALYZE in the future. Leave us a message if you are a sensor manufacturer and your sensor data is written to fit files."
+msgstr ""
+
+#: ../../supported-sensors.rst:13
+msgid "Smo2 & Thb"
+msgstr ""
+
+#: ../../supported-sensors.rst:14
+msgid "Smo2 (muscle tissue oxygen saturation) and Thb ()"
+msgstr ""
+
+#: ../../supported-sensors.rst:16
+msgid "`Moxy Monitor <http://www.moxymonitor.com/>`_ `(Buy) <http://www.moxymonitor.com/shop/?ref=14>`_"
+msgstr ""
+
+#: ../../supported-sensors.rst:17
+msgid "`BSX Insight <https://www.bsxinsight.com/>`_  `(Buy) <https://www.bsxinsight.com/products>`_"
+msgstr ""
+

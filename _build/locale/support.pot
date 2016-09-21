@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-18 12:45+0200\n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid "Getting support for RUNALYZE is not hard. If you have problems or a gener
 msgstr ""
 
 #: ../../support.rst:6
-msgid "`Forum <http://forum.runalyze.de/>`_: You can post your question in English or German. That's the best place to reach someone who can help you."
+msgid "`Forum <https://forum.runalyze.com/>`_: You can post your question in English or German. That's the best place to reach someone who can help you."
 msgstr ""
 
 #: ../../support.rst:7
@@ -37,14 +37,74 @@ msgid "`Facebook <https://www.facebook.com/Runalyze>`_: Post on your question on
 msgstr ""
 
 #: ../../support.rst:12
-msgid "Report a bug"
-msgstr ""
-
-#: ../../support.rst:13
-msgid "`Github <https://github.com/Runalyze/Runalyze/issues/new>`_: Create a new issue at GitHub if think you discovered a bug."
+msgid "How to report a problem"
 msgstr ""
 
 #: ../../support.rst:14
-msgid "`mail@runalyze.com <mailto:mail@runalyze.com>`_ - We use a ticket system with automatic integration to our Slack channel - just send an email if you want to share something with us privately."
+msgid "Please check twice that you provide all needed information when reporting a problem. Inaccurate and unprecise support requests waste a lot of our time - time, that we'd love to put in the development instead."
+msgstr ""
+
+#: ../../support.rst:19
+msgid "**Before you report a problem**"
+msgstr ""
+
+#: ../../support.rst:18
+msgid "Make sure that you've checked our `help page <https://help.runalyze.com>`_!"
+msgstr ""
+
+#: ../../support.rst:19
+msgid "Make sure that you've checked our `forum <https://forum.runalyze.com>`_ and googled before asking!"
+msgstr ""
+
+#: ../../support.rst:31
+msgid "**Provide all possible information**"
+msgstr ""
+
+#: ../../support.rst:22
+msgid "Do you use our official hosted version or a self-hosted one? In the latter case: which version?"
+msgstr ""
+
+#: ../../support.rst:23
+msgid "Please describe your problem as detailed as possible (everything needed to reproduce your problem)"
+msgstr ""
+
+#: ../../support.rst:24
+msgid "Tell us when the problem happend"
+msgstr ""
+
+#: ../../support.rst:25
+msgid "Add a screenshot if you think it might help us"
+msgstr ""
+
+#: ../../support.rst:26
+msgid "In case of problems with an activity file: Add that file to your report!"
+msgstr ""
+
+#: ../../support.rst:27
+msgid "Tell us which device or app you are using"
+msgstr ""
+
+#: ../../support.rst:28
+msgid "Tell us your device's firmware if known"
+msgstr ""
+
+#: ../../support.rst:31
+msgid "Use the `forum <https://forum.runalyze.com>`_ to report your problem!"
+msgstr ""
+
+#: ../../support.rst:34
+msgid "Report a bug"
+msgstr ""
+
+#: ../../support.rst:35
+msgid "`Forum <https://forum.runalyze.com>`_: Questions are public to everyone, so that everyone can see the answer"
+msgstr ""
+
+#: ../../support.rst:36
+msgid "`Github <https://github.com/Runalyze/Runalyze/issues/new>`_: Create a new issue at GitHub if think you discovered a bug."
+msgstr ""
+
+#: ../../support.rst:37
+msgid "`mail@runalyze.com <mailto:mail@runalyze.com>`_: We use a ticket system with automatic integration to our Slack channel - just send an email if you want to share something with us privately."
 msgstr ""
 

@@ -8,18 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-27 19:41+0100\n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
 "PO-Revision-Date: 2016-07-07 12:09+0000\n"
 "Last-Translator: Hannes <mail@laufhannes.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/import/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.7-dev\n"
-"Generated-By: Babel 2.2.0\n"
+"Generated-By: Babel 1.3\n"
 
 #: ../../starting-guide/import.rst:3
 msgid "Import activities"
@@ -27,13 +24,13 @@ msgstr "Aktivitäten importieren"
 
 #: ../../starting-guide/import.rst:5
 msgid ""
-"We know that you have a whole bunch of activities you would like to import. "
-"RUNALYZE supports a wide range of file types and tries to fit all your "
-"needs. Still, some file types can be tricky."
+"We know that you have a whole bunch of activities you would like to "
+"import. RUNALYZE supports a wide range of file types and tries to fit all"
+" your needs. Still, some file types can be tricky."
 msgstr ""
-"Wir wissen, dass ihr eine Vielzahl an Aktivitäten in RUNALYZE importieren "
-"wollt. RUNALYZE unterstützt eine Vielzahl an Dateitypen. Einige Dateitypen "
-"können manchmal etwas trickreich sein."
+"Wir wissen, dass ihr eine Vielzahl an Aktivitäten in RUNALYZE importieren"
+" wollt. RUNALYZE unterstützt eine Vielzahl an Dateitypen. Einige "
+"Dateitypen können manchmal etwas trickreich sein."
 
 #: ../../starting-guide/import.rst:10
 msgid "We always import all data that we can read from your file."
@@ -50,37 +47,38 @@ msgstr "Garmin"
 #: ../../starting-guide/import.rst:16
 msgid ""
 "Some years ago, it was easy to sync your Garmin device via the so called "
-"*Garmin communicator*. We did not remove this option so far but the browser "
-"plugin itself is officially discontinued."
+"*Garmin communicator*. We did not remove this option so far but the "
+"browser plugin itself is officially discontinued."
 msgstr ""
-"Vor einigen Jahren war es sehr einfach von Garmin Geräten mit Hilfe des *"
-"Garmin communicator* Trainingsdaten zu uns zu überspielen. Wir haben diese "
-"Option noch nicht entfernt, aber das Garmin Browser Plugin wird seitens "
-"Garmin offiziell nicht mehr unterstützt."
+"Vor einigen Jahren war es sehr einfach von Garmin Geräten mit Hilfe des "
+"*Garmin communicator* Trainingsdaten zu uns zu überspielen. Wir haben "
+"diese Option noch nicht entfernt, aber das Garmin Browser Plugin wird "
+"seitens Garmin offiziell nicht mehr unterstützt."
 
 #: ../../starting-guide/import.rst:19
 msgid ""
 "Newer Garmin devices can be used as ordinary usb mass storage. Just pick "
-"your \\*.fit file from a directory called *ACTIVITIES* or similar. If your "
-"device synchronizes with Garmin Connect automatically you can download your "
-"activity as zipped \\*.fit file from the activity's page (look for the "
-"\"*original format*\")."
+"your \\*.fit file from a directory called *ACTIVITIES* or similar. If "
+"your device synchronizes with Garmin Connect automatically you can "
+"download your activity as zipped \\*.fit file from the activity's page "
+"(look for the \"*original format*\")."
 msgstr ""
 "Neuere Garmin Geräte können als USB Massenspeichermedium angeschlossen "
-"werden. Wähle einfach die \\*.fit Datei aus dem Ordner *ACTIVITIES* (kann "
-"auch anders heißen). Wenn dein Gerät sich mit Garmin Connect synchronisiert, "
-"kannst du darüber die Aktivität als gezippte \\*.fit Datei von der "
-"Aktivitätsseite herunterladen (schaue nach \"*Originalformat*\")."
+"werden. Wähle einfach die \\*.fit Datei aus dem Ordner *ACTIVITIES* (kann"
+" auch anders heißen). Wenn dein Gerät sich mit Garmin Connect "
+"synchronisiert, kannst du darüber die Aktivität als gezippte \\*.fit "
+"Datei von der Aktivitätsseite herunterladen (schaue nach "
+"\"*Originalformat*\")."
 
 #: ../../starting-guide/import.rst:22
 msgid ""
 "If you are using Garmin Express or the old ANT-Agent you can upload the "
-"files from your Windows, MacOS or Linux system. Just look for the files in "
-"the following directories."
+"files from your Windows, MacOS or Linux system. Just look for the files "
+"in the following directories."
 msgstr ""
-"Wenn du Garmin Express oder den alten ANT-Agent nutzt, kannst du die Dateien "
-"vom Windows, MacOS oder Linux System zu uns hochladen. Halte nach den "
-"Dateien in den folgenden Verzeichnissen Ausschau."
+"Wenn du Garmin Express oder den alten ANT-Agent nutzt, kannst du die "
+"Dateien vom Windows, MacOS oder Linux System zu uns hochladen. Halte nach"
+" den Dateien in den folgenden Verzeichnissen Ausschau."
 
 #: ../../starting-guide/import.rst:26
 msgid "Garmin Express"
@@ -108,8 +106,8 @@ msgstr "Windows: Öffne im Windows Explorer den folgenden Pfad::"
 
 #: ../../starting-guide/import.rst:46
 msgid ""
-"Then you have to open the folder with your device ID as name and find the "
-"folder *Activities*."
+"Then you have to open the folder with your device ID as name and find the"
+" folder *Activities*."
 msgstr ""
 "Nun öffne den Ordner mit deiner Geräte ID als Namen (kryptische "
 "Zahlen/Buchstabenreihenfolge) und suche den Ordner *Activities*."
@@ -122,13 +120,13 @@ msgstr "Linux"
 msgid ""
 "There is a tool called `antf-cli <https://github.com/Tigge/antfs-cli>`_. "
 "That tool should work with any compliant ANT-FS device in theory and it "
-"certainly does for Garmin Forerunner (60, 70, 405CX, 310XT, 610, 910XT) and "
-"Garmin Swim."
+"certainly does for Garmin Forerunner (60, 70, 405CX, 310XT, 610, 910XT) "
+"and Garmin Swim."
 msgstr ""
-"Es gibt ein Tool namens `antf-cli <https://github.com/Tigge/antfs-cli>`_. "
-"Dieses Gerät sollte theoretisch mit jedem konformen ANT-FS Gerät "
-"funktionieren. Erfolgreich getestet wurde es mit Garmin Forerunner (60, 70, "
-"405CX, 310XT, 610, 910XT) und Garmin Swim."
+"Es gibt ein Tool namens `antf-cli <https://github.com/Tigge/antfs-cli>`_."
+" Dieses Gerät sollte theoretisch mit jedem konformen ANT-FS Gerät "
+"funktionieren. Erfolgreich getestet wurde es mit Garmin Forerunner (60, "
+"70, 405CX, 310XT, 610, 910XT) und Garmin Swim."
 
 #: ../../starting-guide/import.rst:59
 msgid "Polar"
@@ -136,16 +134,17 @@ msgstr "Polar"
 
 #: ../../starting-guide/import.rst:61
 msgid ""
-"There is a software called `bipolar <https://github.com/pcolby/bipolar>`_ "
-"which can download the activites from Polar FlowSync, PolarV800 or Polar "
-"Loop and there is another software called `V800 Downloader "
+"There is a software called `bipolar <https://github.com/pcolby/bipolar>`_"
+" which can download the activites from Polar FlowSync, PolarV800 or Polar"
+" Loop and there is another software called `V800 Downloader "
 "<https://github.com/profanum429/v800_downloader>`_ on Github which does "
 "nearly the same."
 msgstr ""
-"Die Software `bipolar <https://github.com/pcolby/bipolar>`_ kann Aktivitäten "
-"von Polar FlowSync, PolarV800 oder Polar Loop herunterladen. Eine andere "
-"Software  `V800 Downloader <https://github.com/profanum429/v800_downloader>`"
-"_ , die es auf Github gibt, tut fast das Gleiche."
+"Die Software `bipolar <https://github.com/pcolby/bipolar>`_ kann "
+"Aktivitäten von Polar FlowSync, PolarV800 oder Polar Loop herunterladen. "
+"Eine andere Software  `V800 Downloader "
+"<https://github.com/profanum429/v800_downloader>`_ , die es auf Github "
+"gibt, tut fast das Gleiche."
 
 #: ../../starting-guide/import.rst:65
 msgid "TomTom Runner/Multisport Cardio"
@@ -156,8 +155,8 @@ msgid ""
 "It seems that all files will be stored on your computer as soon as you "
 "connect your device::"
 msgstr ""
-"Es scheint, dass alle Dateien auf deinem PC gespeichert werden, sobald du "
-"deine Uhr anschließt::"
+"Es scheint, dass alle Dateien auf deinem PC gespeichert werden, sobald du"
+" deine Uhr anschließt::"
 
 #: ../../starting-guide/import.rst:69
 msgid "There you'll find a folder for every day with \\*.ttbin files."
@@ -166,155 +165,164 @@ msgstr "In nach Datum benannten Ordnern findest du die \\*.ttbin Dateien."
 #: ../../starting-guide/import.rst:71
 msgid ""
 "Have a look at the following article at `dcrainmaker.com "
-"<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_ if"
-" you're using the iPhone App."
+"<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_"
+" if you're using the iPhone App."
 msgstr ""
 "Siehe dir den folgenden Artikel auf `dcrainmaker.com "
-"<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_ "
-"an, wenn du die iPhone App nutzt."
+"<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_"
+" an, wenn du die iPhone App nutzt."
 
 #: ../../starting-guide/import.rst:73
+#, fuzzy
 msgid ""
 "If you're using a MAC/Linux system you can get the files `via usb "
 "<https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth "
-"<https://github.com/dlenski/ttblue>`_ from your watch."
+"<https://github.com/dlenski/ttblue>`_ from your watch"
 msgstr ""
 "Wenn du ein MAC oder Linux System nutzt, kannst du `via USB "
 "<https://github.com/ryanbinns/ttwatch>`_ oder `via Bluetooth "
 "<https://github.com/dlenski/ttblue>`_ an die Daten der Uhr herankommen."
 
-#: ../../starting-guide/import.rst:76
+#: ../../starting-guide/import.rst:75
+msgid ""
+"If you're using a Windows PC you can get the files via usb `with this "
+"open source software "
+"<https://github.com/altera2015/ttwatcher/releases>`_."
+msgstr ""
+
+#: ../../starting-guide/import.rst:78
 msgid "Suunto"
 msgstr "Suunto"
 
-#: ../../starting-guide/import.rst:79
+#: ../../starting-guide/import.rst:81
 msgid "Apps & Webservices"
 msgstr "Apps & Webportale"
 
-#: ../../starting-guide/import.rst:81
+#: ../../starting-guide/import.rst:83
 msgid ""
-"Yes: We'll add an API to enable synchronization with other plattforms, e.g. "
-"via tapiriik, some day."
+"Yes: We'll add an API to enable synchronization with other plattforms, "
+"e.g. via tapiriik, some day."
 msgstr ""
 "Ja: Wir werden eine Schnittstelle hinzufügen, damit wir in Zukunft mit "
 "anderen Plattformen, wie zum Beispiel tapiriik oder auch direkt über die "
 "Portale der Hersteller an die Trainingsdaten herankommen können."
 
-#: ../../starting-guide/import.rst:84
+#: ../../starting-guide/import.rst:86
 msgid "Endomondo"
 msgstr "Endomondo"
 
-#: ../../starting-guide/import.rst:85 ../../starting-guide/import.rst:89
-#: ../../starting-guide/import.rst:94 ../../starting-guide/import.rst:167
-#: ../../starting-guide/import.rst:171 ../../starting-guide/import.rst:175
+#: ../../starting-guide/import.rst:87 ../../starting-guide/import.rst:91
+#: ../../starting-guide/import.rst:96 ../../starting-guide/import.rst:169
+#: ../../starting-guide/import.rst:173 ../../starting-guide/import.rst:177
 msgid "\\- Does not encode pauses [#encodepauses]_"
 msgstr "\\- Pausen sind nicht kodiert [#encodepauses]_"
 
-#: ../../starting-guide/import.rst:88
+#: ../../starting-guide/import.rst:90
 msgid "Strava"
 msgstr "Strava"
 
-#: ../../starting-guide/import.rst:92
+#: ../../starting-guide/import.rst:94
 msgid "Runtastic"
 msgstr "Runtastic"
 
-#: ../../starting-guide/import.rst:93
+#: ../../starting-guide/import.rst:95
 msgid "\\- Resampled file [#resampleddata]_"
 msgstr "\\- resampelte Datei [#resampleddata]_"
 
-#: ../../starting-guide/import.rst:98
+#: ../../starting-guide/import.rst:100
 msgid "**How to export all activities**"
 msgstr "**Wie exportiere ich alle Aktivitäten?**"
 
-#: ../../starting-guide/import.rst:100
+#: ../../starting-guide/import.rst:102
 msgid ""
-"By default, Runtastic does only provide a way to export single activities. "
-"With a little trick you can download all activites at once:"
+"By default, Runtastic does only provide a way to export single "
+"activities. With a little trick you can download all activites at once:"
 msgstr ""
-"Standardmäßig erlaubt es Runtastic nur einzelne Aktivitäten zu exportieren. "
-"Mit einem kleinen Trick kann man alle Aktivitäten auf einmal herunterladen:"
+"Standardmäßig erlaubt es Runtastic nur einzelne Aktivitäten zu "
+"exportieren. Mit einem kleinen Trick kann man alle Aktivitäten auf einmal"
+" herunterladen:"
 
-#: ../../starting-guide/import.rst:103 ../../starting-guide/import.rst:123
+#: ../../starting-guide/import.rst:105 ../../starting-guide/import.rst:125
 msgid "Drag the following link to your toolbar/bookmars"
 msgstr "Ziehe den folgenden Link in deine Lesezeichenleiste"
 
-#: ../../starting-guide/import.rst:110
+#: ../../starting-guide/import.rst:112
 msgid "Open the activity overview on the runtastic homepage"
 msgstr "Öffne die Aktivitätsübersicht der Runtastic Webseite"
 
-#: ../../starting-guide/import.rst:114
+#: ../../starting-guide/import.rst:116
 msgid "and click on the bookmark."
 msgstr "und klicke auf das Lesezeichen in der Lesezeichen/Favoritenliste."
 
-#: ../../starting-guide/import.rst:116
+#: ../../starting-guide/import.rst:118
 msgid ""
-"(Thanks to `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-"
-"activities-from-runtastic-as-tcx>`_)"
+"(Thanks to `blog.favo.org <http://blog.favo.org/post/56040226362/export-"
+"all-activities-from-runtastic-as-tcx>`_)"
 msgstr ""
-"(Danke an `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-"
-"activities-from-runtastic-as-tcx>`_)"
+"(Danke an `blog.favo.org <http://blog.favo.org/post/56040226362/export-"
+"all-activities-from-runtastic-as-tcx>`_)"
 
-#: ../../starting-guide/import.rst:119
+#: ../../starting-guide/import.rst:121
 msgid "Garmin Connect"
 msgstr "Garmin Connect"
 
-#: ../../starting-guide/import.rst:121
+#: ../../starting-guide/import.rst:123
 msgid "**How to download multiple activites via browser**"
 msgstr "**Wie lade ich mehrere Aktivitäten über den Browser herunter?**"
 
-#: ../../starting-guide/import.rst:129
+#: ../../starting-guide/import.rst:131
 msgid ""
 "Log in into `Garmin Connect <https://connect.garmin.com>`_ and open "
 "afterwards this site: `Activity overview "
 "<https://connect.garmin.com/minactivities>`_"
 msgstr ""
-"Logge dich bei  `Garmin Connect <https://connect.garmin.com>`_ ein und öffne "
-"danach folgende Seite: `Aktivitätsübersicht "
+"Logge dich bei  `Garmin Connect <https://connect.garmin.com>`_ ein und "
+"öffne danach folgende Seite: `Aktivitätsübersicht "
 "<https://connect.garmin.com/minactivities>`_"
 
-#: ../../starting-guide/import.rst:131
+#: ../../starting-guide/import.rst:133
 msgid ""
 "Click on the bookmark - All activities you see on the page will be "
 "downloaded. Go to the next page (2 ...3 ...4) and click again on the "
 "bookmark."
 msgstr ""
-"Klicke auf das Lesezeichen - Alle Aktivitäten die du aktuell auf der Seite "
-"siehst werden heruntergeladen. Gehe auf die nächsten Seiten (2...3...4) und "
-"klicke erneut auf das Lesezeichen."
+"Klicke auf das Lesezeichen - Alle Aktivitäten die du aktuell auf der "
+"Seite siehst werden heruntergeladen. Gehe auf die nächsten Seiten "
+"(2...3...4) und klicke erneut auf das Lesezeichen."
 
-#: ../../starting-guide/import.rst:134
+#: ../../starting-guide/import.rst:136
 msgid "**How to download all activites via script**"
 msgstr "**Wie lade ich alle Aktivitäten über ein Skript herunter?**"
 
-#: ../../starting-guide/import.rst:136
+#: ../../starting-guide/import.rst:138
 msgid ""
-"You need to be a bit technique affin for this. Python and the python package"
-" `mechanize` must be installed on your system. Now you need to `download the"
-" script at <https://github.com/kjkjava/garmin-connect-export>`_. Execute the"
-" `download.py` script::"
+"You need to be a bit technique affin for this. Python and the python "
+"package `mechanize` must be installed on your system. Now you need to "
+"`download the script at <https://github.com/kjkjava/garmin-connect-"
+"export>`_. Execute the `download.py` script::"
 msgstr ""
-"Dafür musst du ein bisschen technikaffin sein. Python und das Python Paket "
-"`mechanize` müssen auf deinem System installiert sein. Anschließend `lädst "
-"du dieses Skript herunter <https://github.com/kjkjava/garmin-connect-export>`"
-"_ und führst das `download.py` Skript aus::"
+"Dafür musst du ein bisschen technikaffin sein. Python und das Python "
+"Paket `mechanize` müssen auf deinem System installiert sein. Anschließend"
+" `lädst du dieses Skript herunter <https://github.com/kjkjava/garmin-"
+"connect-export>`_ und führst das `download.py` Skript aus::"
 
-#: ../../starting-guide/import.rst:142
+#: ../../starting-guide/import.rst:144
 msgid "Or if you just want to download the last 3 activitivies"
 msgstr "Oder wenn du nur die letzten drei Aktivitäten herunterladen möchtest"
 
-#: ../../starting-guide/import.rst:144
+#: ../../starting-guide/import.rst:146
 msgid ""
-"python gcexport.py -d activities -c 3 -f original -u --username <Username> "
-"--password <Password>"
+"python gcexport.py -d activities -c 3 -f original -u --username "
+"<Username> --password <Password>"
 msgstr ""
-"python gcexport.py -d activities -c 3 -f original -u --username <Username> --"
-"password <Password>"
+"python gcexport.py -d activities -c 3 -f original -u --username "
+"<Username> --password <Password>"
 
-#: ../../starting-guide/import.rst:147
+#: ../../starting-guide/import.rst:149
 msgid "sports-tracker.com"
 msgstr "sports-tracker.com"
 
-#: ../../starting-guide/import.rst:149
+#: ../../starting-guide/import.rst:151
 msgid ""
 "Try to download all activities with the tool `by Olivian Daniel Tofan "
 "<http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_"
@@ -323,19 +331,19 @@ msgstr ""
 "<http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_ "
 "herunterzuladen"
 
-#: ../../starting-guide/import.rst:152
+#: ../../starting-guide/import.rst:154
 msgid "Trainingstagebuch.org"
 msgstr "Trainingstagebuch.org"
 
-#: ../../starting-guide/import.rst:153
+#: ../../starting-guide/import.rst:155
 msgid "**How to export all activities as .gpx files**"
 msgstr "**Wie lade ich alle Aktivitäten als .gpx Datei herunter?**"
 
-#: ../../starting-guide/import.rst:155
+#: ../../starting-guide/import.rst:157
 msgid "Drag the following link to your toolbar/bookmarks"
 msgstr "Ziehe den folgenden Link als Lesezeichen in deine Browserleiste"
 
-#: ../../starting-guide/import.rst:162
+#: ../../starting-guide/import.rst:164
 msgid ""
 "Open the `activity list page "
 "<http://trainingstagebuch.org/workouts/list?rows=320>`_ at "
@@ -345,70 +353,70 @@ msgstr ""
 "Öffne die `Aktivitätsübersicht "
 "<http://trainingstagebuch.org/workouts/list?rows=320>`_ auf "
 "trainingstagebuch.org und klicke auf das Lesezeichen. Der Download aller "
-"Aktivitäten sollte beginnen. Wiederhole diesen Schritt für alle Seiten der "
-"Aktivitätsliste."
+"Aktivitäten sollte beginnen. Wiederhole diesen Schritt für alle Seiten "
+"der Aktivitätsliste."
 
-#: ../../starting-guide/import.rst:166
+#: ../../starting-guide/import.rst:168
 msgid "Nike+"
 msgstr "Nike+"
 
-#: ../../starting-guide/import.rst:170
+#: ../../starting-guide/import.rst:172
 msgid "MapMyRun"
 msgstr "MapMyRun"
 
-#: ../../starting-guide/import.rst:174
+#: ../../starting-guide/import.rst:176
 msgid "iRunner"
 msgstr "iRunner"
 
-#: ../../starting-guide/import.rst:178
+#: ../../starting-guide/import.rst:180
 msgid "Run.GPS"
 msgstr "Run.GPS"
 
-#: ../../starting-guide/import.rst:179
+#: ../../starting-guide/import.rst:181
 msgid "\\+ high precision data"
 msgstr "\\+ sehr gute Daten"
 
-#: ../../starting-guide/import.rst:183
+#: ../../starting-guide/import.rst:185
 msgid "Different file types"
 msgstr "Verschiedene Dateitypen"
 
-#: ../../starting-guide/import.rst:184
+#: ../../starting-guide/import.rst:186
 msgid ""
 "We get a lot of questions regarding file types: Which one is better and "
-"which one contains more data? To answer these questions we have created a "
-"table to show what we can import from each file type (as long as your device"
-" logged this data)."
+"which one contains more data? To answer these questions we have created a"
+" table to show what we can import from each file type (as long as your "
+"device logged this data)."
 msgstr ""
-"Wir bekommen häufig Fragen zu Trainingsdateien: Welche ist besser und welche "
-"enthält mehr Daten? Um euch diese Frage zu beantworten, haben wir eine "
-"Tabelle erstellt, die zeigt, was wir von den verschiedenen Dateitypen lesen "
-"können (wenn dein Gerät diese Daten dann aufzeichnet)."
-
-#: ../../starting-guide/import.rst:187
-msgid ""
-"Please send us an example file if you think we are missing some data during "
-"the import."
-msgstr ""
-"Bitte sende uns eine Beispieldatei, wenn du denkst, dass einige Daten nicht "
-"von uns importiert werden."
+"Wir bekommen häufig Fragen zu Trainingsdateien: Welche ist besser und "
+"welche enthält mehr Daten? Um euch diese Frage zu beantworten, haben wir "
+"eine Tabelle erstellt, die zeigt, was wir von den verschiedenen "
+"Dateitypen lesen können (wenn dein Gerät diese Daten dann aufzeichnet)."
 
 #: ../../starting-guide/import.rst:189
+msgid ""
+"Please send us an example file if you think we are missing some data "
+"during the import."
+msgstr ""
+"Bitte sende uns eine Beispieldatei, wenn du denkst, dass einige Daten "
+"nicht von uns importiert werden."
+
+#: ../../starting-guide/import.rst:191
 msgid "N = No"
 msgstr "N = Nein"
 
-#: ../../starting-guide/import.rst:190
+#: ../../starting-guide/import.rst:192
 msgid "M = Maybe"
 msgstr "M = Vielleicht"
 
-#: ../../starting-guide/import.rst:191
+#: ../../starting-guide/import.rst:193
 msgid "C = Will be calculated if not present"
 msgstr "C = Wird berechnet, wenn nicht vorhanden"
 
-#: ../../starting-guide/import.rst:192
+#: ../../starting-guide/import.rst:194
 msgid "CC = Will be calculated when a condition is given"
 msgstr "CC = Wird berechnet, wenn eine bestimmte Bedingung erfüllt ist"
 
-#: ../../starting-guide/import.rst:195
+#: ../../starting-guide/import.rst:197
 msgid ""
 "Distances may be recalculated in some cases, when there are no distance "
 "information for gps datapoints."
@@ -416,357 +424,243 @@ msgstr ""
 "Die Distanz wird unter Umständen von uns berechnet, wenn keine "
 "Distanzinformationen zu den GPS Punkten vorhanden sind."
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "Type"
 msgstr "Typ"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "FIT"
 msgstr "FIT"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "TCX/TTBIN"
 msgstr "TCX/TTBIN"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "GPX"
 msgstr "GPX"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "PWX"
 msgstr "PWX"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "hrm & gpx"
 msgstr "hrm & gpx"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "Fitlog"
 msgstr "Fitlog"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "Logbook (3)"
 msgstr "Logbook (3)"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "kml/kmz"
 msgstr "kml/kmz"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "TRK"
 msgstr "TRK"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "sml"
 msgstr "sml"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "slf"
 msgstr "slf"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "xml(Suunto)"
 msgstr "xml(Suunto)"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "csv(Epson)"
 msgstr "csv(Epson)"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:200
 msgid "hrm"
 msgstr "hrm"
 
-#: ../../starting-guide/import.rst:200
+#: ../../starting-guide/import.rst:202
 msgid "Distance"
 msgstr "Distanz"
 
-#: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
-#: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
-#: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
-#: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
-#: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
-#: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
-#: ../../starting-guide/import.rst:200 ../../starting-guide/import.rst:200
-#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:202
-#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:202
-#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:202
-#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:202
-#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:202
-#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:202
-#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:202
-#: ../../starting-guide/import.rst:204 ../../starting-guide/import.rst:204
-#: ../../starting-guide/import.rst:204 ../../starting-guide/import.rst:204
-#: ../../starting-guide/import.rst:204 ../../starting-guide/import.rst:204
-#: ../../starting-guide/import.rst:204 ../../starting-guide/import.rst:204
-#: ../../starting-guide/import.rst:204 ../../starting-guide/import.rst:204
-#: ../../starting-guide/import.rst:204 ../../starting-guide/import.rst:204
-#: ../../starting-guide/import.rst:204 ../../starting-guide/import.rst:204
-#: ../../starting-guide/import.rst:208 ../../starting-guide/import.rst:210
-#: ../../starting-guide/import.rst:210 ../../starting-guide/import.rst:210
-#: ../../starting-guide/import.rst:212 ../../starting-guide/import.rst:212
-#: ../../starting-guide/import.rst:212 ../../starting-guide/import.rst:212
-#: ../../starting-guide/import.rst:212 ../../starting-guide/import.rst:212
-#: ../../starting-guide/import.rst:212 ../../starting-guide/import.rst:212
-#: ../../starting-guide/import.rst:212 ../../starting-guide/import.rst:212
-#: ../../starting-guide/import.rst:212 ../../starting-guide/import.rst:212
+#: ../../starting-guide/import.rst:202 ../../starting-guide/import.rst:204
+#: ../../starting-guide/import.rst:206 ../../starting-guide/import.rst:210
 #: ../../starting-guide/import.rst:212 ../../starting-guide/import.rst:214
-#: ../../starting-guide/import.rst:216 ../../starting-guide/import.rst:216
-#: ../../starting-guide/import.rst:216 ../../starting-guide/import.rst:216
-#: ../../starting-guide/import.rst:216 ../../starting-guide/import.rst:216
-#: ../../starting-guide/import.rst:216 ../../starting-guide/import.rst:216
-#: ../../starting-guide/import.rst:216 ../../starting-guide/import.rst:216
 #: ../../starting-guide/import.rst:216 ../../starting-guide/import.rst:218
-#: ../../starting-guide/import.rst:218 ../../starting-guide/import.rst:218
-#: ../../starting-guide/import.rst:218 ../../starting-guide/import.rst:218
-#: ../../starting-guide/import.rst:218 ../../starting-guide/import.rst:218
-#: ../../starting-guide/import.rst:218 ../../starting-guide/import.rst:218
-#: ../../starting-guide/import.rst:218 ../../starting-guide/import.rst:218
-#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:220
-#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:220
-#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:220
-#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:220
 #: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:222
-#: ../../starting-guide/import.rst:222 ../../starting-guide/import.rst:222
-#: ../../starting-guide/import.rst:222 ../../starting-guide/import.rst:222
-#: ../../starting-guide/import.rst:222 ../../starting-guide/import.rst:222
-#: ../../starting-guide/import.rst:222 ../../starting-guide/import.rst:222
-#: ../../starting-guide/import.rst:224 ../../starting-guide/import.rst:224
-#: ../../starting-guide/import.rst:224 ../../starting-guide/import.rst:224
-#: ../../starting-guide/import.rst:224 ../../starting-guide/import.rst:224
-#: ../../starting-guide/import.rst:226 ../../starting-guide/import.rst:226
-#: ../../starting-guide/import.rst:226 ../../starting-guide/import.rst:226
-#: ../../starting-guide/import.rst:226 ../../starting-guide/import.rst:226
-#: ../../starting-guide/import.rst:226 ../../starting-guide/import.rst:226
-#: ../../starting-guide/import.rst:228 ../../starting-guide/import.rst:228
-#: ../../starting-guide/import.rst:228 ../../starting-guide/import.rst:228
-#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:234
-#: ../../starting-guide/import.rst:236 ../../starting-guide/import.rst:240
-#: ../../starting-guide/import.rst:242 ../../starting-guide/import.rst:244
-#: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:244
+#: ../../starting-guide/import.rst:224 ../../starting-guide/import.rst:226
+#: ../../starting-guide/import.rst:228 ../../starting-guide/import.rst:230
+#: ../../starting-guide/import.rst:234 ../../starting-guide/import.rst:236
+#: ../../starting-guide/import.rst:238 ../../starting-guide/import.rst:242
 #: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:248
 msgid "✓"
 msgstr "✓"
 
-#: ../../starting-guide/import.rst:202
+#: ../../starting-guide/import.rst:204
 msgid "Startdate/time"
 msgstr "Startdatum"
 
-#: ../../starting-guide/import.rst:204
+#: ../../starting-guide/import.rst:206
 msgid "Duration"
 msgstr "Dauer"
 
-#: ../../starting-guide/import.rst:206
+#: ../../starting-guide/import.rst:208
 msgid "Sporttype"
 msgstr "Sporttyp"
 
-#: ../../starting-guide/import.rst:208
+#: ../../starting-guide/import.rst:210
 msgid "Name"
 msgstr "Name"
 
-#: ../../starting-guide/import.rst:208 ../../starting-guide/import.rst:216
-#: ../../starting-guide/import.rst:218 ../../starting-guide/import.rst:218
-#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:220
-#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:220
-#: ../../starting-guide/import.rst:222 ../../starting-guide/import.rst:222
-#: ../../starting-guide/import.rst:222 ../../starting-guide/import.rst:224
-#: ../../starting-guide/import.rst:224 ../../starting-guide/import.rst:224
-#: ../../starting-guide/import.rst:224 ../../starting-guide/import.rst:224
-#: ../../starting-guide/import.rst:226 ../../starting-guide/import.rst:226
-#: ../../starting-guide/import.rst:226 ../../starting-guide/import.rst:226
-#: ../../starting-guide/import.rst:226 ../../starting-guide/import.rst:228
-#: ../../starting-guide/import.rst:228 ../../starting-guide/import.rst:228
-#: ../../starting-guide/import.rst:228 ../../starting-guide/import.rst:228
-#: ../../starting-guide/import.rst:228 ../../starting-guide/import.rst:228
-#: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
-#: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
-#: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:232
-#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:232
-#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:232
-#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:232
-#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:232
-#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:232
-#: ../../starting-guide/import.rst:234 ../../starting-guide/import.rst:234
-#: ../../starting-guide/import.rst:234 ../../starting-guide/import.rst:234
-#: ../../starting-guide/import.rst:234 ../../starting-guide/import.rst:234
-#: ../../starting-guide/import.rst:234 ../../starting-guide/import.rst:234
-#: ../../starting-guide/import.rst:234 ../../starting-guide/import.rst:234
-#: ../../starting-guide/import.rst:234 ../../starting-guide/import.rst:236
-#: ../../starting-guide/import.rst:236 ../../starting-guide/import.rst:236
-#: ../../starting-guide/import.rst:236 ../../starting-guide/import.rst:236
-#: ../../starting-guide/import.rst:236 ../../starting-guide/import.rst:236
-#: ../../starting-guide/import.rst:236 ../../starting-guide/import.rst:236
-#: ../../starting-guide/import.rst:236 ../../starting-guide/import.rst:236
-#: ../../starting-guide/import.rst:238 ../../starting-guide/import.rst:238
-#: ../../starting-guide/import.rst:238 ../../starting-guide/import.rst:238
-#: ../../starting-guide/import.rst:238 ../../starting-guide/import.rst:238
-#: ../../starting-guide/import.rst:238 ../../starting-guide/import.rst:238
-#: ../../starting-guide/import.rst:238 ../../starting-guide/import.rst:238
-#: ../../starting-guide/import.rst:238 ../../starting-guide/import.rst:240
-#: ../../starting-guide/import.rst:240 ../../starting-guide/import.rst:240
-#: ../../starting-guide/import.rst:240 ../../starting-guide/import.rst:240
-#: ../../starting-guide/import.rst:240 ../../starting-guide/import.rst:240
-#: ../../starting-guide/import.rst:240 ../../starting-guide/import.rst:240
-#: ../../starting-guide/import.rst:240 ../../starting-guide/import.rst:240
+#: ../../starting-guide/import.rst:210 ../../starting-guide/import.rst:218
+#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:222
+#: ../../starting-guide/import.rst:224 ../../starting-guide/import.rst:226
+#: ../../starting-guide/import.rst:228 ../../starting-guide/import.rst:230
+#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:234
+#: ../../starting-guide/import.rst:236 ../../starting-guide/import.rst:238
 #: ../../starting-guide/import.rst:240 ../../starting-guide/import.rst:242
-#: ../../starting-guide/import.rst:242 ../../starting-guide/import.rst:242
-#: ../../starting-guide/import.rst:242 ../../starting-guide/import.rst:242
-#: ../../starting-guide/import.rst:242 ../../starting-guide/import.rst:242
-#: ../../starting-guide/import.rst:242 ../../starting-guide/import.rst:242
-#: ../../starting-guide/import.rst:242 ../../starting-guide/import.rst:242
-#: ../../starting-guide/import.rst:242 ../../starting-guide/import.rst:242
-#: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:244
-#: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:244
-#: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:244
-#: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:244
-#: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:244
-#: ../../starting-guide/import.rst:246 ../../starting-guide/import.rst:246
-#: ../../starting-guide/import.rst:246 ../../starting-guide/import.rst:246
-#: ../../starting-guide/import.rst:246 ../../starting-guide/import.rst:246
-#: ../../starting-guide/import.rst:246 ../../starting-guide/import.rst:246
-#: ../../starting-guide/import.rst:246 ../../starting-guide/import.rst:246
-#: ../../starting-guide/import.rst:246 ../../starting-guide/import.rst:246
-#: ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:244 ../../starting-guide/import.rst:246
+#: ../../starting-guide/import.rst:248
 msgid "N"
 msgstr "N"
 
-#: ../../starting-guide/import.rst:210
+#: ../../starting-guide/import.rst:212
 msgid "Notes"
 msgstr "Notizen"
 
-#: ../../starting-guide/import.rst:212
+#: ../../starting-guide/import.rst:214
 msgid "Heartrate"
 msgstr "Herzfrequenz"
 
-#: ../../starting-guide/import.rst:214
+#: ../../starting-guide/import.rst:216
 msgid "Calories"
 msgstr "Kalorien"
 
-#: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
-#: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
-#: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
-#: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
+#: ../../starting-guide/import.rst:216
 msgid "✓/C"
 msgstr "✓/C"
 
-#: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
-#: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:214
-#: ../../starting-guide/import.rst:214 ../../starting-guide/import.rst:230
+#: ../../starting-guide/import.rst:216 ../../starting-guide/import.rst:232
 msgid "C"
 msgstr "C"
 
-#: ../../starting-guide/import.rst:216
+#: ../../starting-guide/import.rst:218
 msgid "GPS"
 msgstr "GPS"
 
-#: ../../starting-guide/import.rst:218
+#: ../../starting-guide/import.rst:220
 msgid "Altitude"
 msgstr "Höhendaten"
 
-#: ../../starting-guide/import.rst:220
+#: ../../starting-guide/import.rst:222
 msgid "Temperature"
 msgstr "Temperatur"
 
-#: ../../starting-guide/import.rst:222
+#: ../../starting-guide/import.rst:224
 msgid "Laps/Rounds"
 msgstr "Runden"
 
-#: ../../starting-guide/import.rst:224
+#: ../../starting-guide/import.rst:226
 msgid "Pauses"
 msgstr "Pausen"
 
-#: ../../starting-guide/import.rst:224
+#: ../../starting-guide/import.rst:226
 msgid "?"
 msgstr "?"
 
-#: ../../starting-guide/import.rst:226
+#: ../../starting-guide/import.rst:228
 msgid "Cadence (spm/rpm)"
 msgstr "Kadenz (spm/rpm)"
 
-#: ../../starting-guide/import.rst:228
+#: ../../starting-guide/import.rst:230
 msgid "Power"
 msgstr "Power"
 
-#: ../../starting-guide/import.rst:230
+#: ../../starting-guide/import.rst:232
 msgid "Stride length"
 msgstr "Schrittlänge"
 
-#: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
-#: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
-#: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:230
-#: ../../starting-guide/import.rst:230 ../../starting-guide/import.rst:238
+#: ../../starting-guide/import.rst:232 ../../starting-guide/import.rst:240
 msgid "CC"
 msgstr "CC"
 
-#: ../../starting-guide/import.rst:232
+#: ../../starting-guide/import.rst:234
 msgid "Ground Contact Time"
 msgstr "Bodenkontaktzeit"
 
-#: ../../starting-guide/import.rst:234
+#: ../../starting-guide/import.rst:236
 msgid "Ground Contact Balance"
 msgstr "Bodenkontaktzeit"
 
-#: ../../starting-guide/import.rst:236
+#: ../../starting-guide/import.rst:238
 msgid "Vertical oscillation"
 msgstr "Vertikale Bewegung"
 
-#: ../../starting-guide/import.rst:238
+#: ../../starting-guide/import.rst:240
 msgid "Vertical ratio"
 msgstr "Vertikales Verhältnis"
 
-#: ../../starting-guide/import.rst:240
+#: ../../starting-guide/import.rst:242
 msgid "Swim Strokes"
 msgstr "Schwimmzüge"
 
-#: ../../starting-guide/import.rst:242
+#: ../../starting-guide/import.rst:244
 msgid "Swim Stroke type"
 msgstr "Schwimmzug Stil"
 
-#: ../../starting-guide/import.rst:244
+#: ../../starting-guide/import.rst:246
 msgid "HRV"
 msgstr "HRV"
 
-#: ../../starting-guide/import.rst:252
-msgid ""
-"The idea of resampling data is to reduce the size of files and/or to "
-"simplify the process of generating the map for an activity. When you import "
-"such data it is nearly impossible to calculate the length of the activity. "
-"Sometimes the pace graph will show useless lines."
-msgstr ""
-"Die Idee hinter dem Resampling von Daten ist, die Größe der Dateien/einen "
-"Prozess (bspw. die Anzeige eine Karte) zu vereinfachen. Wenn du eine solche "
-"Datei importierst, ist es für uns fast unmöglich, die korrekte Länge der "
-"Aktivität zu berechnen. Manchmal wird das Pacediagramm sinnlose Linien "
-"anzeigen."
+#: ../../starting-guide/import.rst:248
+msgid "FIT details [#fitdetails]_"
+msgstr "FIT Details [#fitdetails]_"
 
 #: ../../starting-guide/import.rst:254
 msgid ""
-"Pauses can be encoded in TCX/GPX files with closed tracks/tracks segements. "
-"If they are not encoded RUNALYZE has to guess where pauses took place. If "
-"you have problems you can disable the detection of pauses in (General "
-"settings -> Activity form -> Detect pause)"
+"The idea of resampling data is to reduce the size of files and/or to "
+"simplify the process of generating the map for an activity. When you "
+"import such data it is nearly impossible to calculate the length of the "
+"activity. Sometimes the pace graph will show useless lines."
+msgstr ""
+"Die Idee hinter dem Resampling von Daten ist, die Größe der Dateien/einen"
+" Prozess (bspw. die Anzeige eine Karte) zu vereinfachen. Wenn du eine "
+"solche Datei importierst, ist es für uns fast unmöglich, die korrekte "
+"Länge der Aktivität zu berechnen. Manchmal wird das Pacediagramm sinnlose"
+" Linien anzeigen."
+
+#: ../../starting-guide/import.rst:256
+msgid ""
+"Pauses can be encoded in TCX/GPX files with closed tracks/tracks "
+"segements. If they are not encoded RUNALYZE has to guess where pauses "
+"took place. If you have problems you can disable the detection of pauses "
+"in (General settings -> Activity form -> Detect pause)"
 msgstr ""
 "Pausen können in TCX/GPX Dateien mit schließenden tracks/track-Segmenten "
-"gekennzeichnet werden. Wenn dies nicht der Fall ist, muss RUNALYZE versuchen "
-"die Pausen zu erraten. Solltest du Probleme mit der Pausenerkennung haben, "
-"kannst du diese unter (Konfiguration -> Allgemeine Einstellungen -> "
-"Eingabeformular -> Pausen erkennen) abschalten."
+"gekennzeichnet werden. Wenn dies nicht der Fall ist, muss RUNALYZE "
+"versuchen die Pausen zu erraten. Solltest du Probleme mit der "
+"Pausenerkennung haben, kannst du diese unter (Konfiguration -> Allgemeine"
+" Einstellungen -> Eingabeformular -> Pausen erkennen) abschalten."
 
-#: ../../starting-guide/import.rst:259
+#: ../../starting-guide/import.rst:258
+msgid ""
+"FIT files contain some Garmin-only values like recovery time, performance"
+" condition, hrv score and V02max estimate."
+msgstr ""
+"FIT Dateien enthalten einige Garmin-spezifische Werte wie Erholungszeit, "
+"\"performance condition\", HRV Wert und eine VO2max Schätzung."
+
+#: ../../starting-guide/import.rst:261
 msgid ""
 "This site may contain affiliate links to support the development and "
 "infrastructure of RUNALYZE"
 msgstr ""
-"Diese Seite enthält Affiliate Links um die Entwicklung und Infrastruktur von "
-"RUNALYZE zu unterstützen"
+"Diese Seite enthält Affiliate Links um die Entwicklung und Infrastruktur "
+"von RUNALYZE zu unterstützen"
 
-#: ../../starting-guide/import.rst:246
-msgid "FIT details [#fitdetails]_"
-msgstr "FIT Details [#fitdetails]_"
-
-#: ../../starting-guide/import.rst:256
-msgid ""
-"FIT files contain some Garmin-only values like recovery time, performance "
-"condition, hrv score and V02max estimate."
-msgstr ""
-"FIT Dateien enthalten einige Garmin-spezifische Werte wie Erholungszeit, \""
-"performance condition\", HRV Wert und eine VO2max Schätzung."

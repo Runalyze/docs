@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-18 12:45+0200\n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,6 +81,7 @@ msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:25
+#: ../../supported-devices.rst:127
 msgid "*.fit"
 msgstr ""
 
@@ -316,6 +317,7 @@ msgstr ""
 #: ../../supported-devices.rst:121
 #: ../../supported-devices.rst:123
 #: ../../supported-devices.rst:125
+#: ../../supported-devices.rst:127
 msgid "?"
 msgstr ""
 
@@ -417,5 +419,13 @@ msgstr ""
 
 #: ../../supported-devices.rst:125
 msgid "SF-310 `(Buy*) <http://amzn.to/1RU1F7b>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:127
+msgid "wahoo fitness"
+msgstr ""
+
+#: ../../supported-devices.rst:127
+msgid "all"
 msgstr ""
 

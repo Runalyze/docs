@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-18 12:45+0200\n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,7 +24,7 @@ msgstr ""
 msgid "Missing something in this help? Contribute at `Github <https://github.com/Runalyze/docs>`_ or `open an issue about what’s missing <https://github.com/Runalyze/docs/issues/new>`_."
 msgstr ""
 
-#: ../../index.rst:47
+#: ../../index.rst:48
 msgid "This site contains affiliate links to support the development and growing server costs of RUNALYZE. All affiliate links are marked with an asterisk (*)."
 msgstr ""
 

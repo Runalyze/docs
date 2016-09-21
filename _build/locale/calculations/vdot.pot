@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-18 12:45+0200\n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,91 +24,91 @@ msgstr ""
 msgid "VDOT in RUNALYZE"
 msgstr ""
 
-#: ../../calculations/vdot.rst:7
+#: ../../calculations/vdot.rst:10
 msgid "VDOT is - according to the originally definition - calculated from a race result. Having a personal best for 10k, you can use the VDOT of that result to get a prognosis for a half marathon. This works pretty well, but it requires a current (and \"good\") race result."
 msgstr ""
 
-#: ../../calculations/vdot.rst:11
+#: ../../calculations/vdot.rst:14
 msgid "In general, that's not sufficient. Runners want to know about their shape (i.e. optimal training paces and a prognosis for the upcoming race) while training for some event, not right after it."
 msgstr ""
 
-#: ../../calculations/vdot.rst:13
+#: ../../calculations/vdot.rst:16
 msgid "Therefore, RUNALYZE estimates your current VDOT based on your activities. (Again: it's an estimation - not an exact calculation!) This estimation is based on your heart rate and your running pace. Tables by Jack Daniels give a rough basis for these calculations. Your current VDOT shape is based on your average VDOT of the last 30 days."
 msgstr ""
 
-#: ../../calculations/vdot.rst:17
+#: ../../calculations/vdot.rst:20
 msgid "Still, this estimation is not that easy all the time. The maximal heart rate must be known and the heart rate graph of your activity must not go haywire due to a defect heart rate strap or other influences. RUNALYZE gives you the option to ignore an activity for your VDOT estimation (e.g. for activities with long pauses) to solve this problem."
 msgstr ""
 
-#: ../../calculations/vdot.rst:20
+#: ../../calculations/vdot.rst:23
 msgid "In addition, everybody's heart rate may behave differently but Daniels' tables are only a rule of thumb to match most people. RUNALYZE uses an additional *correction factor* which is just multiplied with the calculated value. This factor is calculated based on your *best* race and its heart rate. If this factor does not fit for you, just pick a manual factor (Configuration -> General settings -> VDOT)."
 msgstr ""
 
-#: ../../calculations/vdot.rst:26
+#: ../../calculations/vdot.rst:29
 msgid "In general, we suggest a correction factor between 0.85 and 0.95."
 msgstr ""
 
-#: ../../calculations/vdot.rst:30
+#: ../../calculations/vdot.rst:33
 msgid "General"
 msgstr ""
 
-#: ../../calculations/vdot.rst:32
+#: ../../calculations/vdot.rst:35
 msgid "Speaking of *VDOT*, it's a shortened version of V-dot-O2max, the maximal oxygen uptake rate. The VDOT itself, defined and invented by Jack Daniels, equals V-dot-O2max plus some additional factors to take the runner's economy/efficiency into consideration. That's why some people call it a *pseudo V-dot-O2max*."
 msgstr ""
 
-#: ../../calculations/vdot.rst:36
+#: ../../calculations/vdot.rst:39
 msgid "Jack Daniels' famous `Running Formula* <http://amzn.to/1GnAv43>`_ contains tables for estimating this VDOT. These formulas are used to estimate your VDOT and to predict your race performances. Your personal VDOT value is estimated based on the ratio of heart rate and pace for each of your runs. The average over a given period is considered as your current shape."
 msgstr ""
 
-#: ../../calculations/vdot.rst:39
+#: ../../calculations/vdot.rst:42
 msgid "Each VDOT value of an activity in RUNALYZE is marked with an arrow to show if this value is (much) higher than your current shape, equal to it or (much) lower."
 msgstr ""
 
-#: ../../calculations/vdot.rst:42
+#: ../../calculations/vdot.rst:45
 msgid "VDOT settings"
 msgstr ""
 
-#: ../../calculations/vdot.rst:45
+#: ../../calculations/vdot.rst:51
 msgid "Manual correction factor"
 msgstr ""
 
-#: ../../calculations/vdot.rst:46
+#: ../../calculations/vdot.rst:52
 msgid "If you think your VDOT correction factor, which is based on your best competition is wrong/not perfect, you can add a manual correction factor. A correction factor between 0.85 and 0.95 should be realistic"
 msgstr ""
 
-#: ../../calculations/vdot.rst:49
+#: ../../calculations/vdot.rst:55
 msgid "Adapt VDOT for elevation"
 msgstr ""
 
-#: ../../calculations/vdot.rst:50
+#: ../../calculations/vdot.rst:56
 msgid "If you make many vertical meters in your actitivies the VDOT may have a negative influence to your form. You can enable the adaption for elevation in the VDOT settings. You can set the correction per positive and negative elevation."
 msgstr ""
 
-#: ../../calculations/vdot.rst:54
+#: ../../calculations/vdot.rst:60
 msgid "Further readings and tools"
 msgstr ""
 
-#: ../../calculations/vdot.rst:56
+#: ../../calculations/vdot.rst:62
 msgid "`VDOT calculator (german) <http://www.polar.com/us-en/support/Heart_Rate_Variability__HRV_>`_"
 msgstr ""
 
-#: ../../calculations/vdot.rst:57
+#: ../../calculations/vdot.rst:63
 msgid "`Threshold Training: Finding Your VDOT <http://www.runnersworld.com/workouts/threshold-training-finding-your-vdot>`_"
 msgstr ""
 
-#: ../../calculations/vdot.rst:58
+#: ../../calculations/vdot.rst:64
 msgid "`VDOT - A 12 Point Guide <https://www.globe-runners.com/?q=node/181>`_"
 msgstr ""
 
-#: ../../calculations/vdot.rst:59
+#: ../../calculations/vdot.rst:65
 msgid "`The Math Behind The Daniels/Gilbert Formula <http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
 msgstr ""
 
-#: ../../calculations/vdot.rst:60
+#: ../../calculations/vdot.rst:66
 msgid "`Wikipedia about Daniels' VDOT <https://en.wikipedia.org/wiki/Jack_Daniels_%28coach%29#VDOT>`_"
 msgstr ""
 
-#: ../../calculations/vdot.rst:61
+#: ../../calculations/vdot.rst:67
 msgid "`Fellrnr about VDOT <http://fellrnr.com/wiki/VDOT>`_"
 msgstr ""
 

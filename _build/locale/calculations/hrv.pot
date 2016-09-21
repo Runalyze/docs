@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-18 12:45+0200\n"
+"POT-Creation-Date: 2016-09-21 19:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,127 +48,127 @@ msgstr ""
 msgid "HRV in Runalyze"
 msgstr ""
 
-#: ../../calculations/hrv.rst:25
+#: ../../calculations/hrv.rst:27
 msgid "Runalyze offers HRV analysis for all files that contain exact R-R intervals, i.e. the exact times between all heartbeats. This can be the case for \\*.fit files from Garmin (if respectively configured), \\*.hrm files from Polar [#polar]_ and \\*.xml/\\*.sml files from Suunto."
 msgstr ""
 
-#: ../../calculations/hrv.rst:29
+#: ../../calculations/hrv.rst:31
 msgid "Most devices using an optical sensor for measuring heart rate are not accurate enough (e.g. Mio Alpha, see [#baddevices]_), but there are ways to achieve good accuracy with opical measurements, see [#camerahrv]_."
 msgstr ""
 
-#: ../../calculations/hrv.rst:34
+#: ../../calculations/hrv.rst:36
 msgid "Time-domain methods"
 msgstr ""
 
-#: ../../calculations/hrv.rst:36
+#: ../../calculations/hrv.rst:38
 msgid "Runalyze uses `time-domain methods <https://en.wikipedia.org/wiki/Heart_rate_variability#Time-domain_methods>`_ from v2.2 on:"
 msgstr ""
 
-#: ../../calculations/hrv.rst:38
+#: ../../calculations/hrv.rst:40
 msgid "avg. R-R interval"
 msgstr ""
 
-#: ../../calculations/hrv.rst:39
+#: ../../calculations/hrv.rst:41
 msgid "average R-R interval, directly related to average heart rate"
 msgstr ""
 
-#: ../../calculations/hrv.rst:40
+#: ../../calculations/hrv.rst:42
 msgid "RMSSD"
 msgstr ""
 
-#: ../../calculations/hrv.rst:41
+#: ../../calculations/hrv.rst:43
 msgid "root mean square of successive differences"
 msgstr ""
 
-#: ../../calculations/hrv.rst:42
+#: ../../calculations/hrv.rst:44
 msgid "lnRMSSD"
 msgstr ""
 
-#: ../../calculations/hrv.rst:43
+#: ../../calculations/hrv.rst:45
 msgid "natural logarithm of *RMSSD*"
 msgstr ""
 
-#: ../../calculations/hrv.rst:44
+#: ../../calculations/hrv.rst:46
 msgid "SDNN"
 msgstr ""
 
-#: ../../calculations/hrv.rst:45
+#: ../../calculations/hrv.rst:47
 msgid "standard deviation of R-R intervals"
 msgstr ""
 
-#: ../../calculations/hrv.rst:46
+#: ../../calculations/hrv.rst:48
 msgid "5 min-SDANN"
 msgstr ""
 
-#: ../../calculations/hrv.rst:47
+#: ../../calculations/hrv.rst:49
 msgid "standard deviation of the average R-R intervals calculated over 5 minutes"
 msgstr ""
 
-#: ../../calculations/hrv.rst:48
+#: ../../calculations/hrv.rst:50
 msgid "pNN50"
 msgstr ""
 
-#: ../../calculations/hrv.rst:49
+#: ../../calculations/hrv.rst:51
 msgid "proportion of successive R-R intervals that differ by more than 50 ms"
 msgstr ""
 
-#: ../../calculations/hrv.rst:51
+#: ../../calculations/hrv.rst:53
 msgid "pNN20"
 msgstr ""
 
-#: ../../calculations/hrv.rst:51
+#: ../../calculations/hrv.rst:53
 msgid "proportion of successive R-R intervals that differ by more than 20 ms"
 msgstr ""
 
-#: ../../calculations/hrv.rst:53
+#: ../../calculations/hrv.rst:55
 msgid "Especially *RMSSD* (and its equivalent *lnRMSSD*) and *pNN50* are said to be strong indicators for parasympathetic activity [#hrvlexikon]_ and thus large values indicate a better recovery status."
 msgstr ""
 
-#: ../../calculations/hrv.rst:56
+#: ../../calculations/hrv.rst:58
 msgid "From v2.6 on, RUNALYZE does use only R-R intervals that differ from the preceding or following interval by less than 75 % (as suggested in [#ediss1118]_, 2.4.2.1)."
 msgstr ""
 
-#: ../../calculations/hrv.rst:60
+#: ../../calculations/hrv.rst:62
 msgid "Further readings"
 msgstr ""
 
-#: ../../calculations/hrv.rst:63
+#: ../../calculations/hrv.rst:65
 msgid "A look at a few months of hrv data"
 msgstr ""
 
-#: ../../calculations/hrv.rst:64
+#: ../../calculations/hrv.rst:66
 msgid "Marco Altini, a data scientist and creator of multiple hrv based apps, measured his hrv every morning for a few months and `presents the results on his blog <http://www.marcoaltini.com/blog/a-look-at-a-few-months-of-hr-and-hrv-measurements>`_."
 msgstr ""
 
-#: ../../calculations/hrv.rst:68
+#: ../../calculations/hrv.rst:70
 msgid "Heart rate variability explained"
 msgstr ""
 
-#: ../../calculations/hrv.rst:69
+#: ../../calculations/hrv.rst:71
 msgid "Andrew Flatt, who did a lot of research on HRV, `explains HRV <http://hrvtraining.com/2012/01/16/heart-rate-variability-explained-part-1/>`_"
 msgstr ""
 
-#: ../../calculations/hrv.rst:72
+#: ../../calculations/hrv.rst:74
 msgid "References"
 msgstr ""
 
-#: ../../calculations/hrv.rst:74
+#: ../../calculations/hrv.rst:76
 msgid "http://www.polar.com/us-en/support/Heart_Rate_Variability__HRV_"
 msgstr ""
 
-#: ../../calculations/hrv.rst:75
+#: ../../calculations/hrv.rst:77
 msgid "http://www.marcoaltini.com/blog/heart-rate-variability"
 msgstr ""
 
-#: ../../calculations/hrv.rst:76
+#: ../../calculations/hrv.rst:78
 msgid "http://www.marcoaltini.com/blog/heart-rate-variability-using-the-phones-camera"
 msgstr ""
 
-#: ../../calculations/hrv.rst:77
+#: ../../calculations/hrv.rst:79
 msgid "http://www.hrv24.de/HRV-Lexikon.htm"
 msgstr ""
 
-#: ../../calculations/hrv.rst:78
+#: ../../calculations/hrv.rst:80
 msgid "http://www.zhb.uni-luebeck.de/epubs/ediss1118.pdf"
 msgstr ""
 
