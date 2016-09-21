@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-21 19:37+0200\n"
-"PO-Revision-Date: 2016-09-15 10:05+0000\n"
-"Last-Translator: elskewe <elske.we@googlemail.com>\n"
+"PO-Revision-Date: 2016-09-21 17:58+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
 "help/features/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.9-dev\n"
 "Generated-By: Babel 1.3\n"
 
 #: ../../features.rst:2
@@ -24,7 +27,7 @@ msgstr "Features"
 
 #: ../../features.rst:4
 msgid "Click on the green icons to see a screenshot of that feature"
-msgstr ""
+msgstr "Klicke auf die grünen Icons, um ein Screenshot der Funktion zu sehen"
 
 #: ../../features.rst:10
 msgid "**Privacy**"
@@ -65,15 +68,14 @@ msgid "**VDOT estimation**"
 msgstr "**VDOT Schätzung**"
 
 #: ../../features.rst:31
-#, fuzzy
 msgid ""
 ":doc:`calculations/vdot` is a virtual value invented by `Jack Daniels in "
 "his “Running formula” <http://amzn.to/2cgSo9v>`_ to compare race results "
 "of different distances with each other."
 msgstr ""
-"Der VDOT-Wert wurde von Jack Daniels in seinem Buch `„Die Laufformel“  "
-"<http://amzn.to/2cgSo9v>`_ ins Leben gerufen. Mit ihm lassen sich "
-"Wettkampfergebnisse über unterschiedliche Distanzen vergleichen."
+"Der :doc:`calculations/vdot`-Wert wurde von Jack Daniels in seinem Buch `„"
+"Die Laufformel“  <http://amzn.to/2cgSo9v>`_ ins Leben gerufen. Mit ihm "
+"lassen sich Wettkampfergebnisse über unterschiedliche Distanzen vergleichen."
 
 #: ../../features.rst:32
 msgid ""
@@ -89,7 +91,6 @@ msgid "**Prediction**"
 msgstr "**Prognose**"
 
 #: ../../features.rst:40
-#, fuzzy
 msgid ""
 "You can choose your favorite model to predict your upcoming race: CPP by "
 "Robert Bock, a simple method by Herbert Steffny, calculations by David "
@@ -98,23 +99,23 @@ msgid ""
 msgstr ""
 "Bei uns kannst du selbst wählen, welches du nutzen möchtest: Ob das CPP-"
 "Modell von Robert Bock, die simple Methode von Herbert Steffny, die "
-"Umrechnungen von David Cameron oder das VDOT-Modell von Jack Daniels."
+"Umrechnungen von David Cameron oder das :doc:`calculations/vdot`-Modell von "
+"Jack Daniels."
 
 #: ../../features.rst:47
 msgid "**Prediction based on your shape**"
 msgstr "**Prognose basierend auf deiner Form**"
 
 #: ../../features.rst:48
-#, fuzzy
 msgid ""
 "Most models predict your race performance based on your personal bests on"
 " different distances, but that does not always fit your current shape. "
 "Our :doc:`calculations/vdot` estimations can be used to give much more "
 "accurate predictions."
 msgstr ""
-"Wie gut bist du jetzt gerade in Form? – Während die üblichen "
-"Prognosemodelle auf früheren Wettkampfergebnissen basieren, lässt sich "
-"aus dem geschätzten VDOT-Wert eine aktuelle Prognose unabhängig von "
+"Wie gut bist du jetzt gerade in Form? – Während die üblichen Prognosemodelle "
+"auf früheren Wettkampfergebnissen basieren, lässt sich aus dem geschätzten "
+":doc:`calculations/vdot`-Wert eine aktuelle Prognose unabhängig von "
 "bisherigen Ergebnissen aufstellen."
 
 #: ../../features.rst:55
@@ -210,13 +211,12 @@ msgid "**Heart rate variability (HRV)**"
 msgstr "**Herzfrequenzvariabilität (HRV)**"
 
 #: ../../features.rst:113
-#, fuzzy
 msgid ""
 "Several values and plots are shown for your :doc:`heart rate variability "
 "</calculations/hrv>` (as long as it's available in your files)."
 msgstr ""
-"Diverse  Werte und Diagramme für deine Herzfrequenzvariabilität (wenn sie"
-" aufgezeichnet wird)."
+"Diverse  Werte und Diagramme für deine :doc:`Herzfrequenzvariabilität "
+"</calculations/hrv>` (wenn sie aufgezeichnet wird)."
 
 #: ../../features.rst:120
 msgid "**Equipment**"
@@ -269,24 +269,25 @@ msgid "**Elevation calculation**"
 msgstr "**Höhenmeterberechnung**"
 
 #: ../../features.rst:161
-#, fuzzy
 msgid ""
 "You can choose :doc:`algorithm and settings for how your elevation value "
 "is calculated</calculations/elevation>` based on the elevation profile "
 "(as there is no truth, really)."
 msgstr ""
-"Der Algorithmus und die Parameter zur Berechnung der Höhenmeter können "
-"selbst festgelegt werden."
+"Der  :doc:`Algorithmus und die Parameter zur Berechnung der "
+"Höhenmeter</calculations/elevation>` können selbst festgelegt werden."
 
 #: ../../features.rst:168
 msgid "**Weather data**"
-msgstr ""
+msgstr "**Wetterdaten**"
 
 #: ../../features.rst:169
 msgid ""
 "Weather data (temperature, wind speed, wind direction, humdiity & "
 "pressure) can be (automatically) recorded for every outdoor activity."
 msgstr ""
+"Wetterdaten (Temperatur, Windgeschwindigkeit, Windrichtung, Luftfeuchtigkeit "
+"& Luftdruck) können (automatisch) für jede Aktivität aufgezeichnet werden."
 
 #: ../../features.rst:174
 msgid "Configuration"
@@ -348,4 +349,3 @@ msgid ""
 msgstr ""
 "Die Funktionen begeistern dich? Dann registriere dich auf `RUNALYZE "
 "<https://runalyze.com>`_ und beginne dein Training zu analysieren!"
-
