@@ -15,6 +15,7 @@ Missing something in this help? Contribute at
    translation
    knowledge-base
    supported-devices
+   supported-sensors
    runalyze-testers
 
 
