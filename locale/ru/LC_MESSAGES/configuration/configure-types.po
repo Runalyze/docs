@@ -1,7 +1,8 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016, RUNALYZE team
-# This file is distributed under the same license as the RUNALYZE - help package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
 #, fuzzy
 msgid ""
@@ -13,23 +14,30 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
 
 #: ../../configuration/configure-types.rst:3
 msgid "Activity types"
 msgstr ""
 
 #: ../../configuration/configure-types.rst:8
-msgid "If you have activated the “Types” checkbox in the sport configuration of a sport, you can define different activity types."
+msgid ""
+"If you have activated the “Types” checkbox in the sport configuration of "
+"a sport, you can define different activity types."
 msgstr ""
 
 #: ../../configuration/configure-types.rst:10
-msgid "For running we already added some types to make the start with RUNALYZE easy."
+msgid ""
+"For running we already added some types to make the start with RUNALYZE "
+"easy."
 msgstr ""
 
 #: ../../configuration/configure-types.rst:12
-msgid "Activity types are useful to seperate your training into different categories."
+msgid ""
+"Activity types are useful to seperate your training into different "
+"categories."
 msgstr ""
 
 #: ../../configuration/configure-types.rst:14
@@ -49,7 +57,9 @@ msgid "Abbreviation"
 msgstr ""
 
 #: ../../configuration/configure-types.rst:26
-msgid "The abbreviation is used in the databrowser and whereever the name is too long."
+msgid ""
+"The abbreviation is used in the databrowser and whereever the name is too"
+" long."
 msgstr ""
 
 #: ../../configuration/configure-types.rst:30
@@ -65,7 +75,10 @@ msgid "Ø HR"
 msgstr ""
 
 #: ../../configuration/configure-types.rst:38
-msgid "Similar to sports configuration, the average heart rate is used as fallback for TRIMP calculation. This value overrides the one from your sports configuration."
+msgid ""
+"Similar to sports configuration, the average heart rate is used as "
+"fallback for TRIMP calculation. This value overrides the one from your "
+"sports configuration."
 msgstr ""
 
 #: ../../configuration/configure-types.rst:42
@@ -73,7 +86,9 @@ msgid "Quality?"
 msgstr ""
 
 #: ../../configuration/configure-types.rst:44
-msgid "Set a checkmark if the activity type is a qualitiy session (e.g. interval workouts)."
+msgid ""
+"Set a checkmark if the activity type is a qualitiy session (e.g. interval"
+" workouts)."
 msgstr ""
 
 #: ../../configuration/configure-types.rst:48
@@ -81,7 +96,12 @@ msgid "Calendar view"
 msgstr ""
 
 #: ../../configuration/configure-types.rst:50
-msgid "You can choose the typ of presentation of an activity in the databrowser/calendar. '*Complete row*' means that you see the complete dataset (as configured in the dataset configuration) '*Only icon*' means that only the icons of the sport shows up in the databrowser/calendar. This overrides the sport configuration setting."
+msgid ""
+"You can choose the typ of presentation of an activity in the "
+"databrowser/calendar. '*Complete row*' means that you see the complete "
+"dataset (as configured in the dataset configuration) '*Only icon*' means "
+"that only the icons of the sport shows up in the databrowser/calendar. "
+"This overrides the sport configuration setting."
 msgstr ""
 
 #: ../../configuration/configure-types.rst:56

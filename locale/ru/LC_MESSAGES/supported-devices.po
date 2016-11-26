@@ -1,7 +1,8 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016, RUNALYZE team
-# This file is distributed under the same license as the RUNALYZE - help package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
 #, fuzzy
 msgid ""
@@ -13,23 +14,31 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
 
 #: ../../supported-devices.rst:3
 msgid "Supported devices"
 msgstr ""
 
 #: ../../supported-devices.rst:5
-msgid "In general we support almost all possible devices in various ways (except some very exotic ones). If your watch/device is not in this table does not mean we don't support it."
+msgid ""
+"In general we support almost all possible devices in various ways (except"
+" some very exotic ones). If your watch/device is not in this table does "
+"not mean we don't support it."
 msgstr ""
 
 #: ../../supported-devices.rst:8
-msgid "Just send us a message with information about your device and in which way you can upload the data to RUNALYZE."
+msgid ""
+"Just send us a message with information about your device and in which "
+"way you can upload the data to RUNALYZE."
 msgstr ""
 
 #: ../../supported-devices.rst:10
-msgid "Or you can directly contribute or create an issue for this page on `github <https://github.com/Runalyze/docs/issues>`_."
+msgid ""
+"Or you can directly contribute or create an issue for this page on "
+"`github <https://github.com/Runalyze/docs/issues>`_."
 msgstr ""
 
 #: ../../supported-devices.rst:12
@@ -41,7 +50,9 @@ msgid "Get the file via usb mass storage"
 msgstr ""
 
 #: ../../supported-devices.rst:15
-msgid "Export original file via `Garmin Connect <https://connect.garmin.com/de-DE/>`_"
+msgid ""
+"Export original file via `Garmin Connect <https://connect.garmin.com/de-"
+"DE/>`_"
 msgstr ""
 
 #: ../../supported-devices.rst:16
@@ -49,11 +60,15 @@ msgid "Export the tcx file via `Polar flow <https://flow.polar.com/>`_"
 msgstr ""
 
 #: ../../supported-devices.rst:17
-msgid "Export the original file via `TomTom MySports <https://mysports.tomtom.com/>`_"
+msgid ""
+"Export the original file via `TomTom MySports "
+"<https://mysports.tomtom.com/>`_"
 msgstr ""
 
 #: ../../supported-devices.rst:20
-msgid "This site contains affiliate links to support the development and infrastructure of RUNALYZE. They are marked with an *"
+msgid ""
+"This site contains affiliate links to support the development and "
+"infrastructure of RUNALYZE. They are marked with an *"
 msgstr ""
 
 #: ../../supported-devices.rst:23
@@ -80,25 +95,17 @@ msgstr ""
 msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:25
-#: ../../supported-devices.rst:127
+#: ../../supported-devices.rst:25 ../../supported-devices.rst:127
 msgid "\\*.fit"
 msgstr ""
 
-#: ../../supported-devices.rst:25
-#: ../../supported-devices.rst:27
-#: ../../supported-devices.rst:29
-#: ../../supported-devices.rst:33
-#: ../../supported-devices.rst:35
-#: ../../supported-devices.rst:53
-#: ../../supported-devices.rst:55
-#: ../../supported-devices.rst:59
-#: ../../supported-devices.rst:63
-#: ../../supported-devices.rst:65
-#: ../../supported-devices.rst:67
-#: ../../supported-devices.rst:69
-#: ../../supported-devices.rst:71
-#: ../../supported-devices.rst:73
+#: ../../supported-devices.rst:25 ../../supported-devices.rst:27
+#: ../../supported-devices.rst:29 ../../supported-devices.rst:33
+#: ../../supported-devices.rst:35 ../../supported-devices.rst:53
+#: ../../supported-devices.rst:55 ../../supported-devices.rst:59
+#: ../../supported-devices.rst:63 ../../supported-devices.rst:65
+#: ../../supported-devices.rst:67 ../../supported-devices.rst:69
+#: ../../supported-devices.rst:71 ../../supported-devices.rst:73
 #: ../../supported-devices.rst:75
 msgid "[UM]_ , [GC]_"
 msgstr ""
@@ -115,16 +122,11 @@ msgstr ""
 msgid "GPS Forerunner 910XT `(Buy*) <http://amzn.to/1No4C8l>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:31
-#: ../../supported-devices.rst:37
-#: ../../supported-devices.rst:39
-#: ../../supported-devices.rst:41
-#: ../../supported-devices.rst:43
-#: ../../supported-devices.rst:45
-#: ../../supported-devices.rst:47
-#: ../../supported-devices.rst:49
-#: ../../supported-devices.rst:51
-#: ../../supported-devices.rst:57
+#: ../../supported-devices.rst:31 ../../supported-devices.rst:37
+#: ../../supported-devices.rst:39 ../../supported-devices.rst:41
+#: ../../supported-devices.rst:43 ../../supported-devices.rst:45
+#: ../../supported-devices.rst:47 ../../supported-devices.rst:49
+#: ../../supported-devices.rst:51 ../../supported-devices.rst:57
 #: ../../supported-devices.rst:61
 msgid "[GC]_"
 msgstr ""
@@ -233,10 +235,8 @@ msgstr ""
 msgid "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:79
-#: ../../supported-devices.rst:81
-#: ../../supported-devices.rst:83
-#: ../../supported-devices.rst:85
+#: ../../supported-devices.rst:79 ../../supported-devices.rst:81
+#: ../../supported-devices.rst:83 ../../supported-devices.rst:85
 #: ../../supported-devices.rst:87
 msgid "[PF]_, ?"
 msgstr ""
@@ -269,10 +269,8 @@ msgstr ""
 msgid "\\*.ttbin"
 msgstr ""
 
-#: ../../supported-devices.rst:89
-#: ../../supported-devices.rst:91
-#: ../../supported-devices.rst:93
-#: ../../supported-devices.rst:95
+#: ../../supported-devices.rst:89 ../../supported-devices.rst:91
+#: ../../supported-devices.rst:93 ../../supported-devices.rst:95
 msgid "[TT]_"
 msgstr ""
 
@@ -296,28 +294,18 @@ msgstr ""
 msgid "Ultra"
 msgstr ""
 
-#: ../../supported-devices.rst:97
-#: ../../supported-devices.rst:103
+#: ../../supported-devices.rst:97 ../../supported-devices.rst:103
 msgid "\\*.trk"
 msgstr ""
 
-#: ../../supported-devices.rst:97
-#: ../../supported-devices.rst:99
-#: ../../supported-devices.rst:101
-#: ../../supported-devices.rst:103
-#: ../../supported-devices.rst:105
-#: ../../supported-devices.rst:107
-#: ../../supported-devices.rst:109
-#: ../../supported-devices.rst:111
-#: ../../supported-devices.rst:113
-#: ../../supported-devices.rst:115
-#: ../../supported-devices.rst:117
-#: ../../supported-devices.rst:117
-#: ../../supported-devices.rst:119
-#: ../../supported-devices.rst:121
-#: ../../supported-devices.rst:123
-#: ../../supported-devices.rst:125
-#: ../../supported-devices.rst:127
+#: ../../supported-devices.rst:97 ../../supported-devices.rst:99
+#: ../../supported-devices.rst:101 ../../supported-devices.rst:103
+#: ../../supported-devices.rst:105 ../../supported-devices.rst:107
+#: ../../supported-devices.rst:109 ../../supported-devices.rst:111
+#: ../../supported-devices.rst:113 ../../supported-devices.rst:115
+#: ../../supported-devices.rst:117 ../../supported-devices.rst:119
+#: ../../supported-devices.rst:121 ../../supported-devices.rst:123
+#: ../../supported-devices.rst:125 ../../supported-devices.rst:127
 #: ../../supported-devices.rst:129
 msgid "?"
 msgstr ""

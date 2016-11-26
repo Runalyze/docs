@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-26 14:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../knowledge-base.rst:3
+msgid "Knowledge Base"
+msgstr ""
+
+#: ../../knowledge-base.rst:6
+msgid "How can I delete my account?"
+msgstr ""
+
+#: ../../knowledge-base.rst:7
+msgid ""
+"If you want to delete your account, open your configuration, go to "
+"*Account* and click on the link to delete your account. You'll get a "
+"confirmation email and need to click the link in the email to finally "
+"confirm the deletion of your account. All your data will be deleted "
+"immediately from our database."
+msgstr ""
+
+#: ../../knowledge-base.rst:11
+msgid ""
+"The data will be available in our database for maximal 30 days after your"
+" deletion. We cannot restore individual accounts."
+msgstr ""
+
+#: ../../knowledge-base.rst:14
+msgid "Enable R-R recording on Garmin 910XT"
+msgstr ""
+
+#: ../../knowledge-base.rst:15
+msgid ""
+"Turn on your device and enter the `Menu`. Now press UP and DOWN for 10 "
+"times. You will enter the so-called *diagnostic menu*. Select and change "
+"HRV to enable HRV data recording."
+msgstr ""
+
+#: ../../knowledge-base.rst:18
+msgid "This does work for Garmin FR 620 as well."
+msgstr ""
+
+#: ../../knowledge-base.rst:20
+msgid ""
+"We assume no responsibility for possible problems! You do this on your "
+"own risk. (Anyway, we enabled HRV on our devices as well and did not "
+"experience any issues so far.)"
+msgstr ""
+
+#: ../../knowledge-base.rst:25
+msgid "Enable R-R recording on Garmin 920XT/Fenix 3"
+msgstr ""
+
+#: ../../knowledge-base.rst:26
+msgid ""
+"Have a look at `the5krunner.com <http://the5krunner.com/2014/12/11"
+"/garmin-920xt-turn-on-hrv/>`_. You'll have to download a \\*.fit file and"
+" save it on your device."
+msgstr ""
+
+#: ../../knowledge-base.rst:30
+msgid "Get the garmin communicator running in Firefox >=Version 43"
+msgstr ""
+
+#: ../../knowledge-base.rst:31
+msgid ""
+"Have a look at `blog.runalyze.com <http://blog.runalyze.com/allgemein"
+"/garmin-communicator-in-firefox-43/>`_."
+msgstr ""
+

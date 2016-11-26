@@ -1,7 +1,8 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016, RUNALYZE team
-# This file is distributed under the same license as the RUNALYZE - help package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
 #, fuzzy
 msgid ""
@@ -13,8 +14,9 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
 
 #: ../../configuration/configure-sport.rst:3
 msgid "Sports"
@@ -25,7 +27,9 @@ msgid "With this tutorial we want to show you how to add and edit a new sport."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:10
-msgid "Creating a new sports type is as easily as editing an existing one: Just fill out the last, greyed-out row and click 'Save'."
+msgid ""
+"Creating a new sports type is as easily as editing an existing one: Just "
+"fill out the last, greyed-out row and click 'Save'."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:13
@@ -53,7 +57,11 @@ msgid "kcal/h"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:31
-msgid "How many calories are consumed during one hour? Attention! If you import activites from a device which contains a value for calories, that value will be used. If the value is not present the calories will be calculated based on this configuration value."
+msgid ""
+"How many calories are consumed during one hour? Attention! If you import "
+"activites from a device which contains a value for calories, that value "
+"will be used. If the value is not present the calories will be calculated"
+" based on this configuration value."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:37
@@ -61,7 +69,9 @@ msgid "Ø HR"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:39
-msgid "You can set a default average heart rate as fallback. This value is used for TRIMP calculation."
+msgid ""
+"You can set a default average heart rate as fallback. This value is used "
+"for TRIMP calculation."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:43
@@ -69,7 +79,9 @@ msgid "km"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:45
-msgid "Set a checkmark if the sport has a distance (true for e.g. running/cycling/swimming, but false for e.g. gymnastics)."
+msgid ""
+"Set a checkmark if the sport has a distance (true for e.g. "
+"running/cycling/swimming, but false for e.g. gymnastics)."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:49
@@ -93,7 +105,9 @@ msgid "Power"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:63
-msgid "Set a checkmark if the power (watt) is recorded or should be calculated by RUNALYZE."
+msgid ""
+"Set a checkmark if the power (watt) is recorded or should be calculated "
+"by RUNALYZE."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:67
@@ -101,7 +115,9 @@ msgid "Outside"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:69
-msgid "Set a checkmark if this sport can be performed outside. This checkbox activates the fields routes and weather in the form."
+msgid ""
+"Set a checkmark if this sport can be performed outside. This checkbox "
+"activates the fields routes and weather in the form."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:74
@@ -109,7 +125,9 @@ msgid "Main equipment"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:76
-msgid "Choose a main equipment category which will be used in the databrowser view if you have activated the \"Main Equipment\" value to show up."
+msgid ""
+"Choose a main equipment category which will be used in the databrowser "
+"view if you have activated the \"Main Equipment\" value to show up."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:80
@@ -117,7 +135,10 @@ msgid "Default sport type"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:82
-msgid "Choose a default sport type which shows up if you change the sport of an activity in the form. In a later version we will use this type for automatic uploaded activities."
+msgid ""
+"Choose a default sport type which shows up if you change the sport of an "
+"activity in the form. In a later version we will use this type for "
+"automatic uploaded activities."
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:86
@@ -125,6 +146,10 @@ msgid "Calendar view"
 msgstr ""
 
 #: ../../configuration/configure-sport.rst:88
-msgid "You can choose the type of presentation of an activity in the databrowser/calendar. '*Complete row*' means that you see the complete dataset (as configured in the dataset configuration) '*Only icon*' means that only the icons of the sport shows up in the databrowser/calendar."
+msgid ""
+"You can choose the type of presentation of an activity in the "
+"databrowser/calendar. '*Complete row*' means that you see the complete "
+"dataset (as configured in the dataset configuration) '*Only icon*' means "
+"that only the icons of the sport shows up in the databrowser/calendar."
 msgstr ""
 

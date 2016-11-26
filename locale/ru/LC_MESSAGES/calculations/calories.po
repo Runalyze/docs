@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-26 14:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../calculations/calories.rst:3
+msgid "Calories"
+msgstr ""
+
+#: ../../calculations/calories.rst:6
+msgid "How many calories did I burn?"
+msgstr ""
+
+#: ../../calculations/calories.rst:7
+msgid ""
+"Figuring out how many calories you burn when running, cycling or "
+"whatsoever is not easy and, to be honest, we did not put much effort into"
+" this topic so far. For the time being, RUNALYZE does use values provided"
+" within uploaded files and does not recalculate this value. This value is"
+" only recalculated if you've checked *Calculate calories* in your "
+"configuration *and* change the duration of the activity. In this case "
+"burned calories are calculated by simply multiplying the activity's "
+"duration by your sports setting *kilocalories per hour*."
+msgstr ""
+
+#: ../../calculations/calories.rst:16
+msgid ""
+"There's an `open issue "
+"<https://github.com/Runalyze/Runalyze/issues/1090>`_ for using a better "
+"formula for calculating burned calories. Feel free to leave a +1 or "
+"contribute."
+msgstr ""
+

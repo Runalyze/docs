@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-26 14:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../faq.rst:3
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../faq.rst:5
+msgid ""
+"If you have a concrete concept for a new feature, don't hesitate to "
+"submit your idea at `GitHub "
+"<https://github.com/Runalyze/Runalyze/issues/new>`_. This is the best "
+"place to discuss ideas and future features with other users and "
+"developers."
+msgstr ""
+
+#: ../../faq.rst:8
+msgid ""
+"Please keep in mind that RUNALYZE is an open source project, at present "
+"based mainly on two developers offering their free time for this tool."
+msgstr ""
+
+#: ../../faq.rst:10
+msgid ""
+"Annoyed by phrases like *some day* and *probably*? Strengthen our team "
+"(development, design, communication, pr, docs, ...) to speed up "
+"development."
+msgstr ""
+
+#: ../../faq.rst:16
+msgid "The file type \\*.XYZ is not supported"
+msgstr ""
+
+#: ../../faq.rst:17
+msgid ""
+"Just send us an email with some sample files and we'll have a look at "
+"this."
+msgstr ""
+
+#: ../../faq.rst:22
+msgid "Will there be an app for smartphones?"
+msgstr ""
+
+#: ../../faq.rst:23
+msgid ""
+"Some day, probably. So far, this is not a high priority as there are many"
+" other areas requiring our full attention."
+msgstr ""
+
+#: ../../faq.rst:28
+msgid "Will there be a synchronisation with other platforms?"
+msgstr ""
+
+#: ../../faq.rst:29
+msgid ""
+"Some day, probably. Our first concern is providing an API to work with "
+"`tapiriik <https://tapiriik.com/>`_. Still, there are months of work "
+"waiting for us until this is realizable. With every new release we are "
+"getting closer to this feature."
+msgstr ""
+
+#: ../../faq.rst:36
+msgid "Can I publish my running diary?"
+msgstr ""
+
+#: ../../faq.rst:37
+msgid ""
+"Fundamentally, RUNALYZE is not designed to be a new athletes community. "
+"Our main focus lies on analyzing your training."
+msgstr ""
+
+#: ../../faq.rst:40
+msgid ""
+"Anyway, you can mark single activities as public and share them by "
+"publishing a public url, or publish your entire list of activities. Have "
+"a look at your privacy configuration for detailed information. "
+"Furthermore, you can export any activity as html snippet or iframe and "
+"share them on twitter/facebook/google+."
+msgstr ""
+
+#: ../../faq.rst:47
+msgid "What are calculations and prognoses?"
+msgstr ""
+
+#: ../../faq.rst:48
+msgid ""
+"RUNALYZE is more than just a logbook to track all your activities. In "
+"addition to well known basic features RUNALYZE offers you statistics like"
+" VDOT and prognoses for your upcoming races. We are using some formulas "
+"derived by `Jack Daniels' famous Running Formula* "
+"<http://amzn.to/1GnAv43>`_ to estimate your current shape based on the "
+"ratio of heart rate and pace. Still, these estimates must be handled with"
+" great caution. Don't rely on them and listen to your body."
+msgstr ""
+
+#: ../../faq.rst:56
+msgid "The file import seems buggy? Incorrect values?"
+msgstr ""
+
+#: ../../faq.rst:57
+msgid ""
+"Send us an email with your sample file and a detailed description of what"
+" your expected results. We'll have a look at your issue and will try to "
+"fix it."
+msgstr ""
+
+#: ../../faq.rst:63
+msgid "Runalyze shows an incorrect total duration"
+msgstr ""
+
+#: ../../faq.rst:64
+msgid ""
+"Most file types do not contain information about pauses. Especially tcx- "
+"and gpx-files provide no information if and when you stopped your device,"
+" e.g. at traffic lights or if you're using 'auto pause' on your device. "
+"Runalyze offers the ability to detect such breaks automatically and can "
+"remove them without further notice. Still, it's difficult or even "
+"impossible to exactly match your device's total duration."
+msgstr ""
+
+#: ../../faq.rst:68
+msgid ""
+"You can enable/disable our automatic detection of pauses in your "
+"configuration. In addition, we have an `open ticket "
+"<https://github.com/Runalyze/Runalyze/issues/913>`_ for a more flexible "
+"solution such that a specific threshold can be defined for each file "
+"separately. Feel free to leave a '+1' at GitHub."
+msgstr ""
+
+#: ../../faq.rst:76
+msgid "Runalyze says that there are not enough results for good predictions"
+msgstr ""
+
+#: ../../faq.rst:77
+msgid "To get good predictions you need to have at least one race."
+msgstr ""
+
+#: ../../faq.rst:82
+msgid "Where can I change my maximum heart rate?"
+msgstr ""
+
+#: ../../faq.rst:83
+msgid ""
+"You can edit your maximum heart rate in the \"Body values\" panel. You "
+"may need to activate that panel (Configuration -> Panels)"
+msgstr ""
+

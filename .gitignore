@@ -1,4 +1,5 @@
 *.mo
 _build/doctrees
 _build/html
+_build/locale/*
 _build/locale/.doctrees/*

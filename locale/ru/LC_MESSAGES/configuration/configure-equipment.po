@@ -1,7 +1,8 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016, RUNALYZE team
-# This file is distributed under the same license as the RUNALYZE - help package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
 #, fuzzy
 msgid ""
@@ -13,19 +14,24 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
 
 #: ../../configuration/configure-equipment.rst:3
 msgid "Equipment"
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:6
-msgid "We will improve the form/design for adding new equipment (objects or categories) when we have a new design."
+msgid ""
+"We will improve the form/design for adding new equipment (objects or "
+"categories) when we have a new design."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:8
-msgid "In version 2.2 we added a new equipment system which is a replacement for shoes and clothes we had before."
+msgid ""
+"In version 2.2 we added a new equipment system which is a replacement for"
+" shoes and clothes we had before."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:11
@@ -45,7 +51,9 @@ msgid "Go to Configuration -> Equipment to add a new equipment object/category."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:22
-msgid "If you want to add a new equipment category you have to fill out the last, greyed-out row."
+msgid ""
+"If you want to add a new equipment category you have to fill out the "
+"last, greyed-out row."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:24
@@ -53,19 +61,29 @@ msgid "Add the name of the equipment category"
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:25
-msgid "Choose the correct type for the equipment: * Single choice = You can choose only one object for one activity * Multiple choice  = You can select mulitple objects for one activity"
+msgid ""
+"Choose the correct type for the equipment: * Single choice = You can "
+"choose only one object for one activity * Multiple choice  = You can "
+"select mulitple objects for one activity"
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:28
-msgid "You can add a maximal distance (in km) or a maximal time if you want to. This is used for displaying a progress bar in the equipment widget."
+msgid ""
+"You can add a maximal distance (in km) or a maximal time if you want to. "
+"This is used for displaying a progress bar in the equipment widget."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:29
-msgid "You can assign a category to one or more sports types. Hold `ctrl` (Windows) or `cmd` (MacOS) to select multiple sports types."
+msgid ""
+"You can assign a category to one or more sports types. Hold `ctrl` "
+"(Windows) or `cmd` (MacOS) to select multiple sports types."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:32
-msgid "Attention: If you delete a category all equipment objects of this category as well as all relations between your activities and this equipment object will be deleted!"
+msgid ""
+"Attention: If you delete a category all equipment objects of this "
+"category as well as all relations between your activities and this "
+"equipment object will be deleted!"
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:35
@@ -73,7 +91,9 @@ msgid "Adding an equipment object"
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:39
-msgid "If you want to add a new equipment object you have to fill out the last, greyed-out row."
+msgid ""
+"If you want to add a new equipment object you have to fill out the last, "
+"greyed-out row."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:41
@@ -85,7 +105,9 @@ msgid "Choose the equipment category"
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:43
-msgid "If you used this for some kilometers before tracking it with RUNALYZE you can add these kilometers as previous distance."
+msgid ""
+"If you used this for some kilometers before tracking it with RUNALYZE you"
+" can add these kilometers as previous distance."
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:44
@@ -101,6 +123,8 @@ msgid "Leave some notes if you want (e.g. where you bought the equipment)"
 msgstr ""
 
 #: ../../configuration/configure-equipment.rst:49
-msgid "Attention: If you delete an equipment object all relations between your activities and this object will be deleted."
+msgid ""
+"Attention: If you delete an equipment object all relations between your "
+"activities and this object will be deleted."
 msgstr ""
 
