@@ -4,27 +4,31 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-26 14:18+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-12-02 23:18+0000\n"
+"Last-Translator: Semion Polenok <semapv@gmail.com>\n"
+"Language-Team: Russian <https://translate.runalyze.com/projects/runalyze-"
+"help/vdot/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.9\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/vdot.rst:3
 msgid "VDOT"
-msgstr ""
+msgstr "VDOT"
 
 #: ../../calculations/vdot.rst:6
 msgid "VDOT in RUNALYZE"
-msgstr ""
+msgstr "VDOT в RUNALYZE"
 
 #: ../../calculations/vdot.rst:10
 msgid ""
@@ -167,4 +171,3 @@ msgstr ""
 #: ../../calculations/vdot.rst:67
 msgid "`Fellrnr about VDOT <http://fellrnr.com/wiki/VDOT>`_"
 msgstr ""
-
