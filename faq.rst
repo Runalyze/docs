@@ -10,6 +10,9 @@ Please keep in mind that RUNALYZE is an open source project, at present based ma
 .. note:: Annoyed by phrases like *some day* and *probably*?
     Strengthen our team (development, design, communication, pr, docs, ...) to speed up development.
 
+.. contents:: :local:
+
+
 ----
 
 The file type \*.XYZ is not supported

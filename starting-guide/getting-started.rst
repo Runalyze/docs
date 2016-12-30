@@ -9,6 +9,9 @@ We are a small team (`Hannes <https://blog.runalyze.com/team/hannes/>`_,
 during leisure time. We still try to improve RUNALYZE as much as possible and
 adapt it to your needs every day.
 
+.. contents:: :local:
+
+
 You may have logged in for the first time and you may be overwhelmed by all the
 information so far. We can assure that you will getting comfortable after a
 couple of days with RUNALYZE!

@@ -1,6 +1,7 @@
 ==================
 Import activities
 ==================
+.. contents:: :local:
 
 We know that you have a whole bunch of activities you would like to import.
 RUNALYZE supports a wide range of file types and tries to fit all your needs.
@@ -82,41 +83,6 @@ Apps & Webservices
 .. note::
           Yes: We'll add an API to enable synchronization with other plattforms, e.g. via tapiriik, some day.
 
-Endomondo
----------
-| \- Does not encode pauses [#encodepauses]_
-
-Strava
----------
-| \- Does not encode pauses [#encodepauses]_
-
-Runtastic
----------
-|  \- Resampled file [#resampleddata]_
-|  \- Does not encode pauses [#encodepauses]_
-
-
-
-**How to export all activities**
-
-By default, Runtastic does only provide a way to export single activities.
-With a little trick you can download all activites at once:
-
-Drag the following link to your toolbar/bookmars
-
-.. raw:: html
-
-     <a href="javascript:(function(){$.each(index_data,function(){$('<iframe/>', {src: 'https://'+app_config.domain+user.run_sessions_path+this[0]+'.tcx'}).appendTo('body');});})();" title="Download activities from runtastic">Download runtastic</a>
-
-
-Open the activity overview on the runtastic homepage
-
-.. image:: images/runtastic-import-1.png
-
-and click on the bookmark.
-
-(Thanks to `blog.favo.org <http://blog.favo.org/post/56040226362/export-all-activities-from-runtastic-as-tcx>`_)
-
 Garmin Connect
 --------------
 
@@ -144,6 +110,71 @@ Execute the `download.py` script::
 Or if you just want to download the last 3 activitivies
 
     python gcexport.py -d activities -c 3 -f original -u --username <Username> --password <Password>
+
+**OneClick Activity Bookmark FIT Downloader**
+
+Drag the following link to your bookmarks bar - Just click on it when you're on the activity page
+
+.. raw:: html
+
+    <a href="javascript:window.location=window.location.toString().replace('activity/','proxy/download-service/files/activity/')">Garmin Connect-Export</a><br>
+
+
+TomTom MySports
+----------------
+**OneClick Activity Bookmark Downloader**
+
+Drag the following link to your bookmarks bar - Just click on it when you're on the activity page
+
+.. raw:: html
+
+    <a href="javascript:window.location=window.location.toString().replace('app/activity/','service/webapi/v2/activity/')+'?dv=1.1&amp;format=fit'">TomTom-Export (FIT)</a><br>
+    <a href="javascript:window.location=window.location.toString().replace('app/activity/','service/webapi/v2/activity/')+'?dv=1.1&amp;format=tcx'">TomTom-Export (TCX)</a><br>
+
+
+
+Polar Flow
+--------------
+
+
+**OneClick Activity Bookmark TCX Downloader**
+
+
+Drag the following link to your bookmarks bar - Just click on it when you're on the activity page
+
+.. raw:: html
+
+     <a href="javascript:window.location=window.location.href+'/export/tcx/false';">Activity Polar-Export</a><br>
+
+Endomondo
+---------
+| \- Does not encode pauses [#encodepauses]_
+
+Strava
+---------
+
+| \- Does not encode pauses [#encodepauses]_
+
+
+**OneClick Activity Bookmark TCX Downloader**
+
+Drag the following link to your bookmarks bar - Just click on it when you're on the activity page
+
+.. raw:: html
+
+    <a href="javascript:window.location=window.location.toString()+'/export_tcx'">Strava Connect-Export</a><br>
+
+
+
+Runtastic
+---------
+|  \- Resampled file [#resampleddata]_
+|  \- Does not encode pauses [#encodepauses]_
+
+
+**Bulk export of all activities via command-line**
+
+Use the `Runtastic Archiver tool which is available at github <https://github.com/Metalnem/runtastic/releases>`_  (`How-TO <https://github.com/Metalnem/runtastic/blob/master/README.md>`_)
 
 sports-tracker.com
 -------------------
