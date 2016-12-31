@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-31 11:19+0100\n"
-"PO-Revision-Date: 2016-11-13 16:59+0000\n"
-"Last-Translator: Hannes <mail@laufhannes.de>\n"
+"PO-Revision-Date: 2016-12-31 10:38+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
 "help/import/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.9\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
@@ -272,7 +275,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:114
 msgid "**OneClick Activity Bookmark FIT Downloader**"
-msgstr ""
+msgstr "**Ein-Click Aktivitäts-Download-Lesezeichen (FIT)**"
 
 #: ../../starting-guide/import.rst:116 ../../starting-guide/import.rst:127
 #: ../../starting-guide/import.rst:143 ../../starting-guide/import.rst:161
@@ -280,22 +283,24 @@ msgid ""
 "Drag the following link to your bookmarks bar - Just click on it when "
 "you're on the activity page"
 msgstr ""
+"Ziehe den folgenden Link in deine Lesezeichenleiste - Klicke darauf, wenn du "
+"auf der Aktivitätsseite bist"
 
 #: ../../starting-guide/import.rst:124
 msgid "TomTom MySports"
-msgstr ""
+msgstr "TomTom MySports"
 
 #: ../../starting-guide/import.rst:125
 msgid "**OneClick Activity Bookmark Downloader**"
-msgstr ""
+msgstr "**Ein-Click Aktivitäts-Download-Lesezeichen**"
 
 #: ../../starting-guide/import.rst:137
 msgid "Polar Flow"
-msgstr ""
+msgstr "Polar Flow"
 
 #: ../../starting-guide/import.rst:140 ../../starting-guide/import.rst:159
 msgid "**OneClick Activity Bookmark TCX Downloader**"
-msgstr ""
+msgstr "**Ein-Click Aktivitäts-Download-Lesezeichen (TCX)**"
 
 #: ../../starting-guide/import.rst:150
 msgid "Endomondo"
@@ -320,9 +325,8 @@ msgid "\\- Resampled file [#resampleddata]_"
 msgstr "\\- resampelte Datei [#resampleddata]_"
 
 #: ../../starting-guide/import.rst:175
-#, fuzzy
 msgid "**Bulk export of all activities via command-line**"
-msgstr "**Wie lade ich alle Aktivitäten als .gpx Datei herunter?**"
+msgstr "**Massenexport aller Aktivitäten via Kommandozeile**"
 
 #: ../../starting-guide/import.rst:177
 msgid ""
@@ -330,6 +334,9 @@ msgid ""
 "<https://github.com/Metalnem/runtastic/releases>`_  (`How-TO "
 "<https://github.com/Metalnem/runtastic/blob/master/README.md>`_)"
 msgstr ""
+"Nutze das `Runtastic Archiver Tool, welches auf Github verfügbar ist "
+"<https://github.com/Metalnem/runtastic/releases>`_  (`Anleitung "
+"<https://github.com/Metalnem/runtastic/blob/master/README.md>`_)"
 
 #: ../../starting-guide/import.rst:180
 msgid "sports-tracker.com"
@@ -705,4 +712,3 @@ msgstr ""
 #~ "(Danke an `blog.favo.org "
 #~ "<http://blog.favo.org/post/56040226362/export-all-"
 #~ "activities-from-runtastic-as-tcx>`_)"
-
