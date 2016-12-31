@@ -176,6 +176,10 @@ Runtastic
 
 Use the `Runtastic Archiver tool which is available at github <https://github.com/Metalnem/runtastic/releases>`_  (`How-TO <https://github.com/Metalnem/runtastic/blob/master/README.md>`_)
 
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EMYozDasOv8" frameborder="0" allowfullscreen></iframe>
+
 sports-tracker.com
 -------------------
 
