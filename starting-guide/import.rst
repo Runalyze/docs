@@ -178,7 +178,7 @@ Use the `Runtastic Archiver tool which is available at github <https://github.co
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EMYozDasOv8" frameborder="0" allowfullscreen></iframe>
+    <iframe width="700" height="394" src="https://www.youtube.com/embed/EMYozDasOv8" frameborder="0" allowfullscreen></iframe>
 
 sports-tracker.com
 -------------------
