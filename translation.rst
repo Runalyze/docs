@@ -22,7 +22,7 @@ two options:
 Translation process
 --------------------
 
-When you look at the project translation overview you will see several components. Only the components with the name "master" in it are interesting.
+When you look at the `project translation overview <https://translate.runalyze.com/projects/runalyze/#overview>`_ you will see several components. Only the components with the name "master" in it are interesting.
 
 There is a difference between these two components (po & xlff):
 
