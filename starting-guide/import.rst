@@ -228,6 +228,8 @@ Please send us an example file if you think we are missing some data during the 
   * C = Will be calculated if not present
   * CC = Will be calculated when a condition is given
 
+  .. warning:: TTBIN file format - We are using at third-party component to convert the ttbin files. Unfortunately `swim <https://github.com/ryanbinns/ttwatch/issues/62>`_ and `indoor cycling <https://github.com/ryanbinns/ttwatch/issues/108>`_ activities cannot be imported in the moment. Please checkout the linked issues and help us  
+
   .. note::
             Distances may be recalculated in some cases, when there are no distance information for gps datapoints.
 
