@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-01-18 23:20+0000\n"
+"Last-Translator: Alessandro <ruggiero.alessandro93@gmail.com>\n"
+"Language-Team: Italian <https://translate.runalyze.com/projects/runalyze-"
+"help/import/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.9\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
 msgid "Import activities"
-msgstr ""
+msgstr "Importa attività"
 
 #: ../../starting-guide/import.rst:6
 msgid ""
@@ -28,18 +31,21 @@ msgid ""
 "import. RUNALYZE supports a wide range of file types and tries to fit all"
 " your needs. Still, some file types can be tricky."
 msgstr ""
+"Sappiamo che hai un sacco di attività che ti piacerebbe importare. RUNALYZE "
+"supporta una vasta gamma di formati file e cerca di soddisfare tutte le tue "
+"necessità. Alcuni formati, però, possono ancora avere delle difficoltà."
 
 #: ../../starting-guide/import.rst:11
 msgid "We always import all data that we can read from your file."
-msgstr ""
+msgstr "Importiamo sempre tutti i dati che possiamo leggere dal tuo file."
 
 #: ../../starting-guide/import.rst:14
 msgid "Devices"
-msgstr ""
+msgstr "Dispositivi"
 
 #: ../../starting-guide/import.rst:16
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 
 #: ../../starting-guide/import.rst:17
 msgid ""
@@ -47,6 +53,9 @@ msgid ""
 "*Garmin communicator*. We did not remove this option so far but the "
 "browser plugin itself is officially discontinued."
 msgstr ""
+"Alcuni anni fa, era semplice sincronizzare un dispositivo Garmin attraverso "
+"il cosiddetto *Garmin communicator*. Non abbiamo rimosso questa opzione per "
+"ora, ma il plugin è ufficialmente sospeso."
 
 #: ../../starting-guide/import.rst:20
 msgid ""
@@ -56,6 +65,11 @@ msgid ""
 "download your activity as zipped \\*.fit file from the activity's page "
 "(look for the \"*original format*\")."
 msgstr ""
+"Dispositivi Garmin più recenti possono essere usati come una memoria usb. "
+"Basta prendere il tuo file \\*.fit dalla cartella chiamata*ACTIVITIES* o "
+"similare. Se il tuo dispositivo si sincronizza con Garmin Connect "
+"automaticamente, puoi scaricare la tua attività come file \\*.fit compresso "
+"dalla pagina delle attività (cerca \"*original format*\")."
 
 #: ../../starting-guide/import.rst:23
 msgid ""
@@ -63,40 +77,44 @@ msgid ""
 "files from your Windows, MacOS or Linux system. Just look for the files "
 "in the following directories."
 msgstr ""
+"Se stai usando Garmin Express o il vecchio ANT-Agent puoi caricare i file da "
+"Windows, MacOS o sistemi Linux. Basta cercare i file nelle seguenti cartelle."
 
 #: ../../starting-guide/import.rst:27
 msgid "Garmin Express"
-msgstr ""
+msgstr "Garmin Express"
 
 #: ../../starting-guide/import.rst:28
 msgid "Windows 8::"
-msgstr ""
+msgstr "Windows 8::"
 
 #: ../../starting-guide/import.rst:32
 msgid "Windows 7::"
-msgstr ""
+msgstr "Windows 7::"
 
 #: ../../starting-guide/import.rst:36 ../../starting-guide/import.rst:49
 msgid "Mac OS X::"
-msgstr ""
+msgstr "Mac OS X::"
 
 #: ../../starting-guide/import.rst:42
 msgid "ANT-Agent"
-msgstr ""
+msgstr "ANT-Agent"
 
 #: ../../starting-guide/import.rst:43
 msgid "Windows: Open in the windows file explorer the following path::"
-msgstr ""
+msgstr "Windows: Aprire nel file explorer il seguente indirizzo::"
 
 #: ../../starting-guide/import.rst:47
 msgid ""
 "Then you have to open the folder with your device ID as name and find the"
 " folder *Activities*."
 msgstr ""
+"Poi devi aprire la cartella con l' ID del dispositivo come nome e trovare la "
+"cartella *Activities*."
 
 #: ../../starting-guide/import.rst:55
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../starting-guide/import.rst:56
 msgid ""
@@ -105,10 +123,14 @@ msgid ""
 "certainly does for Garmin Forerunner (60, 70, 405CX, 310XT, 610, 910XT) "
 "and Garmin Swim."
 msgstr ""
+"C'è un tool chiamato antf-cli <https://github.com/Tigge/antfs-cli>`_. Questo "
+"tool, in teoria, dovrebbe funzionare con qualsiasi dispositivo conforme ad "
+"ANT-FS e sicuramente con Garmin Forerunner (60, 70, 405CX, 310XT, 610, 910XT)"
+" e Garmin Swim."
 
 #: ../../starting-guide/import.rst:60
 msgid "Polar"
-msgstr ""
+msgstr "Polar"
 
 #: ../../starting-guide/import.rst:62
 msgid ""
@@ -118,6 +140,11 @@ msgid ""
 "<https://github.com/profanum429/v800_downloader>`_ on Github which does "
 "nearly the same."
 msgstr ""
+"C'è un software chiamato `bipolar <https://github.com/pcolby/bipolar>`_ che "
+"può scaricare le attività da Polar FlowSync, PolarV800 o Polar Loop e un "
+"altro software chiamato `V800 Downloader "
+"<https://github.com/profanum429/v800_downloader>`_ su Github che fa quasi lo "
+"stesso."
 
 #: ../../starting-guide/import.rst:66
 msgid "TomTom Runner/Multisport Cardio"
@@ -128,10 +155,12 @@ msgid ""
 "It seems that all files will be stored on your computer as soon as you "
 "connect your device::"
 msgstr ""
+"Sembra che tutti i file saranno memorizzati sul vostro computer non appena "
+"si collega il dispositivo::"
 
 #: ../../starting-guide/import.rst:70
 msgid "There you'll find a folder for every day with \\*.ttbin files."
-msgstr ""
+msgstr "Troverete una cartella per ogni giorno con file \\*. ttbin."
 
 #: ../../starting-guide/import.rst:72
 msgid ""
@@ -139,6 +168,9 @@ msgid ""
 "<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_"
 " if you're using the iPhone App."
 msgstr ""
+"Se stai utilizzando l' app di iPhone dai un' occhiata all'articolo `"
+"dcrainmaker.com <http://www.dcrainmaker.com/2014/01/releases-uploading-"
+"multisport.html>`_ ."
 
 #: ../../starting-guide/import.rst:74
 msgid ""
@@ -146,6 +178,9 @@ msgid ""
 "<https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth "
 "<https://github.com/dlenski/ttblue>`_ from your watch"
 msgstr ""
+"Se stai utilizzando un sistema MAC/Linux puoi prendere i file dal tuo "
+"cardiofrequenzimetro `via usb <https://github.com/ryanbinns/ttwatch>`_ o `"
+"via bluetooth <https://github.com/dlenski/ttblue>`_"
 
 #: ../../starting-guide/import.rst:76
 msgid ""
@@ -491,7 +526,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:253
 msgid "Calories"
-msgstr ""
+msgstr "Calorie"
 
 #: ../../starting-guide/import.rst:253
 msgid "✓/C"
@@ -600,4 +635,3 @@ msgid ""
 "This site may contain affiliate links to support the development and "
 "infrastructure of RUNALYZE"
 msgstr ""
-
