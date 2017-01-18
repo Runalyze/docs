@@ -4,27 +4,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-01-18 23:46+0000\n"
+"Last-Translator: Alessandro <ruggiero.alessandro93@gmail.com>\n"
+"Language-Team: Italian <https://translate.runalyze.com/projects/runalyze-"
+"help/translation/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.9\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../translation.rst:3
 msgid "Translations"
-msgstr ""
+msgstr "Traduzioni"
 
 #: ../../translation.rst:6
 msgid "Translation of RUNALYZE"
-msgstr ""
+msgstr "Traduzione di RUNALYZE"
 
 #: ../../translation.rst:8
 msgid ""
@@ -32,6 +35,8 @@ msgid ""
 "languages. Translations are maintained by our users - and this includes "
 "*you*."
 msgstr ""
+"RUNALYZE è multilingua e supporta poche lingue. Le traduzioni sono curate "
+"dai nostri utenti e questo include *te*."
 
 #: ../../translation.rst:11
 msgid ""
@@ -39,30 +44,37 @@ msgid ""
 "<http://translate.runalyze.com/>`_ you can start translating RUNALYZE "
 "into any missing language or help to improve existing translations."
 msgstr ""
+"Registrandoti su `translate.runalyze.com <http://translate.runalyze.com/>`_ "
+"puoi iniziare a tradurre RUNALYZE in qualsiasi altra lingua mancante o "
+"aiutare a migliorare le traduzioni esistenti."
 
 #: ../../translation.rst:15
 msgid ""
 "If you have problems to understand the original string without context "
 "you have two options:"
 msgstr ""
+"Se hai problemi a capire la frase originale fuori dal contesto hai due "
+"opzioni:"
 
 #: ../../translation.rst:18
 msgid "Leave a comment for the respective string"
-msgstr ""
+msgstr "Lasciare un commento per la rispettiva frase"
 
 #: ../../translation.rst:19
 msgid "Take a look at the *Source string location* (mentioned on the right side)"
 msgstr ""
+"Dare un' occhiata alla *Posizione frase originale* (citata al lato destro)"
 
 #: ../../translation.rst:20
 msgid ""
 "Or ask questions in the `forum "
 "<https://forum.runalyze.com/viewforum.php?f=41>`_"
 msgstr ""
+"O chiedere nel forum `forum <https://forum.runalyze.com/viewforum.php?f=41>`_"
 
 #: ../../translation.rst:23
 msgid "Translation process"
-msgstr ""
+msgstr "Procedura di traduzione"
 
 #: ../../translation.rst:25
 msgid ""
@@ -71,14 +83,18 @@ msgid ""
 "see several components. Only the components with the name \"master\" in "
 "it are interesting."
 msgstr ""
+"Quando osservi alla `panoramica traduzione progetto "
+"<https://translate.runalyze.com/projects/runalyze/#overview>`_ vedrai alcuni "
+"componenti. Solo i componenti con il nome \"master\" all' interno sono "
+"interessanti."
 
 #: ../../translation.rst:27
 msgid "There is a difference between these two components (po & xlff):"
-msgstr ""
+msgstr "C'è una differenza tra questi due componenti (po & xlff):"
 
 #: ../../translation.rst:30
 msgid "Runalyze-Master (po)"
-msgstr ""
+msgstr "Runalyze-Master (po)"
 
 #: ../../translation.rst:31
 msgid ""
@@ -87,6 +103,9 @@ msgid ""
 "action* and *Strings marked for review*. These are strings which need to "
 "be translated and reviewed."
 msgstr ""
+"`Guarda <https://translate.runalyze.com/projects/runalyze/runalyze-master-"
+"po/>`_ le *Frasi non tradotte*, *Frasi bisognose di attenzione* e *Frasi da "
+"ricontrollare*. Sono frasi da tradurre e da ricontrollare."
 
 #: ../../translation.rst:34
 msgid "Runalyze-Master (xlff)"
@@ -103,7 +122,7 @@ msgstr ""
 
 #: ../../translation.rst:37
 msgid "Example video for understanding the process:"
-msgstr ""
+msgstr "Video di esempio per capire il processo:"
 
 #: ../../translation.rst:44
 msgid ""
@@ -112,6 +131,10 @@ msgid ""
 "released version of RUNALYZE. All tranlsations are automatically "
 "propagated through all components."
 msgstr ""
+"Il componente \"master\" rappresenta la versione di sviluppo di RUNALYZE. "
+"Gli altri due componenti rappresentano le ultime versioni ufficiali "
+"rilasciate di RUNALYZE. Tutte le traduzioni sono automaticamente propagate "
+"attraverso tutti i componenti."
 
 #: ../../translation.rst:47
 msgid ""
@@ -119,24 +142,31 @@ msgid ""
 "official online version at irregular intervals. New languages will be "
 "added there as soon as they reach the *magic* limit of 90 %."
 msgstr ""
+"Le traduzioni sono unite all'interno del nostro ramo di sviluppo e "
+"aggiornate nella nostra versione ufficiale online a intervalli irregolari. "
+"Le nuove lingue verranno aggiunte appena raggiungono il limite *magico* del "
+"90%."
 
 #: ../../translation.rst:52
 msgid "Translation of this documentation"
-msgstr ""
+msgstr "Traduzione di questa documentazione"
 
 #: ../../translation.rst:54
 msgid ""
 "Checkout the project `\"Runalyze Help\" at translate.runalyze.com "
 "<https://translate.runalyze.com/projects/runalyze-help/>`_"
 msgstr ""
+"Dai un' occhiata a `\"Runalyze Help\" at translate.runalyze.com "
+"<https://translate.runalyze.com/projects/runalyze-help/>`_"
 
 #: ../../translation.rst:56
 msgid ""
 "This documentation is just available in English and German. Drop us a "
 "note if you are interested in translating it into other languages."
 msgstr ""
+"Questa documentazione è disponibile in Inglese e Tedesco. Inviaci un "
+"messaggio se sei interessato a tradurla in un' altra lingua."
 
 #: ../../translation.rst:58
 msgid "Spanish and Russian are already open for translation."
-msgstr ""
-
+msgstr "Spagnolo e Russo sono già disponibili per la traduzione."
