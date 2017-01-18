@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-31 11:28+0100\n"
+"POT-Creation-Date: 2017-01-18 14:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -200,9 +200,9 @@ msgstr ""
 #: ../../starting-guide/import.rst:151
 #: ../../starting-guide/import.rst:156
 #: ../../starting-guide/import.rst:172
-#: ../../starting-guide/import.rst:200
 #: ../../starting-guide/import.rst:204
 #: ../../starting-guide/import.rst:208
+#: ../../starting-guide/import.rst:212
 msgid "\\- Does not encode pauses [#encodepauses]_"
 msgstr ""
 
@@ -226,217 +226,198 @@ msgstr ""
 msgid "Use the `Runtastic Archiver tool which is available at github <https://github.com/Metalnem/runtastic/releases>`_  (`How-TO <https://github.com/Metalnem/runtastic/blob/master/README.md>`_)"
 msgstr ""
 
-#: ../../starting-guide/import.rst:180
+#: ../../starting-guide/import.rst:184
 msgid "sports-tracker.com"
 msgstr ""
 
-#: ../../starting-guide/import.rst:182
+#: ../../starting-guide/import.rst:186
 msgid "Try to download all activities with the tool `by Olivian Daniel Tofan <http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_"
 msgstr ""
 
-#: ../../starting-guide/import.rst:185
+#: ../../starting-guide/import.rst:189
 msgid "Trainingstagebuch.org"
 msgstr ""
 
-#: ../../starting-guide/import.rst:186
+#: ../../starting-guide/import.rst:190
 msgid "**How to export all activities as .gpx files**"
 msgstr ""
 
-#: ../../starting-guide/import.rst:188
+#: ../../starting-guide/import.rst:192
 msgid "Drag the following link to your toolbar/bookmarks"
 msgstr ""
 
-#: ../../starting-guide/import.rst:195
+#: ../../starting-guide/import.rst:199
 msgid "Open the `activity list page <http://trainingstagebuch.org/workouts/list?rows=320>`_ at trainingstagebuch.org and click on the bookmark. The download of the acitivies will begin. Repeat this step for every activity list page."
 msgstr ""
 
-#: ../../starting-guide/import.rst:199
+#: ../../starting-guide/import.rst:203
 msgid "Nike+"
 msgstr ""
 
-#: ../../starting-guide/import.rst:203
+#: ../../starting-guide/import.rst:207
 msgid "MapMyRun"
 msgstr ""
 
-#: ../../starting-guide/import.rst:207
+#: ../../starting-guide/import.rst:211
 msgid "iRunner"
 msgstr ""
 
-#: ../../starting-guide/import.rst:211
+#: ../../starting-guide/import.rst:215
 msgid "Run.GPS"
 msgstr ""
 
-#: ../../starting-guide/import.rst:212
+#: ../../starting-guide/import.rst:216
 msgid "\\+ high precision data"
 msgstr ""
 
-#: ../../starting-guide/import.rst:216
+#: ../../starting-guide/import.rst:220
 msgid "Different file types"
 msgstr ""
 
-#: ../../starting-guide/import.rst:217
+#: ../../starting-guide/import.rst:221
 msgid "We get a lot of questions regarding file types: Which one is better and which one contains more data? To answer these questions we have created a table to show what we can import from each file type (as long as your device logged this data)."
 msgstr ""
 
-#: ../../starting-guide/import.rst:220
+#: ../../starting-guide/import.rst:224
 msgid "Please send us an example file if you think we are missing some data during the import."
 msgstr ""
 
-#: ../../starting-guide/import.rst:222
+#: ../../starting-guide/import.rst:226
 msgid "N = No"
 msgstr ""
 
-#: ../../starting-guide/import.rst:223
+#: ../../starting-guide/import.rst:227
 msgid "M = Maybe"
 msgstr ""
 
-#: ../../starting-guide/import.rst:224
+#: ../../starting-guide/import.rst:228
 msgid "C = Will be calculated if not present"
 msgstr ""
 
-#: ../../starting-guide/import.rst:225
+#: ../../starting-guide/import.rst:229
 msgid "CC = Will be calculated when a condition is given"
 msgstr ""
 
-#: ../../starting-guide/import.rst:228
+#: ../../starting-guide/import.rst:231
+msgid "TTBIN file format - We are using at third-party component to convert the ttbin files. Unfortunately `swim <https://github.com/ryanbinns/ttwatch/issues/62>`_ and `indoor cycling <https://github.com/ryanbinns/ttwatch/issues/108>`_ activities cannot be imported in the moment. Please checkout the linked issues and help us"
+msgstr ""
+
+#: ../../starting-guide/import.rst:234
 msgid "Distances may be recalculated in some cases, when there are no distance information for gps datapoints."
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "Type"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "FIT"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "TCX/TTBIN"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "GPX"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "PWX"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "hrm & gpx"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "Fitlog"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "Logbook (3)"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "kml/kmz"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "TRK"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "sml"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "slf"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "xml(Suunto)"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "csv(Epson)"
 msgstr ""
 
-#: ../../starting-guide/import.rst:231
+#: ../../starting-guide/import.rst:237
 msgid "hrm"
 msgstr ""
 
-#: ../../starting-guide/import.rst:233
+#: ../../starting-guide/import.rst:239
 msgid "Distance"
 msgstr ""
 
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:233
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:235
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
-#: ../../starting-guide/import.rst:237
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:241
 #: ../../starting-guide/import.rst:241
 #: ../../starting-guide/import.rst:243
 #: ../../starting-guide/import.rst:243
 #: ../../starting-guide/import.rst:243
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
-#: ../../starting-guide/import.rst:245
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:243
 #: ../../starting-guide/import.rst:247
 #: ../../starting-guide/import.rst:249
 #: ../../starting-guide/import.rst:249
 #: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:249
+#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:251
 #: ../../starting-guide/import.rst:251
 #: ../../starting-guide/import.rst:251
 #: ../../starting-guide/import.rst:251
@@ -449,14 +430,8 @@ msgstr ""
 #: ../../starting-guide/import.rst:251
 #: ../../starting-guide/import.rst:251
 #: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:255
+#: ../../starting-guide/import.rst:255
 #: ../../starting-guide/import.rst:255
 #: ../../starting-guide/import.rst:255
 #: ../../starting-guide/import.rst:255
@@ -472,6 +447,12 @@ msgstr ""
 #: ../../starting-guide/import.rst:257
 #: ../../starting-guide/import.rst:257
 #: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:259
 #: ../../starting-guide/import.rst:259
 #: ../../starting-guide/import.rst:259
 #: ../../starting-guide/import.rst:259
@@ -484,60 +465,66 @@ msgstr ""
 #: ../../starting-guide/import.rst:261
 #: ../../starting-guide/import.rst:261
 #: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:265
 #: ../../starting-guide/import.rst:265
 #: ../../starting-guide/import.rst:267
-#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:267
+#: ../../starting-guide/import.rst:267
+#: ../../starting-guide/import.rst:267
+#: ../../starting-guide/import.rst:271
 #: ../../starting-guide/import.rst:273
 #: ../../starting-guide/import.rst:275
-#: ../../starting-guide/import.rst:277
-#: ../../starting-guide/import.rst:277
-#: ../../starting-guide/import.rst:277
-#: ../../starting-guide/import.rst:277
 #: ../../starting-guide/import.rst:279
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:285
 msgid "✓"
 msgstr ""
 
-#: ../../starting-guide/import.rst:235
+#: ../../starting-guide/import.rst:241
 msgid "Startdate/time"
 msgstr ""
 
-#: ../../starting-guide/import.rst:237
+#: ../../starting-guide/import.rst:243
 msgid "Duration"
 msgstr ""
 
-#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:245
 msgid "Sporttype"
 msgstr ""
 
-#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:247
 msgid "Name"
 msgstr ""
 
-#: ../../starting-guide/import.rst:241
-#: ../../starting-guide/import.rst:249
-#: ../../starting-guide/import.rst:251
-#: ../../starting-guide/import.rst:251
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:253
-#: ../../starting-guide/import.rst:255
-#: ../../starting-guide/import.rst:255
+#: ../../starting-guide/import.rst:247
 #: ../../starting-guide/import.rst:255
 #: ../../starting-guide/import.rst:257
 #: ../../starting-guide/import.rst:257
-#: ../../starting-guide/import.rst:257
-#: ../../starting-guide/import.rst:257
-#: ../../starting-guide/import.rst:257
 #: ../../starting-guide/import.rst:259
 #: ../../starting-guide/import.rst:259
 #: ../../starting-guide/import.rst:259
 #: ../../starting-guide/import.rst:259
-#: ../../starting-guide/import.rst:259
-#: ../../starting-guide/import.rst:261
-#: ../../starting-guide/import.rst:261
-#: ../../starting-guide/import.rst:261
-#: ../../starting-guide/import.rst:261
 #: ../../starting-guide/import.rst:261
 #: ../../starting-guide/import.rst:261
 #: ../../starting-guide/import.rst:261
@@ -551,12 +538,6 @@ msgstr ""
 #: ../../starting-guide/import.rst:265
 #: ../../starting-guide/import.rst:265
 #: ../../starting-guide/import.rst:265
-#: ../../starting-guide/import.rst:265
-#: ../../starting-guide/import.rst:265
-#: ../../starting-guide/import.rst:265
-#: ../../starting-guide/import.rst:265
-#: ../../starting-guide/import.rst:265
-#: ../../starting-guide/import.rst:265
 #: ../../starting-guide/import.rst:267
 #: ../../starting-guide/import.rst:267
 #: ../../starting-guide/import.rst:267
@@ -564,16 +545,6 @@ msgstr ""
 #: ../../starting-guide/import.rst:267
 #: ../../starting-guide/import.rst:267
 #: ../../starting-guide/import.rst:267
-#: ../../starting-guide/import.rst:267
-#: ../../starting-guide/import.rst:267
-#: ../../starting-guide/import.rst:267
-#: ../../starting-guide/import.rst:267
-#: ../../starting-guide/import.rst:269
-#: ../../starting-guide/import.rst:269
-#: ../../starting-guide/import.rst:269
-#: ../../starting-guide/import.rst:269
-#: ../../starting-guide/import.rst:269
-#: ../../starting-guide/import.rst:269
 #: ../../starting-guide/import.rst:269
 #: ../../starting-guide/import.rst:269
 #: ../../starting-guide/import.rst:269
@@ -601,7 +572,6 @@ msgstr ""
 #: ../../starting-guide/import.rst:273
 #: ../../starting-guide/import.rst:273
 #: ../../starting-guide/import.rst:273
-#: ../../starting-guide/import.rst:273
 #: ../../starting-guide/import.rst:275
 #: ../../starting-guide/import.rst:275
 #: ../../starting-guide/import.rst:275
@@ -613,8 +583,7 @@ msgstr ""
 #: ../../starting-guide/import.rst:275
 #: ../../starting-guide/import.rst:275
 #: ../../starting-guide/import.rst:275
-#: ../../starting-guide/import.rst:275
-#: ../../starting-guide/import.rst:275
+#: ../../starting-guide/import.rst:277
 #: ../../starting-guide/import.rst:277
 #: ../../starting-guide/import.rst:277
 #: ../../starting-guide/import.rst:277
@@ -637,134 +606,169 @@ msgstr ""
 #: ../../starting-guide/import.rst:279
 #: ../../starting-guide/import.rst:279
 #: ../../starting-guide/import.rst:279
-#: ../../starting-guide/import.rst:279
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:285
 msgid "N"
 msgstr ""
 
-#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:249
 msgid "Notes"
 msgstr ""
 
-#: ../../starting-guide/import.rst:245
+#: ../../starting-guide/import.rst:251
 msgid "Heartrate"
 msgstr ""
 
-#: ../../starting-guide/import.rst:247
+#: ../../starting-guide/import.rst:253
 msgid "Calories"
 msgstr ""
 
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
 msgid "✓/C"
 msgstr ""
 
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:247
-#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:269
 msgid "C"
 msgstr ""
 
-#: ../../starting-guide/import.rst:249
+#: ../../starting-guide/import.rst:255
 msgid "GPS"
 msgstr ""
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:257
 msgid "Altitude"
 msgstr ""
 
-#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:259
 msgid "Temperature"
 msgstr ""
 
-#: ../../starting-guide/import.rst:255
+#: ../../starting-guide/import.rst:261
 msgid "Laps/Rounds"
 msgstr ""
 
-#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:263
 msgid "Pauses"
 msgstr ""
 
-#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:263
 msgid "?"
 msgstr ""
 
-#: ../../starting-guide/import.rst:259
+#: ../../starting-guide/import.rst:265
 msgid "Cadence (spm/rpm)"
 msgstr ""
 
-#: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:267
 msgid "Power"
 msgstr ""
 
-#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:269
 msgid "Stride length"
 msgstr ""
 
-#: ../../starting-guide/import.rst:263
-#: ../../starting-guide/import.rst:263
-#: ../../starting-guide/import.rst:263
-#: ../../starting-guide/import.rst:263
-#: ../../starting-guide/import.rst:263
-#: ../../starting-guide/import.rst:263
-#: ../../starting-guide/import.rst:263
-#: ../../starting-guide/import.rst:271
+#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:277
 msgid "CC"
 msgstr ""
 
-#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:271
 msgid "Ground Contact Time"
 msgstr ""
 
-#: ../../starting-guide/import.rst:267
+#: ../../starting-guide/import.rst:273
 msgid "Ground Contact Balance"
 msgstr ""
 
-#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:275
 msgid "Vertical oscillation"
 msgstr ""
 
-#: ../../starting-guide/import.rst:271
+#: ../../starting-guide/import.rst:277
 msgid "Vertical ratio"
 msgstr ""
 
-#: ../../starting-guide/import.rst:273
+#: ../../starting-guide/import.rst:279
 msgid "Swim Strokes"
 msgstr ""
 
-#: ../../starting-guide/import.rst:275
+#: ../../starting-guide/import.rst:281
 msgid "Swim Stroke type"
 msgstr ""
 
-#: ../../starting-guide/import.rst:277
+#: ../../starting-guide/import.rst:283
 msgid "HRV"
 msgstr ""
 
-#: ../../starting-guide/import.rst:279
+#: ../../starting-guide/import.rst:285
 msgid "FIT details [#fitdetails]_"
 msgstr ""
 
-#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:291
 msgid "The idea of resampling data is to reduce the size of files and/or to simplify the process of generating the map for an activity. When you import such data it is nearly impossible to calculate the length of the activity. Sometimes the pace graph will show useless lines."
 msgstr ""
 
-#: ../../starting-guide/import.rst:287
+#: ../../starting-guide/import.rst:293
 msgid "Pauses can be encoded in TCX/GPX files with closed tracks/tracks segements. If they are not encoded RUNALYZE has to guess where pauses took place. If you have problems you can disable the detection of pauses in (General settings -> Activity form -> Detect pause)"
 msgstr ""
 
-#: ../../starting-guide/import.rst:289
+#: ../../starting-guide/import.rst:295
 msgid "FIT files contain some Garmin-only values like recovery time, performance condition, hrv score and V02max estimate."
 msgstr ""
 
-#: ../../starting-guide/import.rst:292
+#: ../../starting-guide/import.rst:298
 msgid "This site may contain affiliate links to support the development and infrastructure of RUNALYZE"
 msgstr ""
 

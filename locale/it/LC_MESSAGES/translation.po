@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-18 14:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../translation.rst:3
+msgid "Translations"
+msgstr ""
+
+#: ../../translation.rst:6
+msgid "Translation of RUNALYZE"
+msgstr ""
+
+#: ../../translation.rst:8
+msgid ""
+"RUNALYZE is multilingual and comes with a small set of supported "
+"languages. Translations are maintained by our users - and this includes "
+"*you*."
+msgstr ""
+
+#: ../../translation.rst:11
+msgid ""
+"By registering at `translate.runalyze.com "
+"<http://translate.runalyze.com/>`_ you can start translating RUNALYZE "
+"into any missing language or help to improve existing translations."
+msgstr ""
+
+#: ../../translation.rst:15
+msgid ""
+"If you have problems to understand the original string without context "
+"you have two options:"
+msgstr ""
+
+#: ../../translation.rst:18
+msgid "Leave a comment for the respective string"
+msgstr ""
+
+#: ../../translation.rst:19
+msgid "Take a look at the *Source string location* (mentioned on the right side)"
+msgstr ""
+
+#: ../../translation.rst:20
+msgid ""
+"Or ask questions in the `forum "
+"<https://forum.runalyze.com/viewforum.php?f=41>`_"
+msgstr ""
+
+#: ../../translation.rst:23
+msgid "Translation process"
+msgstr ""
+
+#: ../../translation.rst:25
+msgid ""
+"When you look at the `project translation overview "
+"<https://translate.runalyze.com/projects/runalyze/#overview>`_ you will "
+"see several components. Only the components with the name \"master\" in "
+"it are interesting."
+msgstr ""
+
+#: ../../translation.rst:27
+msgid "There is a difference between these two components (po & xlff):"
+msgstr ""
+
+#: ../../translation.rst:30
+msgid "Runalyze-Master (po)"
+msgstr ""
+
+#: ../../translation.rst:31
+msgid ""
+"Have `a look at <https://translate.runalyze.com/projects/runalyze"
+"/runalyze-master-po/>`_ the *Not translated strings*, *Strings needing "
+"action* and *Strings marked for review*. These are strings which need to "
+"be translated and reviewed."
+msgstr ""
+
+#: ../../translation.rst:34
+msgid "Runalyze-Master (xlff)"
+msgstr ""
+
+#: ../../translation.rst:35
+msgid ""
+"XLFF is another translation file format and the behaviour is a bit "
+"different in weblate. When you want to translate strings `in this "
+"component <https://translate.runalyze.com/projects/runalyze/runalyze-"
+"master-xlff/>`_ you should look at *Source and translated strings are "
+"same*"
+msgstr ""
+
+#: ../../translation.rst:37
+msgid "Example video for understanding the process:"
+msgstr ""
+
+#: ../../translation.rst:44
+msgid ""
+"The \"master\" components representing the development version of "
+"RUNALYZE. The other two components respresenting the latest official "
+"released version of RUNALYZE. All tranlsations are automatically "
+"propagated through all components."
+msgstr ""
+
+#: ../../translation.rst:47
+msgid ""
+"Translations are merged into our development branch and updated in our "
+"official online version at irregular intervals. New languages will be "
+"added there as soon as they reach the *magic* limit of 90 %."
+msgstr ""
+
+#: ../../translation.rst:52
+msgid "Translation of this documentation"
+msgstr ""
+
+#: ../../translation.rst:54
+msgid ""
+"Checkout the project `\"Runalyze Help\" at translate.runalyze.com "
+"<https://translate.runalyze.com/projects/runalyze-help/>`_"
+msgstr ""
+
+#: ../../translation.rst:56
+msgid ""
+"This documentation is just available in English and German. Drop us a "
+"note if you are interested in translating it into other languages."
+msgstr ""
+
+#: ../../translation.rst:58
+msgid "Spanish and Russian are already open for translation."
+msgstr ""
+
