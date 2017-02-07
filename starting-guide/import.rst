@@ -8,7 +8,7 @@ RUNALYZE supports a wide range of file types and tries to fit all your needs.
 Still, some file types can be tricky.
 
 .. note::
-          We always import all data that we can read from your file.
+          Use - if possible - the fit file format for importing activities 
 
 Devices
 *******
@@ -75,9 +75,6 @@ If you're using a MAC/Linux system you can get the files `via usb <https://githu
 
 If you're using a Windows PC you can get the files via usb `with this open source software <https://github.com/altera2015/ttwatcher/releases>`_.
 
-Suunto
-------
-
 Apps & Webservices
 ******************
 .. note::
@@ -134,7 +131,7 @@ Drag the following link to your bookmarks bar - Just click on it when you're on 
 
 
 Polar Flow
---------------
+------------
 
 
 **OneClick Activity Bookmark TCX Downloader**
@@ -145,6 +142,12 @@ Drag the following link to your bookmarks bar - Just click on it when you're on 
 .. raw:: html
 
      <a href="javascript:window.location=window.location.href+'/export/tcx/false';">Activity Polar-Export</a><br>
+
+Movescount
+------------
+
+You can export individual activities as FIT files from Movescount. 
+
 
 Endomondo
 ---------
@@ -229,6 +232,8 @@ Please send us an example file if you think we are missing some data during the 
   * CC = Will be calculated when a condition is given
 
   .. warning:: TTBIN file format - We are using at third-party component to convert the ttbin files. Unfortunately `swim <https://github.com/ryanbinns/ttwatch/issues/62>`_ activities cannot be imported in the moment. Please checkout the linked issues and help us  
+  
+    .. warning:: FIT file format - Heartrate from swim fit files cannot be saved in the moment (`Issue #1498 <https://github.com/Runalyze/Runalyze/issues/1498>`_)
 
   .. note::
             Distances may be recalculated in some cases, when there are no distance information for gps datapoints.
