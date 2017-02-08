@@ -95,6 +95,10 @@ Log in into `Garmin Connect <https://connect.garmin.com>`_ and open afterwards t
 
 Click on the bookmark - All activities you see on the page will be downloaded. Go to the next page (2 ...3 ...4) and click again on the bookmark.
 
+.. raw:: html
+
+    <iframe width="700" height="394" src="https://www.youtube.com/embed/yaekHhy7zQU" frameborder="0" allowfullscreen></iframe>
+
 
 **How to download all activites via script**
 
