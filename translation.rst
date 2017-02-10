@@ -31,7 +31,7 @@ Runalyze-Master (po)
 Have `a look at <https://translate.runalyze.com/projects/runalyze/runalyze-master-po/>`_ the *Not translated strings*, *Strings needing action* and *Strings marked for review*. These are strings which need to be translated and reviewed.
 
 Runalyze-Master (xlff)
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 XLFF is another translation file format and the behaviour is a bit different in weblate. When you want to translate strings `in this component <https://translate.runalyze.com/projects/runalyze/runalyze-master-xlff/>`_ you should look at *Source and translated strings are same*
 
 Example video for understanding the process:

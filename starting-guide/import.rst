@@ -85,15 +85,20 @@ Garmin Connect
 
 **How to download multiple activites via browser**
 
-Drag the following link to your toolbar/bookmars
+Drag one of the following links to your toolbar/bookmark bar
 
 .. raw:: html
 
-     <a href="javascript:(function(){var boxes = document.getElementsByClassName('activityNameLink'), i = boxes.length; while(i--) { var newFrame = document.createElement('iframe');document.body.appendChild(newFrame); newFrame.style = 'width: 1px; height: 1px;'; link = 'https://connect.garmin.com/proxy/download-service/files/activity/'+boxes[i].href.replace('https://connect.garmin.com/activity/', ''); newFrame.src = link;}})();" title="Download garmin connect">Download garmin connect</a>
+     <a href="javascript:(function(){var boxes = document.getElementsByClassName('activityNameLink'), i = boxes.length; while(i--) { var newFrame = document.createElement('iframe');document.body.appendChild(newFrame); newFrame.style = 'width: 1px; height: 1px;'; link = 'https://connect.garmin.com/proxy/download-service/files/activity/'+boxes[i].href.replace('https://connect.garmin.com/activity/', ''); newFrame.src = link;}})();" title="Download garmin connect (Single page)">Download garmin connect (Single page)</a>
+
+.. raw:: html
+
+     <br><a href="javascript:(async function(){ var startpage = prompt('Please enter the starting page (number e.g. 9)'); var endpage = prompt('Please enter the ending page (number e.g. 1)'); var curpage = startpage; while (curpage >= endpage){ Event.fire('activitiesForm:pageScroller_table', 'rich:datascroller:onscroll', {'page': curpage}); await (new Promise((resolve) => setTimeout(resolve, 5000))); var boxes = this.document.getElementsByClassName('activityNameLink'), i = boxes.length; while(i--) { var newFrame = document.createElement('iframe');document.body.appendChild(newFrame); newFrame.style = 'width: 1px; height: 1px;'; link = 'https://connect.garmin.com/proxy/download-service/files/activity/'+boxes[i].href.replace('https://connect.garmin.com/activity/', ''); newFrame.src = link; } curpage--; }})();" title="Download garmin connect (multiple pages)">Download garmin connect (multiple pages)</a>
+
 
 Log in into `Garmin Connect <https://connect.garmin.com>`_ and open afterwards this site: `Activity overview <https://connect.garmin.com/minactivities>`_
 
-Click on the bookmark - All activities you see on the page will be downloaded. Go to the next page (2 ...3 ...4) and click again on the bookmark.
+Click on the bookmark. The *single page* bookmark will only download all activities on the current open page. The *multiple page* bookmark will ask you on which page the download should start and on which page it should end.
 
 .. raw:: html
 
