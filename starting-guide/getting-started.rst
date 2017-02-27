@@ -73,6 +73,14 @@ activities manually. By this means you'll think about the training again and add
 some more details instead of hoping that the synchronization tool does all the
 magic for you.
 
+Share your profile or activities
+*********************************
+By default, all your data in RUNALYZE is only visible to you and only you. But you can publish individual activities or your athlete page. Check your privacy settings at ("*Configuration -> Privacy*").
+As soon as you have enabled your public athlete page you will see a chain symbol at the databrowser, which will redirect you to your athlete page.
+
+Take a look at ` the badges <https://blog.runalyze.com/de/share/>`_ to share your athlete page on your blog or forum signature.
+
+
 Understanding the calculations
 *******************************
 After importing some activities you may have a look at the calculations on the right side. Just hover over the label to see the meaning of these calculations. If you want to know how they are calculated have a look at the magic wand and the info icon.
