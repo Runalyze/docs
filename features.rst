@@ -27,9 +27,15 @@ Analysis
 
    <a href="_static/features-vdotestimate.png" class="image-popup"><i class="fa fa-expand fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
-| **VDOT estimation**
-| :doc:`calculations/vdot` is a virtual value invented by `Jack Daniels in his “Running formula” <http://amzn.to/2cgSo9v>`_ to compare race results of different distances with each other.
-| Runalyze goes one step ahead: We estimate your current vdot shape based on your heart rate and pace of every activity.
+| **Effective VO2max estimation**
+| |VO2max| is a scientific metric for the maximal oxygen uptake that is highly
+| correlated with your maximal running performance, but depends on the runners
+| efficiency. Two runners with equal |VO2max| values do not need to perform
+| equal. That's why we use the *Effective VO2max* that somehow ignores the
+| efficiency and *is* equal for runners with same results for e.g. a 10k race.
+| In addition to common calculators that estimate |VO2max| based on a race
+| result, we estimate your |VO2max| for every activity based on the relation of
+| your heart rate and pace. For more details, see :doc:`VO2max <calculations/vo2max>`.
 |
 
 .. raw:: html
@@ -37,7 +43,7 @@ Analysis
    <a href="_static/features-prognosiscalc.png" class="image-popup"><i class="fa fa-line-chart fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Prediction**
-| You can choose your favorite model to predict your upcoming race: CPP by Robert Bock, a simple method by Herbert Steffny, calculations by David Cameron or our :doc:`calculations/vdot` method based on Jack Daniels' formulas.
+| You can choose your favorite model to predict your upcoming race: CPP by Robert Bock, a simple method by Herbert Steffny, calculations by David Cameron or :doc:`VO2max <calculations/vo2max>` method.
 |
 
 .. raw:: html
@@ -45,7 +51,7 @@ Analysis
     <a href="_static/features-shape.png" class="image-popup"><i class="fa fa-area-chart fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Prediction based on your shape**
-| Most models predict your race performance based on your personal bests on different distances, but that does not always fit your current shape. Our :doc:`calculations/vdot` estimations can be used to give much more accurate predictions.
+| Most models predict your race performance based on your personal bests on different distances, but that does not always fit your current shape. Our :doc:`VO2max <calculations/vo2max>` estimations can be used to give much more accurate predictions.
 |
 
 .. raw:: html
@@ -211,3 +217,6 @@ Community
 |
 
 .. note:: Excited about the features? Register at `RUNALYZE <https://runalyze.com>`_ and start analyzing your training!
+
+
+.. |VO2max| replace:: VO\ :sub:`2`\ max

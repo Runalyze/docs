@@ -39,7 +39,7 @@ Missing something in this help? Contribute at
    :maxdepth: 1
    :caption: Calculations
 
-   calculations/vdot
+   calculations/vo2max
    calculations/hrv
    calculations/elevation
    calculations/calories
