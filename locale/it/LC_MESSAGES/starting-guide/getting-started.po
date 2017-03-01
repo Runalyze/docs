@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-18 14:05+0100\n"
+"POT-Creation-Date: 2017-03-01 09:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -131,10 +131,29 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:77
-msgid "Understanding the calculations"
+msgid "Share your profile or activities"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:78
+msgid ""
+"By default, all your data in RUNALYZE is only visible to you and only "
+"you. But you can publish individual activities or your athlete page. "
+"Check your privacy settings at (\"*Configuration -> Privacy*\"). As soon "
+"as you have enabled your public athlete page you will see a chain symbol "
+"at the databrowser, which will redirect you to your athlete page."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:81
+msgid ""
+"Take a look at ` the badges <https://blog.runalyze.com/de/share/>`_ to "
+"share your athlete page on your blog or forum signature."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:85
+msgid "Understanding the calculations"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:86
 msgid ""
 "After importing some activities you may have a look at the calculations "
 "on the right side. Just hover over the label to see the meaning of these "
@@ -142,39 +161,39 @@ msgid ""
 "the magic wand and the info icon."
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:81
+#: ../../starting-guide/getting-started.rst:89
 msgid "What can I expect from RUNALYZE in the future?"
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:82
+#: ../../starting-guide/getting-started.rst:90
 msgid "A new (clear, responsible) Design (the current one is 'slightly' outdated)"
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:83
+#: ../../starting-guide/getting-started.rst:91
 msgid "Automatic synchronization with other apps / vendors"
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:84
+#: ../../starting-guide/getting-started.rst:92
 msgid "Easier & clearer configuration"
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:85
+#: ../../starting-guide/getting-started.rst:93
 msgid "Better documentation of the various parameters and statistics"
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:86
+#: ../../starting-guide/getting-started.rst:94
 msgid "Optional community functions"
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:87
+#: ../../starting-guide/getting-started.rst:95
 msgid "Better support for swimming and cycling"
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:90
+#: ../../starting-guide/getting-started.rst:98
 msgid "\"I have an idea / a question / a problem\""
 msgstr ""
 
-#: ../../starting-guide/getting-started.rst:91
+#: ../../starting-guide/getting-started.rst:99
 msgid ""
 "We are pleased to help! To ensure that all users benefit from your "
 "request we ask you to use `our forum <https://forum.runalyze.com/>`_ "

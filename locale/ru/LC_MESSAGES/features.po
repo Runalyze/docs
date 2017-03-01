@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-26 14:18+0100\n"
+"POT-Creation-Date: 2017-03-01 09:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,246 +55,311 @@ msgid ""
 msgstr ""
 
 #: ../../features.rst:30
-msgid "**VDOT estimation**"
+msgid "**Effective VO2max estimation**"
 msgstr ""
 
 #: ../../features.rst:31
 msgid ""
-":doc:`calculations/vdot` is a virtual value invented by `Jack Daniels in "
-"his “Running formula” <http://amzn.to/2cgSo9v>`_ to compare race results "
-"of different distances with each other."
+"|VO2max| is a scientific metric for the maximal oxygen uptake that is "
+"highly"
 msgstr ""
 
 #: ../../features.rst:32
 msgid ""
-"Runalyze goes one step ahead: We estimate your current vdot shape based "
-"on your heart rate and pace of every activity."
+"correlated with your maximal running performance, but depends on the "
+"runners"
 msgstr ""
 
-#: ../../features.rst:39
+#: ../../features.rst:33
+msgid "efficiency. Two runners with equal |VO2max| values do not need to perform"
+msgstr ""
+
+#: ../../features.rst:34
+msgid "equal. That's why we use the *Effective VO2max* that somehow ignores the"
+msgstr ""
+
+#: ../../features.rst:35
+msgid ""
+"efficiency and *is* equal for runners with same results for e.g. a 10k "
+"race."
+msgstr ""
+
+#: ../../features.rst:36
+msgid "In addition to common calculators that estimate |VO2max| based on a race"
+msgstr ""
+
+#: ../../features.rst:37
+msgid ""
+"result, we estimate your |VO2max| for every activity based on the "
+"relation of"
+msgstr ""
+
+#: ../../features.rst:38
+msgid ""
+"your heart rate and pace. For more details, see :doc:`VO2max "
+"<calculations/vo2max>`."
+msgstr ""
+
+#: ../../features.rst:45
 msgid "**Prediction**"
 msgstr ""
 
-#: ../../features.rst:40
+#: ../../features.rst:46
 msgid ""
 "You can choose your favorite model to predict your upcoming race: CPP by "
 "Robert Bock, a simple method by Herbert Steffny, calculations by David "
-"Cameron or our :doc:`calculations/vdot` method based on Jack Daniels' "
-"formulas."
+"Cameron or :doc:`VO2max <calculations/vo2max>` method."
 msgstr ""
 
-#: ../../features.rst:47
+#: ../../features.rst:53
 msgid "**Prediction based on your shape**"
 msgstr ""
 
-#: ../../features.rst:48
+#: ../../features.rst:54
 msgid ""
 "Most models predict your race performance based on your personal bests on"
 " different distances, but that does not always fit your current shape. "
-"Our :doc:`calculations/vdot` estimations can be used to give much more "
-"accurate predictions."
+"Our :doc:`VO2max <calculations/vo2max>` estimations can be used to give "
+"much more accurate predictions."
 msgstr ""
 
-#: ../../features.rst:55
+#: ../../features.rst:61
 msgid "**Monotony, training strain, stress balance**"
 msgstr ""
 
-#: ../../features.rst:56
+#: ../../features.rst:62
 msgid ""
 "Additional statistics (based on TRIMP) that warn you of monotonous or too"
 " intensive training."
 msgstr ""
 
-#: ../../features.rst:60
+#: ../../features.rst:66
 msgid "Logging data"
 msgstr ""
 
-#: ../../features.rst:66
+#: ../../features.rst:72
 msgid "**Upload | Import**"
 msgstr ""
 
-#: ../../features.rst:67
+#: ../../features.rst:73
 msgid "You can upload your activities in all common formats"
 msgstr ""
 
-#: ../../features.rst:68
+#: ../../features.rst:74
 msgid ""
 "(\\*.fit, \\*.fitlog, \\*.gpx, \\*.hrm, \\*.kml, \\*.logbook, \\*.pwx, "
 "\\*.slf, \\*.sml, \\*.tcx, \\*.trk, \\*.ttbin, \\*.xml)."
 msgstr ""
 
-#: ../../features.rst:69
+#: ../../features.rst:75
 msgid "The binary \\*.fit format is highly recommended."
 msgstr ""
 
-#: ../../features.rst:76
+#: ../../features.rst:82
 msgid "**FIT file specific data**"
 msgstr ""
 
-#: ../../features.rst:77
+#: ../../features.rst:83
 msgid "Importing HRV data, running dynamics, recovery time and more."
 msgstr ""
 
-#: ../../features.rst:78
+#: ../../features.rst:84
 msgid ""
 "In the future: Supporting sensor data from BSXInsight, Moxy, cosinuss° "
 "One and others."
 msgstr ""
 
-#: ../../features.rst:85
+#: ../../features.rst:91
 msgid "**Export**"
 msgstr ""
 
-#: ../../features.rst:86
+#: ../../features.rst:92
 msgid "Export single activities as \\*.tcx, \\*.gpx, \\*.kml or \\*.fitlog file."
 msgstr ""
 
-#: ../../features.rst:93
+#: ../../features.rst:99
 msgid "**Import via Garmin communicator**"
 msgstr ""
 
-#: ../../features.rst:94
+#: ../../features.rst:100
 msgid "Direct import from (*some*) garmin devices via garmin communicator."
 msgstr ""
 
-#: ../../features.rst:101
+#: ../../features.rst:107
 msgid "**Log your...**"
 msgstr ""
 
-#: ../../features.rst:102
+#: ../../features.rst:108
 msgid ""
 "weight, resting heart rate, body fat, body water, body muscle, sleep "
 "duration, ..."
 msgstr ""
 
-#: ../../features.rst:106
+#: ../../features.rst:112
 msgid "Activities"
 msgstr ""
 
-#: ../../features.rst:112
+#: ../../features.rst:118
 msgid "**Heart rate variability (HRV)**"
 msgstr ""
 
-#: ../../features.rst:113
+#: ../../features.rst:119
 msgid ""
 "Several values and plots are shown for your :doc:`heart rate variability "
 "</calculations/hrv>` (as long as it's available in your files)."
 msgstr ""
 
-#: ../../features.rst:120
+#: ../../features.rst:126
 msgid "**Equipment**"
 msgstr ""
 
-#: ../../features.rst:121
+#: ../../features.rst:127
 msgid "Record your equipment for any type of sport, e.g. running shoes or bikes."
 msgstr ""
 
-#: ../../features.rst:128
+#: ../../features.rst:134
 msgid "**Race results**"
 msgstr ""
 
-#: ../../features.rst:129
+#: ../../features.rst:135
 msgid ""
 "You can document your placement at races (in addition to time and "
 "distance of course)."
 msgstr ""
 
-#: ../../features.rst:136
+#: ../../features.rst:142
 msgid "**Tagging**"
 msgstr ""
 
-#: ../../features.rst:137
+#: ../../features.rst:143
 msgid "Tag your activities to easily find them again."
 msgstr ""
 
-#: ../../features.rst:144
+#: ../../features.rst:150
 msgid "**Search**"
 msgstr ""
 
-#: ../../features.rst:145
+#: ../../features.rst:151
 msgid "You can search any activity based on various parameters."
 msgstr ""
 
-#: ../../features.rst:152
+#: ../../features.rst:158
 msgid "**Elevation correction**"
 msgstr ""
 
-#: ../../features.rst:153
+#: ../../features.rst:159
 msgid "GPS-based elevation data can be corrected via satellite data."
 msgstr ""
 
-#: ../../features.rst:160
+#: ../../features.rst:166
 msgid "**Elevation calculation**"
 msgstr ""
 
-#: ../../features.rst:161
+#: ../../features.rst:167
 msgid ""
 "You can choose :doc:`algorithm and settings for how your elevation value "
 "is calculated</calculations/elevation>` based on the elevation profile "
 "(as there is no truth, really)."
 msgstr ""
 
-#: ../../features.rst:168
+#: ../../features.rst:174
 msgid "**Weather data**"
 msgstr ""
 
-#: ../../features.rst:169
+#: ../../features.rst:175
 msgid ""
 "Weather data (temperature, wind speed, wind direction, humdiity & "
 "pressure) can be (automatically) recorded for every outdoor activity."
 msgstr ""
 
-#: ../../features.rst:174
+#: ../../features.rst:180
 msgid "Configuration"
 msgstr ""
 
-#: ../../features.rst:180
+#: ../../features.rst:186
 msgid "**Own sport/activity types**"
 msgstr ""
 
-#: ../../features.rst:181
+#: ../../features.rst:187
 msgid "Define your own sport and activity types."
 msgstr ""
 
-#: ../../features.rst:188 ../../features.rst:200
+#: ../../features.rst:194 ../../features.rst:206
 msgid "**Activity overview**"
 msgstr ""
 
-#: ../../features.rst:189
+#: ../../features.rst:195
 msgid "You can specify which values show up in the overview of your activities."
 msgstr ""
 
-#: ../../features.rst:190
+#: ../../features.rst:196
 msgid "(*Configuration -> Dataset*)"
 msgstr ""
 
-#: ../../features.rst:194
+#: ../../features.rst:200
 msgid "Community"
 msgstr ""
 
-#: ../../features.rst:201
+#: ../../features.rst:207
 msgid "You can publish your activities – if you want to."
 msgstr ""
 
-#: ../../features.rst:202
+#: ../../features.rst:208
 msgid ""
 "(*Click on the chain symbol in the databrowser to open your public "
 "profile - if enabled.*)"
 msgstr ""
 
-#: ../../features.rst:209
+#: ../../features.rst:215
 msgid "**More will come in the future**"
 msgstr ""
 
-#: ../../features.rst:210
+#: ../../features.rst:216
 msgid ""
 "For now we concentrate on improving the analysis and simplifying the "
 "import of activities, but there's a long list for future features."
 msgstr ""
 
-#: ../../features.rst:213
+#: ../../features.rst:219
 msgid ""
 "Excited about the features? Register at `RUNALYZE "
 "<https://runalyze.com>`_ and start analyzing your training!"
 msgstr ""
+
+#~ msgid "**VDOT estimation**"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":doc:`calculations/vdot` is a virtual value"
+#~ " invented by `Jack Daniels in his "
+#~ "“Running formula” <http://amzn.to/2cgSo9v>`_ to "
+#~ "compare race results of different "
+#~ "distances with each other."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Runalyze goes one step ahead: We "
+#~ "estimate your current vdot shape based"
+#~ " on your heart rate and pace of"
+#~ " every activity."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can choose your favorite model "
+#~ "to predict your upcoming race: CPP "
+#~ "by Robert Bock, a simple method by"
+#~ " Herbert Steffny, calculations by David "
+#~ "Cameron or our :doc:`calculations/vdot` method"
+#~ " based on Jack Daniels' formulas."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Most models predict your race "
+#~ "performance based on your personal bests"
+#~ " on different distances, but that "
+#~ "does not always fit your current "
+#~ "shape. Our :doc:`calculations/vdot` estimations "
+#~ "can be used to give much more "
+#~ "accurate predictions."
+#~ msgstr ""
 
