@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: 2017-01-30 11:53+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"PO-Revision-Date: 2017-03-01 09:52+0000\n"
+"Last-Translator: Hannes <mail@laufhannes.de>\n"
 "Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
 "help/import/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.11\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
@@ -34,7 +37,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:11
 msgid "Use - if possible - the fit file format for importing activities"
-msgstr ""
+msgstr "Nutze, wenn möglich, das fit-Format zum Import"
 
 #: ../../starting-guide/import.rst:14
 msgid "Devices"
@@ -215,9 +218,8 @@ msgid "**How to download multiple activites via browser**"
 msgstr "**Wie lade ich mehrere Aktivitäten über den Browser herunter?**"
 
 #: ../../starting-guide/import.rst:88
-#, fuzzy
 msgid "Drag one of the following links to your toolbar/bookmark bar"
-msgstr "Ziehe den folgenden Link als Lesezeichen in deine Browserleiste"
+msgstr "Ziehe einen der folgenden Links als Lesezeichen in deine Browserleiste"
 
 #: ../../starting-guide/import.rst:99
 msgid ""
@@ -296,11 +298,12 @@ msgstr "**Ein-Click Aktivitäts-Download-Lesezeichen (TCX)**"
 
 #: ../../starting-guide/import.rst:156
 msgid "Movescount"
-msgstr ""
+msgstr "Movescount"
 
 #: ../../starting-guide/import.rst:158
 msgid "You can export individual activities as FIT files from Movescount."
 msgstr ""
+"Du kannst einzelne Aktivitäten als FIT-Datei von Movescount exportieren."
 
 #: ../../starting-guide/import.rst:162
 msgid "Endomondo"
@@ -437,7 +440,6 @@ msgid "CC = Will be calculated when a condition is given"
 msgstr "CC = Wird berechnet, wenn eine bestimmte Bedingung erfüllt ist"
 
 #: ../../starting-guide/import.rst:243
-#, fuzzy
 msgid ""
 "TTBIN file format - We are using at third-party component to convert the "
 "ttbin files. Unfortunately `swim "
@@ -445,10 +447,9 @@ msgid ""
 "imported in the moment. Please checkout the linked issues and help us"
 msgstr ""
 "TTBIN Datei-Format - Wir benutzen eine Drittanbieter-Komponente für die "
-"Konvertierung von ttbin-Dateien. Leider können aktuell keine `Schwimm "
-"<https://github.com/ryanbinns/ttwatch/issues/62>`_  -Aktivitäten "
-"importiert werden. Über Hilfe bei den verlinkten Problemen würden wir und"
-" freuen."
+"Konvertierung von ttbin-Dateien. Leider können aktuell keine `Schwimmdateien "
+"<https://github.com/ryanbinns/ttwatch/issues/62>`_  importiert werden. Über "
+"Hilfe bei den verlinkten Problemen würden wir uns freuen"
 
 #: ../../starting-guide/import.rst:245
 msgid ""
@@ -738,4 +739,3 @@ msgstr ""
 #~ "Seite siehst werden heruntergeladen. Gehe "
 #~ "auf die nächsten Seiten (2...3...4) und"
 #~ " klicke erneut auf das Lesezeichen."
-
