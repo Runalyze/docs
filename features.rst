@@ -25,17 +25,11 @@ Analysis
 
 .. raw:: html
 
-   <a href="_static/features-vdotestimate.png" class="image-popup"><i class="fa fa-expand fa-2x fa-pull-right" aria-hidden="true"></i></a>
+   <a href="_static/features-vo2maxestimate.png" class="image-popup"><i class="fa fa-expand fa-2x fa-pull-right" aria-hidden="true"></i></a>
 
 | **Effective VO2max estimation**
-| |VO2max| is a scientific metric for the maximal oxygen uptake that is highly
-| correlated with your maximal running performance, but depends on the runners
-| efficiency. Two runners with equal |VO2max| values do not need to perform
-| equal. That's why we use the *Effective VO2max* that somehow ignores the
-| efficiency and *is* equal for runners with same results for e.g. a 10k race.
-| In addition to common calculators that estimate |VO2max| based on a race
-| result, we estimate your |VO2max| for every activity based on the relation of
-| your heart rate and pace. For more details, see :doc:`VO2max <calculations/vo2max>`.
+| |VO2max| is a scientific metric for the maximal oxygen uptake that is highly correlated with your maximal running performance. In addition to common calculators that estimate |VO2max| based on a race result, we estimate your effective |VO2max| for every activity based on the relation of your heart rate and pace.
+| For more details, see :doc:`VO2max <calculations/vo2max>`.
 |
 
 .. raw:: html
