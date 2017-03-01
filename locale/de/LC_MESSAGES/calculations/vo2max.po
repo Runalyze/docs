@@ -4,27 +4,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-03-01 09:45+0000\n"
+"Last-Translator: Hannes <mail@laufhannes.de>\n"
+"Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
+"help/vo2max/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.11\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/vo2max.rst:3
 msgid "|VO2max|"
-msgstr ""
+msgstr "|VO2max|"
 
 #: ../../calculations/vo2max.rst:6
 msgid "|VO2max| in RUNALYZE"
-msgstr ""
+msgstr "|VO2max| in RUNALYZE"
 
 #: ../../calculations/vo2max.rst:10
 msgid ""
@@ -33,6 +36,12 @@ msgid ""
 " get a prognosis for a half marathon based on your personal best for 10k "
 "or compare your personal bests of different distances."
 msgstr ""
+"|VO2max| ist eine Metrik für deine persönliche Leistungsfähigkeit und kann "
+"aus einem aktuellen (und *guten*) Wettkampfergebnis geschätzt werden. Dieser "
+"Wert dient zum Beispiel zur Prognose einer möglichen Halbmarathon-Zeit "
+"basierend auf der aktuellen 10 km-Bestzeit oder zum Vergleich von Bestzeiten "
+"über verschiedene Distanzen. So lässt sich ermitteln, auf welchen "
+"Streckenlängen Stärken und Schwächen liegen."
 
 #: ../../calculations/vo2max.rst:15
 msgid ""
@@ -40,6 +49,10 @@ msgid ""
 " (i.e. optimal training paces and a prognosis for the upcoming race) "
 "while training for some event, not right after it."
 msgstr ""
+"Im Allgemeinen genügt das aber nicht. Läufer interessieren sich für die "
+"aktuelle Form (und die daraus abzuleitenden Trainingsgeschwindigkeiten und "
+"Prognosen) während sie für einen Wettkampf trainieren - und nicht erst "
+"direkt im Anschluss."
 
 #: ../../calculations/vo2max.rst:19
 msgid ""
@@ -50,6 +63,13 @@ msgid ""
 "percentage of velocity at |VO2max|. Your current |VO2max| shape is based "
 "on the average of the last 30 days."
 msgstr ""
+"Deswegen bietet RUNALYZE die Schätzung deines aktuellen effektiven |VO2max| "
+"aus deinen Trainingsdaten. (*Noch einmal: Es ist eine Schätzung und keine "
+"exakte Berechnung!*) Diese Schätzung basiert auf deiner Herzfrequenz und "
+"Geschwindigkeit. Es gibt verschiedene Studien, die für das Verhältnis von "
+"Herzfrequenz und maximaler Geschwindigkeit bei |VO2max| eine entsprechende "
+"Formel vorgeben. Deine geschätze |VO2max| Form basiert letztlich auf dem "
+"Durchschnittswert der letzten 30 Tage."
 
 #: ../../calculations/vo2max.rst:26
 msgid ""
@@ -59,6 +79,12 @@ msgid ""
 "gives you the option to ignore an activity for your |VO2max| estimation "
 "(e.g. for activities with long pauses) to solve this problem."
 msgstr ""
+"Dennoch ist diese Schätzung nicht immer ganz einfach und genau. Die maximale "
+"Herzfrequenz muss möglichst exakt bekannt sein und der Herzfrequenzverlauf "
+"einer Aktivität sollte nicht völlig wild und durcheinander sein (wie es zum "
+"Beispiel bei Kontaktproblemen des Brustgurtes oder ständige Trabpausen "
+"passiert). RUNALYZE bietet daher die Möglichkeit, einzelne Aktivitäten von "
+"der Form-Berechnung auszuschließen."
 
 #: ../../calculations/vo2max.rst:32
 msgid ""
@@ -69,14 +95,21 @@ msgid ""
 "If this factor does not fit for you, just pick a manual factor "
 "(*Configuration -> General settings -> |VO2max|*)."
 msgstr ""
+"Außerdem verhält sich die Herfrequenz eines jeden Läufers unterschiedlich "
+"und folgt nicht unbedingt den Formeln der wissenschaftlichen Studien. "
+"RUNALYZE nutzt daher einen zusätzlichen *Korrekturfaktor*, der einfach mit "
+"den geschätzten Werten multipliziert wird. Dieser Faktor wird standardmäßig "
+"aus deinem *besten* Wettkampfergebnis (und dessen Herzfrequenz) geschätzt, "
+"er kann aber auch unter *Konfiguration -> Allgemeine Einstellungen -> "
+"|VO2max|* manuell festgelegt werden."
 
 #: ../../calculations/vo2max.rst:40
 msgid "In general, we suggest a correction factor between 0.85 and 0.95."
-msgstr ""
+msgstr "Im Allgemeinen halten wir Werte zwischen 0,85 und 0,95 für realistisch."
 
 #: ../../calculations/vo2max.rst:44
 msgid "General"
-msgstr ""
+msgstr "Allgemeines"
 
 #: ../../calculations/vo2max.rst:46
 msgid ""
@@ -89,6 +122,16 @@ msgid ""
 "estimate |VO2max| based on a race result, we estimate your |VO2max| for "
 "every activity based on the relation of your heart rate and pace."
 msgstr ""
+"|VO2max| ist eine wissenschaftliche Größe für die maximale "
+"Sauerstoffaufnahme und kann im Labor gemessen werden. Dieser Wert korreliert "
+"stark mit der maximalen Laufleistung, hängt aber auch von der jeweiligen "
+"Laufökonomie ab. Zwei Läufer mit gleichem |VO2max| müssen nicht zwangsläufig "
+"gleich schnell sein. Daher nutzen wir stattdessen den *Effektiven |VO2max|*, "
+"der gewissermaßen die Laufökonomie außer Acht lässt und für Läufer mit "
+"gleicher 10 km-Bestzeit den gleichen Wert annimmt. Im Gegensatz zu üblichen "
+"Rechnern, die diesen Wert anhand einer Wettkampfleistung berechnen, schätzen "
+"wir den aktuellen |VO2max| für jede einzelne Trainingseinheit anhand des "
+"Verhältnisses von Herzfrequenz und Geschwindigkeit."
 
 #: ../../calculations/vo2max.rst:55
 msgid ""
@@ -96,14 +139,18 @@ msgid ""
 " show if this value is (much) higher than your current shape, equal to it"
 " or (much) lower."
 msgstr ""
+"Der VO<sub>2</sub>max-Wert eines Trainings wird in RUNALYZE mit einem Pfeil "
+"dargestellt, um zu verdeutlichen, ob der Wert im Vergleich zum derzeitigen "
+"Durchschnittswert (deutlich) höher, in etwa gleich oder (deutlich) niedriger "
+"ist."
 
 #: ../../calculations/vo2max.rst:60
 msgid "|VO2max| settings"
-msgstr ""
+msgstr "|VO2max|-Einstellungen"
 
 #: ../../calculations/vo2max.rst:66
 msgid "Manual correction factor"
-msgstr ""
+msgstr "Manueller Korrekturfaktor"
 
 #: ../../calculations/vo2max.rst:67
 msgid ""
@@ -111,10 +158,13 @@ msgid ""
 " competition is not accurate, you can use a manual factor. Based on our "
 "experience, values between 0.85 and 0.95 seem to be realistic."
 msgstr ""
+"Falls der berechnete |VO2max|-Korrekturfaktor deiner Meinung nach nicht "
+"passt, kannst du einen manuellen Faktor festlegen. Unseren Erfahrungen nach "
+"sind Werte zwischen 0,85 und 0,95 realistisch."
 
 #: ../../calculations/vo2max.rst:72
 msgid "Adapt |VO2max| for elevation"
-msgstr ""
+msgstr "Berücksichtigung von Höhenmetern für |VO2max|"
 
 #: ../../calculations/vo2max.rst:73
 msgid ""
@@ -123,30 +173,40 @@ msgid ""
 "the |VO2max| settings and set the correction (of the total distance) per "
 "positive and negative elevation."
 msgstr ""
+"Wenn du viel bergauf und bergab läufst, ist die tatsächlich verrichtete "
+"Arbeit größer als was die zurückgelegte Distanz vermuten lässt. Du kannst "
+"die Berücksichtigung der Höhenmeter in deinen |VO2max|-Einstellungen "
+"aktivieren und festlegen, wie viele Meter zur Gesamtdistanz addiert (bzw. "
+"davon subtrahiert) werden sollen je Höhenmeter im Auf-/Abstieg."
 
 #: ../../calculations/vo2max.rst:80
 msgid "Further readings and tools"
-msgstr ""
+msgstr "Referenzen"
 
 #: ../../calculations/vo2max.rst:82
 msgid "`Fellrnr about VO2max <http://fellrnr.com/wiki/VO2max>`_"
-msgstr ""
+msgstr "`Fellrnr über VO2max <http://fellrnr.com/wiki/VO2max>`_"
 
 #: ../../calculations/vo2max.rst:83
 msgid ""
 "`Running for fitness: What is VO2 max? "
 "<http://www.runningforfitness.org/faq/vo2-max>`_"
 msgstr ""
+"`Running for fitness: What is VO2 max? "
+"<http://www.runningforfitness.org/faq/vo2-max>`_"
 
 #: ../../calculations/vo2max.rst:84
 msgid ""
 "`Runners connect: VO2 Max for Runners <https://runnersconnect.net"
 "/running-training-articles/vo2-max-for-runners/>`_"
 msgstr ""
+"`Runners connect: VO2 Max for Runners <https://runnersconnect.net/running-"
+"training-articles/vo2-max-for-runners/>`_"
 
 #: ../../calculations/vo2max.rst:85
 msgid ""
 "`The Math Behind The Daniels/Gilbert Formula "
 "<http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
 msgstr ""
-
+"`The Math Behind The Daniels/Gilbert Formula "
+"<http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
