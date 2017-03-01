@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:41+0100\n"
-"PO-Revision-Date: 2016-07-07 12:26+0000\n"
+"PO-Revision-Date: 2017-03-01 09:39+0000\n"
 "Last-Translator: Hannes <mail@laufhannes.de>\n"
-"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
 "help/vdot/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.7-dev\n"
+"X-Generator: Weblate 2.11\n"
 "Generated-By: Babel 2.2.0\n"
 
 #: ../../calculations/vdot.rst:3
@@ -48,9 +48,10 @@ msgid ""
 "(i.e. optimal training paces and a prognosis for the upcoming race) while "
 "training for some event, not right after it."
 msgstr ""
-"Im Normalfall reicht das nicht. Läufer interessieren sich für ihre aktuelle "
-"Form (d.h. optimale Trainingsbereiche und eine Prognose für den nächsten "
-"Wettkampf) während sie für ein Event trainieren, nicht erst im Anschluss."
+"Im Allgemeinen genügt das aber nicht. Läufer interessieren sich für die "
+"aktuelle Form (und die daraus abzuleitenden Trainingsgeschwindigkeiten und "
+"Prognosen) während sie für einen Wettkampf trainieren - und nicht erst "
+"direkt im Anschluss."
 
 #: ../../calculations/vdot.rst:13
 msgid ""
@@ -84,11 +85,11 @@ msgstr ""
 
 #: ../../calculations/vdot.rst:26
 msgid "In general, we suggest a correction factor between 0.85 and 0.95."
-msgstr "Generell empfehlen wir einen Korrekturfaktor zwischen 0.85 und 0.95."
+msgstr "Im Allgemeinen halten wir Werte zwischen 0,85 und 0,95 für realistisch."
 
 #: ../../calculations/vdot.rst:30
 msgid "General"
-msgstr "Allgemein"
+msgstr "Allgemeines"
 
 #: ../../calculations/vdot.rst:32
 msgid ""
@@ -182,7 +183,7 @@ msgstr ""
 
 #: ../../calculations/vdot.rst:54
 msgid "Further readings and tools"
-msgstr "Weitere Literatur und Tools"
+msgstr "Referenzen"
 
 #: ../../calculations/vdot.rst:56
 msgid ""
@@ -211,7 +212,7 @@ msgid ""
 "`The Math Behind The Daniels/Gilbert Formula "
 "<http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
 msgstr ""
-"`Die Mathematik hinter der Daniels/Gilbert Formel (englisch) "
+"`The Math Behind The Daniels/Gilbert Formula "
 "<http://www.simpsonassociatesinc.com/runningmath1.htm>`_"
 
 #: ../../calculations/vdot.rst:60
