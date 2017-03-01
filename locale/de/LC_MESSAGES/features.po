@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 11:36+0100\n"
-"PO-Revision-Date: 2017-03-01 09:53+0000\n"
+"PO-Revision-Date: 2017-03-01 20:55+0000\n"
 "Last-Translator: Hannes <mail@laufhannes.de>\n"
 "Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
 "help/features/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.11\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../features.rst:2
@@ -72,10 +75,14 @@ msgid ""
 "estimate your effective |VO2max| for every activity based on the relation"
 " of your heart rate and pace."
 msgstr ""
+"|VO2max| ist ein Maß für die maximale Sauerstoffaufnahme, die stark mit der "
+"maximalen Laufleistung korreliert. Zusätzlich zu Standardschätzungen für "
+"Wettkampfergebnisse schätzt RUNALYZE den effektiven |VO2max| für jede "
+"einzelne Aktivität anhand von Herzfrequenz und Geschwindigkeit."
 
 #: ../../features.rst:32
 msgid "For more details, see :doc:`VO2max <calculations/vo2max>`."
-msgstr ""
+msgstr "Für mehr Details, siehe :doc:`VO2max <calculations/vo2max>`."
 
 #: ../../features.rst:39
 msgid "**Prediction**"
@@ -389,4 +396,3 @@ msgstr ""
 #~ " details, see :doc:`VO2max "
 #~ "<calculations/vo2max>`."
 #~ msgstr ""
-
