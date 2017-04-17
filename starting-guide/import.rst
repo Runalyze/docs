@@ -36,6 +36,11 @@ Windows 7::
 Mac OS X::
 
     ~/Library/Application Support/Garmin/GarminConnect/Device-UnitID/Upload/FIT_TYPE_4
+    
+or::
+
+    ~/Library/Caches/Garmin/Express/<Device-UnitID>/History
+
 
 ^^^^^^^^^
 ANT-Agent
