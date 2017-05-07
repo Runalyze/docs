@@ -28,14 +28,6 @@ Missing something in this help? Contribute at
    starting-guide/races
 
 .. toctree::
-  :maxdepth: 1
-  :caption: Configuration
-
-  configuration/configure-sport
-  configuration/configure-types
-  configuration/configure-equipment
-
-.. toctree::
    :maxdepth: 1
    :caption: Calculations
 
