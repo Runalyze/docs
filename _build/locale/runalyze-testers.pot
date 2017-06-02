@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-02 17:57+0200\n"
+"POT-Creation-Date: 2017-03-01 11:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,6 +45,7 @@ msgid "Your most important task is to test the update procedure itself. We will 
 msgstr ""
 
 #: ../../runalyze-testers.rst:20
+#: ../../runalyze-testers.rst:43
 msgid "Please leave us a mail, if ..."
 msgstr ""
 
@@ -78,23 +79,19 @@ msgid "Introduction for testers of our official RUNALYZE installation"
 msgstr ""
 
 #: ../../runalyze-testers.rst:35
-msgid "If you're a tester of the upcoming RUNALYZE version we will copy your data of your account at runalyze.com to a temporary installation at testing.runalyze.com. We’ll provide a list of all changes and things you definetly should test. You can simply login with your official account."
+msgid "If you're a tester of the upcoming RUNALYZE version we will copy your data of your account at runalyze.com to a temporary installation ats vn.runalyze.com. We’ll provide a list of all changes and things you definetly should test. You can simply login with your official account."
 msgstr ""
 
 #: ../../runalyze-testers.rst:37
-msgid "Outside of the test phase it will happen that the version at testing.runalyze.com won't work. We are just updating and copying the user data for the version during the test phase."
+msgid "Outside of the test phase it will happen that the version at svn.runalyze.com won't work. We are just updating the version during the test phase."
 msgstr ""
 
 #: ../../runalyze-testers.rst:39
-msgid "Don't forget that we have to delete all data of testing.runalyze.com sometimes during and after the test phase. Just use it for this exact testing purpose - there won’t be any synchronization back to the official version at runalyze.com. Before each test phase, we’ll just import your ‘real’ data from runalyze.com again."
+msgid "Don't forget that we have to delete all data of svn.runalyze.com sometimes during and after the test phase. Just use it for this exact testing purpose - there won’t be any synchronization back to the official version at runalyze.com. Before each test phase, we’ll just import your ‘real’ data from runalyze.com again."
 msgstr ""
 
 #: ../../runalyze-testers.rst:41
 msgid "Most of the features we are adding in upcoming releases to RUNALYZE are already tested by some candidates and by our automatic tests, but it can always happen that we make mistakes which are not covered by automatic tests."
-msgstr ""
-
-#: ../../runalyze-testers.rst:43
-msgid "Please report your problems in our `forum <https://forum.runalyze.com>`_ or leave us a mail, if ..."
 msgstr ""
 
 #: ../../runalyze-testers.rst:45
