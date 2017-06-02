@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-02 17:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../docs/features.rst:1
+msgid ""
+"$Plugin->display(); $rand = rand(0,2); if "
+"(!(in_array($account->getUsername(), "
+"['malachiel','simonrittmeyer','blutch','Skarataj','Jensie','mickrobin','PMcKenzie','m.zielinski','danst0',"
+" 'uwe.seibold', 'snoogie', 'Seb090', "
+"'bumattion','renem','ungerhofer','Reko', 'ungerhofer','andreasapel"
+"','altes-kind','Henning','mats-chien','AnjaSchulz','nbubu','c0c0' "
+",'uli.koeller','danst0','Tannenzaepfle','danst0','dragondiver','danst0','majl','fischest','danst0','Tholean','b_kannter','Pedestrian','djmoehre','antiSYMP','oneesel','niam','danst0','Jde','zuiop','sani83','ESM','mat_muc','Swiss1960','wamwaldi','danst0','matkk','FZME','joerg.huth','camel73','matkk','tommy_h1','martinhelfen','theblackkite','marcka','clubmate','danst0','gavino','grstults','Pedestrian','obroni62','tfreyer','Taunusbaer','gecko','QueenPo','Joggl','djmoehre','Floh','fws','ak_to_62','pskosinski','fadecbln','escuco','rheil','Zapman','Trailrunnersdog','Lithium','danst0','theblackkite','guiz'])))"
+" { ?> <p class=\"c\">"
+msgstr ""
+
+#: ../../docs/features.rst:7
+msgid ""
+"<script async "
+"src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>"
+" <ins class=\"adsbygoogle\""
+msgstr ""
+
+#: ../../docs/features.rst:9
+msgid ""
+"style=\"display:block\" data-ad-client=\"ca-pub-0124464030739581\" data-"
+"ad-slot=\"2036303081\" data-ad-format=\"auto\"></ins>"
+msgstr ""
+
+#: ../../docs/features.rst:13
+msgid ""
+"<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script> "
+"<?php if ($rand <= 1) { ?> <p class=\"info c\" id=\"FiEjpUvhYIBT\" "
+"style=\"display: none;width: 200;\"> We spend our leisure time to make "
+"RUNALYZE as good as possible and we still have tons of great ideas, but "
+"time is scarce and after a hard training we first need some fruits or a "
+"smoothie.<br> You can support the development and our server costs of "
+"RUNALYZE with <a href=\"https://blog.runalyze.com/donate/\">a financial "
+"contribution</a> — We highly appreciate every grant. </p> <script "
+"src=\"https://runalyze.com/ads.js\" type=\"text/javascript\"></script> "
+"<script type=\"text/javascript\"> "
+"if(!document.getElementById('bhrs3bns3ccajMhl')){"
+msgstr ""
+
+#: ../../docs/features.rst:23
+msgid "document.getElementById('FiEjpUvhYIBT').style.display='block';"
+msgstr ""
+
+#: ../../docs/features.rst:24
+msgid "} </script> <?php } ?> }"
+msgstr ""
+

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-01 09:58+0100\n"
+"POT-Creation-Date: 2017-06-02 18:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../starting-guide/getting-started.rst:81
 msgid ""
-"Take a look at ` the badges <https://blog.runalyze.com/de/share/>`_ to "
+"Take a look at `the badges <https://blog.runalyze.com/de/share/>`_ to "
 "share your athlete page on your blog or forum signature."
 msgstr ""
 
@@ -162,42 +162,59 @@ msgid ""
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:89
-msgid "What can I expect from RUNALYZE in the future?"
+msgid "Improve the quality of your prognosis"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:90
-msgid "A new (clear, responsible) Design (the current one is 'slightly' outdated)"
-msgstr ""
-
-#: ../../starting-guide/getting-started.rst:91
-msgid "Automatic synchronization with other apps / vendors"
-msgstr ""
-
-#: ../../starting-guide/getting-started.rst:92
-msgid "Easier & clearer configuration"
-msgstr ""
-
-#: ../../starting-guide/getting-started.rst:93
-msgid "Better documentation of the various parameters and statistics"
+msgid ""
+"To get a good prognosis you should at least add :doc:`one race <starting-"
+"guide/races>` and a month of activity data."
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:94
-msgid "Optional community functions"
+msgid "What can I expect from RUNALYZE in the future?"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:95
-msgid "Better support for swimming and cycling"
+msgid "A new (clear, responsible) Design (the current one is 'slightly' outdated)"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:96
+msgid "Automatic synchronization with other apps / vendors"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:97
+msgid "Easier & clearer configuration"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:98
-msgid "\"I have an idea / a question / a problem\""
+msgid "Better documentation of the various parameters and statistics"
 msgstr ""
 
 #: ../../starting-guide/getting-started.rst:99
+msgid "Optional community functions"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:100
+msgid "Better support for swimming and cycling"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:103
+msgid "\"I have an idea / a question / a problem\""
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:104
 msgid ""
 "We are pleased to help! To ensure that all users benefit from your "
 "request we ask you to use `our forum <https://forum.runalyze.com/>`_ "
 "(english & german). Make sure first whether your question has been "
 "answered already or is part of our documentation."
 msgstr ""
+
+#~ msgid ""
+#~ "Take a look at ` the badges "
+#~ "<https://blog.runalyze.com/de/share/>`_ to share "
+#~ "your athlete page on your blog or"
+#~ " forum signature."
+#~ msgstr ""
 

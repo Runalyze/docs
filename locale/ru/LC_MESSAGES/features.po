@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-01 11:36+0100\n"
+"POT-Creation-Date: 2017-06-02 18:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,25 +40,37 @@ msgid ""
 "all your activities."
 msgstr ""
 
-#: ../../features.rst:16
+#: ../../features.rst:19
+msgid "**No shared data**"
+msgstr ""
+
+#: ../../features.rst:20
+msgid ""
+"We do not share or sell your data. It is very important for us to protect"
+" your sensitive activity data. We create internal anonymised evaluations "
+"to improve the quality of our prognosis and calculations. But again: We "
+"are not interested in selling your data."
+msgstr ""
+
+#: ../../features.rst:24
 msgid "Analysis"
 msgstr ""
 
-#: ../../features.rst:22
+#: ../../features.rst:30
 msgid "**TRIMP principle**"
 msgstr ""
 
-#: ../../features.rst:23
+#: ../../features.rst:31
 msgid ""
 "TRIMP is short for *Training Impulse* and gives you the opportunity to "
 "compare activities of different intensity levels based on this value."
 msgstr ""
 
-#: ../../features.rst:30
+#: ../../features.rst:38
 msgid "**Effective VO2max estimation**"
 msgstr ""
 
-#: ../../features.rst:31
+#: ../../features.rst:39
 msgid ""
 "|VO2max| is a scientific metric for the maximal oxygen uptake that is "
 "highly correlated with your maximal running performance. In addition to "
@@ -67,26 +79,26 @@ msgid ""
 " of your heart rate and pace."
 msgstr ""
 
-#: ../../features.rst:32
+#: ../../features.rst:40
 msgid "For more details, see :doc:`VO2max <calculations/vo2max>`."
 msgstr ""
 
-#: ../../features.rst:39
+#: ../../features.rst:47
 msgid "**Prediction**"
 msgstr ""
 
-#: ../../features.rst:40
+#: ../../features.rst:48
 msgid ""
 "You can choose your favorite model to predict your upcoming race: CPP by "
 "Robert Bock, a simple method by Herbert Steffny, calculations by David "
 "Cameron or :doc:`VO2max <calculations/vo2max>` method."
 msgstr ""
 
-#: ../../features.rst:47
+#: ../../features.rst:55
 msgid "**Prediction based on your shape**"
 msgstr ""
 
-#: ../../features.rst:48
+#: ../../features.rst:56
 msgid ""
 "Most models predict your race performance based on your personal bests on"
 " different distances, but that does not always fit your current shape. "
@@ -94,204 +106,235 @@ msgid ""
 "much more accurate predictions."
 msgstr ""
 
-#: ../../features.rst:55
+#: ../../features.rst:63
 msgid "**Monotony, training strain, stress balance**"
 msgstr ""
 
-#: ../../features.rst:56
+#: ../../features.rst:64
 msgid ""
 "Additional statistics (based on TRIMP) that warn you of monotonous or too"
 " intensive training."
 msgstr ""
 
-#: ../../features.rst:60
+#: ../../features.rst:71
+msgid "**ANOVA tool**"
+msgstr ""
+
+#: ../../features.rst:72
+msgid ""
+"Values are visualized with so-called 'box plots'. They give an impression"
+" of how values of a group are distributed."
+msgstr ""
+
+#: ../../features.rst:73
+msgid ""
+"This way of presentation allows to compare not only average values (e.g. "
+"pace over months) but deviations and outliers between different "
+"groupings."
+msgstr ""
+
+#: ../../features.rst:77
+msgid "Gimmicks"
+msgstr ""
+
+#: ../../features.rst:83
+msgid "**Poster generator**"
+msgstr ""
+
+#: ../../features.rst:84
+msgid ""
+"Based on your data RUNALYZE can generate some posters for you. You can "
+"choose between a route heatmap, a route grid, circular or calendar."
+msgstr ""
+
+#: ../../features.rst:89
 msgid "Logging data"
 msgstr ""
 
-#: ../../features.rst:66
+#: ../../features.rst:95
 msgid "**Upload | Import**"
 msgstr ""
 
-#: ../../features.rst:67
+#: ../../features.rst:96
 msgid "You can upload your activities in all common formats"
 msgstr ""
 
-#: ../../features.rst:68
+#: ../../features.rst:97
 msgid ""
 "(\\*.fit, \\*.fitlog, \\*.gpx, \\*.hrm, \\*.kml, \\*.logbook, \\*.pwx, "
 "\\*.slf, \\*.sml, \\*.tcx, \\*.trk, \\*.ttbin, \\*.xml)."
 msgstr ""
 
-#: ../../features.rst:69
+#: ../../features.rst:98
 msgid "The binary \\*.fit format is highly recommended."
 msgstr ""
 
-#: ../../features.rst:76
+#: ../../features.rst:105
 msgid "**FIT file specific data**"
 msgstr ""
 
-#: ../../features.rst:77
+#: ../../features.rst:106
 msgid "Importing HRV data, running dynamics, recovery time and more."
 msgstr ""
 
-#: ../../features.rst:78
+#: ../../features.rst:107
 msgid ""
 "In the future: Supporting sensor data from BSXInsight, Moxy, cosinuss° "
 "One and others."
 msgstr ""
 
-#: ../../features.rst:85
+#: ../../features.rst:114
 msgid "**Export**"
 msgstr ""
 
-#: ../../features.rst:86
+#: ../../features.rst:115
 msgid "Export single activities as \\*.tcx, \\*.gpx, \\*.kml or \\*.fitlog file."
 msgstr ""
 
-#: ../../features.rst:93
+#: ../../features.rst:122
 msgid "**Import via Garmin communicator**"
 msgstr ""
 
-#: ../../features.rst:94
+#: ../../features.rst:123
 msgid "Direct import from (*some*) garmin devices via garmin communicator."
 msgstr ""
 
-#: ../../features.rst:101
+#: ../../features.rst:130
 msgid "**Log your...**"
 msgstr ""
 
-#: ../../features.rst:102
+#: ../../features.rst:131
 msgid ""
 "weight, resting heart rate, body fat, body water, body muscle, sleep "
 "duration, ..."
 msgstr ""
 
-#: ../../features.rst:106
+#: ../../features.rst:135
 msgid "Activities"
 msgstr ""
 
-#: ../../features.rst:112
+#: ../../features.rst:141
 msgid "**Heart rate variability (HRV)**"
 msgstr ""
 
-#: ../../features.rst:113
+#: ../../features.rst:142
 msgid ""
 "Several values and plots are shown for your :doc:`heart rate variability "
 "</calculations/hrv>` (as long as it's available in your files)."
 msgstr ""
 
-#: ../../features.rst:120
+#: ../../features.rst:149
 msgid "**Equipment**"
 msgstr ""
 
-#: ../../features.rst:121
+#: ../../features.rst:150
 msgid "Record your equipment for any type of sport, e.g. running shoes or bikes."
 msgstr ""
 
-#: ../../features.rst:128
+#: ../../features.rst:157
 msgid "**Race results**"
 msgstr ""
 
-#: ../../features.rst:129
+#: ../../features.rst:158
 msgid ""
 "You can document your placement at races (in addition to time and "
 "distance of course)."
 msgstr ""
 
-#: ../../features.rst:136
+#: ../../features.rst:165
 msgid "**Tagging**"
 msgstr ""
 
-#: ../../features.rst:137
+#: ../../features.rst:166
 msgid "Tag your activities to easily find them again."
 msgstr ""
 
-#: ../../features.rst:144
+#: ../../features.rst:173
 msgid "**Search**"
 msgstr ""
 
-#: ../../features.rst:145
+#: ../../features.rst:174
 msgid "You can search any activity based on various parameters."
 msgstr ""
 
-#: ../../features.rst:152
+#: ../../features.rst:181
 msgid "**Elevation correction**"
 msgstr ""
 
-#: ../../features.rst:153
+#: ../../features.rst:182
 msgid "GPS-based elevation data can be corrected via satellite data."
 msgstr ""
 
-#: ../../features.rst:160
+#: ../../features.rst:189
 msgid "**Elevation calculation**"
 msgstr ""
 
-#: ../../features.rst:161
+#: ../../features.rst:190
 msgid ""
 "You can choose :doc:`algorithm and settings for how your elevation value "
 "is calculated</calculations/elevation>` based on the elevation profile "
 "(as there is no truth, really)."
 msgstr ""
 
-#: ../../features.rst:168
+#: ../../features.rst:197
 msgid "**Weather data**"
 msgstr ""
 
-#: ../../features.rst:169
+#: ../../features.rst:198
 msgid ""
 "Weather data (temperature, wind speed, wind direction, humdiity & "
 "pressure) can be (automatically) recorded for every outdoor activity."
 msgstr ""
 
-#: ../../features.rst:174
+#: ../../features.rst:203
 msgid "Configuration"
 msgstr ""
 
-#: ../../features.rst:180
+#: ../../features.rst:209
 msgid "**Own sport/activity types**"
 msgstr ""
 
-#: ../../features.rst:181
+#: ../../features.rst:210
 msgid "Define your own sport and activity types."
 msgstr ""
 
-#: ../../features.rst:188 ../../features.rst:200
+#: ../../features.rst:217 ../../features.rst:229
 msgid "**Activity overview**"
 msgstr ""
 
-#: ../../features.rst:189
+#: ../../features.rst:218
 msgid "You can specify which values show up in the overview of your activities."
 msgstr ""
 
-#: ../../features.rst:190
+#: ../../features.rst:219
 msgid "(*Configuration -> Dataset*)"
 msgstr ""
 
-#: ../../features.rst:194
+#: ../../features.rst:223
 msgid "Community"
 msgstr ""
 
-#: ../../features.rst:201
+#: ../../features.rst:230
 msgid "You can publish your activities – if you want to."
 msgstr ""
 
-#: ../../features.rst:202
+#: ../../features.rst:231
 msgid ""
 "(*Click on the chain symbol in the databrowser to open your public "
 "profile - if enabled.*)"
 msgstr ""
 
-#: ../../features.rst:209
+#: ../../features.rst:238
 msgid "**More will come in the future**"
 msgstr ""
 
-#: ../../features.rst:210
+#: ../../features.rst:239
 msgid ""
 "For now we concentrate on improving the analysis and simplifying the "
 "import of activities, but there's a long list for future features."
 msgstr ""
 
-#: ../../features.rst:213
+#: ../../features.rst:242
 msgid ""
 "Excited about the features? Register at `RUNALYZE "
 "<https://runalyze.com>`_ and start analyzing your training!"
@@ -301,51 +344,5 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|VO2max| is a scientific metric for "
-#~ "the maximal oxygen uptake that is "
-#~ "highly"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "correlated with your maximal running "
-#~ "performance, but depends on the runners"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "efficiency. Two runners with equal "
-#~ "|VO2max| values do not need to "
-#~ "perform"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "equal. That's why we use the "
-#~ "*Effective VO2max* that somehow ignores "
-#~ "the"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "efficiency and *is* equal for runners"
-#~ " with same results for e.g. a "
-#~ "10k race."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In addition to common calculators that"
-#~ " estimate |VO2max| based on a race"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "result, we estimate your |VO2max| for"
-#~ " every activity based on the relation"
-#~ " of"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "your heart rate and pace. For more"
-#~ " details, see :doc:`VO2max "
-#~ "<calculations/vo2max>`."
 #~ msgstr ""
 

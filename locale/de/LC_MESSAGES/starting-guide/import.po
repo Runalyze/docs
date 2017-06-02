@@ -8,17 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-01 09:58+0100\n"
+"POT-Creation-Date: 2017-06-02 18:08+0200\n"
 "PO-Revision-Date: 2017-03-03 07:58+0000\n"
 "Last-Translator: Hannes <mail@laufhannes.de>\n"
 "Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
 "help/import/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.11\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
@@ -95,19 +92,23 @@ msgstr "Windows 8::"
 msgid "Windows 7::"
 msgstr "Windows 7::"
 
-#: ../../starting-guide/import.rst:36 ../../starting-guide/import.rst:49
+#: ../../starting-guide/import.rst:36 ../../starting-guide/import.rst:54
 msgid "Mac OS X::"
 msgstr "Mac OS X::"
 
-#: ../../starting-guide/import.rst:42
+#: ../../starting-guide/import.rst:40
+msgid "or::"
+msgstr ""
+
+#: ../../starting-guide/import.rst:47
 msgid "ANT-Agent"
 msgstr "ANT-Agent"
 
-#: ../../starting-guide/import.rst:43
+#: ../../starting-guide/import.rst:48
 msgid "Windows: Open in the windows file explorer the following path::"
 msgstr "Windows: Öffne im Windows Explorer den folgenden Pfad::"
 
-#: ../../starting-guide/import.rst:47
+#: ../../starting-guide/import.rst:52
 msgid ""
 "Then you have to open the folder with your device ID as name and find the"
 " folder *Activities*."
@@ -115,11 +116,11 @@ msgstr ""
 "Nun öffne den Ordner mit deiner Geräte ID als Namen (kryptische "
 "Zahlen/Buchstabenreihenfolge) und suche den Ordner *Activities*."
 
-#: ../../starting-guide/import.rst:55
+#: ../../starting-guide/import.rst:60
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../starting-guide/import.rst:56
+#: ../../starting-guide/import.rst:61
 msgid ""
 "There is a tool called `antf-cli <https://github.com/Tigge/antfs-cli>`_. "
 "That tool should work with any compliant ANT-FS device in theory and it "
@@ -131,11 +132,11 @@ msgstr ""
 "funktionieren. Erfolgreich getestet wurde es mit Garmin Forerunner (60, "
 "70, 405CX, 310XT, 610, 910XT) und Garmin Swim."
 
-#: ../../starting-guide/import.rst:60
+#: ../../starting-guide/import.rst:65
 msgid "Polar"
 msgstr "Polar"
 
-#: ../../starting-guide/import.rst:62
+#: ../../starting-guide/import.rst:67
 msgid ""
 "There is a software called `bipolar <https://github.com/pcolby/bipolar>`_"
 " which can download the activites from Polar FlowSync, PolarV800 or Polar"
@@ -149,11 +150,11 @@ msgstr ""
 "<https://github.com/profanum429/v800_downloader>`_ , die es auf Github "
 "gibt, tut fast das Gleiche."
 
-#: ../../starting-guide/import.rst:66
+#: ../../starting-guide/import.rst:71
 msgid "TomTom Runner/Multisport Cardio"
 msgstr "TomTom Runner/Multisport Cardio"
 
-#: ../../starting-guide/import.rst:67
+#: ../../starting-guide/import.rst:72
 msgid ""
 "It seems that all files will be stored on your computer as soon as you "
 "connect your device::"
@@ -161,11 +162,11 @@ msgstr ""
 "Es scheint, dass alle Dateien auf deinem PC gespeichert werden, sobald du"
 " deine Uhr anschließt::"
 
-#: ../../starting-guide/import.rst:70
+#: ../../starting-guide/import.rst:75
 msgid "There you'll find a folder for every day with \\*.ttbin files."
 msgstr "In nach Datum benannten Ordnern findest du die \\*.ttbin Dateien."
 
-#: ../../starting-guide/import.rst:72
+#: ../../starting-guide/import.rst:77
 msgid ""
 "Have a look at the following article at `dcrainmaker.com "
 "<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_"
@@ -175,7 +176,7 @@ msgstr ""
 "<http://www.dcrainmaker.com/2014/01/releases-uploading-multisport.html>`_"
 " an, wenn du die iPhone App nutzt."
 
-#: ../../starting-guide/import.rst:74
+#: ../../starting-guide/import.rst:79
 msgid ""
 "If you're using a MAC/Linux system you can get the files `via usb "
 "<https://github.com/ryanbinns/ttwatch>`_ or `via bluetooth "
@@ -185,7 +186,7 @@ msgstr ""
 "<https://github.com/ryanbinns/ttwatch>`_ oder `via Bluetooth "
 "<https://github.com/dlenski/ttblue>`_ auf die Daten der Uhr zugreifen"
 
-#: ../../starting-guide/import.rst:76
+#: ../../starting-guide/import.rst:81
 msgid ""
 "If you're using a Windows PC you can get the files via usb `with this "
 "open source software "
@@ -196,11 +197,11 @@ msgstr ""
 "<https://github.com/altera2015/ttwatcher/releases>`_ auf die Daten "
 "zugreifen."
 
-#: ../../starting-guide/import.rst:79
+#: ../../starting-guide/import.rst:84
 msgid "Apps & Webservices"
 msgstr "Apps & Webportale"
 
-#: ../../starting-guide/import.rst:81
+#: ../../starting-guide/import.rst:86
 msgid ""
 "Yes: We'll add an API to enable synchronization with other plattforms, "
 "e.g. via tapiriik, some day."
@@ -209,19 +210,19 @@ msgstr ""
 "anderen Plattformen, wie zum Beispiel tapiriik oder auch direkt über die "
 "Portale der Hersteller an die Trainingsdaten herankommen können."
 
-#: ../../starting-guide/import.rst:84
+#: ../../starting-guide/import.rst:89
 msgid "Garmin Connect"
 msgstr "Garmin Connect"
 
-#: ../../starting-guide/import.rst:86
+#: ../../starting-guide/import.rst:91
 msgid "**How to download multiple activites via browser**"
 msgstr "**Wie lade ich mehrere Aktivitäten über den Browser herunter?**"
 
-#: ../../starting-guide/import.rst:88
+#: ../../starting-guide/import.rst:93
 msgid "Drag one of the following links to your toolbar/bookmark bar"
 msgstr "Ziehe einen der folgenden Links als Lesezeichen in deine Browserleiste"
 
-#: ../../starting-guide/import.rst:99
+#: ../../starting-guide/import.rst:104
 msgid ""
 "Log in into `Garmin Connect <https://connect.garmin.com>`_ and open "
 "afterwards this site: `Activity overview "
@@ -231,23 +232,23 @@ msgstr ""
 "öffne danach folgende Seite: `Aktivitätsübersicht "
 "<https://connect.garmin.com/minactivities>`_"
 
-#: ../../starting-guide/import.rst:101
+#: ../../starting-guide/import.rst:106
 msgid ""
 "Click on the bookmark. The *single page* bookmark will only download all "
 "activities on the current open page. The *multiple page* bookmark will "
 "ask you on which page the download should start and on which page it "
 "should end."
 msgstr ""
-"Klicke auf das entsprechende Lesezeichen. Das *Single page*-Lesezeichen wird "
-"nur Aktivitäten der aktuell offenen Seite herunterladen, während das *"
-"Multiple page*-Lesezeichen die Aktivitäten von mehreren Seiten herunterladen "
-"wird (Start und Ende werden abgefragt)."
+"Klicke auf das entsprechende Lesezeichen. Das *Single page*-Lesezeichen "
+"wird nur Aktivitäten der aktuell offenen Seite herunterladen, während das"
+" *Multiple page*-Lesezeichen die Aktivitäten von mehreren Seiten "
+"herunterladen wird (Start und Ende werden abgefragt)."
 
-#: ../../starting-guide/import.rst:108
+#: ../../starting-guide/import.rst:113
 msgid "**How to download all activites via script**"
 msgstr "**Wie lade ich alle Aktivitäten über ein Skript herunter?**"
 
-#: ../../starting-guide/import.rst:110
+#: ../../starting-guide/import.rst:115
 msgid ""
 "You need to be a bit technique affin for this. Python and the python "
 "package `mechanize` must be installed on your system. Now you need to "
@@ -259,11 +260,11 @@ msgstr ""
 " `lädst du dieses Skript herunter <https://github.com/kjkjava/garmin-"
 "connect-export>`_ und führst das `download.py` Skript aus::"
 
-#: ../../starting-guide/import.rst:116
+#: ../../starting-guide/import.rst:121
 msgid "Or if you just want to download the last 3 activitivies"
 msgstr "Oder wenn du nur die letzten drei Aktivitäten herunterladen möchtest"
 
-#: ../../starting-guide/import.rst:118
+#: ../../starting-guide/import.rst:123
 msgid ""
 "python gcexport.py -d activities -c 3 -f original -u --username "
 "<Username> --password <Password>"
@@ -271,12 +272,12 @@ msgstr ""
 "python gcexport.py -d activities -c 3 -f original -u --username "
 "<Username> --password <Password>"
 
-#: ../../starting-guide/import.rst:120
+#: ../../starting-guide/import.rst:125
 msgid "**OneClick Activity Bookmark FIT Downloader**"
 msgstr "**Ein-Click Aktivitäts-Download-Lesezeichen (FIT)**"
 
-#: ../../starting-guide/import.rst:122 ../../starting-guide/import.rst:133
-#: ../../starting-guide/import.rst:149 ../../starting-guide/import.rst:173
+#: ../../starting-guide/import.rst:127 ../../starting-guide/import.rst:138
+#: ../../starting-guide/import.rst:154 ../../starting-guide/import.rst:178
 msgid ""
 "Drag the following link to your bookmarks bar - Just click on it when "
 "you're on the activity page"
@@ -284,58 +285,57 @@ msgstr ""
 "Ziehe den folgenden Link in deine Lesezeichenleiste - Klicke darauf, wenn"
 " du auf der Aktivitätsseite bist"
 
-#: ../../starting-guide/import.rst:130
+#: ../../starting-guide/import.rst:135
 msgid "TomTom MySports"
 msgstr "TomTom MySports"
 
-#: ../../starting-guide/import.rst:131
+#: ../../starting-guide/import.rst:136
 msgid "**OneClick Activity Bookmark Downloader**"
 msgstr "**Ein-Click Aktivitäts-Download-Lesezeichen**"
 
-#: ../../starting-guide/import.rst:143
+#: ../../starting-guide/import.rst:148
 msgid "Polar Flow"
 msgstr "Polar Flow"
 
-#: ../../starting-guide/import.rst:146 ../../starting-guide/import.rst:171
+#: ../../starting-guide/import.rst:151 ../../starting-guide/import.rst:176
 msgid "**OneClick Activity Bookmark TCX Downloader**"
 msgstr "**Ein-Click Aktivitäts-Download-Lesezeichen (TCX)**"
 
-#: ../../starting-guide/import.rst:156
+#: ../../starting-guide/import.rst:161
 msgid "Movescount"
 msgstr "Movescount"
 
-#: ../../starting-guide/import.rst:158
+#: ../../starting-guide/import.rst:163
 msgid "You can export individual activities as FIT files from Movescount."
-msgstr ""
-"Du kannst einzelne Aktivitäten als FIT-Datei von Movescount exportieren."
+msgstr "Du kannst einzelne Aktivitäten als FIT-Datei von Movescount exportieren."
 
-#: ../../starting-guide/import.rst:162
+#: ../../starting-guide/import.rst:167
 msgid "Endomondo"
 msgstr "Endomondo"
 
-#: ../../starting-guide/import.rst:163 ../../starting-guide/import.rst:168
-#: ../../starting-guide/import.rst:184 ../../starting-guide/import.rst:216
-#: ../../starting-guide/import.rst:220 ../../starting-guide/import.rst:224
+#: ../../starting-guide/import.rst:168 ../../starting-guide/import.rst:173
+#: ../../starting-guide/import.rst:189 ../../starting-guide/import.rst:221
+#: ../../starting-guide/import.rst:225 ../../starting-guide/import.rst:229
 msgid "\\- Does not encode pauses [#encodepauses]_"
 msgstr "\\- Pausen sind nicht kodiert [#encodepauses]_"
 
-#: ../../starting-guide/import.rst:166
+#: ../../starting-guide/import.rst:171
 msgid "Strava"
 msgstr "Strava"
 
-#: ../../starting-guide/import.rst:182
+#: ../../starting-guide/import.rst:187
 msgid "Runtastic"
 msgstr "Runtastic"
 
-#: ../../starting-guide/import.rst:183
+#: ../../starting-guide/import.rst:188
 msgid "\\- Resampled file [#resampleddata]_"
 msgstr "\\- resampelte Datei [#resampleddata]_"
 
-#: ../../starting-guide/import.rst:187
+#: ../../starting-guide/import.rst:192
 msgid "**Bulk export of all activities via command-line**"
 msgstr "**Massenexport aller Aktivitäten via Kommandozeile**"
 
-#: ../../starting-guide/import.rst:189
+#: ../../starting-guide/import.rst:194
 msgid ""
 "Use the `Runtastic Archiver tool which is available at github "
 "<https://github.com/Metalnem/runtastic/releases>`_  (`How-TO "
@@ -345,11 +345,11 @@ msgstr ""
 "<https://github.com/Metalnem/runtastic/releases>`_  (`Anleitung "
 "<https://github.com/Metalnem/runtastic/blob/master/README.md>`_)"
 
-#: ../../starting-guide/import.rst:196
+#: ../../starting-guide/import.rst:201
 msgid "sports-tracker.com"
 msgstr "sports-tracker.com"
 
-#: ../../starting-guide/import.rst:198
+#: ../../starting-guide/import.rst:203
 msgid ""
 "Try to download all activities with the tool `by Olivian Daniel Tofan "
 "<http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_"
@@ -358,19 +358,19 @@ msgstr ""
 "<http://daniel.toffee.ro/2014/04/25/liberate-sportstracker-workouts>`_ "
 "herunterzuladen"
 
-#: ../../starting-guide/import.rst:201
+#: ../../starting-guide/import.rst:206
 msgid "Trainingstagebuch.org"
 msgstr "Trainingstagebuch.org"
 
-#: ../../starting-guide/import.rst:202
+#: ../../starting-guide/import.rst:207
 msgid "**How to export all activities as .gpx files**"
 msgstr "**Wie lade ich alle Aktivitäten als .gpx Datei herunter?**"
 
-#: ../../starting-guide/import.rst:204
+#: ../../starting-guide/import.rst:209
 msgid "Drag the following link to your toolbar/bookmarks"
 msgstr "Ziehe den folgenden Link als Lesezeichen in deine Browserleiste"
 
-#: ../../starting-guide/import.rst:211
+#: ../../starting-guide/import.rst:216
 msgid ""
 "Open the `activity list page "
 "<http://trainingstagebuch.org/workouts/list?rows=320>`_ at "
@@ -383,31 +383,31 @@ msgstr ""
 "Aktivitäten sollte beginnen. Wiederhole diesen Schritt für alle Seiten "
 "der Aktivitätsliste."
 
-#: ../../starting-guide/import.rst:215
+#: ../../starting-guide/import.rst:220
 msgid "Nike+"
 msgstr "Nike+"
 
-#: ../../starting-guide/import.rst:219
+#: ../../starting-guide/import.rst:224
 msgid "MapMyRun"
 msgstr "MapMyRun"
 
-#: ../../starting-guide/import.rst:223
+#: ../../starting-guide/import.rst:228
 msgid "iRunner"
 msgstr "iRunner"
 
-#: ../../starting-guide/import.rst:227
+#: ../../starting-guide/import.rst:232
 msgid "Run.GPS"
 msgstr "Run.GPS"
 
-#: ../../starting-guide/import.rst:228
+#: ../../starting-guide/import.rst:233
 msgid "\\+ high precision data"
 msgstr "\\+ sehr gute Daten"
 
-#: ../../starting-guide/import.rst:232
+#: ../../starting-guide/import.rst:237
 msgid "Different file types"
 msgstr "Verschiedene Dateitypen"
 
-#: ../../starting-guide/import.rst:233
+#: ../../starting-guide/import.rst:238
 msgid ""
 "We get a lot of questions regarding file types: Which one is better and "
 "which one contains more data? To answer these questions we have created a"
@@ -419,7 +419,7 @@ msgstr ""
 "eine Tabelle erstellt, die zeigt, was wir von den verschiedenen "
 "Dateitypen lesen können (wenn dein Gerät diese Daten dann aufzeichnet)."
 
-#: ../../starting-guide/import.rst:236
+#: ../../starting-guide/import.rst:241
 msgid ""
 "Please send us an example file if you think we are missing some data "
 "during the import."
@@ -427,23 +427,23 @@ msgstr ""
 "Bitte sende uns eine Beispieldatei, wenn du denkst, dass einige Daten "
 "nicht von uns importiert werden."
 
-#: ../../starting-guide/import.rst:238
+#: ../../starting-guide/import.rst:243
 msgid "N = No"
 msgstr "N = Nein"
 
-#: ../../starting-guide/import.rst:239
+#: ../../starting-guide/import.rst:244
 msgid "M = Maybe"
 msgstr "M = Vielleicht"
 
-#: ../../starting-guide/import.rst:240
+#: ../../starting-guide/import.rst:245
 msgid "C = Will be calculated if not present"
 msgstr "C = Wird berechnet, wenn nicht vorhanden"
 
-#: ../../starting-guide/import.rst:241
+#: ../../starting-guide/import.rst:246
 msgid "CC = Will be calculated when a condition is given"
 msgstr "CC = Wird berechnet, wenn eine bestimmte Bedingung erfüllt ist"
 
-#: ../../starting-guide/import.rst:243
+#: ../../starting-guide/import.rst:248
 msgid ""
 "TTBIN file format - We are using at third-party component to convert the "
 "ttbin files. Unfortunately `swim "
@@ -451,11 +451,12 @@ msgid ""
 "imported in the moment. Please checkout the linked issues and help us"
 msgstr ""
 "TTBIN Datei-Format - Wir benutzen eine Drittanbieter-Komponente für die "
-"Konvertierung von ttbin-Dateien. Leider können aktuell keine `Schwimmdateien "
-"<https://github.com/ryanbinns/ttwatch/issues/62>`_  importiert werden. Über "
-"Hilfe bei den verlinkten Problemen würden wir uns freuen"
+"Konvertierung von ttbin-Dateien. Leider können aktuell keine "
+"`Schwimmdateien <https://github.com/ryanbinns/ttwatch/issues/62>`_  "
+"importiert werden. Über Hilfe bei den verlinkten Problemen würden wir uns"
+" freuen"
 
-#: ../../starting-guide/import.rst:245
+#: ../../starting-guide/import.rst:250
 msgid ""
 "FIT file format - Heartrate from swim fit files cannot be saved in the "
 "moment (`Issue #1498 "
@@ -465,7 +466,7 @@ msgstr ""
 "gespeichert werden (`Issue #1498 "
 "<https://github.com/Runalyze/Runalyze/issues/1498>`_)"
 
-#: ../../starting-guide/import.rst:248
+#: ../../starting-guide/import.rst:253
 msgid ""
 "Distances may be recalculated in some cases, when there are no distance "
 "information for gps datapoints."
@@ -473,205 +474,205 @@ msgstr ""
 "Die Distanz wird unter Umständen von uns berechnet, wenn keine "
 "Distanzinformationen zu den GPS Punkten vorhanden sind."
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "Type"
 msgstr "Typ"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "FIT"
 msgstr "FIT"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "TCX/TTBIN"
 msgstr "TCX/TTBIN"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "GPX"
 msgstr "GPX"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "PWX"
 msgstr "PWX"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "hrm & gpx"
 msgstr "hrm & gpx"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "Fitlog"
 msgstr "Fitlog"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "Logbook (3)"
 msgstr "Logbook (3)"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "kml/kmz"
 msgstr "kml/kmz"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "TRK"
 msgstr "TRK"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "sml"
 msgstr "sml"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "slf"
 msgstr "slf"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "xml(Suunto)"
 msgstr "xml(Suunto)"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "csv(Epson)"
 msgstr "csv(Epson)"
 
-#: ../../starting-guide/import.rst:251
+#: ../../starting-guide/import.rst:256
 msgid "hrm"
 msgstr "hrm"
 
-#: ../../starting-guide/import.rst:253
+#: ../../starting-guide/import.rst:258
 msgid "Distance"
 msgstr "Distanz"
 
-#: ../../starting-guide/import.rst:253 ../../starting-guide/import.rst:255
-#: ../../starting-guide/import.rst:257 ../../starting-guide/import.rst:261
-#: ../../starting-guide/import.rst:263 ../../starting-guide/import.rst:265
-#: ../../starting-guide/import.rst:267 ../../starting-guide/import.rst:269
-#: ../../starting-guide/import.rst:271 ../../starting-guide/import.rst:273
-#: ../../starting-guide/import.rst:275 ../../starting-guide/import.rst:277
-#: ../../starting-guide/import.rst:279 ../../starting-guide/import.rst:281
-#: ../../starting-guide/import.rst:285 ../../starting-guide/import.rst:287
-#: ../../starting-guide/import.rst:289 ../../starting-guide/import.rst:293
-#: ../../starting-guide/import.rst:295 ../../starting-guide/import.rst:297
-#: ../../starting-guide/import.rst:299
+#: ../../starting-guide/import.rst:258 ../../starting-guide/import.rst:260
+#: ../../starting-guide/import.rst:262 ../../starting-guide/import.rst:266
+#: ../../starting-guide/import.rst:268 ../../starting-guide/import.rst:270
+#: ../../starting-guide/import.rst:272 ../../starting-guide/import.rst:274
+#: ../../starting-guide/import.rst:276 ../../starting-guide/import.rst:278
+#: ../../starting-guide/import.rst:280 ../../starting-guide/import.rst:282
+#: ../../starting-guide/import.rst:284 ../../starting-guide/import.rst:286
+#: ../../starting-guide/import.rst:290 ../../starting-guide/import.rst:292
+#: ../../starting-guide/import.rst:294 ../../starting-guide/import.rst:298
+#: ../../starting-guide/import.rst:300 ../../starting-guide/import.rst:302
+#: ../../starting-guide/import.rst:304
 msgid "✓"
 msgstr "✓"
 
-#: ../../starting-guide/import.rst:255
+#: ../../starting-guide/import.rst:260
 msgid "Startdate/time"
 msgstr "Startdatum"
 
-#: ../../starting-guide/import.rst:257
+#: ../../starting-guide/import.rst:262
 msgid "Duration"
 msgstr "Dauer"
 
-#: ../../starting-guide/import.rst:259
+#: ../../starting-guide/import.rst:264
 msgid "Sporttype"
 msgstr "Sporttyp"
 
-#: ../../starting-guide/import.rst:261
+#: ../../starting-guide/import.rst:266
 msgid "Name"
 msgstr "Name"
 
-#: ../../starting-guide/import.rst:261 ../../starting-guide/import.rst:269
-#: ../../starting-guide/import.rst:271 ../../starting-guide/import.rst:273
-#: ../../starting-guide/import.rst:275 ../../starting-guide/import.rst:277
-#: ../../starting-guide/import.rst:279 ../../starting-guide/import.rst:281
-#: ../../starting-guide/import.rst:283 ../../starting-guide/import.rst:285
-#: ../../starting-guide/import.rst:287 ../../starting-guide/import.rst:289
-#: ../../starting-guide/import.rst:291 ../../starting-guide/import.rst:293
-#: ../../starting-guide/import.rst:295 ../../starting-guide/import.rst:297
-#: ../../starting-guide/import.rst:299
+#: ../../starting-guide/import.rst:266 ../../starting-guide/import.rst:274
+#: ../../starting-guide/import.rst:276 ../../starting-guide/import.rst:278
+#: ../../starting-guide/import.rst:280 ../../starting-guide/import.rst:282
+#: ../../starting-guide/import.rst:284 ../../starting-guide/import.rst:286
+#: ../../starting-guide/import.rst:288 ../../starting-guide/import.rst:290
+#: ../../starting-guide/import.rst:292 ../../starting-guide/import.rst:294
+#: ../../starting-guide/import.rst:296 ../../starting-guide/import.rst:298
+#: ../../starting-guide/import.rst:300 ../../starting-guide/import.rst:302
+#: ../../starting-guide/import.rst:304
 msgid "N"
 msgstr "N"
 
-#: ../../starting-guide/import.rst:263
+#: ../../starting-guide/import.rst:268
 msgid "Notes"
 msgstr "Notizen"
 
-#: ../../starting-guide/import.rst:265
+#: ../../starting-guide/import.rst:270
 msgid "Heartrate"
 msgstr "Herzfrequenz"
 
-#: ../../starting-guide/import.rst:267
+#: ../../starting-guide/import.rst:272
 msgid "Calories"
 msgstr "Kalorien"
 
-#: ../../starting-guide/import.rst:267
+#: ../../starting-guide/import.rst:272
 msgid "✓/C"
 msgstr "✓/C"
 
-#: ../../starting-guide/import.rst:267 ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:272 ../../starting-guide/import.rst:288
 msgid "C"
 msgstr "C"
 
-#: ../../starting-guide/import.rst:269
+#: ../../starting-guide/import.rst:274
 msgid "GPS"
 msgstr "GPS"
 
-#: ../../starting-guide/import.rst:271
+#: ../../starting-guide/import.rst:276
 msgid "Altitude"
 msgstr "Höhendaten"
 
-#: ../../starting-guide/import.rst:273
+#: ../../starting-guide/import.rst:278
 msgid "Temperature"
 msgstr "Temperatur"
 
-#: ../../starting-guide/import.rst:275
+#: ../../starting-guide/import.rst:280
 msgid "Laps/Rounds"
 msgstr "Runden"
 
-#: ../../starting-guide/import.rst:277
+#: ../../starting-guide/import.rst:282
 msgid "Pauses"
 msgstr "Pausen"
 
-#: ../../starting-guide/import.rst:277
+#: ../../starting-guide/import.rst:282
 msgid "?"
 msgstr "?"
 
-#: ../../starting-guide/import.rst:279
+#: ../../starting-guide/import.rst:284
 msgid "Cadence (spm/rpm)"
 msgstr "Kadenz (spm/rpm)"
 
-#: ../../starting-guide/import.rst:281
+#: ../../starting-guide/import.rst:286
 msgid "Power"
 msgstr "Power"
 
-#: ../../starting-guide/import.rst:283
+#: ../../starting-guide/import.rst:288
 msgid "Stride length"
 msgstr "Schrittlänge"
 
-#: ../../starting-guide/import.rst:283 ../../starting-guide/import.rst:291
+#: ../../starting-guide/import.rst:288 ../../starting-guide/import.rst:296
 msgid "CC"
 msgstr "CC"
 
-#: ../../starting-guide/import.rst:285
+#: ../../starting-guide/import.rst:290
 msgid "Ground Contact Time"
 msgstr "Bodenkontaktzeit"
 
-#: ../../starting-guide/import.rst:287
+#: ../../starting-guide/import.rst:292
 msgid "Ground Contact Balance"
 msgstr "Bodenkontaktzeit"
 
-#: ../../starting-guide/import.rst:289
+#: ../../starting-guide/import.rst:294
 msgid "Vertical oscillation"
 msgstr "Vertikale Bewegung"
 
-#: ../../starting-guide/import.rst:291
+#: ../../starting-guide/import.rst:296
 msgid "Vertical ratio"
 msgstr "Vertikales Verhältnis"
 
-#: ../../starting-guide/import.rst:293
+#: ../../starting-guide/import.rst:298
 msgid "Swim Strokes"
 msgstr "Schwimmzüge"
 
-#: ../../starting-guide/import.rst:295
+#: ../../starting-guide/import.rst:300
 msgid "Swim Stroke type"
 msgstr "Schwimmzug Stil"
 
-#: ../../starting-guide/import.rst:297
+#: ../../starting-guide/import.rst:302
 msgid "HRV"
 msgstr "HRV"
 
-#: ../../starting-guide/import.rst:299
+#: ../../starting-guide/import.rst:304
 msgid "FIT details [#fitdetails]_"
 msgstr "FIT Details [#fitdetails]_"
 
-#: ../../starting-guide/import.rst:305
+#: ../../starting-guide/import.rst:310
 msgid ""
 "The idea of resampling data is to reduce the size of files and/or to "
 "simplify the process of generating the map for an activity. When you "
@@ -684,7 +685,7 @@ msgstr ""
 "Länge der Aktivität zu berechnen. Manchmal wird das Pacediagramm sinnlose"
 " Linien anzeigen."
 
-#: ../../starting-guide/import.rst:307
+#: ../../starting-guide/import.rst:312
 msgid ""
 "Pauses can be encoded in TCX/GPX files with closed tracks/tracks "
 "segements. If they are not encoded RUNALYZE has to guess where pauses "
@@ -697,7 +698,7 @@ msgstr ""
 "Pausenerkennung haben, kannst du diese unter (Konfiguration -> Allgemeine"
 " Einstellungen -> Eingabeformular -> Pausen erkennen) abschalten."
 
-#: ../../starting-guide/import.rst:309
+#: ../../starting-guide/import.rst:314
 msgid ""
 "FIT files contain some Garmin-only values like recovery time, performance"
 " condition, hrv score and V02max estimate."
@@ -705,7 +706,7 @@ msgstr ""
 "FIT Dateien enthalten einige Garmin-spezifische Werte wie Erholungszeit, "
 "\"performance condition\", HRV Wert und eine VO2max Schätzung."
 
-#: ../../starting-guide/import.rst:312
+#: ../../starting-guide/import.rst:317
 msgid ""
 "This site may contain affiliate links to support the development and "
 "infrastructure of RUNALYZE"
@@ -734,15 +735,3 @@ msgstr ""
 #~ msgid "Drag the following link to your toolbar/bookmars"
 #~ msgstr "Ziehe den folgenden Link in deine Lesezeichenleiste"
 
-#~ msgid ""
-#~ "Click on the bookmark - All "
-#~ "activities you see on the page "
-#~ "will be downloaded. Go to the next"
-#~ " page (2 ...3 ...4) and click "
-#~ "again on the bookmark."
-#~ msgstr ""
-#~ "Klicke auf das Lesezeichen - Alle "
-#~ "Aktivitäten die du aktuell auf der "
-#~ "Seite siehst werden heruntergeladen. Gehe "
-#~ "auf die nächsten Seiten (2...3...4) und"
-#~ " klicke erneut auf das Lesezeichen."
