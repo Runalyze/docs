@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-31 11:19+0100\n"
+"POT-Creation-Date: 2017-06-02 17:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,26 +29,22 @@ msgid ""
 "missing <https://github.com/Runalyze/docs/issues/new>`_."
 msgstr ""
 
-#: ../../index.rst:8
-msgid "General"
-msgstr ""
-
-#: ../../index.rst:22
-msgid "Starting guide"
-msgstr ""
-
-#: ../../index.rst:30
-msgid "Configuration"
-msgstr ""
-
-#: ../../index.rst:38
-msgid "Calculations"
-msgstr ""
-
-#: ../../index.rst:49
+#: ../../index.rst:41
 msgid ""
 "This site contains affiliate links to support the development and growing"
 " server costs of RUNALYZE. All affiliate links are marked with an "
 "asterisk (*)."
 msgstr ""
+
+#~ msgid "General"
+#~ msgstr ""
+
+#~ msgid "Starting guide"
+#~ msgstr ""
+
+#~ msgid "Configuration"
+#~ msgstr ""
+
+#~ msgid "Calculations"
+#~ msgstr ""
 

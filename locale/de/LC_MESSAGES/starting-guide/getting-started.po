@@ -3,17 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-01 09:58+0100\n"
+"POT-Creation-Date: 2017-06-02 17:57+0200\n"
 "PO-Revision-Date: 2017-03-01 09:50+0000\n"
 "Last-Translator: Hannes <mail@laufhannes.de>\n"
-"Language-Team: German <https://translate.runalyze.com/projects/runalyze-help"
-"/getting-started/de/>\n"
-"Language: de\n"
+"Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
+"help/getting-started/de/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.11\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/getting-started.rst:3
@@ -187,19 +184,20 @@ msgid ""
 "as you have enabled your public athlete page you will see a chain symbol "
 "at the databrowser, which will redirect you to your athlete page."
 msgstr ""
-"Standardmäßig sind alle deine Daten bei RUNALYZE nur für dich sichtbar. Du "
-"hast aber die Möglichkeit, einzelne Aktivitäten oder deine gesamte "
+"Standardmäßig sind alle deine Daten bei RUNALYZE nur für dich sichtbar. "
+"Du hast aber die Möglichkeit, einzelne Aktivitäten oder deine gesamte "
 "Athletenseite zu veröffentlichen. Kontrolliere dazu deine Privatsphäre-"
-"Einstellungen unter *Konfiguration -> Privatsphäre*. Deine Athletenseite ist "
-"in der oberen Leiste der Kalenderansicht verlinkt."
+"Einstellungen unter *Konfiguration -> Privatsphäre*. Deine Athletenseite "
+"ist in der oberen Leiste der Kalenderansicht verlinkt."
 
 #: ../../starting-guide/getting-started.rst:81
+#, fuzzy
 msgid ""
-"Take a look at ` the badges <https://blog.runalyze.com/de/share/>`_ to "
+"Take a look at `the badges <https://blog.runalyze.com/de/share/>`_ to "
 "share your athlete page on your blog or forum signature."
 msgstr ""
-"Wirf einen Blick auf die `Badges <https://blog.runalyze.com/de/share/>`_ um "
-"deine Athletenseite in deinem Blog oder einer Signatur zu verlinken."
+"Wirf einen Blick auf die `Badges <https://blog.runalyze.com/de/share/>`_ "
+"um deine Athletenseite in deinem Blog oder einer Signatur zu verlinken."
 
 #: ../../starting-guide/getting-started.rst:85
 msgid "Understanding the calculations"
@@ -219,42 +217,52 @@ msgstr ""
 "Zauberstab- und Infosymbol."
 
 #: ../../starting-guide/getting-started.rst:89
+msgid "Improve the quality of your prognosis"
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:90
+msgid ""
+"To get a good prognosis you should at least add :doc:`one race <starting-"
+"guide/races>` and a month of activity data."
+msgstr ""
+
+#: ../../starting-guide/getting-started.rst:94
 msgid "What can I expect from RUNALYZE in the future?"
 msgstr "Was kann ich in Zukunft von RUNALYZE erwarten?"
 
-#: ../../starting-guide/getting-started.rst:90
+#: ../../starting-guide/getting-started.rst:95
 msgid "A new (clear, responsible) Design (the current one is 'slightly' outdated)"
 msgstr ""
 "Ein neues Design (responsiv, übersichtlicher – das aktuelle ist schon ein"
 " paar Ewigkeiten alt, aber die liebe Zeit …)"
 
-#: ../../starting-guide/getting-started.rst:91
+#: ../../starting-guide/getting-started.rst:96
 msgid "Automatic synchronization with other apps / vendors"
 msgstr "Automatische Synchronisation mit anderen Apps/Anbietern"
 
-#: ../../starting-guide/getting-started.rst:92
+#: ../../starting-guide/getting-started.rst:97
 msgid "Easier & clearer configuration"
 msgstr "Einfachere und übersichtlichere Konfiguration"
 
-#: ../../starting-guide/getting-started.rst:93
+#: ../../starting-guide/getting-started.rst:98
 msgid "Better documentation of the various parameters and statistics"
 msgstr "Bessere Dokumentation der verschiedenen Parameter und Statistiken"
 
-#: ../../starting-guide/getting-started.rst:94
+#: ../../starting-guide/getting-started.rst:99
 msgid "Optional community functions"
 msgstr ""
 "Optionale Communityfunktionen (liegt im Augenblick noch weit in der "
 "Zukunft)"
 
-#: ../../starting-guide/getting-started.rst:95
+#: ../../starting-guide/getting-started.rst:100
 msgid "Better support for swimming and cycling"
 msgstr "Bessere Unterstützung der Sportarten Schwimmen und (Renn-)Radfahren"
 
-#: ../../starting-guide/getting-started.rst:98
+#: ../../starting-guide/getting-started.rst:103
 msgid "\"I have an idea / a question / a problem\""
 msgstr "„Ich habe eine Idee, Frage oder ein Problem“"
 
-#: ../../starting-guide/getting-started.rst:99
+#: ../../starting-guide/getting-started.rst:104
 msgid ""
 "We are pleased to help! To ensure that all users benefit from your "
 "request we ask you to use `our forum <https://forum.runalyze.com/>`_ "
@@ -266,3 +274,4 @@ msgstr ""
 "<https://forum.runalyze.com/>`_ zu nutzen. Vergewissere dich vorher, ob "
 "deine Frage vielleicht bereits dort oder in unser Dokumentation "
 "beantwortet wurde."
+
