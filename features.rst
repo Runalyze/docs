@@ -12,6 +12,14 @@ Features
 | But, if you want to, you can share single activities or an overview of all your activities.
 |
 
+.. raw:: html
+
+   <i class="fa fa-user-secret fa-2x fa-pull-right" aria-hidden="true"></i>
+
+| **No shared data**
+| We do not share or sell your data. It is very important for us to protect your sensitive activity data. We create internal anonymised evaluations to improve the quality of our prognosis and calculations. But again: We are not interested in selling your data.
+|
+
 Analysis
 ----------
 
@@ -64,6 +72,18 @@ Analysis
 | Values are visualized with so-called 'box plots'. They give an impression of how values of a group are distributed.
 | This way of presentation allows to compare not only average values (e.g. pace over months) but deviations and outliers between different groupings.
 |
+
+Gimmicks
+----------
+
+.. raw:: html
+
+   <a href="_static/features-poster.png" class="image-popup" title="Poster generator"><i class="fa fa-picture-o fa-2x fa-pull-right" aria-hidden="true"></i></a>
+
+| **Poster generator**
+| Based on your data RUNALYZE can generate some posters for you. You can choose between a route heatmap, a route grid, circular or calendar.
+|
+
 
 Logging data
 -------------
