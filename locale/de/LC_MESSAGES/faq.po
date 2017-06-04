@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2016-09-21 18:09+0000\n"
+"PO-Revision-Date: 2017-06-04 14:40+0000\n"
 "Last-Translator: Michael Pohl <michael@mipapo.de>\n"
-"Language-Team: German <http://translate.runalyze.com/projects/runalyze-"
+"Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
 "help/faq/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.14\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../faq.rst:3
@@ -23,7 +26,6 @@ msgid "Frequently Asked Questions"
 msgstr "Häufig gestellte Fragen"
 
 #: ../../faq.rst:5
-#, fuzzy
 msgid ""
 "If you have a concrete concept for a new feature, don't hesitate to "
 "submit and discuss your idea at our `Forum <https://forum.runalyze.com>`_"
@@ -31,11 +33,11 @@ msgid ""
 "is the best place to discuss ideas and future features with other users "
 "and developers."
 msgstr ""
-"Wenn du ein konkretes Konzept für eine neue Funktion hast, kannst du "
-"gerne ein Ticket in Englisch auf `GitHub "
-"<https://github.com/Runalyze/Runalyze/issues/new>`_ erstellen. Dies ist "
-"der beste Ort, um Ideen und zukünftige Funktion mit Nutzern und "
-"Entwicklern zu diskutieren."
+"Wenn du ein konkretes Konzept für eine neue Funktion hast, kannst du gerne "
+"deine Idee in unserem `Forum <https://forum.runalyze.com>`_ oder auf `GitHub "
+"<https://github.com/Runalyze/Runalyze/issues/new>`_ teilen. Dies ist der "
+"beste Ort, um Ideen und zukünftige Funktion mit Nutzern und Entwicklern zu "
+"diskutieren."
 
 #: ../../faq.rst:8
 msgid ""
@@ -57,14 +59,13 @@ msgstr ""
 
 #: ../../faq.rst:16
 msgid "General questions"
-msgstr ""
+msgstr "Allgemeine Fragen"
 
 #: ../../faq.rst:19
 msgid "Will there be a synchronisation with other platforms?"
 msgstr "Wird es eine Synchronisationsmöglichkeit mit anderen Plattformen geben?"
 
 #: ../../faq.rst:20
-#, fuzzy
 msgid ""
 "Yes, definitely! Our first concern is providing an API to work with "
 "`tapiriik <https://tapiriik.com/>`_. Still, there are some months of work"
@@ -72,10 +73,11 @@ msgid ""
 "getting closer to this feature. Current schedule for this feature is in "
 "late 2017."
 msgstr ""
-"Irgendwann. Für den Anfang wollen wir eine API bereitstellen, damit wie "
-"mit Portalen wie `tapiriik <https://tapiriik.com/>`_ zusammenarbeiten "
-"können. Dies wird leider noch einige Zeit dauern, bis dies umsetzbar ist."
-" Mit jeder weiteren Version kommen wir aber einen kleinen Schritt näher."
+"Definitiv. Für den Anfang wollen wir eine API bereitstellen, damit wie mit "
+"Portalen wie `tapiriik <https://tapiriik.com/>`_ zusammenarbeiten können. "
+"Dies wird leider noch einige Zeit dauern, bis dies umsetzbar ist. Mit jeder "
+"weiteren Version kommen wir aber einen kleinen Schritt näher. Nach aktueller "
+"Planung wird dies gegen Ende 2017 umgesetzt."
 
 #: ../../faq.rst:24
 msgid "Will there be an app for smartphones?"
@@ -94,14 +96,13 @@ msgid "Can I publish my running diary?"
 msgstr "Kann ich mein Trainingstagebuch veröffentlichen?"
 
 #: ../../faq.rst:29
-#, fuzzy
 msgid ""
 "Fundamentally, RUNALYZE is in the moment not designed to be an athletes "
 "community. Our main focus is on analyzing your training."
 msgstr ""
-"RUNALYZE ist bisher nicht für eine Communityfunktion ausgelegt. Wir "
-"machen uns aber trotzdem schon Gedanken über eine solche Funktion. Unser "
-"Hauptfokus liegt auf der Analyse von Trainingseinheiten."
+"RUNALYZE ist bisher nicht für eine Communityfunktion ausgelegt. Wir machen "
+"uns aber trotzdem schon Gedanken über eine solche Funktion. Unser Hauptfokus "
+"liegt auf der Analyse von Trainingseinheiten."
 
 #: ../../faq.rst:32
 msgid ""
@@ -192,7 +193,7 @@ msgstr ""
 
 #: ../../faq.rst:62
 msgid "Is there an impact when I change the sport relevance?"
-msgstr ""
+msgstr "Welche Auswirkung hat die Änderung der Sportrelevanz?"
 
 #: ../../faq.rst:63
 msgid ""
@@ -201,10 +202,14 @@ msgid ""
 "alternative sports and handle them as additional but less important "
 "training load."
 msgstr ""
+"Die Kategorisierung in \"Hautsportart\" und \"Alternativsportart\" ist nur "
+"eine Vorbereitung für zukünftige Analysen. Es ist geplant, dass man "
+"Alternativsportarten gruppieren kann und diese zusätzlich, aber bei der "
+"Trainingsbelastung weniger wichtet."
 
 #: ../../faq.rst:66
 msgid "The translation is missing"
-msgstr ""
+msgstr "Die Übersetzung fehlt"
 
 #: ../../faq.rst:67
 msgid ""
@@ -212,10 +217,13 @@ msgid ""
 "everything has been translated when we roll out a new version. :doc:`You "
 "can help us! <translation>`."
 msgstr ""
+"Die Übersetzung wird von unseren Nutzern gepflegt und wir können nicht "
+"garantieren, dass alles übersetzt wurde, wenn wir eine neue Version "
+"ausrollen. :doc:`Du kannst helfen! <translation>`."
 
 #: ../../faq.rst:70
 msgid "File import"
-msgstr ""
+msgstr "Dateimport"
 
 #: ../../faq.rst:73
 msgid "The file import seems buggy? Incorrect values?"
@@ -248,7 +256,7 @@ msgstr ""
 
 #: ../../faq.rst:83
 msgid "Negative time step at index x"
-msgstr ""
+msgstr "Negative time step at index x"
 
 #: ../../faq.rst:84
 msgid ""
@@ -256,14 +264,17 @@ msgid ""
 "case they contain negative time jumps, which we cannot process in the "
 "moment."
 msgstr ""
+"Es gibt einige Apps und Geräte, die fehlerhafte Dateien erstellen. In diesem "
+"Fall beinhalten die Dateien (negativ) Zeitsprünge, die wir im Augenblick "
+"nicht verarbeiten können."
 
 #: ../../faq.rst:87
 msgid "Activities"
-msgstr ""
+msgstr "Aktivitäten"
 
 #: ../../faq.rst:90
 msgid "Power graph/Power data seems to be wrong"
-msgstr ""
+msgstr "Wattkurve/Wattdaten scheinen falsch zu sein"
 
 #: ../../faq.rst:91
 msgid ""
@@ -272,10 +283,14 @@ msgid ""
 " manual power calculation in your configuration (Activity form -> "
 "Calculate power)"
 msgstr ""
+"Dies mag ein wenig verwirrend klingen und wir werden dieses Verhalten in "
+"einer späteren Version auch abändern. Wenn du die Leistungsdaten einer Datei "
+"importierst solltest du die manuelle Leistungsberechnung in deiner "
+"Konfiguration (Eingabeformular -> Leistung berechnen)"
 
 #: ../../faq.rst:94
 msgid "My activity does not show up in my race results"
-msgstr ""
+msgstr "Meine Aktivität taucht nicht bei den Wettkampfergebnissen auf"
 
 #: ../../faq.rst:95
 msgid ""
@@ -283,6 +298,10 @@ msgid ""
 "the respective checkbox. It is not enought to change the activity type to"
 " \"race\". :doc:`Read more <starting-guide/races>`."
 msgstr ""
+"Jede Aktivität jeder Sportart kann als Wettkampf markiert werden. Dafür muss "
+"nur die Checkbox \"Wettkampf\" im Trainingsformular angewählt werden. Es "
+"reicht nicht den Trainingstypen auf \"Wettkampf\" zu stellen.  :doc:`Mehr "
+"darüber <starting-guide/races>`."
 
 #~ msgid "When will RUNALYZE support timezones?"
 #~ msgstr ""
@@ -346,4 +365,3 @@ msgstr ""
 #~ " man diese Schätzungen mit Vorsicht "
 #~ "betrachten. Höre im Zweifel immer auf"
 #~ " deinen Körper."
-
