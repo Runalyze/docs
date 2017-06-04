@@ -36,7 +36,7 @@ Furthermore, you can export any activity as html snippet or iframe and share the
 What are calculations and prognoses?
 --------------------------------------
 RUNALYZE is more than just a logbook to track all your activities.
-In addition to well known basic features RUNALYZE offers you statistics like VDOT and prognoses for your upcoming races.
+In addition to well known basic features RUNALYZE offers you statistics like effective VO2max and prognoses for your upcoming races.
 We are using some formulas to estimate your current shape based on the ratio of heart rate and pace.
 Still, these estimates must be handled with great caution. Don't rely on them and listen to your body.
 
