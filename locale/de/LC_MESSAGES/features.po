@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2017-03-01 20:55+0000\n"
-"Last-Translator: Hannes <mail@laufhannes.de>\n"
+"PO-Revision-Date: 2017-06-04 14:33+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
 "Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
 "help/features/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.14\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../features.rst:2
@@ -44,7 +47,7 @@ msgstr ""
 
 #: ../../features.rst:19
 msgid "**No shared data**"
-msgstr ""
+msgstr "Deine Daten bleiben bei uns"
 
 #: ../../features.rst:20
 msgid ""
@@ -53,6 +56,11 @@ msgid ""
 "to improve the quality of our prognosis and calculations. But again: We "
 "are not interested in selling your data."
 msgstr ""
+"Wir verkaufen deine Daten nicht. Es ist ziemlich wichtig für uns deine "
+"sensiblen Trainingsdaten zu schützen. Wir erstellen intern anonymisierte "
+"Auswertungen, um die Qualität der Prognosen und Berechnungen zu verbessern "
+"und besser auf deine Nutzerbedürfnisse einzugehen. Um es nochmal kurz "
+"zusammenzufassen: Wir sind nicht daran interessiert deine Daten zu verkaufen."
 
 #: ../../features.rst:24
 msgid "Analysis"
@@ -138,13 +146,15 @@ msgstr ""
 
 #: ../../features.rst:71
 msgid "**ANOVA tool**"
-msgstr ""
+msgstr "**ANOVA Tool**"
 
 #: ../../features.rst:72
 msgid ""
 "Values are visualized with so-called 'box plots'. They give an impression"
 " of how values of a group are distributed."
 msgstr ""
+"Die Daten werden durch sogenannte „Boxplots“ dargestellt. Sie vermitteln "
+"einen Eindruck, wie die Daten einer Gruppe verteilt sind."
 
 #: ../../features.rst:73
 msgid ""
@@ -152,20 +162,26 @@ msgid ""
 "pace over months) but deviations and outliers between different "
 "groupings."
 msgstr ""
+"Diese Darstellung erlaubt es, nicht nur die Durchschnittswerte (z.B. der "
+"Pace im Monatsvergleich) sondern auch die Streuungen und Ausreißer zwischen "
+"den verschiedenen Gruppierungen miteinander zu vergleichen."
 
 #: ../../features.rst:77
 msgid "Gimmicks"
-msgstr ""
+msgstr "Spielereien"
 
 #: ../../features.rst:83
 msgid "**Poster generator**"
-msgstr ""
+msgstr "**Postergenerator**"
 
 #: ../../features.rst:84
 msgid ""
 "Based on your data RUNALYZE can generate some posters for you. You can "
 "choose between a route heatmap, a route grid, circular or calendar."
 msgstr ""
+"Auf Basis deiner Daten kannst du in Runalyze dir Poster erzeugen lassen. Du "
+"kannst dabei zwischen einer Route-Heatmap, einer Routenübersicht, einer "
+"Kreisdarstellung oder Kalender wählen."
 
 #: ../../features.rst:89
 msgid "Logging data"
@@ -390,4 +406,3 @@ msgstr ""
 
 #~ msgid ""
 #~ msgstr ""
-
