@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-07-15 20:55+0000\n"
+"Last-Translator: 1V14713 6#4V1! <mathieu.gravil@gmail.com>\n"
+"Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
+"help/elevation/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.14\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/elevation.rst:3
 msgid "Elevation"
-msgstr ""
+msgstr "Dénivelée"
 
 #: ../../calculations/elevation.rst:5
 msgid ""
@@ -29,20 +32,27 @@ msgid ""
 "calculation. Many people just don't know how elevation has to be handled "
 "and why there is no proper value."
 msgstr ""
+"Une des questions les plus répandue sur RUNALYZE porte sur les valeurs des "
+"dénivelés. Il y a un manque de transparence concernant les corrections et "
+"les calculs des dénivelés. Beaucoup de personnes ne savent simplement pas "
+"comment les dénivelés doivent être gérer et pourquoi il n'y a pas de \""
+"bonne\" valeur."
 
 #: ../../calculations/elevation.rst:8
 msgid "Elevation data and elevation correction"
-msgstr ""
+msgstr "Données de dénivellation et correction"
 
 #: ../../calculations/elevation.rst:11
 msgid "Recording of activities"
-msgstr ""
+msgstr "Enregistrement des activités"
 
 #: ../../calculations/elevation.rst:12
 msgid ""
 "Let's start with the recording of an activity. Not only the position in "
 "terms of latitude/longitude but also the elevation is determined via GPS."
 msgstr ""
+"Commençons par l'enregistrement d'une activité. Non seulement la position "
+"(latitude/longitude), mais aussi le dénivelé est mesuré par le GPS."
 
 #: ../../calculations/elevation.rst:14
 msgid ""
@@ -51,6 +61,10 @@ msgid ""
 "variations are negligible. It doesn't matter if you're running 10 meters "
 "to the left or right of the way."
 msgstr ""
+"Cela peut sembler bien mais en fait non: Tous les gens qui possèdent un gps "
+"savent que la qualité d'un GPS peut varier énormément. Pour les distances, "
+"ces variations sont négligeable. Celà importe peu si vous courrez 10 mètres "
+"à gauche ou à droite du chemin."
 
 #: ../../calculations/elevation.rst:16
 msgid ""
@@ -58,6 +72,9 @@ msgid ""
 "elevation it's a significant difference if you are running 10 meters "
 "higher or lower."
 msgstr ""
+"Mais les mêmes variations s'applique sur les dénivelés- et pour ceux là celà "
+"fait une différence significative si vous courrez 10 mètre plus haut ou plus "
+"bas."
 
 #: ../../calculations/elevation.rst:18
 msgid ""
@@ -65,16 +82,21 @@ msgid ""
 "correction is used by default. This applies to any platform like Garmin "
 "Connect, Polar Flow as well."
 msgstr ""
+"C'est pourquoi les données du gps ne sont pas utilisées et la correction du "
+"dénivelé est utilisé par défaut. Cela est appliqué à n'importe quelle "
+"plateforme, comme Garmin Connect ou polar Flow."
 
 #: ../../calculations/elevation.rst:20
 msgid ""
 "Elevation data from a device should only be used if the device has a "
 "barometric altimeter included."
 msgstr ""
+"Les données de dénivellation venant d'un capteur ne devrait être utilisé que "
+"si ce capteur à un baromètre altimétrique inclus."
 
 #: ../../calculations/elevation.rst:23
 msgid "Elevation correction via satellite data"
-msgstr ""
+msgstr "Correction du dénivelé par données satellites"
 
 #: ../../calculations/elevation.rst:24
 msgid ""
@@ -82,6 +104,9 @@ msgid ""
 "altitude of every pair of coordinates is determined from some digital "
 "elevation model, in general an elevation profile of the global surface."
 msgstr ""
+"Le principe de la correction du dénivelé est simple. L'altitude respective "
+"de toutes coordonnées est déterminé à partir d'un modèle numérique de "
+"dénivellation, en général un profile d'altitude de la surface du globe."
 
 #: ../../calculations/elevation.rst:26
 msgid ""
@@ -90,6 +115,11 @@ msgid ""
 "resolution is not perfect and these datasets are noisy, but they are "
 "usually the best fit if there are no barometric measurements."
 msgstr ""
+"Un exemple d'un tel jeu de données sont les fichiers de SRTM (Shuttle Radar "
+"Topography Mission de 2000). Elles sont accessible gratuitement sur des "
+"grilles de 90x90m. La résolution n'est pas parfaite et les jeux de données "
+"bruitées, mais ils sont souvent le plus précis si il n'y a pas de données "
+"barométrique."
 
 #: ../../calculations/elevation.rst:28
 msgid ""
@@ -98,6 +128,10 @@ msgid ""
 "hosting our own SRTM files nowadays to get an accurate elevation profile "
 "for your activity."
 msgstr ""
+"Ce jeu de données put être accéder via les API publiques de Geonames.org ou "
+"GoogleMaps, mais le nombre de demandes est limité. Chez RUNALYZE, nous "
+"hébergeons nos propres fichiers SRTM pour obtenir un profil de dénivellation "
+"précis pour votre activité."
 
 #: ../../calculations/elevation.rst:30
 msgid ""
@@ -108,26 +142,33 @@ msgid ""
 "elevation profile (based on satellite data). This does not yield a "
 "single, \"true\" elevation value for your activity."
 msgstr ""
+"**Conclusion:** Le meilleur profile de dénivellation est obtenue via des "
+"mesures barométriques. Les utilisateurs avec des appareils qui n'inclus pas "
+"d'altimètre barométrique  **devrait toujours activer la correction du "
+"dénivelé**. Mais souvenez-vous : la correction de dénivelé signifie "
+"seulement que nous corrigeons le profil de dénivellation (basé sur les "
+"données satelitte).  Cela ne donne pas la \"vraie\" dénivellation de votre "
+"activité."
 
 #: ../../calculations/elevation.rst:33
 msgid "`<https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission>`_"
-msgstr ""
+msgstr "`<https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission>`_"
 
 #: ../../calculations/elevation.rst:34
 msgid "`<http://srtm.csi.cgiar.org/>`_"
-msgstr ""
+msgstr "`<http://srtm.csi.cgiar.org/>`_"
 
 #: ../../calculations/elevation.rst:35
 msgid "`<http://dwtkns.com/srtm/>`_"
-msgstr ""
+msgstr "`<http://dwtkns.com/srtm/>`_"
 
 #: ../../calculations/elevation.rst:38
 msgid "The calculation of the elevation value (total ascent/descent)"
-msgstr ""
+msgstr "Le calcul du dénivelé (Total Montée/Descente)"
 
 #: ../../calculations/elevation.rst:40
 msgid "The problem"
-msgstr ""
+msgstr "Le problème"
 
 #: ../../calculations/elevation.rst:41
 msgid ""
@@ -135,6 +176,9 @@ msgid ""
 "interested in their total elevation gain (sometimes just called "
 "\"elevation\" of an activity)."
 msgstr ""
+"La plupart des coureurs ne veulent pas seulement voir un bon profil de "
+"dénivellation. Ils s'intéressent à leur dénivelé positif  total (parfois "
+"appelé «dénivelé» d'une activité)."
 
 #: ../../calculations/elevation.rst:43
 msgid ""
@@ -143,6 +187,10 @@ msgid ""
 "think that a fixed elevation profile generates a fixed elevation value, "
 "but that's not true."
 msgstr ""
+"Mais - cela est peut être nouveau pour vous comme vous ête obligé de lire "
+"cet article - obtenir une telle valeur est loin d'être trivial. La plus part "
+"des gens pense qu'un profile fixe de dénivellation génère une valeur fixe de "
+"dénivelé, mais ce n'est pas vrai."
 
 #: ../../calculations/elevation.rst:46
 msgid ""
@@ -151,6 +199,10 @@ msgid ""
 "altitude? Even if it's only 10cm of a sidewalk? And what's with small "
 "stones under your feet or potholes?"
 msgstr ""
+"Le problème est qu'il n'y a pas de \"vraie\" valeur. Demandez-vous : Comment "
+"vous définiriez une valeur de dénivellation? Comme une somme de toutes les "
+"différences d'altitude? Même si c'est seulement une marche de 10cm? Et qu'en "
+"est-il des petites pierres sous vos pieds ou des nids de poules?"
 
 #: ../../calculations/elevation.rst:48
 msgid ""
@@ -159,24 +211,31 @@ msgid ""
 "elevation gain. But that's not possible for hilly terrains and urban "
 "areas."
 msgstr ""
+"Soyez sûr: Ce n'est pas ce que vous voulez. C'est simple de calculer la "
+"dénivellation totale d'un parcours ascendant constant: point le plus haut - "
+"point le plus bas = dénivelé positif. Mais celà n'est pas possible pour les "
+"terrains vallonnés ou les zones urbaines."
 
 #: ../../calculations/elevation.rst:51
 msgid "The solution: smoothing algorithms"
-msgstr ""
+msgstr "La solution: les algorithmes de lissage"
 
 #: ../../calculations/elevation.rst:52
 msgid ""
 "Our workaround is to \"smooth\" the elevation profile (only for "
 "calculating total elevation). RUNALYZE currently supports three methods:"
 msgstr ""
+"Une solution de contournement est de \"lisser\" le profile de dénivellation ("
+"seulement pour calculer le dénivelé Total). RUNALYZE supporte actuellement 3 "
+"méthodes:"
 
 #: ../../calculations/elevation.rst:54
 msgid "No smoothing"
-msgstr ""
+msgstr "Pas de lissage"
 
 #: ../../calculations/elevation.rst:55
 msgid "Threshold method"
-msgstr ""
+msgstr "Méthode de seuil"
 
 #: ../../calculations/elevation.rst:56
 #, python-format
@@ -184,6 +243,8 @@ msgid ""
 "`Douglas-Peucker-Algorithm "
 "<https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm>`_"
 msgstr ""
+"`Douglas-Peucker-Algorithm <https://en.wikipedia.org/wiki/Ramer%E 12%80% "
+"293Douglas%E 32%80% 493Peucker_algorithm>`_"
 
 #: ../../calculations/elevation.rst:58
 msgid ""
@@ -194,6 +255,13 @@ msgid ""
 "\"Recalculate VDOT values\")). You will notice that without smoothing far"
 " too high values will appear."
 msgstr ""
+"**Sans lissage** est l'approche naïve qui consiste à sommer toutes les "
+"dénivellations positives et négatives. Vous pouvez toujours changer "
+"l'algorithme de lissage dans vos réglages - après vous pouvez laisser "
+"RUNALYZE recalculer toutes les valeurs de dénivellation (Outils -> nettoyage "
+"de la base de  données-> Boucle sur toues les activités (activer \"Recalcul "
+"du dénivellé\" & \"Recalcul des valeurs VDOT\")). Vous noterez que sans "
+"lissage des valeurs excessives apparaîtront."
 
 #: ../../calculations/elevation.rst:62
 msgid ""
@@ -202,6 +270,10 @@ msgid ""
 " good results with a threshold of 3 meters. Therefore any difference of "
 "only one or two meters is ignored."
 msgstr ""
+"Dans la **Méthode de seuil** les petites différence de dénivellation sont "
+"ignorées. La valeur du seuil peut être ajustée dans la configuration. NOus "
+"obtenons des résultats cohérents avec un seuil à 3 mètres. Par conséquent "
+"les différence de seulement 1 ou 2 mètres sont ignorées."
 
 #: ../../calculations/elevation.rst:64
 msgid ""
@@ -210,6 +282,10 @@ msgid ""
 "two consecutive data points that are smaller than the threshold will be "
 "ignored. That's where the Douglas-Peucker-algorithm comes into play."
 msgstr ""
+"Si vous allez doucement seulement à la montée ou à la descente la méthode du "
+"seuil peu poser problème. Toutes les diférence de dénivellation entre 2 "
+"données consécutives sont trop petite par rapport au seuil et sont donc "
+"ignorées. C'est là que l'algorithme de DOUGLAS-Peucker entre en jeu."
 
 #: ../../calculations/elevation.rst:66
 msgid ""
@@ -217,10 +293,13 @@ msgid ""
 " to a certain algorithm) and tries to consider only significant \"ups and"
 " downs\"."
 msgstr ""
+"L'algorithme de Doglas-Peucker ignore les valeurs intermédiaires (par "
+"rapport à un certain algorithme) et essaye de ne prendre en compte que les "
+"montées et les descentes \"significatives\"."
 
 #: ../../calculations/elevation.rst:69
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusion"
 
 #: ../../calculations/elevation.rst:70
 msgid ""
@@ -230,12 +309,20 @@ msgid ""
 "needs, such that you are satisfied with your calculated values. They "
 "won't match your devices values exactly, but that shouldn't be the point."
 msgstr ""
+"C'est certainement un sujet compliqué et nous ne pouvons pas configurer vos "
+"paramètres de manière à obtenir des valeurs «vraies» - simplement parce que "
+"personne ne les connaît. Il n'y a pas de «vérité» dans ce cas. Mais vous "
+"pouvez adapter les paramètres à vos besoins,afin que vous soyez satisfait "
+"des valeurs calculées. Elles ne correspondent pas exactement aux valeurs de "
+"vos appareils, mais ce ne devrait pas être le cas."
 
 #: ../../calculations/elevation.rst:73
 msgid ""
 "The information window about the elevation data, which you can open for "
 "every activity, can help finding the correct settings."
 msgstr ""
+"La fenêtre d'information sur les données de dénivellation, que vous pouvez "
+"ouvrir pour chaque activité, peut aider à trouver les paramètres corrects."
 
 #: ../../calculations/elevation.rst:77
 msgid ""
@@ -243,4 +330,6 @@ msgid ""
 "algorithms. There's a table for the different algorithms and thresholds "
 "as well."
 msgstr ""
-
+"Les données originales sont comparées aux données corrigées et à nos "
+"différents algorithmes. Il existe également une table pour les différents "
+"algorithmes et seuils."
