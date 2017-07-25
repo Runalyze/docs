@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: 2017-06-07 14:10+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"PO-Revision-Date: 2017-07-25 19:12+0000\n"
+"Last-Translator: nicolas ghysbrecht <kosnik@kanet.xyz>\n"
 "Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
 "help/faq/fr/>\n"
 "Language: fr\n"
@@ -39,6 +39,8 @@ msgid ""
 "Please keep in mind that RUNALYZE is an open source project, at present "
 "based mainly on two developers offering their free time for this tool."
 msgstr ""
+"Gardez à l'esprit que RUNALYZE est un projet open-source, actuellement le "
+"développement est réalisé sur le temps-libre de 2 développeur principale."
 
 #: ../../faq.rst:10
 msgid ""
@@ -46,16 +48,22 @@ msgid ""
 "(development, design, communication, pr, docs, ...) to speed up "
 "development."
 msgstr ""
+"Irrité par des phrases du genre *un jours* et *probablement*? Rejoignez "
+"notre équipe (développement, design, communication, pr, doc, ...) pour "
+"accélérer le développement."
 
 #: ../../faq.rst:19
 msgid "The file type \\*.XYZ is not supported"
-msgstr ""
+msgstr "Le type de fichier \\*.XYZ n'est pas supporté"
 
 #: ../../faq.rst:20
+#, fuzzy
 msgid ""
 "Just send us an email with some sample files and we'll have a look at "
 "this."
 msgstr ""
+"Envoyez nous un simple mail avec un fichier d'exemple, afin que nous "
+"puisions l'examiner."
 
 #: ../../faq.rst:25
 msgid "Will there be an app for smartphones?"
