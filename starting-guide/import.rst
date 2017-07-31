@@ -8,7 +8,7 @@ RUNALYZE supports a wide range of file types and tries to fit all your needs.
 Still, some file types can be tricky.
 
 .. note::
-          Use - if possible - the fit file format for importing activities 
+          Use - if possible - the fit file format for importing activities
 
 Devices
 *******
@@ -36,7 +36,7 @@ Windows 7::
 Mac OS X::
 
     ~/Library/Application Support/Garmin/GarminConnect/Device-UnitID/Upload/FIT_TYPE_4
-    
+
 or::
 
     ~/Library/Caches/Garmin/Express/<Device-UnitID>/History
@@ -160,7 +160,7 @@ Drag the following link to your bookmarks bar - Just click on it when you're on 
 Movescount
 ------------
 
-You can export individual activities as FIT files from Movescount. 
+You can export individual activities as FIT files from Movescount.
 
 
 Endomondo
@@ -245,9 +245,9 @@ Please send us an example file if you think we are missing some data during the 
   * C = Will be calculated if not present
   * CC = Will be calculated when a condition is given
 
-  .. warning:: TTBIN file format - We are using at third-party component to convert the ttbin files. Unfortunately `swim <https://github.com/ryanbinns/ttwatch/issues/62>`_ activities cannot be imported in the moment. Please checkout the linked issues and help us  
-  
-    .. warning:: FIT file format - Heartrate from swim fit files cannot be saved in the moment (`Issue #1498 <https://github.com/Runalyze/Runalyze/issues/1498>`_)
+  .. warning:: TTBIN file format - We are using at third-party component to convert the ttbin files. Unfortunately `swim <https://github.com/ryanbinns/ttwatch/issues/62>`_ activities cannot be imported in the moment. Please checkout the linked issues and help us
+
+  .. warning:: FIT file format - Heartrate from swim fit files cannot be saved in the moment (`Issue #1498 <https://github.com/Runalyze/Runalyze/issues/1498>`_)
 
   .. note::
             Distances may be recalculated in some cases, when there are no distance information for gps datapoints.

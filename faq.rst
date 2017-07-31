@@ -74,6 +74,14 @@ The file import seems buggy? Incorrect values?
 Send us an email with your sample file and a detailed description of what your expected results.
 We'll have a look at your issue and will try to fix it.
 
+TTBIN file - Cannot import swim file
+-------------------------------------
+TTBIN file format - We are using at third-party component to convert the ttbin files. Unfortunately `swim <https://github.com/ryanbinns/ttwatch/issues/62>`_ activities cannot be imported in the moment. Please checkout the linked issues and help us!
+
+FIT file - Swim heartrate isn't imported
+------------------------------------------
+FIT file format - Heartrate from swim fit files cannot be saved in the moment (`Issue #1498 <https://github.com/Runalyze/Runalyze/issues/1498>`_)
+
 
 The file type \*.XYZ is not supported
 --------------------------------------
