@@ -73,6 +73,24 @@ Analysis
 | This way of presentation allows to compare not only average values (e.g. pace over months) but deviations and outliers between different groupings.
 |
 
+.. raw:: html
+
+  <a href="_static/features-trendanalysis.png" class="image-popup" title="Anova tool"><i class="fa fa-th fa-2x fa-pull-right" aria-hidden="true"></i></a>
+
+| **Trend analysis**
+| The trend analysis tool allows to plot single activity values (e.g. pace, distance, duration, running dynamics, …) for a given period to see how your values evolved.
+| This way you can check the long-term trend of your metrics like cadence or pace.
+|
+
+.. raw:: html
+
+  <a href="_static/features-climbscore.png" class="image-popup" title="Climb Score"><i class="fa fa-th fa-2x fa-pull-right" aria-hidden="true"></i></a>
+
+| **Climb Score**
+| RUNALYZE will categorize all climbs in your activities and analyze them, from little hills of the 5th category up to mountains of ‘Hors catégorie’ (HC).
+| The classification is based on the FIETS index, that uses length and gradient profile to calculate a single number for each climb.
+|
+
 Gimmicks
 ----------
 
