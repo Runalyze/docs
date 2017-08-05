@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: 2017-03-07 07:30+0000\n"
-"Last-Translator: Antony Zanetti <antony.zanetti@axiocode.com>\n"
+"PO-Revision-Date: 2017-08-05 00:06+0000\n"
+"Last-Translator: nicolas ghysbrecht <kosnik@kanet.xyz>\n"
 "Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
 "help/import/fr/>\n"
 "Language: fr\n"
@@ -18,40 +18,53 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.11\n"
+"X-Generator: Weblate 2.15\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
 msgid "Import activities"
-msgstr ""
+msgstr "Importer activités"
 
 #: ../../starting-guide/import.rst:6
+#, fuzzy
 msgid ""
 "We know that you have a whole bunch of activities you would like to "
 "import. RUNALYZE supports a wide range of file types and tries to fit all"
 " your needs. Still, some file types can be tricky."
 msgstr ""
+"Nous savons que vous avez beaucoup d'activités que vous souhaitez importer. "
+"RUNALYSE prend en charge un éventail important de types de fichiers et "
+"essaie de répondre à tous vos besions. Pourtant, certains fichiers peuvent "
+"étre délicat."
 
 #: ../../starting-guide/import.rst:11
+#, fuzzy
 msgid "Use - if possible - the fit file format for importing activities"
 msgstr ""
+"Utilisez - si possible - le format de fichier fit pour l'importation "
+"d'activités"
 
 #: ../../starting-guide/import.rst:14
 msgid "Devices"
-msgstr ""
+msgstr "Appareils"
 
 #: ../../starting-guide/import.rst:16
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 
 #: ../../starting-guide/import.rst:17
+#, fuzzy
 msgid ""
 "Some years ago, it was easy to sync your Garmin device via the so called "
 "*Garmin communicator*. We did not remove this option so far but the "
 "browser plugin itself is officially discontinued."
 msgstr ""
+"Depuis des années, il était aisé de synchorniser votre appareil GARMIN via "
+"le nommer *Garmin communicator*. Jusqu'ici, nous n'avons pas enlevé cette "
+"option, malgrés que le plugin du navigateur soit officiellement interrompu."
 
 #: ../../starting-guide/import.rst:20
+#, fuzzy
 msgid ""
 "Newer Garmin devices can be used as ordinary usb mass storage. Just pick "
 "your \\*.fit file from a directory called *ACTIVITIES* or similar. If "
@@ -59,6 +72,12 @@ msgid ""
 "download your activity as zipped \\*.fit file from the activity's page "
 "(look for the \"*original format*\")."
 msgstr ""
+"Les appareils GARMIN récents peuvent être utiliser en USB comme un stockage "
+"de masse ordinaire. Choisissez simplement votre fichier \\*.fit dans le "
+"répertoire appelé *ACTIVITIES* ou similaire. Si votre appareil se "
+"synchronise avec GARMIN Connect automatiquement, vous pouvez télécharger "
+"votre activité sous la forme \\*.fit compresser depuis la page d'activité ("
+"rechercher \"*exporter au format original*\")."
 
 #: ../../starting-guide/import.rst:23
 msgid ""
@@ -66,40 +85,46 @@ msgid ""
 "files from your Windows, MacOS or Linux system. Just look for the files "
 "in the following directories."
 msgstr ""
+"Si vous utilisez Garmin Express ou anciennement ANT-Agent vous pouvez "
+"télécharger les fichiers depuis WIndows, MacOS ou Linux. Il suffit de "
+"rechercher les fichiers dans les dossiers suivants."
 
 #: ../../starting-guide/import.rst:27
 msgid "Garmin Express"
-msgstr ""
+msgstr "Garmin Express"
 
 #: ../../starting-guide/import.rst:28
 msgid "Windows 8::"
-msgstr ""
+msgstr "Windows 8::"
 
 #: ../../starting-guide/import.rst:32
 msgid "Windows 7::"
-msgstr ""
+msgstr "Windows 7::"
 
 #: ../../starting-guide/import.rst:36 ../../starting-guide/import.rst:49
 msgid "Mac OS X::"
-msgstr ""
+msgstr "Mac OS X::"
 
 #: ../../starting-guide/import.rst:42
 msgid "ANT-Agent"
-msgstr ""
+msgstr "ANT-Agent"
 
 #: ../../starting-guide/import.rst:43
 msgid "Windows: Open in the windows file explorer the following path::"
 msgstr ""
+"Windows: Ouvrir dans l'explorateur de fichiers windows, le fichier suivant::"
 
 #: ../../starting-guide/import.rst:47
 msgid ""
 "Then you have to open the folder with your device ID as name and find the"
 " folder *Activities*."
 msgstr ""
+"Ensuite, vous devez ouvrir le dossier avec l'ID de votre appareil comme nom "
+"et chercher le dossier *ACTIVITIES*."
 
 #: ../../starting-guide/import.rst:55
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../starting-guide/import.rst:56
 msgid ""
@@ -108,10 +133,14 @@ msgid ""
 "certainly does for Garmin Forerunner (60, 70, 405CX, 310XT, 610, 910XT) "
 "and Garmin Swim."
 msgstr ""
+"Il existe un outil appelé `antf-cli <https://github.com/Tigge/antfs-cli>`_. "
+"En théorie, cet outil devrait fonctionner avec tous les appareils compatible "
+"ANT-FS, et parfaitement pour Garmin Forerunner (60, 70, 405CX, 310XT, 610, "
+"910XT) et Garmin Swim."
 
 #: ../../starting-guide/import.rst:60
 msgid "Polar"
-msgstr ""
+msgstr "Polar"
 
 #: ../../starting-guide/import.rst:62
 msgid ""
