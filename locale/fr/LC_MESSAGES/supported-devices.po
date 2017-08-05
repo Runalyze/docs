@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: 2017-06-04 17:32+0000\n"
-"Last-Translator: Galdarion <galdarion@hotmail.com>\n"
+"PO-Revision-Date: 2017-08-05 00:06+0000\n"
+"Last-Translator: nicolas ghysbrecht <kosnik@kanet.xyz>\n"
 "Language-Team: French <https://translate.runalyze.com/projects/runalyze-help"
 "/supported-devices/fr/>\n"
 "Language: fr\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.15\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../supported-devices.rst:3
@@ -92,7 +92,7 @@ msgstr ""
 
 #: ../../supported-devices.rst:25
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 
 #: ../../supported-devices.rst:25
 msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
@@ -232,7 +232,7 @@ msgstr ""
 
 #: ../../supported-devices.rst:79
 msgid "Polar"
-msgstr ""
+msgstr "Polar"
 
 #: ../../supported-devices.rst:79
 msgid "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
