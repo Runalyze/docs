@@ -20,6 +20,11 @@ We did not remove this option so far but the browser plugin itself is officially
 Newer Garmin devices can be used as ordinary usb mass storage. Just pick your \*.fit file from a directory called *ACTIVITIES* or similar.
 If your device synchronizes with Garmin Connect automatically you can download your activity as zipped \*.fit file from the activity's page (look for the "*original format*").
 
+.. raw:: html
+
+    <iframe width="700" height="394" src="https://www.youtube.com/embed/TU0ZDUEbWIY" frameborder="0" allowfullscreen></iframe>
+
+
 If you are using Garmin Express or the old ANT-Agent you can upload the files from your Windows, MacOS or Linux system. Just look for the files in the following directories.
 
 ^^^^^^^^^^^^^^^
