@@ -4,27 +4,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-08-10 14:46+0000\n"
+"Last-Translator: anonymous <>\n"
+"Language-Team: Dutch <https://translate.runalyze.com/projects/runalyze-"
+"help/calories/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.15\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/calories.rst:3
 msgid "Calories"
-msgstr ""
+msgstr "Calorieën"
 
 #: ../../calculations/calories.rst:6
 msgid "How many calories did I burn?"
-msgstr ""
+msgstr "Hoeveel calorieën heb ik verbruikt?"
 
 #: ../../calculations/calories.rst:7
 msgid ""
@@ -37,6 +40,15 @@ msgid ""
 "burned calories are calculated by simply multiplying the activity's "
 "duration by your sports setting *kilocalories per hour*."
 msgstr ""
+"Uitzoeken hoeveel calorieën verbrand worden tijdens het lopen, fietsen of "
+"welke sport ook, is niet eenvoudig en, om eerlijk te zijn, hebben we tot nog "
+"toe hier niet zoveel energie ingestopt. Tot op heden gebruikt RUNALYZE de "
+"waarde die uit de geüploade bestanden komt en doet zelf geen herberekening. "
+"De waarde wordt enkel herberekend wanneer \"Bereken calorieën\" aangevinkt "
+"hebt in je configuratie *en* wanneer je de duur van de activiteit wijzigt. "
+"In dit geval worden de verbrande calorieën eenvoudig berekend door de "
+"duurtijd van de activiteit te vermenigvuldigen met de ingestelde sportwaarde "
+"*kilocalorieën per uur*."
 
 #: ../../calculations/calories.rst:16
 msgid ""
@@ -45,4 +57,6 @@ msgid ""
 "formula for calculating burned calories. Feel free to leave a +1 or "
 "contribute."
 msgstr ""
-
+"Er is een open item  <https://github.com/Runalyze/Runalyze/issues/1090>`_ om "
+"een betere formule te gebruiken om verbrande calorieën te berekenen. Je mag "
+"steeds een +1 of andere bijdrage achterlaten. "
