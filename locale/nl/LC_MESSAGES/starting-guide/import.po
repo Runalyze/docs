@@ -4,18 +4,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-08-10 14:46+0000\n"
+"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
+"Language-Team: Dutch <https://translate.runalyze.com/projects/runalyze-"
+"help/import/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.15\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
@@ -502,7 +505,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:267
 msgid "Calories"
-msgstr ""
+msgstr "Calorieën"
 
 #: ../../starting-guide/import.rst:267
 msgid "✓/C"
@@ -640,4 +643,3 @@ msgstr ""
 #~ " Please checkout the linked issues "
 #~ "and help us"
 #~ msgstr ""
-
