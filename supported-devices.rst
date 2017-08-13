@@ -38,7 +38,7 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/29vOfNp
-          .. |gf735us| image:: _static/de.png
+          .. |gf735us| image:: _static/us.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
              :align: middle
