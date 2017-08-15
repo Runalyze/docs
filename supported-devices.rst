@@ -40,7 +40,7 @@ Abbreviations:
              :target: http://amzn.to/29vOfNp
           .. |gf735us| image:: _static/us.png
              :scale: 100%
-             :alt: Auf Amazon.de anschauen
+             :alt: Checkout at amazon.com
              :align: middle
              :target: http://amzn.to/2hWHryQ
           .. |gf935| image:: _static/de.png
@@ -48,7 +48,17 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/2oFHQVc
+          .. |gf935us| image:: _static/us.png
+             :scale: 100%
+             :alt: Checkout at amazon.com
+             :align: middle
+             :target: http://amzn.to/2w9SIBH
           .. |gf910| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/1No4C8l
+          .. |gf910us| image:: _static/us.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
              :align: middle
@@ -118,6 +128,11 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/2oFRkzJ
+          .. |ttr3us| image:: _static/us.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2i28N6Z
           .. |ttsc| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -128,6 +143,86 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/20geAFd
+             
+          .. |pv800| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/1No5mKK
+          .. |pm430| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2hVn8BT
+          .. |pm400| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/1Q0Fnj6
+          .. |pm400us| image:: _static/us.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2vYjRHW
+          .. |pm600| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2oFSI57
+          .. |pm600us| image:: _static/us.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2uYk21j
+          .. |pm200| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2oFL0rI
+             
+             
+          .. |aspo| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/1Q0FLhv
+          .. |sam3| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target:  http://amzn.to/1IFatFc
+          .. |sasu| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2nGIXpX
+          .. |saa3p| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/2oFTHT5
+             
+          .. |e810| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/1RU1hW1
+          .. |e710s| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/20geNbn
+          .. |e510f| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/20geM7w
+          .. |e310| image:: _static/de.png
+             :scale: 100%
+             :alt: Auf Amazon.de anschauen
+             :align: middle
+             :target: http://amzn.to/1RU1F7b
+             
 
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
 | Producer                                  | Model                                                       | File Format           | Access to files    |
@@ -140,11 +235,11 @@ Abbreviations:
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 735XT |gf735| |gf735us|                      |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | GPS Forerunner 935XT |gf935|                                |                       | [UM]_ , [GC]_      |
+|                                           | GPS Forerunner 935XT |gf935| |gf935us|                      |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 920XT |gf920|                                |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | GPS Forerunner 910XT |gf910|                                |                       | [GC]_              |
+|                                           | GPS Forerunner 910XT |gf910| |gf910us|                      |                       | [GC]_              |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 630 |gf630|                                  |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
@@ -194,15 +289,15 @@ Abbreviations:
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | vivoactiveHR                                                |                       | [UM]_              |
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
-| Polar                                     | V800 `(Buy*) <http://amzn.to/1No5mKK>`__                    |                       | [PF]_, ?           |
+| Polar                                     | V800 |pv800|                                                |                       | [PF]_, ?           |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | M430 `(Buy*) <http://amzn.to/2hVn8BT>`__                    |                       | [PF]_, ?           |
+|                                           | M430 |pm430|                                                |                       | [PF]_, ?           |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`__                    |                       | [PF]_, ?           |
+|                                           | M400 |pm400| |pm400us|                                      |                       | [PF]_, ?           |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | M600 `(Buy*) <http://amzn.to/2oFSI57>`__                    |                       | [PF]_, ?           |
+|                                           | M600 |pm600| |pm600us|                                      |                       | [PF]_, ?           |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | M200 `(Buy*) <http://amzn.to/2oFL0rI>`__                    |                       | [PF]_, ?           |
+|                                           | M200 |pm200|                                                |                       | [PF]_, ?           |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | RS300X                                                      |                       | [PF]_, ?           |
 +                                           +-------------------------------------------------------------+                       +--------------------+
@@ -214,7 +309,7 @@ Abbreviations:
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | TomTom Runner 2 (Cardio) |ttr2|                             |                       | [TT]_              |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | TomTom Runner 3 (Cardio) |ttr3|                             |                       | [TT]_              |
+|                                           | TomTom Runner 3 (Cardio) |ttr3| |ttr3us|                    |                       | [TT]_              |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | TomTom Spark Cardio |ttsc|                                  |                       | [TT]_              |
 +                                           +-------------------------------------------------------------+                       +--------------------+
@@ -232,13 +327,13 @@ Abbreviations:
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
 | Brython                                   | Cardio 40                                                   | \*.tcx                | ?                  |
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
-| a-rival                                   | SpoQ 100 `(Buy*) <http://amzn.to/1Q0FLhv>`__                | \*.gpx, \*.tcx        | ?                  |
+| a-rival                                   | SpoQ 100 |aspo|                                             | \*.gpx, \*.tcx        | ?                  |
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
-| Suunto                                    | Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__                 | \*.sml, \*.fit        | ?                  |
+| Suunto                                    | Ambit 3 |sam3|                                              | \*.sml, \*.fit        | ?                  |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | Ambit Spartan Ultra  `(Buy*) <http://amzn.to/2nGIXpX>`__    |                       | ?                  |
+|                                           | Ambit Spartan Ultra  |sasu|                                 |                       | ?                  |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | Ambit Ambit 3 Peak `(Buy*) <http://amzn.to/2oFTHT5>`__      |                       | ?                  |
+|                                           | Ambit Ambit 3 Peak |saa3p|                                  |                       | ?                  |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | Ambit 2R                                                    |                       | ?                  |
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
@@ -246,13 +341,13 @@ Abbreviations:
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
 | Sigma                                     |                                                             | ?                     | ?                  |
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
-| Epson                                     | SF-810 `(Buy*) <http://amzn.to/1RU1hW1>`__                  | \*.gpx                | ?                  |
+| Epson                                     | SF-810 |e810|                                               | \*.gpx                | ?                  |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | SF-710S `(Buy*) <http://amzn.to/20geNbn>`__                 |                       | ?                  |
+|                                           | SF-710S |e710s|                                             |                       | ?                  |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | SF-510F `(Buy*) <http://amzn.to/20geM7w>`__                 |                       | ?                  |
+|                                           | SF-510F |e510f|                                             |                       | ?                  |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | SF-310 `(Buy*) <http://amzn.to/1RU1F7b>`__                  |                       | ?                  |
+|                                           | SF-310 |e310|                                               |                       | ?                  |
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
 | Wahoo fitness                             | all                                                         | \*.fit                | ?                  |
 +                                           +-------------------------------------------------------------+-----------------------+--------------------+
