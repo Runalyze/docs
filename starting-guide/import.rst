@@ -256,6 +256,10 @@ Please send us an example file if you think we are missing some data during the 
 
   .. note::
             Distances may be recalculated in some cases, when there are no distance information for gps datapoints.
+  
+  .. note::
+            If you need remove sections, combine files or fix corrupt times in FIT files then use the website _`Fit File Tools <https://www.fitfiletools.com/?=runalyze#/top>`_. 
+            
 
 +---------------------------------+--------+-----------+---------+---------+------------+----------+--------------+---------+---------+---------+---------+-------------+------------+------+
 | Type                            | FIT    | TCX/TTBIN | GPX     | PWX     | hrm & gpx  | Fitlog   | Logbook (3)  | kml/kmz | TRK     | sml     | slf     | xml(Suunto) | csv(Epson) | hrm  |
