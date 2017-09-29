@@ -27,7 +27,7 @@ Abbreviations:
           .. |gf5us| image:: _static/us.png
              :scale: 100 %
              :alt: Checkout at amazon.com
-             :target: http://amzn.to/2uCLVgd
+             :target: https://www.amazon.com/gp/product/B01N7J9APR?ie=UTF8&camp=213733&creative=393177&creativeASIN=B01N7J9APR&linkCode=shr&linkId=EH3XXJZZ2KGCH5DK&qid=1502635908&sr=8-1&keywords=garmin+fenix5
           .. |gf3| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -42,7 +42,7 @@ Abbreviations:
              :scale: 100%
              :alt: Checkout at amazon.com
              :align: middle
-             :target: http://amzn.to/2hWHryQ
+             :target: https://www.amazon.com/gp/product/B01DOJDPQY?ie=UTF8&camp=213733&creative=393177&creativeASIN=B01DOJDPQY&linkCode=shr&linkId=VVFIF4U3CIMJU3U6&s=wireless&qid=1502653625&sr=1-3&keywords=Forerunner+735XT
           .. |gf935| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -52,7 +52,7 @@ Abbreviations:
              :scale: 100%
              :alt: Checkout at amazon.com
              :align: middle
-             :target: http://amzn.to/2w9SIBH
+             :target: https://www.amazon.com/gp/product/B005SPCJ74?ie=UTF8&camp=213733&creative=393177&creativeASIN=B005SPCJ74&linkCode=shr&linkId=MBHREI5YHE5BWLR3&s=wireless&qid=1502803756&sr=1-1&keywords=garmin+910
           .. |gf910| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -60,9 +60,9 @@ Abbreviations:
              :target: http://amzn.to/1No4C8l
           .. |gf910us| image:: _static/us.png
              :scale: 100%
-             :alt: Auf Amazon.de anschauen
+             :alt: Checkout at amazon.com
              :align: middle
-             :target: http://amzn.to/1No4C8l
+             :target: https://www.amazon.de/gp/product/B00O44H2OA?ie=UTF8&camp=3206&creative=21426&creativeASIN=B00O44H2OA&linkCode=shr&tag=sportdealz-21&qid=1449065390&sr=8-3&keywords=910xt
           .. |gf920| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -130,9 +130,9 @@ Abbreviations:
              :target: http://amzn.to/2oFRkzJ
           .. |ttr3us| image:: _static/us.png
              :scale: 100%
-             :alt: Auf Amazon.de anschauen
+             :alt: Checkout at amazon.com
              :align: middle
-             :target: http://amzn.to/2i28N6Z
+             :target: https://www.amazon.com/gp/product/B01HZPJGRU?ie=UTF8&camp=213733&creative=393177&creativeASIN=B01HZPJGRU&linkCode=shr&linkId=X2LSPJHVKYYIMTWO&
           .. |ttsc| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -161,9 +161,9 @@ Abbreviations:
              :target: http://amzn.to/1Q0Fnj6
           .. |pm400us| image:: _static/us.png
              :scale: 100%
-             :alt: Auf Amazon.de anschauen
+             :alt: Checkout at amazon.com
              :align: middle
-             :target: http://amzn.to/2vYjRHW
+             :target: https://www.amazon.com/Polar-Smart-Sports-Fitness-Tracker/dp/B00NPZ7WUI/ref=as_li_ss_tl?s=wireless&ie=UTF8&qid=1502803859&sr=1-5&keywords=polar+v800&linkCode=sl1&linkId=015fe405d8737b922521fe93353ab6e1
           .. |pm600| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -171,9 +171,9 @@ Abbreviations:
              :target: http://amzn.to/2oFSI57
           .. |pm600us| image:: _static/us.png
              :scale: 100%
-             :alt: Auf Amazon.de anschauen
+             :alt: Checkout at amazon.com
              :align: middle
-             :target: http://amzn.to/2uYk21j
+             :target: https://www.amazon.com/Polar-Wrist-Based-PlayBetter-Charging-Adapter/dp/B06XGVG9DX/ref=as_li_ss_tl?s=wireless&ie=UTF8&qid=1502803912&sr=1-2-spons&keywords=polar+m600&psc=1&linkCode=sl1&linkId=43ba258ee55eeac0ca5c4511c6b5abbc
           .. |pm200| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -231,15 +231,17 @@ Abbreviations:
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | Fenix 3 |gf3|                                               |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | Fenix 1/2                                                   |                       | [UM]_ , [GC]_      |
+|                                           | Fenix   2                                                   |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
-|                                           | GPS Forerunner 735XT |gf735| |gf735us|                      |                       | [UM]_ , [GC]_      |
+|                                           | Fenix 1                                                     |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 935XT |gf935| |gf935us|                      |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 920XT |gf920|                                |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 910XT |gf910| |gf910us|                      |                       | [GC]_              |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | GPS Forerunner 735XT |gf735| |gf735us|                      |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 630 |gf630|                                  |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
@@ -271,11 +273,21 @@ Abbreviations:
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 70  |gf70|                                   |                       | [GC]_              |
 +                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | GPS Forerunner 60                                           |                       | [GC]_              |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | GPS Forerunner 50                                           |                       | [GC]_              |
++                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 25  |gf25|                                   |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 15 |gf15|                                    |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | GPS Forerunner 10 |gf10|                                    |                       | [UM]_ , [GC]_      |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | Edge 1030                                                   |                       | [UM]_ , [GC]_      |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | Edge 1000                                                   |                       | [UM]_ , [GC]_      |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | Edge 820                                                    |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | Edge 810                                                    |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
@@ -283,11 +295,21 @@ Abbreviations:
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | Edge 705                                                    |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | Edge 605                                                    |                       | [UM]_ , [GC]_      |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | Edge 520                                                    |                       | [UM]_ , [GC]_      |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | Edge 510                                                    |                       | [UM]_ , [GC]_      |
++                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | Edge 500                                                    |                       | [UM]_ , [GC]_      |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | Edge 305                                                    |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | vivoactive                                                  |                       | [UM]_ , [GC]_      |
 +                                           +-------------------------------------------------------------+                       +--------------------+
 |                                           | vivoactiveHR                                                |                       | [UM]_              |
++                                           +-------------------------------------------------------------+                       +--------------------+
+|                                           | swim                                                        |                       | [UM]_ , [GC]_      |
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
 | Polar                                     | V800 |pv800|                                                |                       | [PF]_, ?           |
 +                                           +-------------------------------------------------------------+                       +--------------------+
