@@ -101,3 +101,19 @@ This is maybe a bit confusing and we will change this behaviour in a later versi
 My activity does not show up in my race results
 -------------------------------------------------
 Every activity of any sport can be marked as a race by simply checking the respective checkbox. It is not enought to change the activity type to "race". :doc:`Read more <starting-guide/races>`.
+
+TRIMP calculation without heartrate
+-------------------------------------
+Average heart rate will be used as fallback for calculations like TRIMP if no heart rate data is available.
+
+
+Backup & Import
+****************
+
+Can I backup all my activity files?
+------------------------------------
+There is no bulk export in the moment, but we have this on our list.
+
+Can I import older RUNALYZE backups?
+-------------------------------------
+There is no way to import backups of older RUNALYZE version into newer versions.
