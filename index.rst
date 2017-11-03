@@ -26,6 +26,8 @@ Missing something in this help? Contribute at
    starting-guide/getting-started
    starting-guide/import
    starting-guide/races
+   activity-tools
+   tools
 
 .. toctree::
    :maxdepth: 1
