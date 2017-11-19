@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, RUNALYZE team
+# This file is distributed under the same license as the RUNALYZE - help
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RUNALYZE - help 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-02 18:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../supported-sensors.rst:3
+msgid "Supported sensors"
+msgstr ""
+
+#: ../../supported-sensors.rst:5
+msgid ""
+"As Garmin extended the FIT file format, external sensors can now write "
+"their own data into any FIT file. This allows third party devices to "
+"write data that's not part of the official FIT specification. In "
+"addition, sensors can write their own data for common fields (e.g. "
+"distance, heart rate, power, ...) without being connected as the "
+"respective sensor. Previously, Stryd was only able to record power data "
+"in cycling mode."
+msgstr ""
+
+#: ../../supported-sensors.rst:12
+msgid ""
+"We are trying to add all supported sensors to this list. Tell us if you "
+"know that we support further external sensors. - And, of course, provide "
+"us with sample files if your sensor is not supported but will definetly "
+"enhance the analysis."
+msgstr ""
+
+#: ../../supported-sensors.rst:18
+msgid ""
+"We will add further data fields to RUNALYZE in the future. Leave us a "
+"message if you are a sensor manufacturer, your sensor data is written to "
+"fit files and you are interested, that we add it to RUNALYZE."
+msgstr ""
+
+#: ../../supported-sensors.rst:23
+msgid "|SmO2| & THb"
+msgstr ""
+
+#: ../../supported-sensors.rst:25
+msgid "*starting from version 3.1*"
+msgstr ""
+
+#: ../../supported-sensors.rst:27
+msgid ""
+"|SmO2| (muscle tissue oxygen saturation) and THb (Total Hemoglobin "
+"concentration)"
+msgstr ""
+
+#: ../../supported-sensors.rst:29
+msgid ""
+"`Moxy Monitor <http://www.moxymonitor.com/>`_ `(Buy*) "
+"<http://www.moxymonitor.com/shop/?ref=14>`_"
+msgstr ""
+
+#: ../../supported-sensors.rst:30
+msgid ""
+"`BSX Insight <https://www.bsxinsight.com/>`_  `(Buy*) "
+"<https://www.bsxinsight.com/products>`_"
+msgstr ""
+

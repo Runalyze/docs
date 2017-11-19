@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, RUNALYZE team
+# Copyright (C) 2017, RUNALYZE team
 # This file is distributed under the same license as the RUNALYZE - help
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -461,10 +461,4 @@ msgstr ""
 #: ../../supported-devices.rst:145
 msgid "\\*.csv"
 msgstr ""
-
-#~ msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
-#~ msgstr ""
-
-#~ msgid "\\*.sml"
-#~ msgstr ""
 

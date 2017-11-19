@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, RUNALYZE team
+# Copyright (C) 2017, RUNALYZE team
 # This file is distributed under the same license as the RUNALYZE - help
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -161,35 +161,4 @@ msgstr ""
 #: ../../runalyze-testers.rst:52
 msgid "tell us at which time you tried it (we will look into our log files)."
 msgstr ""
-
-#~ msgid ""
-#~ "If you're a tester of the upcoming"
-#~ " RUNALYZE version we will copy your"
-#~ " data of your account at runalyze.com"
-#~ " to a temporary installation ats "
-#~ "vn.runalyze.com. We’ll provide a list of"
-#~ " all changes and things you definetly"
-#~ " should test. You can simply login"
-#~ " with your official account."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Outside of the test phase it will"
-#~ " happen that the version at "
-#~ "svn.runalyze.com won't work. We are just"
-#~ " updating the version during the test"
-#~ " phase."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Don't forget that we have to "
-#~ "delete all data of svn.runalyze.com "
-#~ "sometimes during and after the test "
-#~ "phase. Just use it for this exact"
-#~ " testing purpose - there won’t be "
-#~ "any synchronization back to the official"
-#~ " version at runalyze.com. Before each "
-#~ "test phase, we’ll just import your "
-#~ "‘real’ data from runalyze.com again."
-#~ msgstr ""
 

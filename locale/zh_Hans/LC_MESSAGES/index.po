@@ -1,18 +1,18 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, RUNALYZE team
+# Copyright (C) 2017, RUNALYZE team
 # This file is distributed under the same license as the RUNALYZE - help
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2017-06-07 14:12+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
-"Language-Team: Italian <https://translate.runalyze.com/projects/runalyze-"
-"help/index/it/>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,16 +35,4 @@ msgid ""
 " server costs of RUNALYZE. All affiliate links are marked with an "
 "asterisk (*)."
 msgstr ""
-
-#~ msgid "General"
-#~ msgstr "Generale"
-
-#~ msgid "Starting guide"
-#~ msgstr "Guida all'avvio"
-
-#~ msgid "Configuration"
-#~ msgstr "Configurazione"
-
-#~ msgid "Calculations"
-#~ msgstr "Calcoli"
 

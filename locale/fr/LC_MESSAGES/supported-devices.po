@@ -8,17 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-18 14:05+0100\n"
+"POT-Creation-Date: 2017-06-02 18:08+0200\n"
 "PO-Revision-Date: 2017-08-05 00:06+0000\n"
 "Last-Translator: nicolas ghysbrecht <kosnik@kanet.xyz>\n"
-"Language-Team: French <https://translate.runalyze.com/projects/runalyze-help"
-"/supported-devices/fr/>\n"
-"Language: fr\n"
+"Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
+"help/supported-devices/fr/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.15\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../supported-devices.rst:3
@@ -95,336 +92,379 @@ msgid "Garmin"
 msgstr "Garmin"
 
 #: ../../supported-devices.rst:25
-msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
+msgid "Fenix 5 `(Buy*) <http://amzn.to/2oFGjOQ>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:25 ../../supported-devices.rst:127
+#: ../../supported-devices.rst:25 ../../supported-devices.rst:143
 msgid "\\*.fit"
 msgstr ""
 
 #: ../../supported-devices.rst:25 ../../supported-devices.rst:27
-#: ../../supported-devices.rst:29 ../../supported-devices.rst:33
-#: ../../supported-devices.rst:35 ../../supported-devices.rst:53
-#: ../../supported-devices.rst:55 ../../supported-devices.rst:59
-#: ../../supported-devices.rst:63 ../../supported-devices.rst:65
-#: ../../supported-devices.rst:67 ../../supported-devices.rst:69
+#: ../../supported-devices.rst:29 ../../supported-devices.rst:31
+#: ../../supported-devices.rst:33 ../../supported-devices.rst:35
+#: ../../supported-devices.rst:39 ../../supported-devices.rst:41
+#: ../../supported-devices.rst:59 ../../supported-devices.rst:61
+#: ../../supported-devices.rst:65 ../../supported-devices.rst:69
 #: ../../supported-devices.rst:71 ../../supported-devices.rst:73
-#: ../../supported-devices.rst:75
+#: ../../supported-devices.rst:75 ../../supported-devices.rst:77
+#: ../../supported-devices.rst:79 ../../supported-devices.rst:81
 msgid "[UM]_ , [GC]_"
 msgstr ""
 
 #: ../../supported-devices.rst:27
-msgid "GPS Forerunner 735XT `(Buy*) <http://amzn.to/29vOfNp>`__"
+msgid "Fenix 3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:29
-msgid "GPS Forerunner 920XT `(Buy*) <http://amzn.to/1Q0EBCz>`__"
+msgid "Fenix 1/2"
 msgstr ""
 
 #: ../../supported-devices.rst:31
-msgid "GPS Forerunner 910XT `(Buy*) <http://amzn.to/1No4C8l>`__"
-msgstr ""
-
-#: ../../supported-devices.rst:31 ../../supported-devices.rst:37
-#: ../../supported-devices.rst:39 ../../supported-devices.rst:41
-#: ../../supported-devices.rst:43 ../../supported-devices.rst:45
-#: ../../supported-devices.rst:47 ../../supported-devices.rst:49
-#: ../../supported-devices.rst:51 ../../supported-devices.rst:57
-#: ../../supported-devices.rst:61
-msgid "[GC]_"
+msgid "GPS Forerunner 735XT `(Buy*) <http://amzn.to/29vOfNp>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:33
-msgid "GPS Forerunner 630 `(Buy*) <http://amzn.to/1Q0F9sm>`__"
+msgid "GPS Forerunner 935XT `(Buy*) <http://amzn.to/2oFHQVc>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:35
-msgid "GPS Forerunner 620 `(Buy*) <http://amzn.to/1No53zx>`__"
+msgid "GPS Forerunner 920XT `(Buy*) <http://amzn.to/1Q0EBCz>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:37
-msgid "GPS Forerunner 610 `(Buy*) <http://amzn.to/1Q0FV8t>`__"
+msgid "GPS Forerunner 910XT `(Buy*) <http://amzn.to/1No4C8l>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:37 ../../supported-devices.rst:43
+#: ../../supported-devices.rst:45 ../../supported-devices.rst:47
+#: ../../supported-devices.rst:49 ../../supported-devices.rst:51
+#: ../../supported-devices.rst:53 ../../supported-devices.rst:55
+#: ../../supported-devices.rst:57 ../../supported-devices.rst:63
+#: ../../supported-devices.rst:67
+msgid "[GC]_"
 msgstr ""
 
 #: ../../supported-devices.rst:39
-msgid "GPS Forerunner 410"
+msgid "GPS Forerunner 630 `(Buy*) <http://amzn.to/1Q0F9sm>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:41
-msgid "GPS Forerunner 405"
+msgid "GPS Forerunner 620 `(Buy*) <http://amzn.to/1No53zx>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:43
-msgid "GPS Forerunner 310XT"
+msgid "GPS Forerunner 610 `(Buy*) <http://amzn.to/1Q0FV8t>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:45
-msgid "GPS Forerunner 305"
+msgid "GPS Forerunner 410"
 msgstr ""
 
 #: ../../supported-devices.rst:47
-msgid "GPS Forerunner 235"
+msgid "GPS Forerunner 405"
 msgstr ""
 
 #: ../../supported-devices.rst:49
-msgid "GPS Forerunner 230"
+msgid "GPS Forerunner 310XT"
 msgstr ""
 
 #: ../../supported-devices.rst:51
-msgid "GPS Forerunner 225"
+msgid "GPS Forerunner 305"
 msgstr ""
 
 #: ../../supported-devices.rst:53
-msgid "GPS Forerunner 220"
+msgid "GPS Forerunner 235"
 msgstr ""
 
 #: ../../supported-devices.rst:55
-msgid "GPS Forerunner 210 `(Buy*) <http://amzn.to/1Q0FYRQ>`__"
+msgid "GPS Forerunner 230"
 msgstr ""
 
 #: ../../supported-devices.rst:57
-msgid "GPS Forerunner 205"
+msgid "GPS Forerunner 225"
 msgstr ""
 
 #: ../../supported-devices.rst:59
-msgid "GPS Forerunner 110 `(Buy*) <http://amzn.to/1Q0G0cz>`__"
+msgid "GPS Forerunner 220"
 msgstr ""
 
 #: ../../supported-devices.rst:61
-msgid "GPS Forerunner 70  `(Buy*) <http://amzn.to/1No7a6j>`__"
+msgid "GPS Forerunner 210 `(Buy*) <http://amzn.to/1Q0FYRQ>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:63
-msgid "GPS Forerunner 15 `(Buy*) <http://amzn.to/1Q0FRWk>`__"
+msgid "GPS Forerunner 205"
 msgstr ""
 
 #: ../../supported-devices.rst:65
-msgid "GPS Forerunner 10 `(Buy*) <http://amzn.to/1Q0FPOg>`__"
+msgid "GPS Forerunner 110 `(Buy*) <http://amzn.to/1Q0G0cz>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:67
-msgid "Edge 810"
+msgid "GPS Forerunner 70  `(Buy*) <http://amzn.to/1No7a6j>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:69
-msgid "Edge 800"
+msgid "GPS Forerunner 15 `(Buy*) <http://amzn.to/1Q0FRWk>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:71
-msgid "Edge 705"
+msgid "GPS Forerunner 10 `(Buy*) <http://amzn.to/1Q0FPOg>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:73
-msgid "Edge 500"
+msgid "Edge 810"
 msgstr ""
 
 #: ../../supported-devices.rst:75
-msgid "vivoactive"
+msgid "Edge 800"
 msgstr ""
 
 #: ../../supported-devices.rst:77
-msgid "vivoactiveHR"
-msgstr ""
-
-#: ../../supported-devices.rst:77
-msgid "[UM]_"
+msgid "Edge 705"
 msgstr ""
 
 #: ../../supported-devices.rst:79
-msgid "Polar"
-msgstr "Polar"
-
-#: ../../supported-devices.rst:79
-msgid "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
-msgstr ""
-
-#: ../../supported-devices.rst:79 ../../supported-devices.rst:81
-#: ../../supported-devices.rst:83 ../../supported-devices.rst:85
-#: ../../supported-devices.rst:87
-msgid "[PF]_, ?"
+msgid "Edge 500"
 msgstr ""
 
 #: ../../supported-devices.rst:81
-msgid "M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`__"
+msgid "vivoactive"
 msgstr ""
 
 #: ../../supported-devices.rst:83
-msgid "RS300X"
+msgid "vivoactiveHR"
+msgstr ""
+
+#: ../../supported-devices.rst:83
+msgid "[UM]_"
 msgstr ""
 
 #: ../../supported-devices.rst:85
-msgid "RS800CX"
+msgid "Polar"
+msgstr "Polar"
+
+#: ../../supported-devices.rst:85
+msgid "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:85 ../../supported-devices.rst:87
+#: ../../supported-devices.rst:89 ../../supported-devices.rst:91
+#: ../../supported-devices.rst:93 ../../supported-devices.rst:95
+#: ../../supported-devices.rst:97
+msgid "[PF]_, ?"
 msgstr ""
 
 #: ../../supported-devices.rst:87
-msgid "RC3 GPS"
+msgid "M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:89
-msgid "TomTom"
-msgstr ""
-
-#: ../../supported-devices.rst:89
-msgid "TomTom Runner (Cardio, Spark)  `(Buy*) <http://amzn.to/1Q0FueC>`__"
-msgstr ""
-
-#: ../../supported-devices.rst:89
-msgid "\\*.ttbin"
-msgstr ""
-
-#: ../../supported-devices.rst:89 ../../supported-devices.rst:91
-#: ../../supported-devices.rst:93 ../../supported-devices.rst:95
-msgid "[TT]_"
+msgid "M600 `(Buy*) <http://amzn.to/2oFSI57>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:91
-msgid "TomTom Runner 2 (Cardio) `(Buy*) <http://amzn.to/1No5tG7>`__"
+msgid "M200 `(Buy*) <http://amzn.to/2oFL0rI>`__"
 msgstr ""
 
 #: ../../supported-devices.rst:93
-msgid "TomTom Spark Cardio `(Buy*) <http://amzn.to/1RU19WD>`__"
+msgid "RS300X"
 msgstr ""
 
 #: ../../supported-devices.rst:95
+msgid "RS800CX"
+msgstr ""
+
+#: ../../supported-devices.rst:97
+msgid "RC3 GPS"
+msgstr ""
+
+#: ../../supported-devices.rst:99
+msgid "TomTom"
+msgstr ""
+
+#: ../../supported-devices.rst:99
+msgid "TomTom Runner (Cardio, Spark)  `(Buy*) <http://amzn.to/1Q0FueC>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:99
+msgid "\\*.ttbin"
+msgstr ""
+
+#: ../../supported-devices.rst:99 ../../supported-devices.rst:101
+#: ../../supported-devices.rst:103 ../../supported-devices.rst:105
+#: ../../supported-devices.rst:107
+msgid "[TT]_"
+msgstr ""
+
+#: ../../supported-devices.rst:101
+msgid "TomTom Runner 2 (Cardio) `(Buy*) <http://amzn.to/1No5tG7>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:103
+msgid "TomTom Runner 3 (Cardio) `(Buy*) <http://amzn.to/2oFRkzJ>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:105
+msgid "TomTom Spark Cardio `(Buy*) <http://amzn.to/1RU19WD>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:107
 msgid "TomTom Multi-Sport `(Buy*) <http://amzn.to/20geAFd>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:97
+#: ../../supported-devices.rst:109
 msgid "Twonav"
 msgstr ""
 
-#: ../../supported-devices.rst:97
+#: ../../supported-devices.rst:109
 msgid "Ultra"
 msgstr ""
 
-#: ../../supported-devices.rst:97 ../../supported-devices.rst:103
+#: ../../supported-devices.rst:109 ../../supported-devices.rst:115
 msgid "\\*.trk"
 msgstr ""
 
-#: ../../supported-devices.rst:97 ../../supported-devices.rst:99
-#: ../../supported-devices.rst:101 ../../supported-devices.rst:103
-#: ../../supported-devices.rst:105 ../../supported-devices.rst:107
 #: ../../supported-devices.rst:109 ../../supported-devices.rst:111
 #: ../../supported-devices.rst:113 ../../supported-devices.rst:115
 #: ../../supported-devices.rst:117 ../../supported-devices.rst:119
 #: ../../supported-devices.rst:121 ../../supported-devices.rst:123
 #: ../../supported-devices.rst:125 ../../supported-devices.rst:127
-#: ../../supported-devices.rst:129
+#: ../../supported-devices.rst:129 ../../supported-devices.rst:131
+#: ../../supported-devices.rst:133 ../../supported-devices.rst:135
+#: ../../supported-devices.rst:137 ../../supported-devices.rst:139
+#: ../../supported-devices.rst:141 ../../supported-devices.rst:143
+#: ../../supported-devices.rst:145
 msgid "?"
 msgstr ""
 
-#: ../../supported-devices.rst:99
+#: ../../supported-devices.rst:111
 msgid "Adventura"
 msgstr ""
 
-#: ../../supported-devices.rst:101
+#: ../../supported-devices.rst:113
 msgid "Sportiva2"
 msgstr ""
 
-#: ../../supported-devices.rst:103
+#: ../../supported-devices.rst:115
 msgid "o-synce"
 msgstr ""
 
-#: ../../supported-devices.rst:103
+#: ../../supported-devices.rst:115
 msgid "navi2coach"
 msgstr ""
 
-#: ../../supported-devices.rst:105
+#: ../../supported-devices.rst:117
 msgid "navi2move"
 msgstr ""
 
-#: ../../supported-devices.rst:107
+#: ../../supported-devices.rst:119
 msgid "Brython"
 msgstr ""
 
-#: ../../supported-devices.rst:107
+#: ../../supported-devices.rst:119
 msgid "Cardio 40"
 msgstr ""
 
-#: ../../supported-devices.rst:107
+#: ../../supported-devices.rst:119
 msgid "\\*.tcx"
 msgstr ""
 
-#: ../../supported-devices.rst:109
+#: ../../supported-devices.rst:121
 msgid "a-rival"
 msgstr ""
 
-#: ../../supported-devices.rst:109
+#: ../../supported-devices.rst:121
 msgid "SpoQ 100 `(Buy*) <http://amzn.to/1Q0FLhv>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:109
+#: ../../supported-devices.rst:121
 msgid "\\*.gpx, \\*.tcx"
 msgstr ""
 
-#: ../../supported-devices.rst:111
+#: ../../supported-devices.rst:123
 msgid "Suunto"
 msgstr ""
 
-#: ../../supported-devices.rst:111
+#: ../../supported-devices.rst:123
 msgid "Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:111
-msgid "\\*.sml"
-msgstr ""
-
-#: ../../supported-devices.rst:113
-msgid "Ambit 2R"
-msgstr ""
-
-#: ../../supported-devices.rst:115
-msgid "Timex"
-msgstr ""
-
-#: ../../supported-devices.rst:115
-msgid "Run Trainer 2.0"
-msgstr ""
-
-#: ../../supported-devices.rst:115
-msgid "\\*.fit (\\*.pwx)"
-msgstr ""
-
-#: ../../supported-devices.rst:117
-msgid "Sigma"
-msgstr ""
-
-#: ../../supported-devices.rst:119
-msgid "Epson"
-msgstr ""
-
-#: ../../supported-devices.rst:119
-msgid "SF-810 `(Buy*) <http://amzn.to/1RU1hW1>`__"
-msgstr ""
-
-#: ../../supported-devices.rst:119
-msgid "\\*.gpx"
-msgstr ""
-
-#: ../../supported-devices.rst:121
-msgid "SF-710S `(Buy*) <http://amzn.to/20geNbn>`__"
-msgstr ""
-
 #: ../../supported-devices.rst:123
-msgid "SF-510F `(Buy*) <http://amzn.to/20geM7w>`__"
+msgid "\\*.sml, \\*.fit"
 msgstr ""
 
 #: ../../supported-devices.rst:125
+msgid "Ambit Spartan Ultra  `(Buy*) <http://amzn.to/2nGIXpX>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:127
+msgid "Ambit Ambit 3 Peak `(Buy*) <http://amzn.to/2oFTHT5 >`__"
+msgstr ""
+
+#: ../../supported-devices.rst:129
+msgid "Ambit 2R"
+msgstr ""
+
+#: ../../supported-devices.rst:131
+msgid "Timex"
+msgstr ""
+
+#: ../../supported-devices.rst:131
+msgid "Run Trainer 2.0"
+msgstr ""
+
+#: ../../supported-devices.rst:131
+msgid "\\*.fit (\\*.pwx)"
+msgstr ""
+
+#: ../../supported-devices.rst:133
+msgid "Sigma"
+msgstr ""
+
+#: ../../supported-devices.rst:135
+msgid "Epson"
+msgstr ""
+
+#: ../../supported-devices.rst:135
+msgid "SF-810 `(Buy*) <http://amzn.to/1RU1hW1>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:135
+msgid "\\*.gpx"
+msgstr ""
+
+#: ../../supported-devices.rst:137
+msgid "SF-710S `(Buy*) <http://amzn.to/20geNbn>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:139
+msgid "SF-510F `(Buy*) <http://amzn.to/20geM7w>`__"
+msgstr ""
+
+#: ../../supported-devices.rst:141
 msgid "SF-310 `(Buy*) <http://amzn.to/1RU1F7b>`__"
 msgstr ""
 
-#: ../../supported-devices.rst:127
+#: ../../supported-devices.rst:143
 msgid "Wahoo fitness"
 msgstr ""
 
-#: ../../supported-devices.rst:127
+#: ../../supported-devices.rst:143
 msgid "all"
 msgstr ""
 
-#: ../../supported-devices.rst:129
+#: ../../supported-devices.rst:145
 msgid "Tickr"
 msgstr ""
 
-#: ../../supported-devices.rst:129
+#: ../../supported-devices.rst:145
 msgid "\\*.csv"
 msgstr "\\*.csv"
+
+#~ msgid "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
+#~ msgstr ""
+
+#~ msgid "\\*.sml"
+#~ msgstr ""
+

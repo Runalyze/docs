@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, RUNALYZE team
+# Copyright (C) 2017, RUNALYZE team
 # This file is distributed under the same license as the RUNALYZE - help
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -210,11 +210,4 @@ msgid ""
 "(english & german). Make sure first whether your question has been "
 "answered already or is part of our documentation."
 msgstr ""
-
-#~ msgid ""
-#~ "Take a look at ` the badges "
-#~ "<https://blog.runalyze.com/de/share/>`_ to share "
-#~ "your athlete page on your blog or"
-#~ " forum signature."
-#~ msgstr ""
 
