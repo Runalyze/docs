@@ -17,7 +17,11 @@ treated as 10k race if and only if the official distance is entered as
 marathons (*42.20 km*).
 
 .. note::
-    From v2.6 on, races are independent of the activity type and sport type. By
-    default, RUNALYZE comes with an activity type for races. Choosing this type
+    RUNALYZE comes with an activity type for races. Choosing this type
     for an activity does *not* mark it automatically as official race (as this
     activity type is not fixed and can be renamed or enitrely removed).
+
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xl64w0qJ6Io?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
