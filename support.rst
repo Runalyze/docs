@@ -35,5 +35,4 @@ Report a bug
 ------------
  * `RUNALYZE Facebook Community <https://www.facebook.com/groups/147643142510947>`_: Questions are public to everyone, so that everyone can see the answer
  * `Forum <https://forum.runalyze.com>`_: Questions are public to everyone, so that everyone can see the answer
- * `Github <https://github.com/Runalyze/Runalyze/issues/new>`_: Create a new issue at GitHub if think you discovered a bug.
  * `mail@runalyze.com <mailto:mail@runalyze.com>`_: We use a ticket system with automatic integration to our Slack channel - just send an email if you want to share something with us privately.

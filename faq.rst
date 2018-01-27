@@ -2,7 +2,7 @@
 Frequently Asked Questions
 ==========================
 
-If you have a concrete concept for a new feature, don't hesitate to submit and discuss your idea at our `Forum <https://forum.runalyze.com>`_ or at `GitHub <https://github.com/Runalyze/Runalyze/issues/new>`_.
+If you have a concrete concept for a new feature, don't hesitate to submit and discuss your idea at our `Forum <https://forum.runalyze.com>`_.
 This is the best place to discuss ideas and future features with other users and developers.
 
 Please keep in mind that RUNALYZE is an open source project, at present based mainly on two developers offering their free time for this tool.

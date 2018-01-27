@@ -1,9 +1,7 @@
 Welcome to RUNALYZE - User documentation!
 =========================================================
 
-Missing something in this help? Contribute at
-`Github <https://github.com/Runalyze/docs>`_ or
-`open an issue about what’s missing <https://github.com/Runalyze/docs/issues/new>`_.
+Missing something in this help? Send us a mail to mail@runalyze.com.
 
 .. toctree::
    :maxdepth: 1

@@ -7,8 +7,6 @@ If your watch/device is not in this table does not mean we don't support it.
 
 Just send us a message with information about your device and in which way you can upload the data to RUNALYZE.
 
-Or you can directly contribute or create an issue for this page on `github <https://github.com/Runalyze/docs/issues>`_.
-
 Abbreviations:
 
 .. [UM] Get the file via usb mass storage
