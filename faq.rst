@@ -5,11 +5,6 @@ Frequently Asked Questions
 If you have a concrete concept for a new feature, don't hesitate to submit and discuss your idea at our `Forum <https://forum.runalyze.com>`_.
 This is the best place to discuss ideas and future features with other users and developers.
 
-Please keep in mind that RUNALYZE is an open source project, at present based mainly on two developers offering their free time for this tool.
-
-.. note:: Annoyed by phrases like *some day* and *probably*?
-    Strengthen our team (development, design, communication, pr, docs, ...) to speed up development.
-
 .. contents:: :local:
 
 General questions
@@ -18,7 +13,7 @@ General questions
 Will there be a synchronisation with other platforms?
 --------------------------------------------------------
 Yes, definitely! Our first concern is providing an API to work with `tapiriik <https://tapiriik.com/>`_.
-Still, there are some months of work waiting for us until this is realizable. With every new release we are getting closer to this feature. Current schedule for this feature is in late 2017.
+Still, there are some months of work waiting for us until this is realizable. With every new release we are getting closer to this feature. Current schedule for this feature is in Q2/Q3 2018.
 
 Will there be an app for smartphones?
 --------------------------------------
@@ -74,10 +69,6 @@ The file import seems buggy? Incorrect values?
 Send us an email with your sample file and a detailed description of what your expected results.
 We'll have a look at your issue and will try to fix it.
 
-TTBIN file - Cannot import swim file
--------------------------------------
-TTBIN file format - We are using at third-party component to convert the ttbin files. Unfortunately `swim <https://github.com/ryanbinns/ttwatch/issues/62>`_ activities cannot be imported in the moment. Please checkout the linked issues and help us!
-
 FIT file - Swim heartrate isn't imported
 ------------------------------------------
 FIT file format - Heartrate from swim fit files cannot be saved in the moment (`Issue #1498 <https://github.com/Runalyze/Runalyze/issues/1498>`_)
@@ -87,16 +78,8 @@ The file type \*.XYZ is not supported
 --------------------------------------
 Just send us an email with some sample files and we'll have a look at this.
 
-Negative time step at index x
--------------------------------
-There are some apps and devices which produces malformed files. In this case they contain negative time jumps, which we cannot process in the moment.
-
 Activities
 ************
-
-Power graph/Power data seems to be wrong
-------------------------------------------
-This is maybe a bit confusing and we will change this behaviour in a later version. To import the power from your files you should disable the manual power calculation in your configuration (Activity form -> Calculate power)
 
 My activity does not show up in my race results
 -------------------------------------------------
@@ -114,6 +97,3 @@ Can I backup all my activity files?
 ------------------------------------
 There is no bulk export in the moment, but we have this on our list.
 
-Can I import older RUNALYZE backups?
--------------------------------------
-There is no way to import backups of older RUNALYZE version into newer versions.
