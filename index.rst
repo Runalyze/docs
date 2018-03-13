@@ -7,7 +7,6 @@ Missing something in this help? Send us a mail to mail@runalyze.com.
    :maxdepth: 1
    :caption: General
 
-   faq
    features
    support
    translation
@@ -16,6 +15,13 @@ Missing something in this help? Send us a mail to mail@runalyze.com.
    supported-sensors
    runalyze-testers
 
+.. toctree::
+   :maxdepth: 1
+   :caption: FAQ
+   faq/general
+   faq/fileimport
+   faq/calculation
+   faq/frf
 
 .. toctree::
    :maxdepth: 1
