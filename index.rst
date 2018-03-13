@@ -18,6 +18,7 @@ Missing something in this help? Send us a mail to mail@runalyze.com.
 .. toctree::
    :maxdepth: 1
    :caption: FAQ
+
    faq/general
    faq/fileimport
    faq/calculation
