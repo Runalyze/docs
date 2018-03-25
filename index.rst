@@ -19,6 +19,7 @@ Missing something in this help? Send us a mail to mail@runalyze.com.
    :maxdepth: 1
    :caption: FAQ
 
+   faq/roadmap
    faq/general
    faq/fileimport
    faq/calculation
