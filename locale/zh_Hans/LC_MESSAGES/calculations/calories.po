@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2018-03-29 05:56+0000\n"
+"PO-Revision-Date: 2018-03-29 06:00+0000\n"
 "Last-Translator: GAOFENGLI <golfli@live.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.runalyze.com/projects/"
 "runalyze-help/calories/zh_Hans/>\n"
@@ -27,7 +27,7 @@ msgstr "卡路里"
 
 #: ../../calculations/calories.rst:6
 msgid "How many calories did I burn?"
-msgstr "我消耗多少卡路里"
+msgstr "我消耗多少卡路里?"
 
 #: ../../calculations/calories.rst:7
 msgid ""
@@ -40,6 +40,8 @@ msgid ""
 "burned calories are calculated by simply multiplying the activity's "
 "duration by your sports setting *kilocalories per hour*."
 msgstr ""
+"想要在跑步,骑行,或者其他运动要精确计算消耗多少卡路里并不是一件容易的事情,我们不会太专注在这方面,然后,RUNALYZE会根据上传资料所提供的数据直接呈"
+"现,除非你在上传文件配置管理中勾选了计算卡路里的选项.在这列情况下,消耗的卡路里会根据上传运动文件的每小时公里数和时间进行简单的计算."
 
 #: ../../calculations/calories.rst:16
 msgid ""
@@ -48,3 +50,5 @@ msgid ""
 "formula for calculating burned calories. Feel free to leave a +1 or "
 "contribute."
 msgstr ""
+"目前我们仍有一些系统问题在<https://github.com/Runalyze/Runalyze/issues/"
+"1090>关于更好的计算消耗卡路里,请帮忙提供优化建议."
