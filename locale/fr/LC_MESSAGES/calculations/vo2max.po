@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: 2018-04-23 11:53+0000\n"
+"PO-Revision-Date: 2018-04-23 12:00+0000\n"
 "Last-Translator: Badiss <badiss.guedacha@gmail.com>\n"
 "Language-Team: French <https://translate.runalyze.com/projects/runalyze-help/"
 "vo2max/fr/>\n"
@@ -23,11 +23,11 @@ msgstr ""
 
 #: ../../calculations/vo2max.rst:3
 msgid "|VO2max|"
-msgstr ""
+msgstr "|VO2Max|"
 
 #: ../../calculations/vo2max.rst:6
 msgid "|VO2max| in RUNALYZE"
-msgstr ""
+msgstr "|VO2max| dans RUNALYZE"
 
 #: ../../calculations/vo2max.rst:10
 msgid ""
@@ -112,7 +112,7 @@ msgstr ""
 
 #: ../../calculations/vo2max.rst:66
 msgid "Manual correction factor"
-msgstr "Facteur de correction manuelle"
+msgstr "Facteur de correction manuel"
 
 #: ../../calculations/vo2max.rst:67
 msgid ""
