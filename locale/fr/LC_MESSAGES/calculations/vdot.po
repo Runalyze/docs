@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: 2017-07-18 08:13+0000\n"
-"Last-Translator: 1V14713 6#4V1! <mathieu.gravil@gmail.com>\n"
-"Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
-"help/vdot/fr/>\n"
+"PO-Revision-Date: 2018-04-23 11:53+0000\n"
+"Last-Translator: Badiss <badiss.guedacha@gmail.com>\n"
+"Language-Team: French <https://translate.runalyze.com/projects/runalyze-help/"
+"vdot/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.20-dev\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/vdot.rst:3
@@ -90,6 +90,8 @@ msgstr ""
 #: ../../calculations/vdot.rst:29
 msgid "In general, we suggest a correction factor between 0.85 and 0.95."
 msgstr ""
+"En général, nous suggérons un facteur de correction compris entre 0.85 et "
+"0.95."
 
 #: ../../calculations/vdot.rst:33
 msgid "General"
@@ -113,6 +115,12 @@ msgid ""
 "each of your runs. The average over a given period is considered as your "
 "current shape."
 msgstr ""
+"Le célèbre livre de Jack Daniel `Running Formula* <http://amzn.to/1GnAv43>` "
+"contient des tables d’estimation de la VDOT. Ces formules sont utilisées "
+"pour estimer votre VDOT et pour prédire vos performances en compétition. La "
+"valeur de votre VDOT est estimée en se basant sur le rapport entre votre "
+"fréquence cardiaque et votre allure pour chaque sortie. La moyenne sur une "
+"période est considérée comme votre forme actuelle."
 
 #: ../../calculations/vdot.rst:42
 msgid ""
@@ -120,14 +128,17 @@ msgid ""
 "show if this value is (much) higher than your current shape, equal to it "
 "or (much) lower."
 msgstr ""
+"Chaque valeur de VDOT d’une activité dans RUNALYSE est marquée avec une "
+"flèche pour montrer si cette valeur est (très) supérieure, égale ou (très) "
+"inférieure à votre forme actuelle."
 
 #: ../../calculations/vdot.rst:45
 msgid "VDOT settings"
-msgstr ""
+msgstr "Paramètres VDOT"
 
 #: ../../calculations/vdot.rst:51
 msgid "Manual correction factor"
-msgstr ""
+msgstr "Facteur de correction manuelle"
 
 #: ../../calculations/vdot.rst:52
 msgid ""
@@ -150,7 +161,7 @@ msgstr ""
 
 #: ../../calculations/vdot.rst:60
 msgid "Further readings and tools"
-msgstr ""
+msgstr "Autres lectures et outils"
 
 #: ../../calculations/vdot.rst:62
 msgid ""
