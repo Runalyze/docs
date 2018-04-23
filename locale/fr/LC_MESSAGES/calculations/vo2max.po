@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: 2017-07-16 07:14+0000\n"
-"Last-Translator: 1V14713 6#4V1! <mathieu.gravil@gmail.com>\n"
-"Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
-"help/vo2max/fr/>\n"
+"PO-Revision-Date: 2018-04-23 11:53+0000\n"
+"Last-Translator: Badiss <badiss.guedacha@gmail.com>\n"
+"Language-Team: French <https://translate.runalyze.com/projects/runalyze-help/"
+"vo2max/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.20-dev\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/vo2max.rst:3
@@ -80,6 +80,8 @@ msgstr ""
 #: ../../calculations/vo2max.rst:40
 msgid "In general, we suggest a correction factor between 0.85 and 0.95."
 msgstr ""
+"En général, nous suggérons un facteur de correction compris entre 0.85 et "
+"0.95."
 
 #: ../../calculations/vo2max.rst:44
 msgid "General"
@@ -110,7 +112,7 @@ msgstr ""
 
 #: ../../calculations/vo2max.rst:66
 msgid "Manual correction factor"
-msgstr ""
+msgstr "Facteur de correction manuelle"
 
 #: ../../calculations/vo2max.rst:67
 msgid ""
@@ -133,7 +135,7 @@ msgstr ""
 
 #: ../../calculations/vo2max.rst:80
 msgid "Further readings and tools"
-msgstr ""
+msgstr "Autres lectures et outils"
 
 #: ../../calculations/vo2max.rst:82
 msgid "`Fellrnr about VO2max <http://fellrnr.com/wiki/VO2max>`_"
