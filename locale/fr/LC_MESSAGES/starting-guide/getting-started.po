@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-05-01 15:37+0000\n"
+"Last-Translator: JB Bailly <jean.baptiste.bailly@gmail.com>\n"
+"Language-Team: French <https://translate.runalyze.com/projects/runalyze-help/"
+"getting-started/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.20-dev\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/getting-started.rst:3
 msgid "Getting started"
-msgstr ""
+msgstr "Premiers pas"
 
 #: ../../starting-guide/getting-started.rst:5
 msgid ""
@@ -217,4 +220,3 @@ msgstr ""
 #~ "your athlete page on your blog or"
 #~ " forum signature."
 #~ msgstr ""
-
