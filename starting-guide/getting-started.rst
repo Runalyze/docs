@@ -4,8 +4,7 @@ Getting started
 
 We are very happy that you joined RUNALYZE!
 We are a small team (`Hannes <https://blog.runalyze.com/team/hannes/>`_,
-`Michael <https://blog.runalyze.com/team/michael/>`_ and
-`Neele <https://blog.runalyze.com/team/neele/>`_), working on RUNALYZE only
+`Michael <https://blog.runalyze.com/team/michael/>`_  working on RUNALYZE only
 during leisure time. We still try to improve RUNALYZE as much as possible and
 adapt it to your needs every day.
 

@@ -3,9 +3,19 @@ Supported devices
 ==================
 
 In general we support almost all possible devices in various ways (except some very exotic ones).
-If your watch/device is not in this table does not mean we don't support it.
+
+If your watch is not listed on the following pages, it does not mean that we do not support it. As long as you can export a supported file format (mostly it will be a tcx, fit or gpx file) from the clock or a device, you can import it into Runalyze.
 
 Just send us a message with information about your device and in which way you can upload the data to RUNALYZE.
+
+What kind of device do you have?
+
+* :doc:`/import/devices/apple`
+* :doc:`/import/devices/garmin`
+* :doc:`/import/devices/polar`
+* :doc:`/import/devices/suunto`
+* :doc:`/import/devices/tomtom`
+
 
 Abbreviations:
 
@@ -141,7 +151,7 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/20geAFd
-             
+
           .. |pv800| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -177,8 +187,8 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/2oFL0rI
-             
-             
+
+
           .. |aspo| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -199,7 +209,7 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/2oFTHT5
-             
+
           .. |e810| image:: _static/de.png
              :scale: 100%
              :alt: Auf Amazon.de anschauen
@@ -220,7 +230,7 @@ Abbreviations:
              :alt: Auf Amazon.de anschauen
              :align: middle
              :target: http://amzn.to/1RU1F7b
-             
+
 
 +-------------------------------------------+-------------------------------------------------------------+-----------------------+--------------------+
 | Producer                                  | Model                                                       | File Format           | Access to files    |

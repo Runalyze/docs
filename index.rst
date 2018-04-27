@@ -12,8 +12,20 @@ Missing something in this help? Send us a mail to mail@runalyze.com.
    translation
    knowledge-base
    supported-devices
+   supported-apps
    supported-sensors
    runalyze-testers
+
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Starting guide
+
+  starting-guide/getting-started
+  starting-guide/import
+  starting-guide/races
+  activity-tools
+  tools
 
 .. toctree::
    :maxdepth: 1
@@ -24,16 +36,6 @@ Missing something in this help? Send us a mail to mail@runalyze.com.
    faq/fileimport
    faq/calculation
    faq/frf
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Starting guide
-
-   starting-guide/getting-started
-   starting-guide/import
-   starting-guide/races
-   activity-tools
-   tools
 
 .. toctree::
    :maxdepth: 1

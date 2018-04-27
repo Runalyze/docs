@@ -12,15 +12,15 @@ We need to do some prework before we can develop on this as we expect higher usa
 We also need to pay a 5000$ one-time fee to Garmin to access their API. You can support this part by buying a shirt at `shop.runalyze.com <https://shop.runalyze.com>`_ or supporting us at `paypal <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=97LV7VEAG4KK6>`_
 
 
-RUNALYZE API
----------------
-
-The first part of the API will be limited to upload activities to RUNALYZE by apps like RunnerUP and similiar.
-
 HR/Power zones
 ----------------
 
 Long promised and not yet implemented. The possibility to set the different zones yourself.
 
-...
-TBC
+
+Done
+=======
+RUNALYZE API
+---------------
+The first part of the API will be limited to upload activities to RUNALYZE by apps like RunnerUP and similiar.
+See the full list of supported apps directly in RUNALYZE (Username menu->Apps)
