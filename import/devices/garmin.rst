@@ -4,7 +4,9 @@ Garmin
 
 Direct sync with Garmin
 ========================
-Our current development focus is the direct synchronization with garmin connect. However, we recommend that you continue to import your activities manually, as Garmin's interface only allows us to import the last thirty days of activities (and of course any new activities).
+
+The easiest way is to connect your Garmin account directly within RUNALYZE. Just click on the "Automatic Sync" button next to "Add workout" and connect your account with Garmin. If your RUNALYZE account is connected to Garmin, all future activities and those of the last 30 days will be transferred. To start the initial sync you need to track at least one new activity at Garmin. Afterwards Garmin will send us the last 30 days of activities. This can take some time (hours up to one day).
+
 
 Garmin Connect
 --------------
