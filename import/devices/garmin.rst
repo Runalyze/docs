@@ -20,7 +20,7 @@ We do not support the import of the "activities" csv file you can download on th
 **How to download all activites via script**
 
 You need to be a bit technique affin for this. Python and the python package `mechanize` must be installed on your system.
-Now you need to `download the script at <https://github.com/kjkjava/garmin-connect-export>`_.
+Now you need to `download the script at <https://github.com/JohannesHeinrich/garmin-connect-export>`_.
 Execute the `download.py` script::
 
     python gcexport.py -d activities -c all -f original -u --username <Username> --password <Password>
