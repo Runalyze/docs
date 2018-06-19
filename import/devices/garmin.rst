@@ -16,10 +16,15 @@ Garmin Connect
 If you want to download individual activities make sure you download the "original" file. That's a zip file which contains a fit file. You can just take the zip file as we support the import of zip files.
 We do not support the import of the "activities" csv file you can download on the general activity page as it only contains average values. These values does not make sense when you want to you the prognosis and calculation features in RUNALYZE.
 
+**Bulk download**
+
+Garmin provides an option to download all your data you have ever provided to Garmin Connect. Just go to `Garmin Datamanagement <https://www.garmin.com/en-US/account/datamanagement/exportdata/>`_ and request your files. You will receive a mail with a download link shortly.
+In the folder "DI_CONNECT"-> "DI-Connect-Fitness" you will find one or multiple zip files (beginning with "UploaedFiles").
+Just extract that archive and upload that files to runalyze
+
 
 **How to download all activites via script**
-
-You need to be a bit technique affin for this. Python and the python package `mechanize` must be installed on your system.
+You need to be a bit more technique affin for this. Python and the python package `mechanize` must be installed on your system.
 Now you need to `download the script at <https://github.com/JohannesHeinrich/garmin-connect-export>`_.
 Execute the `download.py` script::
 
