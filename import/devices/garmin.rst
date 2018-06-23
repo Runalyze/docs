@@ -22,6 +22,10 @@ Garmin provides an option to download all your data you have ever provided to Ga
 In the folder "DI_CONNECT"-> "DI-Connect-Fitness" you will find one or multiple zip files (beginning with "UploaedFiles").
 Just extract that archive and upload that files to runalyze
 
+.. note::
+    You can write a support message to mail@runalyze.com with an attached backup of your files. We will import them into your account. Don't forget to mention your username.
+
+
 
 **How to download all activites via script**
 You need to be a bit more technique affin for this. Python and the python package `mechanize` must be installed on your system.

@@ -5,8 +5,14 @@ Polar
 Direct sync with Polar
 ========================
 
-We have this feature on our list and we know that this is very important for ever user who owns a polar device
+We are working on it!
 
+Data export powered by Polar
+==============================
+At `Polar account management <https://account.polar.com/#export>`_ you will be able to export all your data (this feature is planned by Polar - we don't know when they go live with that feature)
+
+.. note::
+    You can write a support message to mail@runalyze.com with an attached backup of your files. We will import them into your account. Don't forget to mention your username.
 
 
 Third Party Software
