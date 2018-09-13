@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2017-01-18 23:20+0000\n"
-"Last-Translator: Alessandro <ruggiero.alessandro93@gmail.com>\n"
-"Language-Team: Italian <https://translate.runalyze.com/projects/runalyze-"
-"help/import/it/>\n"
+"PO-Revision-Date: 2018-09-17 01:07+0000\n"
+"Last-Translator: Renato Spinelli <renato.spinelli80@gmail.com>\n"
+"Language-Team: Italian <http://translate.runalyze.com/projects/runalyze-help/"
+"import/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
@@ -616,7 +619,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:302
 msgid "HRV"
-msgstr ""
+msgstr "HRV"
 
 #: ../../starting-guide/import.rst:304
 msgid "FIT details [#fitdetails]_"
@@ -661,4 +664,3 @@ msgstr ""
 
 #~ msgid ""
 #~ msgstr ""
-
