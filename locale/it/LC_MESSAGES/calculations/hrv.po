@@ -4,27 +4,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-17 01:09+0000\n"
+"Last-Translator: Renato Spinelli <renato.spinelli80@gmail.com>\n"
+"Language-Team: Italian <http://translate.runalyze.com/projects/runalyze-help/"
+"hrv/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/hrv.rst:3
 msgid "HRV"
-msgstr ""
+msgstr "HRV"
 
 #: ../../calculations/hrv.rst:6
 msgid "Heart rate variability"
-msgstr ""
+msgstr "Heart rate variability"
 
 #: ../../calculations/hrv.rst:7
 msgid ""
@@ -34,10 +37,15 @@ msgid ""
 "related to the body's interdependent regulatory systems and can be a "
 "powerful measure for an athlete's recovery status."
 msgstr ""
+"La variabilità del battito cardiaco (HRV) è il fenomeno fisiologico di "
+"variazione nella durata dell'intervallo tra i battiti cardiaci ed è misurato "
+"dalla variazione dell'intervallo tra battito e battito. E' riconosciuto che "
+"la HRV è direttamente correlata al sistema regolatorio autonomo del corpo e "
+"può essere un efficace misura per lo stato di riposo di un atleta."
 
 #: ../../calculations/hrv.rst:11
 msgid "HRV during exercise"
-msgstr ""
+msgstr "HRV durante l'esercizio"
 
 #: ../../calculations/hrv.rst:13
 msgid ""
@@ -47,20 +55,28 @@ msgid ""
 "to Runalyze. Instead, you go out for a run or a ride and measure your "
 "heart rate (and its variability) during exercise."
 msgstr ""
+"E' buona norma misurare la variabilità del battito cardiaco alla stessa ora "
+"del giorno, ad esempio ogni mattina appena svegliati quando si è ancora a "
+"letto. Sfortunatamente ciò non è quello che è contenuto in tutti i dati che "
+"sono caricati su Runalyze. All'opposto, molti fanno una corsa o un giro in "
+"bici e misurano il loro battito cardiaco (e la relativa variabilità) durante "
+"l'esercizio."
 
 #: ../../calculations/hrv.rst:17
 msgid ""
 "HRV analysis can be done for HRV during exercise as well but values are "
 "less reliable and vary alot between different intensities."
 msgstr ""
+"L'analisi dell' HRV può essere fatta anche durante le attività, ma i valori "
+"sono meno affidabili e variano molto a seconda dell'intensità."
 
 #: ../../calculations/hrv.rst:20
 msgid "Please be cautious while interpreting your values."
-msgstr ""
+msgstr "Per favore interpretare con cautela i vostri dati."
 
 #: ../../calculations/hrv.rst:23
 msgid "HRV in Runalyze"
-msgstr ""
+msgstr "HRV in Runalyze"
 
 #: ../../calculations/hrv.rst:27
 msgid ""
@@ -210,4 +226,3 @@ msgstr ""
 #: ../../calculations/hrv.rst:80
 msgid "http://www.zhb.uni-luebeck.de/epubs/ediss1118.pdf"
 msgstr ""
-
