@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-17 01:09+0000\n"
+"Last-Translator: Renato Spinelli <renato.spinelli80@gmail.com>\n"
+"Language-Team: Italian <http://translate.runalyze.com/projects/runalyze-help/"
+"elevation/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/elevation.rst:3
 msgid "Elevation"
-msgstr ""
+msgstr "Dislivello"
 
 #: ../../calculations/elevation.rst:5
 msgid ""
@@ -29,20 +32,27 @@ msgid ""
 "calculation. Many people just don't know how elevation has to be handled "
 "and why there is no proper value."
 msgstr ""
+"Una delle più comuni domande a RUNALYZE riguarda il valore del dislivello. "
+"C'è una mancanza di chiarezza riguardo la correzione del dislivello e il "
+"relativo calcolo. Molte persone non capiscono come interpretarlo e capirne "
+"il valore corretto."
 
 #: ../../calculations/elevation.rst:8
 msgid "Elevation data and elevation correction"
-msgstr ""
+msgstr "Dati e correzione del dislivello"
 
 #: ../../calculations/elevation.rst:11
 msgid "Recording of activities"
-msgstr ""
+msgstr "Registrazione delle attività"
 
 #: ../../calculations/elevation.rst:12
 msgid ""
 "Let's start with the recording of an activity. Not only the position in "
 "terms of latitude/longitude but also the elevation is determined via GPS."
 msgstr ""
+"Cominciamo con la registrazione di un'attività. Non solo la posizione in "
+"termini di latitudine/longitudine, ma anche il dislivello è determinato via "
+"GPS."
 
 #: ../../calculations/elevation.rst:14
 msgid ""
@@ -51,6 +61,10 @@ msgid ""
 "variations are negligible. It doesn't matter if you're running 10 meters "
 "to the left or right of the way."
 msgstr ""
+"Questo sembra fantastico, ma non lo è: ogni possessore di un dispositivo GPS "
+"sa che la qualità del segnale GPS può essere molto variabile. Relativamente "
+"alla distanza totale, questa variabilità è irrilevante. Non importa se stai "
+"correndo 10 metri a destra o a sinistra rispetto la strada."
 
 #: ../../calculations/elevation.rst:16
 msgid ""
@@ -58,6 +72,9 @@ msgid ""
 "elevation it's a significant difference if you are running 10 meters "
 "higher or lower."
 msgstr ""
+"Ma la stessa variabilità si riscontra per la registrazione del dislivello - "
+"e per il dislivello c'è una differenza significativa se stai correndo 10 "
+"metri più in alto o più in basso."
 
 #: ../../calculations/elevation.rst:18
 msgid ""
@@ -65,16 +82,21 @@ msgid ""
 "correction is used by default. This applies to any platform like Garmin "
 "Connect, Polar Flow as well."
 msgstr ""
+"Ecco perché il dato di dislivello ottenuto via GPS non è utilizzabile e la "
+"correzione del dislivello è utilizzata di default. Ciò accade anche per "
+"qualsiasi altra  piattaforma come Garmin Connect e Polar flow."
 
 #: ../../calculations/elevation.rst:20
 msgid ""
 "Elevation data from a device should only be used if the device has a "
 "barometric altimeter included."
 msgstr ""
+"I  dati di dislivello da dispositivo dovrebbero essere utilizzati solo se il "
+"dispositivo ha un altimetro barometrico incorporato."
 
 #: ../../calculations/elevation.rst:23
 msgid "Elevation correction via satellite data"
-msgstr ""
+msgstr "Correzione del dislivello tramite dati satellitari"
 
 #: ../../calculations/elevation.rst:24
 msgid ""
@@ -82,6 +104,10 @@ msgid ""
 "altitude of every pair of coordinates is determined from some digital "
 "elevation model, in general an elevation profile of the global surface."
 msgstr ""
+"Il principio su cui si basa la correzione del dislivello è piuttosto "
+"semplice. Le rispettive altitudini di ogni paio di coordinate sono "
+"determinate da alcuni modelli di dislivello digitale, generalmente un "
+"profilo di dislivello dell'intera superficie terrestre."
 
 #: ../../calculations/elevation.rst:26
 msgid ""
@@ -90,14 +116,22 @@ msgid ""
 "resolution is not perfect and these datasets are noisy, but they are "
 "usually the best fit if there are no barometric measurements."
 msgstr ""
+"Un esempio di tali modelli sono i file SRTM (Shuttle Radar Topography "
+"Mission del 2000). Ci sono griglie liberamente accessibili di 90x90m. La "
+"risoluzione non è ottimale e questi modelli sono affetti da imprecisioni, ma "
+"generalmente sono la scelta migliore se non ci sono misure barometriche."
 
 #: ../../calculations/elevation.rst:28
+#, fuzzy
 msgid ""
 "This dataset can be accessed via public APIs of Geonames.org or "
 "GoogleMaps, but the number of requests is limited. At RUNALYZE we're "
 "hosting our own SRTM files nowadays to get an accurate elevation profile "
 "for your activity."
 msgstr ""
+"A questi modelli si può accedere tramite API di Geonames.org o GoogleMaps, "
+"ma il numero di richieste è limitato. A RUNALYZE gestiamo i nostri personali "
+"file SRTM per avere un'accurato profilo di dislivello delle vostre attività."
 
 #: ../../calculations/elevation.rst:30
 msgid ""
@@ -108,6 +142,13 @@ msgid ""
 "elevation profile (based on satellite data). This does not yield a "
 "single, \"true\" elevation value for your activity."
 msgstr ""
+"**Conclusioni:**Il miglior profilo di dislivello si ottiene tramite misure "
+"barometriche. Utenti con dispositivi che non includono un altimetro "
+"barometrico **dovrebbero sempre abilitare la correzione del dislivello**. ma "
+"ricorda: questa correzione del dislivello significa esclusivamente che "
+"correggiamo il profilo di dislivello (in base a dati satellitari). Ciò "
+"comporta che non ci sarà nessun \"vero\" valore di dislivello per la tua "
+"attività."
 
 #: ../../calculations/elevation.rst:33
 msgid "`<https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission>`_"
@@ -135,6 +176,9 @@ msgid ""
 "interested in their total elevation gain (sometimes just called "
 "\"elevation\" of an activity)."
 msgstr ""
+"Molti corridori non vogliono semplicemente vedere un buon profilo di "
+"dislivello. Vogliono vedere il loro dislivello totale cumulato (spesso "
+"chiamato semplicemente \"dislivello\" di un attività)."
 
 #: ../../calculations/elevation.rst:43
 msgid ""
@@ -243,4 +287,3 @@ msgid ""
 "algorithms. There's a table for the different algorithms and thresholds "
 "as well."
 msgstr ""
-
