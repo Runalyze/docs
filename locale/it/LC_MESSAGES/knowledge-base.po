@@ -4,27 +4,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-01 09:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-17 01:07+0000\n"
+"Last-Translator: Renato Spinelli <renato.spinelli80@gmail.com>\n"
+"Language-Team: Italian <http://translate.runalyze.com/projects/runalyze-help/"
+"knowledge-base/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../knowledge-base.rst:3
 msgid "Knowledge Base"
-msgstr ""
+msgstr "Informazioni di base"
 
 #: ../../knowledge-base.rst:6
 msgid "How can I delete my account?"
-msgstr ""
+msgstr "Come posso cancellare il mio account?"
 
 #: ../../knowledge-base.rst:7
 msgid ""
@@ -34,16 +37,24 @@ msgid ""
 "confirm the deletion of your account. All your data will be deleted "
 "immediately from our database."
 msgstr ""
+"Se vuoi eliminare il tuo account, apri il tuo menu, seleziona *Account* e "
+"clicca sul link per cancellare l'account. Riceverai immediatamente una mail "
+"di conferma e dovrai cliccare il link nella mail per confermare "
+"l'eliminazione. Tutti i tuoi dati saranno immediatamente cancellati dal "
+"nostro database."
 
 #: ../../knowledge-base.rst:11
 msgid ""
 "The data will be available in our database for maximal 30 days after your"
 " deletion. We cannot restore individual accounts."
 msgstr ""
+"I dati resteranno disponibili nel nostro database per un massimo di 30 "
+"giorni dopo la cancellazione. Non abbiamo la possibilità di ripristinare gli "
+"account individuali."
 
 #: ../../knowledge-base.rst:14
 msgid "Enable R-R recording on Garmin 910XT"
-msgstr ""
+msgstr "Abilitare la registrazione R-R su Garmin 910TX"
 
 #: ../../knowledge-base.rst:15
 msgid ""
@@ -51,10 +62,13 @@ msgid ""
 "times. You will enter the so-called *diagnostic menu*. Select and change "
 "HRV to enable HRV data recording."
 msgstr ""
+"Accendi il tuo dispositivo e accedi al *Menu*. Ora premi UP e DOWN per 10 "
+"volte. Entrerai in quello chè è chiamato *menù diagnostico*. Seleziona e "
+"cambia HRV per abilitare la registrazione dei dati di HRV."
 
 #: ../../knowledge-base.rst:18
 msgid "This does work for Garmin FR 620 as well."
-msgstr ""
+msgstr "Questo funziona anche con Garmin FR 620."
 
 #: ../../knowledge-base.rst:20
 msgid ""
@@ -62,10 +76,13 @@ msgid ""
 "own risk. (Anyway, we enabled HRV on our devices as well and did not "
 "experience any issues so far.)"
 msgstr ""
+"Non ci assumiamo alcuna responsabilità per evntuali problemi! Lo stai "
+"facendo consapevolmente a tuo rischio. (In ogni caso, i nostri dispositivi "
+"sui quali abbiamo abilitato HRV non hanno fino ad ora avuto alcun problema)."
 
 #: ../../knowledge-base.rst:25
 msgid "Enable R-R recording on Garmin 920XT/Fenix 3"
-msgstr ""
+msgstr "Abilita R-R recording su Garmin 920XT/Fenix 3"
 
 #: ../../knowledge-base.rst:26
 msgid ""
@@ -92,4 +109,3 @@ msgstr ""
 #~ "and change HRV to enable HRV data"
 #~ " recording."
 #~ msgstr ""
-
