@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-21 13:46+0000\n"
+"Last-Translator: Renato Spinelli <renato.spinelli80@gmail.com>\n"
+"Language-Team: Italian <http://translate.runalyze.com/projects/runalyze-help/"
+"races/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/races.rst:3
 msgid "Races"
-msgstr ""
+msgstr "Gare"
 
 #: ../../starting-guide/races.rst:5
 msgid ""
@@ -30,6 +33,12 @@ msgid ""
 "details such as the official distance and duration (which may differ from"
 " what you have stopped on your device) and your placements in the event."
 msgstr ""
+"ogni attività di qualsiasi sport può essere contrassegnata come *gara* "
+"semplicemente flaggando la rispettiva casella. le attività segnate in tale "
+"modo genereranno la nuova analisi *risultato gara*. Puoi aggiungere e "
+"modificare alcuni dei dettagli della gara come ad esempio la distanza "
+"ufficiale e la durata (che potrebbe differire rispetto a quando hai stoppato "
+"il tuo dispositivo) e il tuo piazzamento nella gara."
 
 #: ../../starting-guide/races.rst:14
 msgid ""
@@ -38,6 +47,10 @@ msgid ""
 "as *10.00 km*. This applies in particular for half-marathons (*21.10 km*)"
 " and marathons (*42.20 km*)."
 msgstr ""
+"Per favore assicurati di inserire esattamente le distanze più comuni. Il "
+"risultato sarà considerato come una gara di 10km se e solo se la distanza "
+"ufficiale inserita è *10.00 km*. Ciò si riferisce in particolare alle mezze "
+"maratone (*21.10 km*) e maratone (*42.20 km*)."
 
 #: ../../starting-guide/races.rst:20
 msgid ""
@@ -47,4 +60,8 @@ msgid ""
 "(as this activity type is not fixed and can be renamed or enitrely "
 "removed)."
 msgstr ""
-
+"Dalla versione 2.6 in poi, le gare sono indipendenti dal tipo di attivitò e "
+"di sport. Di default, RUNALYZE suggerisce un tipo di attività per le gare. "
+"Scegliere questo tipo per un'attività *non* la contrassegna automaticamente "
+"come gara ufficiale (infatti questo tipo di attività non è fisso e può "
+"essere rinominato o interamente rimosso)."
