@@ -9,40 +9,45 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2017-06-07 14:12+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
-"Language-Team: Italian <https://translate.runalyze.com/projects/runalyze-"
-"help/features/it/>\n"
+"PO-Revision-Date: 2018-10-08 03:34+0000\n"
+"Last-Translator: Renato Spinelli <renato.spinelli80@gmail.com>\n"
+"Language-Team: Italian <http://translate.runalyze.com/projects/runalyze-help/"
+"features/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../features.rst:2
 msgid "Features"
-msgstr ""
+msgstr "Funzioni"
 
 #: ../../features.rst:4
 msgid "Click on the green icons to see a screenshot of that feature"
-msgstr ""
+msgstr "Clicca sull'icona verde per vedere uno screenshot di questa funzione"
 
 #: ../../features.rst:10
 msgid "**Privacy**"
-msgstr ""
+msgstr "**Privacy**"
 
 #: ../../features.rst:11
 msgid "By default all your data is private and belongs to you."
-msgstr ""
+msgstr "Di default tutti i tuoi dati sono privati e appartengono a te."
 
 #: ../../features.rst:12
 msgid ""
 "But, if you want to, you can share single activities or an overview of "
 "all your activities."
 msgstr ""
+"Se lo desideri, puoi condividere singole attività o una panoramica di tutte "
+"le tue attività."
 
 #: ../../features.rst:19
 msgid "**No shared data**"
-msgstr ""
+msgstr "**Nessun dato condiviso**"
 
 #: ../../features.rst:20
 msgid ""
@@ -51,14 +56,18 @@ msgid ""
 "to improve the quality of our prognosis and calculations. But again: We "
 "are not interested in selling your data."
 msgstr ""
+"Non condividiamo o vendiamo i tuoi dati. per noi è molto importante "
+"proteggere i tuoi dati sensibili. Creiamo analisi interne anonime per "
+"migliorare la qualità dei nostri modelli e calcoli. Confermiamo:non ci "
+"interessa vendere i tuoi dati."
 
 #: ../../features.rst:24
 msgid "Analysis"
-msgstr ""
+msgstr "Analisi"
 
 #: ../../features.rst:30
 msgid "**TRIMP principle**"
-msgstr ""
+msgstr "**Funzionamento TRIMP*"
 
 #: ../../features.rst:31
 msgid ""
@@ -345,4 +354,3 @@ msgstr ""
 
 #~ msgid ""
 #~ msgstr ""
-
