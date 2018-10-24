@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: 2018-09-17 01:09+0000\n"
+"PO-Revision-Date: 2018-10-28 16:29+0000\n"
 "Last-Translator: Renato Spinelli <renato.spinelli80@gmail.com>\n"
 "Language-Team: Italian <http://translate.runalyze.com/projects/runalyze-help/"
 "elevation/it/>\n"
@@ -164,11 +164,11 @@ msgstr ""
 
 #: ../../calculations/elevation.rst:38
 msgid "The calculation of the elevation value (total ascent/descent)"
-msgstr ""
+msgstr "Il calcolo del valore di elevazione ( totale ascesa/discesa)"
 
 #: ../../calculations/elevation.rst:40
 msgid "The problem"
-msgstr ""
+msgstr "Il problema"
 
 #: ../../calculations/elevation.rst:41
 msgid ""
@@ -187,6 +187,10 @@ msgid ""
 "think that a fixed elevation profile generates a fixed elevation value, "
 "but that's not true."
 msgstr ""
+"Ma - e questo ti risulterà nuovo visto che devi leggere questa spiegazione - "
+"ottenere questo valore non è affatto semplice. Molte persone pensano che un "
+"dato profilo altimetrico generi un preciso valore di elevazione, ma questo "
+"non è vero."
 
 #: ../../calculations/elevation.rst:46
 msgid ""
@@ -195,6 +199,10 @@ msgid ""
 "altitude? Even if it's only 10cm of a sidewalk? And what's with small "
 "stones under your feet or potholes?"
 msgstr ""
+"Il problema è che non esiste un \"vero\" valore. prova a chiederti: come "
+"posso definire questo valore? Come somma di tutte le differenze di "
+"altitudine? Anche solo 10 cm di marciapiede? E anche per ogni pietra o "
+"fossetta sotto i tuoi piedi?"
 
 #: ../../calculations/elevation.rst:48
 msgid ""
@@ -203,24 +211,30 @@ msgid ""
 "elevation gain. But that's not possible for hilly terrains and urban "
 "areas."
 msgstr ""
+"tranquillo: non è quello che ti interessa. E' semplice calcolare "
+"l'elevazione di una corsa in costante salita: punto più alto - punto più "
+"basso = dislivello. ma questo non è possibile per terreni collinari e "
+"superfici urbane."
 
 #: ../../calculations/elevation.rst:51
 msgid "The solution: smoothing algorithms"
-msgstr ""
+msgstr "La soluzione: algoritmi di approssimazione"
 
 #: ../../calculations/elevation.rst:52
 msgid ""
 "Our workaround is to \"smooth\" the elevation profile (only for "
 "calculating total elevation). RUNALYZE currently supports three methods:"
 msgstr ""
+"La nostra soluzione è di approssimare il profilo altimetrico (solo per "
+"calcolare il dislivello totale). RUNALYZE attualmente utilizza 3 metodi:"
 
 #: ../../calculations/elevation.rst:54
 msgid "No smoothing"
-msgstr ""
+msgstr "Nessuna approssimazione"
 
 #: ../../calculations/elevation.rst:55
 msgid "Threshold method"
-msgstr ""
+msgstr "Metodo della soglia"
 
 #: ../../calculations/elevation.rst:56
 #, python-format
@@ -228,6 +242,8 @@ msgid ""
 "`Douglas-Peucker-Algorithm "
 "<https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm>`_"
 msgstr ""
+"`Douglas-Peucker-Algorithm <https://en.wikipedia.org/wiki/Ramer%E 12%80% "
+"293Douglas%E 32%80% 493Peucker_algorithm>`_"
 
 #: ../../calculations/elevation.rst:58
 msgid ""
