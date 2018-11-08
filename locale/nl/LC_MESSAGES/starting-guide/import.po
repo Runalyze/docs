@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2017-08-10 14:46+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
-"Language-Team: Dutch <https://translate.runalyze.com/projects/runalyze-"
-"help/import/nl/>\n"
+"PO-Revision-Date: 2018-11-11 01:04+0000\n"
+"Last-Translator: Ivo Nobel <ivo.nobel@gmail.com>\n"
+"Language-Team: Dutch <http://translate.runalyze.com/projects/runalyze-help/"
+"import/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/import.rst:3
@@ -39,7 +42,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:16
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 
 #: ../../starting-guide/import.rst:17
 msgid ""
@@ -112,7 +115,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:65
 msgid "Polar"
-msgstr ""
+msgstr "Polar"
 
 #: ../../starting-guide/import.rst:67
 msgid ""
@@ -538,7 +541,7 @@ msgstr ""
 
 #: ../../starting-guide/import.rst:282
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: ../../starting-guide/import.rst:284
 msgid "Cadence (spm/rpm)"
@@ -627,4 +630,3 @@ msgstr ""
 
 #~ msgid ""
 #~ msgstr ""
-
