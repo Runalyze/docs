@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-10 06:50+0000\n"
+"Last-Translator: Ivo Nobel <ivo.nobel@gmail.com>\n"
+"Language-Team: Dutch <http://translate.runalyze.com/projects/runalyze-help/"
+"faq/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../faq.rst:3
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Veel gestelde vragen"
 
 #: ../../faq.rst:5
 msgid ""
@@ -30,12 +33,20 @@ msgid ""
 "is the best place to discuss ideas and future features with other users "
 "and developers."
 msgstr ""
+"Als je een concreet idee hebt voor een nieuwe functie, aarzel dan niet om je "
+"idee in te dienen en te bespreken op ons `Forum <https://forum.runalyze.com>`"
+" _ of op `GitHub <https://github.com/Runalyze/Runalyze/issues/new> `_. Dit "
+"is de beste plaats om ideeën en toekomstige functies met andere gebruikers "
+"en ontwikkelaars te bespreken."
 
 #: ../../faq.rst:8
 msgid ""
 "Please keep in mind that RUNALYZE is an open source project, at present "
 "based mainly on two developers offering their free time for this tool."
 msgstr ""
+"Houd er rekening mee dat RUNALYZE een open source project is, momenteel "
+"voornamelijk gebaseerd op twee ontwikkelaars die in hun vrije tijd aan deze "
+"tool werken."
 
 #: ../../faq.rst:10
 msgid ""
@@ -43,14 +54,17 @@ msgid ""
 "(development, design, communication, pr, docs, ...) to speed up "
 "development."
 msgstr ""
+"Geërgerd door woorden als *binnenkort* en *waarschijnlijk*? Kom ons team "
+"versterken (ontwikkeling, ontwerp, communicatie, pr, documentatie, ...) om "
+"de ontwikkeling te versnellen."
 
 #: ../../faq.rst:16
 msgid "General questions"
-msgstr ""
+msgstr "Algemene vragen"
 
 #: ../../faq.rst:19
 msgid "Will there be a synchronisation with other platforms?"
-msgstr ""
+msgstr "Komt er synchronisatie met andere platforms?"
 
 #: ../../faq.rst:20
 msgid ""
@@ -60,26 +74,35 @@ msgid ""
 "getting closer to this feature. Current schedule for this feature is in "
 "late 2017."
 msgstr ""
+"Ja absoluut! Onze eerste zorg is het ontwikkelen van een API om te werken "
+"met `tapiriik <https://tapiriik.com/>` _. Toch wachten er enkele maanden "
+"werk totdat dit te realiseren is. Met elke nieuwe release komen we dichter "
+"bij deze functie. De huidige planning voor deze functie is eind 2018."
 
 #: ../../faq.rst:24
 msgid "Will there be an app for smartphones?"
-msgstr ""
+msgstr "Komt er een app voor smartphones?"
 
 #: ../../faq.rst:25
 msgid ""
 "Some day, probably. So far, this is not a high priority as there are many"
 " other areas requiring our full attention."
 msgstr ""
+"Op een dag waarschijnlijk. Tot dusverre heeft dit geen hoge prioriteit, "
+"omdat er veel andere gebieden zijn die onze volledige aandacht vereisen."
 
 #: ../../faq.rst:28
 msgid "Can I publish my running diary?"
-msgstr ""
+msgstr "Kan ik mijn hardloop dagboek publiceren?"
 
 #: ../../faq.rst:29
 msgid ""
 "Fundamentally, RUNALYZE is in the moment not designed to be an athletes "
 "community. Our main focus is on analyzing your training."
 msgstr ""
+"Fundamenteel is RUNALYZE momenteel niet ontworpen als een "
+"atletengemeenschap. Onze belangrijkste focus ligt op het analyseren van uw "
+"training."
 
 #: ../../faq.rst:32
 msgid ""
@@ -89,6 +112,11 @@ msgid ""
 "Furthermore, you can export any activity as html snippet or iframe and "
 "share them on twitter/facebook/google+."
 msgstr ""
+"Hoe dan ook, je kunt afzonderlijke activiteiten als openbaar markeren en "
+"deze delen door een openbare URL te publiceren of je volledige "
+"activiteitenlijst te publiceren. Bekijk je privacy-configuratie voor "
+"gedetailleerde informatie. Verder kun je elke activiteit als html-fragment "
+"of iframe exporteren en delen op twitter / facebook / google +."
 
 #: ../../faq.rst:37
 msgid "What are calculations and prognoses?"
@@ -274,4 +302,3 @@ msgstr ""
 #~ "rely on them and listen to your"
 #~ " body."
 #~ msgstr ""
-
