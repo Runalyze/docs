@@ -4,23 +4,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-08 11:04+0000\n"
+"Last-Translator: Ivo Nobel <ivo.nobel@gmail.com>\n"
+"Language-Team: Dutch <http://translate.runalyze.com/projects/runalyze-help/"
+"races/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../starting-guide/races.rst:3
 msgid "Races"
-msgstr ""
+msgstr "Wedstrijden"
 
 #: ../../starting-guide/races.rst:5
 msgid ""
@@ -30,6 +33,13 @@ msgid ""
 "details such as the official distance and duration (which may differ from"
 " what you have stopped on your device) and your placements in the event."
 msgstr ""
+"Elke activiteit van iedere sport kan worden gemarkeerd als *wedstrijd* door "
+"eenvoudigweg het betreffende selectievakje aan te vinken. Activiteiten "
+"gemarkeerd als wedstrijd zullen een nieuw item genereren als "
+"*wedstrijdresultaat*. Je kunt een deel van de details van de "
+"wedstrijdresultaten toevoegen en bewerken, zoals de officiële afstand en "
+"duur (die kan verschillen van wanneer je bent gestopt volgens je apparaat) "
+"en je plaatsingen in het evenement."
 
 #: ../../starting-guide/races.rst:14
 msgid ""
@@ -38,6 +48,10 @@ msgid ""
 "as *10.00 km*. This applies in particular for half-marathons (*21.10 km*)"
 " and marathons (*42.20 km*)."
 msgstr ""
+"Zorg ervoor dat u de standaard afstanden precies invoert. Het resultaat "
+"wordt behandeld als 10k wedstrijd als, en alleen, als de officiële afstand "
+"wordt ingevoerd als *10,00 km*. Dit geldt in het bijzonder voor halve "
+"marathons (*21,10 km*) en marathons (*42,20 km*)."
 
 #: ../../starting-guide/races.rst:20
 msgid ""
@@ -47,4 +61,9 @@ msgid ""
 "(as this activity type is not fixed and can be renamed or enitrely "
 "removed)."
 msgstr ""
-
+"Vanaf v2.6 zijn wedstrijden onafhankelijk van het type activiteit en het "
+"type sport. RUNALYZE wordt standaard geleverd met een activiteitstype voor "
+"wedstrijden. Als je dit type voor een activiteit kiest, wordt dit *niet* "
+"niet automatisch als officiële wedstrijd gemarkeerd (omdat dit "
+"activiteitstype niet vast is en kan worden hernoemd of definitief kan worden "
+"verwijderd)."
