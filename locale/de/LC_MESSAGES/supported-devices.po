@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2016-12-31 10:39+0000\n"
-"Last-Translator: Michael Pohl <michael@mipapo.de>\n"
-"Language-Team: German <https://translate.runalyze.com/projects/runalyze-"
-"help/supported-devices/de/>\n"
+"PO-Revision-Date: 2018-11-12 08:52+0000\n"
+"Last-Translator: Philipp Aigner <philipp-aigner@gmx.at>\n"
+"Language-Team: German <http://translate.runalyze.com/projects/runalyze-help/"
+"supported-devices/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../supported-devices.rst:3
@@ -105,9 +108,8 @@ msgid "Garmin"
 msgstr "Garmin"
 
 #: ../../supported-devices.rst:25
-#, fuzzy
 msgid "Fenix 5 `(Buy*) <http://amzn.to/2oFGjOQ>`__"
-msgstr "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
+msgstr "Fenix 5 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
 
 #: ../../supported-devices.rst:25 ../../supported-devices.rst:143
 msgid "\\*.fit"
@@ -126,22 +128,20 @@ msgid "[UM]_ , [GC]_"
 msgstr "[UM]_ , [GC]_"
 
 #: ../../supported-devices.rst:27
-#, fuzzy
 msgid "Fenix 3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
-msgstr "Fenix 1/2/3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
+msgstr "Fenix 3 `(Buy*) <http://amzn.to/1Q0Fhba>`__"
 
 #: ../../supported-devices.rst:29
 msgid "Fenix 1/2"
-msgstr ""
+msgstr "Fenix 1/2"
 
 #: ../../supported-devices.rst:31
 msgid "GPS Forerunner 735XT `(Buy*) <http://amzn.to/29vOfNp>`__"
 msgstr "GPS Forerunner 735XT `(Buy*) <http://amzn.to/29vOfNp>`__"
 
 #: ../../supported-devices.rst:33
-#, fuzzy
 msgid "GPS Forerunner 935XT `(Buy*) <http://amzn.to/2oFHQVc>`__"
-msgstr "GPS Forerunner 735XT `(Buy*) <http://amzn.to/29vOfNp>`__"
+msgstr "GPS Forerunner 935XT `(Buy*) <http://amzn.to/2oFHQVc>`__"
 
 #: ../../supported-devices.rst:35
 msgid "GPS Forerunner 920XT `(Buy*) <http://amzn.to/1Q0EBCz>`__"
@@ -276,14 +276,12 @@ msgid "M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`__"
 msgstr "M400 `(Buy*) <http://amzn.to/1Q0Fnj6>`__"
 
 #: ../../supported-devices.rst:89
-#, fuzzy
 msgid "M600 `(Buy*) <http://amzn.to/2oFSI57>`__"
-msgstr "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
+msgstr "M600 `(Buy*) <http://amzn.to/2oFSI57>`__"
 
 #: ../../supported-devices.rst:91
-#, fuzzy
 msgid "M200 `(Buy*) <http://amzn.to/2oFL0rI>`__"
-msgstr "V800 `(Buy*) <http://amzn.to/1No5mKK>`__"
+msgstr "M200 `(Buy*) <http://amzn.to/2oFL0rI>`__"
 
 #: ../../supported-devices.rst:93
 msgid "RS300X"
@@ -320,9 +318,8 @@ msgid "TomTom Runner 2 (Cardio) `(Buy*) <http://amzn.to/1No5tG7>`__"
 msgstr "TomTom Runner 2 (Cardio) `(Buy*) <http://amzn.to/1No5tG7>`__"
 
 #: ../../supported-devices.rst:103
-#, fuzzy
 msgid "TomTom Runner 3 (Cardio) `(Buy*) <http://amzn.to/2oFRkzJ>`__"
-msgstr "TomTom Runner 2 (Cardio) `(Buy*) <http://amzn.to/1No5tG7>`__"
+msgstr "TomTom Runner 3 (Cardio) `(Buy*) <http://amzn.to/2oFRkzJ>`__"
 
 #: ../../supported-devices.rst:105
 msgid "TomTom Spark Cardio `(Buy*) <http://amzn.to/1RU19WD>`__"
@@ -410,19 +407,16 @@ msgid "Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__"
 msgstr "Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__"
 
 #: ../../supported-devices.rst:123
-#, fuzzy
 msgid "\\*.sml, \\*.fit"
-msgstr "\\*.gpx, \\*.tcx"
+msgstr "\\*.sml, \\*.fit"
 
 #: ../../supported-devices.rst:125
-#, fuzzy
 msgid "Ambit Spartan Ultra  `(Buy*) <http://amzn.to/2nGIXpX>`__"
-msgstr "Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__"
+msgstr "Ambit Spartan Ultra  `(Buy*) <http://amzn.to/2nGIXpX>`__"
 
 #: ../../supported-devices.rst:127
-#, fuzzy
 msgid "Ambit Ambit 3 Peak `(Buy*) <http://amzn.to/2oFTHT5 >`__"
-msgstr "Ambit 3 `(Buy*) <http://amzn.to/1IFatFc>`__"
+msgstr "Ambit Ambit 3 Peak `(Buy*) <http://amzn.to/2oFTHT5 >`__"
 
 #: ../../supported-devices.rst:129
 msgid "Ambit 2R"
@@ -489,4 +483,3 @@ msgstr "\\*.csv"
 
 #~ msgid "\\*.sml"
 #~ msgstr "\\*.sml"
-
