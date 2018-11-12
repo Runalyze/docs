@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - User documentation 2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2018-11-12 08:40+0000\n"
+"PO-Revision-Date: 2018-12-12 03:33+0000\n"
 "Last-Translator: Philipp Aigner <philipp-aigner@gmx.at>\n"
 "Language-Team: German <http://translate.runalyze.com/projects/runalyze-help/"
 "faq/de/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../faq.rst:3
@@ -153,12 +153,13 @@ msgid ""
 "remove them without further notice. Still, it's difficult or even "
 "impossible to exactly match your device's total duration."
 msgstr ""
-"Die meisten Trainingsdateitypen kennzeichnen keine Pausen. Gerade TCX- "
-"und GPX-Dateien enthalten keine Informationen, wann du deine Uhr gestoppt"
-" hast, bspw. an Ampeln oder wenn du die \"Auto Pause\" Funktion deiner "
-"Uhr nutzt. RUNALYZE unterstützt die automatische Erkennung solcher Pausen"
-" und entfernt diese. Trotzdem ist es schwer bzw. fast unmöglich mit "
-"dieser Erkennung die genaue Trainingsdauer zu bestimmen."
+"Die meisten Trainingsdateitypen beinhalten keine Informationen zu Pausen. "
+"Gerade TCX- und GPX-Dateien enthalten keine Informationen, wann du deine Uhr "
+"gestoppt hast, z.B. an Ampeln oder wenn du die \"Auto Pause\" Funktion "
+"deiner Uhr nutzt. RUNALYZE unterstützt die automatische Erkennung solcher "
+"Pausen und entfernt diese ohne weitere Benachrichtigung. Trotzdem ist es "
+"schwer bzw. fast unmöglich mit dieser Erkennung die genaue Trainingsdauer zu "
+"bestimmen."
 
 #: ../../faq.rst:49
 msgid ""
@@ -171,8 +172,8 @@ msgstr ""
 "Du kannst die automatische Erkennung von Pausen in der Konfiguration "
 "aktivieren/deaktivieren. Zudem haben wir noch `ein offenes Ticket "
 "<https://github.com/Runalyze/Runalyze/issues/913>`_ für eine flexiblere "
-"Lösung mit einem frei definierbaren Schwellenwert. Füge ein \"+1\"/Daumen"
-" hoch bei dem Ticket hinzu, wenn du dir diese Funktion wünscht."
+"Lösung mit einem frei definierbaren Schwellenwert. Füge ein \"+1\" (Daumen "
+"hoch) bei dem Ticket auf GitHub hinzu, wenn du dir diese Funktion wünscht."
 
 #: ../../faq.rst:54
 msgid "Runalyze says that there are not enough results for good predictions"
@@ -195,8 +196,8 @@ msgid ""
 "You can edit your maximum heart rate in the \"Body values\" panel. You "
 "may need to activate that panel (Configuration -> Panels)"
 msgstr ""
-"Du kannst deine maximale Herzfrequenz bei den \"Körperdaten\" Panel "
-"ändern. Das Panel muss ggf. aktiviert werden (Konfiguration -> Panels)"
+"Du kannst deine maximale Herzfrequenz im Panel \"Körperdaten\" ändern. Das "
+"Panel muss ggf. aktiviert werden (Konfiguration -> Panels)"
 
 #: ../../faq.rst:62
 msgid "Is there an impact when I change the sport relevance?"
@@ -224,19 +225,18 @@ msgid ""
 "everything has been translated when we roll out a new version. :doc:`You "
 "can help us! <translation>`."
 msgstr ""
-"Die Übersetzung wird von unseren Nutzern gepflegt und wir können nicht "
+"Die Übersetzungen wird von unseren Nutzern gepflegt und wir können nicht "
 "garantieren, dass alles übersetzt wurde, wenn wir eine neue Version "
 "ausrollen. :doc:`Du kannst helfen! <translation>`."
 
 #: ../../faq.rst:70
 msgid "File import"
-msgstr "Dateimport"
+msgstr "Datei Import"
 
 #: ../../faq.rst:73
 msgid "The file import seems buggy? Incorrect values?"
 msgstr ""
-"Die hochgeladene Trainingsdatei scheint defekt zu sein? Es werden falsche"
-" Werte ausgegeben?"
+"Der Datenimport scheint fehlerhaft zu sein? Werden falsche Werte ausgegeben?"
 
 #: ../../faq.rst:74
 msgid ""
@@ -258,8 +258,8 @@ msgid ""
 "Just send us an email with some sample files and we'll have a look at "
 "this."
 msgstr ""
-"Sende uns einfach eine Mail mit Beispieldateien zu und wir werden sie uns"
-" anschauen."
+"Sende uns einfach eine Mail mit ein paar Beispieldateien und wir werden sie "
+"uns anschauen."
 
 #: ../../faq.rst:83
 msgid "Negative time step at index x"
@@ -281,7 +281,7 @@ msgstr "Aktivitäten"
 
 #: ../../faq.rst:90
 msgid "Power graph/Power data seems to be wrong"
-msgstr "Wattkurve/Wattdaten scheinen falsch zu sein"
+msgstr "Leistungskurve/ Leistungsdaten scheinen falsch zu sein"
 
 #: ../../faq.rst:91
 msgid ""
@@ -292,8 +292,8 @@ msgid ""
 msgstr ""
 "Dies mag ein wenig verwirrend klingen und wir werden dieses Verhalten in "
 "einer späteren Version auch abändern. Wenn du die Leistungsdaten einer Datei "
-"importierst solltest du die manuelle Leistungsberechnung in deiner "
-"Konfiguration (Eingabeformular -> Leistung berechnen)"
+"importierst, solltest du die manuelle Leistungsberechnung in deiner "
+"Konfiguration deaktivieren (Eingabeformular -> Leistung berechnen)"
 
 #: ../../faq.rst:94
 msgid "My activity does not show up in my race results"
