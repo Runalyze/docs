@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-18 14:05+0100\n"
-"PO-Revision-Date: 2017-06-04 17:15+0000\n"
-"Last-Translator: Galdarion <galdarion@hotmail.com>\n"
-"Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
-"help/support/fr/>\n"
+"PO-Revision-Date: 2018-12-17 23:51+0000\n"
+"Last-Translator: Fred <fred12100@gmail.com>\n"
+"Language-Team: French <http://translate.runalyze.com/projects/runalyze-help/"
+"support/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../support.rst:2
@@ -41,18 +41,25 @@ msgid ""
 "English or German. That's the best place to reach someone who can help "
 "you."
 msgstr ""
+"`Forum <https://forum.runalyze.com/>`_: Vous pouvez poster votre question en "
+"Anglais ou Allemand. C'est le meilleur endroit pour trouver une réponse à "
+"vos questions."
 
 #: ../../support.rst:7
 msgid ""
 "`Google+ <https://plus.google.com/communities/116260192529858591171>`_: "
 "Post your question in our Google+ community."
 msgstr ""
+"`Google+ <https://plus.google.com/communities/116260192529858591171>`_: "
+"Posez votre question sur notre communauté Google+ ."
 
 #: ../../support.rst:8
 msgid ""
 "`Facebook <https://www.facebook.com/Runalyze>`_: Post on your question on"
 " our Facebook page or write a private message to us."
 msgstr ""
+"`Facebook <https://www.facebook.com/Runalyze>`_: Posez votre question sur "
+"notre page Facebook page ou écrivez-nous un message privé."
 
 #: ../../support.rst:12
 msgid "How to report a problem"
@@ -64,22 +71,28 @@ msgid ""
 " a problem. Inaccurate and unprecise support requests waste a lot of our "
 "time - time, that we'd love to put in the development instead."
 msgstr ""
+"Merci de vérifier toutes les informations que vous nous données quand vous "
+"nous reportez un problème. Des demandes imprécises nous font perdre un temps "
+"précieux, temps que nous aimerions consacrer au développement de Runalyse."
 
 #: ../../support.rst:19
 msgid "**Before you report a problem**"
-msgstr ""
+msgstr "**Avant de reporter un problème**"
 
 #: ../../support.rst:18
 msgid ""
 "Make sure that you've checked our `help page "
 "<https://help.runalyze.com>`_!"
 msgstr ""
+"Assurez-vous d'avoir regardé notre `help page <https://help.runalyze.com>`_ !"
 
 #: ../../support.rst:19
 msgid ""
 "Make sure that you've checked our `forum <https://forum.runalyze.com>`_ "
 "and googled before asking!"
 msgstr ""
+"Assurez vous d'avoir regardé sur notre `forum <https://forum.runalyze.com>`"
+"_  et cherché sur google avant de demander !"
 
 #: ../../support.rst:31
 msgid "**Provide all possible information**"
@@ -103,39 +116,47 @@ msgstr ""
 
 #: ../../support.rst:25
 msgid "Add a screenshot if you think it might help us"
-msgstr ""
+msgstr "Ajoutez une copie d'écran si vous pensez que cela peut nous aider"
 
 #: ../../support.rst:26
 msgid "In case of problems with an activity file: Add that file to your report!"
 msgstr ""
+"En cas de problème avec une fichier d'activité : Ajouter ce fichier dans "
+"votre report !"
 
 #: ../../support.rst:27
 msgid "Tell us which device or app you are using"
-msgstr ""
+msgstr "Indiquez nous quel appareil ou applications vous utilisez"
 
 #: ../../support.rst:28
 msgid "Tell us your device's firmware if known"
-msgstr ""
+msgstr "Indiquez nous la version du microprogramme si vous la connaissez"
 
 #: ../../support.rst:31
 msgid "Use the `forum <https://forum.runalyze.com>`_ to report your problem!"
 msgstr ""
+"Utilisez le `forum <https://forum.runalyze.com>`_ pour reporter votre "
+"problème !"
 
 #: ../../support.rst:34
 msgid "Report a bug"
-msgstr ""
+msgstr "Reporter un problème"
 
 #: ../../support.rst:35
 msgid ""
 "`Forum <https://forum.runalyze.com>`_: Questions are public to everyone, "
 "so that everyone can see the answer"
 msgstr ""
+"`Forum <https://forum.runalyze.com>`_ : Les questions sont publiques aussi, "
+"tout le monde pourra voir la réponse"
 
 #: ../../support.rst:36
 msgid ""
 "`Github <https://github.com/Runalyze/Runalyze/issues/new>`_: Create a new"
 " issue at GitHub if think you discovered a bug."
 msgstr ""
+"`Github <https://github.com/Runalyze/Runalyze/issues/new>`_: Créez une "
+"nouvelle question sur GitHub si vous pensez avoir découvert un problème."
 
 #: ../../support.rst:37
 msgid ""
@@ -143,3 +164,7 @@ msgid ""
 "with automatic integration to our Slack channel - just send an email if "
 "you want to share something with us privately."
 msgstr ""
+"`mail@runalyze.com <mailto:mail@runalyze.com>`_: Nous utilisons un systemè "
+"de ticket avec intégration automatique à notre canal Slack - Envoyez-nous "
+"juste un mail si vous souhaitez partager quelque chose de privé avec nous "
+"seulement."
