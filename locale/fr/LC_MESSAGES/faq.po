@@ -9,13 +9,16 @@ msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-02 18:08+0200\n"
-"PO-Revision-Date: 2017-07-25 19:12+0000\n"
-"Last-Translator: nicolas ghysbrecht <kosnik@kanet.xyz>\n"
-"Language-Team: French <https://translate.runalyze.com/projects/runalyze-"
-"help/faq/fr/>\n"
+"PO-Revision-Date: 2018-12-23 22:17+0000\n"
+"Last-Translator: Fred <fred12100@gmail.com>\n"
+"Language-Team: French <http://translate.runalyze.com/projects/runalyze-help/"
+"faq/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../faq.rst:3
@@ -30,15 +33,19 @@ msgid ""
 "is the best place to discuss ideas and future features with other users "
 "and developers."
 msgstr ""
+"Si vous avez des idées de nouvelles fonctionnalités, n'hésitez pas à les "
+"soumettre sur notre forum :  `Forum <https://forum.runalyze.com>`_ ou sur `"
+"GitHub <https://github.com/Runalyze/Runalyze/issues/new>`_. C'est le "
+"meilleur endroit pour discuter et débattre des futures améliorations avec "
+"d'autres utilisateurs ou développeurs."
 
 #: ../../faq.rst:8
 msgid ""
 "Please keep in mind that RUNALYZE is an open source project, at present "
 "based mainly on two developers offering their free time for this tool."
 msgstr ""
-"Gardez à l'esprit que RUNALYZE est un projet open-source, actuellement le"
-" développement est réalisé sur le temps-libre de 2 développeur "
-"principale."
+"Gardez à l'esprit que RUNALYZE est un projet open-source, actuellement le "
+"développement est réalisé sur le temps-libre de 2 principaux développeurs."
 
 #: ../../faq.rst:10
 msgid ""
@@ -46,17 +53,17 @@ msgid ""
 "(development, design, communication, pr, docs, ...) to speed up "
 "development."
 msgstr ""
-"Irrité par des phrases du genre *un jours* et *probablement*? Rejoignez "
-"notre équipe (développement, design, communication, pr, doc, ...) pour "
-"accélérer le développement."
+"Irrité par des phrases du genre *un jour* et *probablement*? Rejoignez notre "
+"équipe (développement, design, communication, pr, doc, ...) pour accélérer "
+"le développement."
 
 #: ../../faq.rst:16
 msgid "General questions"
-msgstr ""
+msgstr "Questions d'ordre général"
 
 #: ../../faq.rst:19
 msgid "Will there be a synchronisation with other platforms?"
-msgstr ""
+msgstr "Est-ce qu'il sera possible de synchroniser avec d'autres plateformes ?"
 
 #: ../../faq.rst:20
 msgid ""
@@ -66,26 +73,34 @@ msgid ""
 "getting closer to this feature. Current schedule for this feature is in "
 "late 2017."
 msgstr ""
+"Oui, la première chose est de créer une API travaillant avec `tapiriik "
+"<https://tapiriik.com/>`_. Plusieurs mois de travail sont nécessaires avant "
+"la réalisation. Avec chaque nouvelle mise à jour, nous nous rapprochons du "
+"but. Cela devra être effectif au plus tard en 2017."
 
 #: ../../faq.rst:24
 msgid "Will there be an app for smartphones?"
-msgstr ""
+msgstr "Est qu'il existe une application pour smartphone ?"
 
 #: ../../faq.rst:25
 msgid ""
 "Some day, probably. So far, this is not a high priority as there are many"
 " other areas requiring our full attention."
 msgstr ""
+"Probablement, Oui. Cependant, ce n'est pas une de nos priorités vu que nous "
+"avons d'autres axes de travail qui requièrent toute notre attention."
 
 #: ../../faq.rst:28
 msgid "Can I publish my running diary?"
-msgstr ""
+msgstr "Puis-je publier mon journal de course ?"
 
 #: ../../faq.rst:29
 msgid ""
 "Fundamentally, RUNALYZE is in the moment not designed to be an athletes "
 "community. Our main focus is on analyzing your training."
 msgstr ""
+"RUNALYSE n'a pas la prétention d'être une communauté d'athlètes. Notre "
+"principal objectif réside dans l'analyse de votre entraînement."
 
 #: ../../faq.rst:32
 msgid ""
@@ -95,10 +110,16 @@ msgid ""
 "Furthermore, you can export any activity as html snippet or iframe and "
 "share them on twitter/facebook/google+."
 msgstr ""
+"Vous avez la possibilité de définir certaines activités comme publiques et "
+"les partager en publiant l'URL ou publier l'ensemble de vos activités. "
+"Vérifiez votre configuration de données publiques - privées pour plus "
+"d'informations. En outre, vous pouvez exporter chaque activité avec un code "
+"HTML ou inclus dans un cadre permettant l'intégration sur twitter/facebook/"
+"google+."
 
 #: ../../faq.rst:37
 msgid "What are calculations and prognoses?"
-msgstr ""
+msgstr "Que sont les calculs et pronostics ?"
 
 #: ../../faq.rst:38
 msgid ""
@@ -136,14 +157,15 @@ msgstr ""
 #: ../../faq.rst:54
 msgid "Runalyze says that there are not enough results for good predictions"
 msgstr ""
+"Runalyse affiche qu'il n'y a pas assez de résultats pour une bonne analyse"
 
 #: ../../faq.rst:55
 msgid "To get good predictions you need to have at least one race."
-msgstr ""
+msgstr "Pour une bonne analyse, vous devez avoir au moins une course."
 
 #: ../../faq.rst:58
 msgid "Where can I change my maximum heart rate?"
-msgstr ""
+msgstr "Où puis-je changer ma fréquence cardiaque maximale (FCMax) ?"
 
 #: ../../faq.rst:59
 msgid ""
@@ -165,7 +187,7 @@ msgstr ""
 
 #: ../../faq.rst:66
 msgid "The translation is missing"
-msgstr ""
+msgstr "La traduction est manquante"
 
 #: ../../faq.rst:67
 msgid ""
@@ -173,10 +195,13 @@ msgid ""
 "everything has been translated when we roll out a new version. :doc:`You "
 "can help us! <translation>`."
 msgstr ""
+"Les traductions sont effectuées par nos utilisateurs et nous ne pouvons "
+"garantir que tout soit traduit correctement quand nous mettons en ligne une "
+"nouvelle version. :doc:`You can help us! <translation>`."
 
 #: ../../faq.rst:70
 msgid "File import"
-msgstr ""
+msgstr "Importer un fichier"
 
 #: ../../faq.rst:73
 msgid "The file import seems buggy? Incorrect values?"
@@ -188,19 +213,21 @@ msgid ""
 " your expected results. We'll have a look at your issue and will try to "
 "fix it."
 msgstr ""
+"Envoyez nous un mail avec votre fichier ainsi qu'une description détaillée "
+"des problèmes rencontrés. Nous vérifierons le problème et nous essayerons de "
+"trouver une solution."
 
 #: ../../faq.rst:79
 msgid "The file type \\*.XYZ is not supported"
 msgstr "Le type de fichier \\*.XYZ n'est pas supporté"
 
 #: ../../faq.rst:80
-#, fuzzy
 msgid ""
 "Just send us an email with some sample files and we'll have a look at "
 "this."
 msgstr ""
 "Envoyez nous un simple mail avec un fichier d'exemple, afin que nous "
-"puisions l'examiner."
+"puissions l'examiner."
 
 #: ../../faq.rst:83
 msgid "Negative time step at index x"
@@ -212,14 +239,17 @@ msgid ""
 "case they contain negative time jumps, which we cannot process in the "
 "moment."
 msgstr ""
+"Il y a quelques applications et matériels qui fournissent des fichiers "
+"corrompus. Dans certains cas, ils contiennent des horaires négatifs, qui ne "
+"peuvent pas être traités."
 
 #: ../../faq.rst:87
 msgid "Activities"
-msgstr ""
+msgstr "Activités"
 
 #: ../../faq.rst:90
 msgid "Power graph/Power data seems to be wrong"
-msgstr ""
+msgstr "Graphique de puissance/Données de puissance semblent être incohérentes"
 
 #: ../../faq.rst:91
 msgid ""
@@ -231,7 +261,7 @@ msgstr ""
 
 #: ../../faq.rst:94
 msgid "My activity does not show up in my race results"
-msgstr ""
+msgstr "Mon activité n'est pas visible dans mes résultats de course"
 
 #: ../../faq.rst:95
 msgid ""
@@ -283,4 +313,3 @@ msgstr ""
 #~ "rely on them and listen to your"
 #~ " body."
 #~ msgstr ""
-
