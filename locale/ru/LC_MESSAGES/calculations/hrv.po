@@ -4,27 +4,31 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RUNALYZE - help 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-26 14:18+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-04 05:33+0000\n"
+"Last-Translator: Pavel Vasilyev <dixlor@gmail.com>\n"
+"Language-Team: Russian <http://translate.runalyze.com/projects/runalyze-help/"
+"hrv/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../calculations/hrv.rst:3
 msgid "HRV"
-msgstr ""
+msgstr "ВСР"
 
 #: ../../calculations/hrv.rst:6
 msgid "Heart rate variability"
-msgstr ""
+msgstr "Вариабельность сердечного ритма"
 
 #: ../../calculations/hrv.rst:7
 msgid ""
@@ -60,7 +64,7 @@ msgstr ""
 
 #: ../../calculations/hrv.rst:23
 msgid "HRV in Runalyze"
-msgstr ""
+msgstr "ВСР в Runalyze"
 
 #: ../../calculations/hrv.rst:27
 msgid ""
@@ -90,7 +94,7 @@ msgstr ""
 
 #: ../../calculations/hrv.rst:40
 msgid "avg. R-R interval"
-msgstr ""
+msgstr "сред. R-R интервал"
 
 #: ../../calculations/hrv.rst:41
 msgid "average R-R interval, directly related to average heart rate"
@@ -98,7 +102,7 @@ msgstr ""
 
 #: ../../calculations/hrv.rst:42
 msgid "RMSSD"
-msgstr ""
+msgstr "RMSSD"
 
 #: ../../calculations/hrv.rst:43
 msgid "root mean square of successive differences"
@@ -106,31 +110,31 @@ msgstr ""
 
 #: ../../calculations/hrv.rst:44
 msgid "lnRMSSD"
-msgstr ""
+msgstr "lnRMSSD"
 
 #: ../../calculations/hrv.rst:45
 msgid "natural logarithm of *RMSSD*"
-msgstr ""
+msgstr "натуральный логарифм из RMSSD"
 
 #: ../../calculations/hrv.rst:46
 msgid "SDNN"
-msgstr ""
+msgstr "SDNN"
 
 #: ../../calculations/hrv.rst:47
 msgid "standard deviation of R-R intervals"
-msgstr ""
+msgstr "стандартное отклонение интервалов RR"
 
 #: ../../calculations/hrv.rst:48
 msgid "5 min-SDANN"
-msgstr ""
+msgstr "5-мин. SDANN"
 
 #: ../../calculations/hrv.rst:49
 msgid "standard deviation of the average R-R intervals calculated over 5 minutes"
-msgstr ""
+msgstr "стандартное отклонение средних интервалов R-R, за 5 минут"
 
 #: ../../calculations/hrv.rst:50
 msgid "pNN50"
-msgstr ""
+msgstr "pNN50"
 
 #: ../../calculations/hrv.rst:51
 msgid "proportion of successive R-R intervals that differ by more than 50 ms"
@@ -210,4 +214,3 @@ msgstr ""
 #: ../../calculations/hrv.rst:80
 msgid "http://www.zhb.uni-luebeck.de/epubs/ediss1118.pdf"
 msgstr ""
-
